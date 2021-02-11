@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T104420Z" creationid="krps" creationdate="20210211T104420Z">
         <seg>Berichte unserer AbsolventInnen über ihr Studium an der Otto-von-Guericke-Universität MagdeburgGt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Deswegen haben wir in Polen ein Werk gebaut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T104710Z" creationid="hp" creationdate="20210211T104710Z">
+        <seg>hbjjbbDeswegen haben wir in Polen ein Werk gebaut.</seg>
       </tuv>
     </tu>
     <tu>
