@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Kommt aus Mykolaiv</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T105729Z" creationid="ADMIN" creationdate="20210211T105715Z">
+        <seg>Родом з Миколаєва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Maryna Bosiaha</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210211T104207Z" creationid="PC" creationdate="20210211T104207Z">
