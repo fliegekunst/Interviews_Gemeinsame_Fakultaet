@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Maryna Bosiaha</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210211T104207Z" creationid="PC" creationdate="20210211T104207Z">
+        <seg>Марина Босяга</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
