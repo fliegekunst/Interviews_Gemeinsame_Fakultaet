@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Berichte unserer AbsolventInnen über ihr Studium an der Otto-von-Guericke-Universität Magdeburg</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210211T104420Z" creationid="krps" creationdate="20210211T104420Z">
+        <seg>Berichte unserer AbsolventInnen über ihr Studium an der Otto-von-Guericke-Universität MagdeburgGt</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Maryna Bosiaha</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210211T104207Z" creationid="PC" creationdate="20210211T104207Z">
         <seg>Марина Босяга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„Die erste Prüfungszeit war der Albtraum!“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210211T104443Z" creationid="krps" creationdate="20210211T104443Z">
+        <seg>„Перший іспит був жахом!“</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
