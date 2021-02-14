@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de">
+        <seg>2&lt;t0/&gt;6</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T121058Z" creationid="hp" creationdate="20210204T121058Z">
+        <seg>2&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Aber das fällt mir nicht schwer.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T130136Z" creationid="hp" creationdate="20210204T130136Z">
+        <seg>Але це виявилося взагалі неважко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Aber es gibt viele Möglichkeiten, deutsche Kommilitonen kennen zu lernen und mit ihnen zu sprechen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T132540Z" creationid="hp" creationdate="20210204T132540Z">
+        <seg>Але у нас є багато можливостей познаймотися з німецькими одногрупниками та розмовляти з ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Aber ich hätte lieber ein Präsenzstudium gehabt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185837Z" creationid="hp" creationdate="20210211T185837Z">
+        <seg>Але очні пари були кращі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Aber in Deutschland bereitet man sich zu Hause vor, überarbeitet das und besteht dann die Prüfung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T125658Z" creationid="hp" creationdate="20210204T125658Z">
+        <seg>Але в Німеччині готуватися потрібно вдома, переглянути матеріал, а потім вже здати іспит.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Als wir Team-Projekte während des Studiums hatten, stellt das keine Herausforderung für mich da.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T130249Z" creationid="hp" creationdate="20210204T130249Z">
+        <seg>Протягом начання ми виконували багато командних проєктів, тому для мене це не стало якимось викликом .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Am Ende kommen die Studierenden, die geeignet sind und das machen wollen, nach Deutschland.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T202922Z" creationid="hp" creationdate="20210211T190520Z">
+        <seg>Зрештою ті, хто хочуть це зробити й приїжджають до Німеччини.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>An der Uni zu bleiben, wäre auch eine Option.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T110045Z" creationid="hp" creationdate="20210211T110045Z">
+        <seg>Також можна було б залишитися в університеті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>An der Universität gab es auch nie Probleme.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T190130Z" creationid="hp" creationdate="20210211T185137Z">
+        <seg>І в універі з цим ніколи не було проблем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Artur Koval</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T122608Z" creationid="hp" creationdate="20210204T122608Z">
+        <seg>Артур Коваль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Auf Deutsch zu studieren war am Anfang relativ schwierig, jetzt ist es besser.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T123350Z" creationid="hp" creationdate="20210204T123350Z">
+        <seg>Спочатку це було відносно важко, але зараз вже легше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Danach werde ich an meiner Masterarbeit arbeiten, das dauert auch zwischen 5 und 8 Monaten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T132827Z" creationid="hp" creationdate="20210204T132827Z">
+        <seg>А потім почну працювати над магістерською роботою, яка триватиме 5-8 місяців.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Dann weiß ich auch gleich, ob ich in einem Unternehmen arbeiten will und kann eher entscheiden, ob ich in die Wirtschaft gehe oder an der Universität bleiben will.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185046Z" creationid="hp" creationdate="20210211T185042Z">
+        <seg>Тоді я відразу знаю, чи хочу я працювати на підприємстві, чи хочу займатися бізнесом або ж залишатися в університеті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das Online Studium insgesamt war super an der OVGU, im Hinblick auf die Situation.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185737Z" creationid="hp" creationdate="20210211T185730Z">
+        <seg>Але якщо взяти до уваги ситуацію, яка склалася, то навчання було організовано супер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das Programm hat klare Rahmenbedingungen, das Auswahlverfahren ist klar und das Sprachpraktikum und das Betriebspraktikum geben einen guten Eindruck in das Studium und man versteht, ob man in Deutschland studieren will oder nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T190440Z" creationid="hp" creationdate="20210211T190440Z">
+        <seg>Програма має чіткі рамкові умови, процес відбору зрозумілий, а мовна практика та стажування в компанії створюють гарне враження про курс, і ви можете зрозуміти, хочете ви навчатися в Німеччині чи ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das Thema ist noch nicht final, aber ich überlege gerade, welcher Betreuer in Frage kommt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T105559Z" creationid="hp" creationdate="20210211T105559Z">
+        <seg>Тема ще не остаточна, тому що я ще не вирішив, хто буде моїм науковим керівником.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das hat auch mehr Bezug zur eigentlichen Produktion und zur Arbeit, mit der man sich später beschäftigen will.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T184947Z" creationid="hp" creationdate="20210211T184947Z">
+        <seg>Це також має більше відношення до фактичного виробництва та роботи, з якою ви хочете мати справу пізніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das hilft auch bei der deutschen Sprache, es ist wichtig, konsequent an seinem Deutsch zu arbeiten, nicht immer nur unter sich zu bleiben und mit Ukrainern zusammen Zeit zu verbringen, sondern zu versuchen, mit anderen Leuten in Kontakt zu kommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T201749Z" creationid="hp" creationdate="20210211T110527Z">
+        <seg>Це також допомагає з німецькою мовою, важливо постійно працювати над своєю німецькою, спілкуючись із носіями мови, а не тільки проводити час з україномовними студентами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das ist eine große Arbeit, aber für uns ist das eine wichtige Arbeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T190639Z" creationid="hp" creationdate="20210211T190639Z">
+        <seg>Це важка робота, але для нас вона дуже важлива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das war witzig, der Doktorand wurde auf einem kleinen Wagen gezogen und wir sind durch die Uni gelaufen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T131517Z" creationid="hp" creationdate="20210204T131517Z">
+        <seg>Було смішно, як один аспірант привіз маленький візок і ми всі каталися на теретирії університету.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Deadlines werden spontaner und mündlich kommuniziert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T110858Z" creationid="hp" creationdate="20210211T110858Z">
+        <seg>Дедлайни спонтанні та обговорюються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Den ganzen Tag zu Hause sitzen ist nicht so schön.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185517Z" creationid="hp" creationdate="20210211T185517Z">
+        <seg>І сидіти цілими днями вдома теж не круто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Der Kontakt mit den Deutschen wird durch die eigene Lebensweise definiert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210213T174952Z" creationid="hp" creationdate="20210204T132159Z">
+        <seg>Те , чи ви зможете подружитися з німцями залежить від вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Der größte Unterscheid bei den Prüfungen besteht darin, dass in Deutschland wesentlich mehr Fragen gestellt werden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T125056Z" creationid="hp" creationdate="20210204T125024Z">
+        <seg>Найбільша відмінність від іспитів в Україні - це те, що на німецьких іспитах задають значно більше питань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Deswegen war der Übergang von der Ukraine nach Deutschland nicht so schwer.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T123803Z" creationid="hp" creationdate="20210204T123755Z">
+        <seg>Тому переїзд з України до Німеччині не був таким важким.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Die Anmeldung zur Prüfung ist wichtig, das ist eine Ausschlussfrist und wenn man zu spät ist, ist die Chance, sich zur Prüfung anzumelden, vorbei.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T183924Z" creationid="hp" creationdate="20210211T183924Z">
+        <seg>Реєстрація на іспит дуже важлива, це граничний термін, і якщо ви спізнилися, шанс зареєструватися на іспит закінчився.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Die GUDF hat mir sehr geholfen, das Studium in Deutschland anzufangen und das System des Studiums in Deutschland besser zu verstehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T080730Z" creationid="hp" creationdate="20210204T123715Z">
+        <seg>Програма GUDF мені допомогла зрозуміти систему та почати навчання в Німеччині. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Die OVGU Magdeburg war sehr präsent während unseres Studiums in Kiew, sie haben Präsentationen gemacht und die Konferenzen waren gut organisiert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210213T173237Z" creationid="hp" creationdate="20210213T173237Z">
+        <seg>Університет OVGU були присутніпід час навчання в Києві,також вони виступали з презентаціями та організовували конференції.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Die Prüfung sollte dann keine Probleme mehr bereiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T124911Z" creationid="hp" creationdate="20210204T124911Z">
+        <seg>Тоді не виникне ніяких проблем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Diese Fragen beziehen sich fast auf das gesamte Material der Vorlesungen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T125129Z" creationid="hp" creationdate="20210204T125129Z">
+        <seg>Ці питання стосуються майже всього матеріалу лекцій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Dort habe ich während der Abschlussveranstaltung getrommelt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T131220Z" creationid="hp" creationdate="20210204T131220Z">
+        <seg>Там на випускному вечері я грав на барабанах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Es gibt eine große Toleranz in Deutschland und ich hatte nie Probleme hier oder habe negative Erfahrungen gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T190010Z" creationid="hp" creationdate="20210211T190010Z">
+        <seg>Там всі відносяться толерантно один до одного, тому ніяких негативних спогадів немає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Es gibt einige Dozierende, die gemerkt haben, dass wir aus der Ukraine sind, wenn wir in der Vorlesung etwas sagen sollten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T190232Z" creationid="hp" creationdate="20210211T190232Z">
+        <seg>Деякі лектори, помічали що ми з України, якщо на лекції нам треба було щось сказати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Es gibt viele Ausländer in Deutschland und es gibt an der Universität viele ausländische Studierende.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185939Z" creationid="hp" creationdate="20210211T185939Z">
+        <seg>В Німеччині дуже багато іноземців та студентів з усього світу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Es hängt natürlich davon ab, wie das Onlinestudium aufgebaut ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185248Z" creationid="hp" creationdate="20210211T185248Z">
+        <seg>Звичайно все ще залежить від того, як організовано дистанційне навчання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Es ist schwierig, das miteinander zu vergleichen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T184146Z" creationid="hp" creationdate="20210211T184146Z">
+        <seg>Важко порівняти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Gleichzeitig haben wir in der Ukraine fast gar kein Master Studium erlebt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T184343Z" creationid="hp" creationdate="20210211T184343Z">
+        <seg>До того ж в Україні майже ніхто з нас не здобував ступінь магістра. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Grundsätzlich gefällt mir das Präsenzstudium besser, weil man direkt Fragen stellen kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185222Z" creationid="hp" creationdate="20210211T185222Z">
+        <seg>Ходити на пари мені подобалося більше, тому що якщо є якісь питання, то їх можна відразу задати викладачу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Grundsätzlich ist in Deutschland das Studium klar und transparent.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T110602Z" creationid="hp" creationdate="20210211T110602Z">
+        <seg>Загалом навчання в Німеччині чітке та зрозуміле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Hast du Kontakt zu deinen deutschen Kommilitonen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210213T174836Z" creationid="hp" creationdate="20210204T125832Z">
+        <seg>Чи ти спілкуєшся з німецькими одногрупниками? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Hast du ein Fremdheitsgefühl?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185902Z" creationid="hp" creationdate="20210211T185902Z">
+        <seg>Чи відчував ти себе чужим?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Hier in Magdeburg kann man als Student nichts machen oder alles machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T110925Z" creationid="hp" creationdate="20210211T110925Z">
+        <seg>А тут в Магдебурзі, ти або робиш все - або нічого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Hier läuft alles viel selbstständiger.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T201706Z" creationid="hp" creationdate="20210211T110357Z">
+        <seg>Тут до цього всі звикли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Hier sagt einem niemand, wie viele Fächer man pro Semester ablegen muss, das entscheidend man selbst. &lt;t0/&gt;Man sollte dieser Planung mehr Aufmerksamkeit widmen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T111124Z" creationid="hp" creationdate="20210211T111124Z">
+        <seg>Тут ніхто нікому не каже, скільки предметів ти повинен пройти за семестр, ти повинен сам все продумано та уважно спланувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Hier wird breiteres Wissen abgefragt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T125521Z" creationid="hp" creationdate="20210204T125521Z">
+        <seg>А тут перевірять значно більше знань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich denke aber, dass s hier nicht so viele Plätze gibt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T201522Z" creationid="hp" creationdate="20210211T110102Z">
+        <seg>Але мені здається, що там не так багато вільних місць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich denke, dass man dieses Fremdheitsgefühl in Deutschland sehr wenig fühlt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185913Z" creationid="hp" creationdate="20210211T185913Z">
+        <seg>Практично ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich finde, da gibt es viele Vorteile, zum Beispiel mehr Einblick in die deutsche Industrie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T202227Z" creationid="hp" creationdate="20210211T184850Z">
+        <seg>Я думаю, що в цьому є багато переваг, наприклад, можна краще зрозуміти німецьку промисловість.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich glaube, ich konnte mich gut organisieren, aber der Prozessablauf gefiel mir weniger als vorher.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185452Z" creationid="hp" creationdate="20210211T185452Z">
+        <seg>Я міг би добре себе організувати, але процес навчання вже так не подобався як раніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich habe sogar ein paar deutsche Freunde gefunden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T201055Z" creationid="hp" creationdate="20210204T130353Z">
+        <seg>Я навіть подружився з декількома студентами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich hatte gar nicht das Ziel, unbedingt mit deutschen Kommilitonen in Kontakt zu kommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T201025Z" creationid="hp" creationdate="20210204T130027Z">
+        <seg>У мене не було мети почати спілкуватися з моїми німецькими одногрупниками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich konnte leicht mit deutschen Kommilitonen kommunizieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210213T174920Z" creationid="hp" creationdate="20210204T130333Z">
+        <seg>Спілкуватися з ними доволі легко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich möchte mich gerne bei der GUDF bedanken, bei allen Leuten, die dieses Programm möglich gemacht haben und sich damit so intensiv beschäftigt haben und sich damit immer noch beschäftigen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T190407Z" creationid="hp" creationdate="20210211T190407Z">
+        <seg>Я хотів би подякувати GUDF, усім людям, які зробили цю програму можливою і хто так інтенсивно нею досі займається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich möchte nach dem Studium gerne eine Karriere im Maschinenbaubreich aufbauen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T105647Z" creationid="hp" creationdate="20210211T105647Z">
+        <seg>Після навчання, я б хотів почати кар'єру в сфері машинобудування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich spreche oft zufällig mit Leuten im Vorlesungsraum, das geht natürlich im Online Studium nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T202720Z" creationid="hp" creationdate="20210211T185654Z">
+        <seg>Зазвичай під час лекцій, я спілкувався зі студентами з потоку, а під час онлайн навчання так не виходило.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich versuch erst einmal, etwas in Sachsen-Anhalt zu finden, aber grundsätzlich bin ich auch offen für andere Optionen bundesweit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T110022Z" creationid="hp" creationdate="20210211T110022Z">
+        <seg>Спочатку я спробую знайти щось в межах Саксонії-Ангальт, але загалом можна розглянути й інші землі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich versuche, meine Abschlussarbeit in einem Unternehmen zu schreiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T202213Z" creationid="hp" creationdate="20210211T184758Z">
+        <seg>Свою дисертацію я намагаюся писати про підприємництво.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich will an den Campus gehen, mit Kommilitonen sprechen und meine Freunde sehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T202559Z" creationid="hp" creationdate="20210211T185547Z">
+        <seg>Я хотів гуляти по кампусу, спілкуватися та бачитися з друзями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich würde gerne in Deutschland etwas passendes finden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T105713Z" creationid="hp" creationdate="20210211T105713Z">
+        <seg>Я б із задоволенням зробив це у Німеччині.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich würden ihnen raten, mehr mit deutschen Studierenden zu sprechen, besonders wenn es Schwierigkeiten beim Studium gibt, dann kann man immer fragen und sich helfen lassen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T110224Z" creationid="hp" creationdate="20210211T110224Z">
+        <seg>Я б порекомендував більше розмовляти з німецькими одногрупниками, тому що якщо у вас виникнуть якісь труднощі з навчанням, то вони завжди зможуть допомогти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Im Alltag sprechen wir überwiegend in unserer Muttersprache.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T201410Z" creationid="hp" creationdate="20210204T132502Z">
+        <seg>У повсякденному житті, ми звичайно розмовляємо рідною мовою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Im Rahmen einer Fakultät kann man selbst Spezialisierungen auswählen und mehrere Studienfächer wählen, das gefällt mir sehr.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T200910Z" creationid="hp" creationdate="20210204T124047Z">
+        <seg>Мені подобається, що в рамках факультету можна самому обирати основні та додаткові предмети, які вивчати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In Deutschland eine Prüfung zu bestehen ist kein Zufall.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T125223Z" creationid="hp" creationdate="20210204T125223Z">
+        <seg>Скласти іспит в Німеччиині випадково не вийде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In Deutschland ist es leicht, neue Freunde zu finden und Anschluss in der Uni zu finden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T131606Z" creationid="hp" creationdate="20210204T131606Z">
+        <seg>У Німеччині легко знайти нових друзів та прив'язатися до університету.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In Deutschland kann man auch in andere Bereiche, z.B. Management, Einblick bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T184702Z" creationid="hp" creationdate="20210211T184702Z">
+        <seg>А у Німеччині ви також можете отримати якесь уявлення про інші сфери, наприклад: менеджмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In Deutschland kann man mehr selbst entscheiden, welche Studienrichtung man wählen will.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T124056Z" creationid="hp" creationdate="20210204T123847Z">
+        <seg>У Німеччині студент сам може вибрати, на якій спеціальності навчатися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In der Ukraine bekommt man manchmal zwei Fragen aus dem gesamten Stoff, aber genau auf diese Fragen weiß man dann keine Antwort.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T125413Z" creationid="hp" creationdate="20210204T125413Z">
+        <seg>В Україні інколи можна отримати два запитання з усього матеріалу, і саме на ці запитання можна не знати відповіді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In der Ukraine gibt es das nicht, dort ist die Anmeldung zur Prüfung selbstverständlich und läuft automatisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T184055Z" creationid="hp" creationdate="20210211T184055Z">
+        <seg>В Україні процедура реєстрації на іспит є зрозумілою і проходить автоматично</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In der Ukraine hatten wir nur den Bachelor, hier in Deutschland studieren wir im Master.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T184215Z" creationid="hp" creationdate="20210211T184215Z">
+        <seg>В Україні ми навчалися тільки на бакалавраті, а в Німеччині на магістратурі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In der Ukraine liegt der Schwerpunkt auf der eigentlichen Produktion und der Gestaltung der Produktionssysteme.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T184606Z" creationid="hp" creationdate="20210211T184606Z">
+        <seg>В Україні основна увага приділяється фактичному виробництву та проєктуванню виробничих систем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In einem Monat verteidige ich mein Masterprojekt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T132752Z" creationid="hp" creationdate="20210204T132706Z">
+        <seg>Через місяць я захищатиму свій магістерський проєкт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Interview am 11.09.2020</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T123253Z" creationid="hp" creationdate="20210204T123253Z">
+        <seg>Інтерв'ю за 11 вересня 2020 року. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Kommt a&lt;t0/&gt;us Dnipro</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T123220Z" creationid="hp" creationdate="20210204T123220Z">
+        <seg>З міста Дніпро.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Man hat uns toll unterstützt an der Universität!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T190324Z" creationid="hp" creationdate="20210211T190324Z">
+        <seg>Нас підтримували.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Man muss aber auch fragen!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T110330Z" creationid="hp" creationdate="20210211T110330Z">
+        <seg>Запитутйте все, що вам незрозуміло!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Man muss aber diese Anforderungen selbst lesen, in der Ukraine wird uns alles gesagt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T201952Z" creationid="hp" creationdate="20210211T110740Z">
+        <seg>Але ви повинні самостійно прочитати всі вимоги - вам про них ніхто не розповідає!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Man muss aber mit mehr Vorbereitungszeit als in der Ukraine rechnen, d.h. ca. 1-2 Wochen für eine Prüfung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T080820Z" creationid="hp" creationdate="20210204T124845Z">
+        <seg>Але потрібно звернути увагу на те, що знадобиться більше часу на підготовку ніж в Україні, приблизно 1-2 тижні до одного іспиту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Man muss sich aber auch mehr organisieren, niemand sagt einem, was man wann machen muss, man muss selbst die Termine planen, um rechtzeitig all die notwendigen Aufgaben zu erledigen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T124422Z" creationid="hp" creationdate="20210204T124416Z">
+        <seg>Але також доводиться організовувати план навчання самостійно, щоб вчасно виконати всі необхідні завдання, тому що тобі ніхто не пояснює що і як робити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Man muss sich klar sein, welches Ziel man in der Zukunft hat, danach sollte man seinen Studienplan aufbauen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T111024Z" creationid="hp" creationdate="20210211T111024Z">
+        <seg>Ви повинні знати, що конкретно хочете робити в майбутньому, щоб розробити для цього відповідний навчальний план.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Man sollte mehr über wichtige Termine nachdenken und sich selbst kümmern, sonst verpasst man etwas.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T111341Z" creationid="hp" creationdate="20210211T111341Z">
+        <seg>Вам слід більше звертати увагу на важливу інформацію, щоб нічого не пропустити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Man weiß immer, was von einem verlangt wird.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T110645Z" creationid="hp" creationdate="20210211T110645Z">
+        <seg>Ти завжди знаєш, що від тебе вимагається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Manchmal gab es keine Möglichkeit, direkt dem Professor während der Vorlesung Fragen zu stellen, da musste man dann hinterher ein Mail schreiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185356Z" creationid="hp" creationdate="20210211T185356Z">
+        <seg>Інколи бувало так, що не було можливості задати питання під час онлайн-пари, і доводилося писати емейл викладачеві.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Mir wurde nie das Gefühl gegeben, ich gehöre nicht hierher oder so.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T202835Z" creationid="hp" creationdate="20210211T190118Z">
+        <seg>Я ніколи не почувався так ніби я там зайвий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Niemand rennt einem hinterher!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T110337Z" creationid="hp" creationdate="20210211T110337Z">
+        <seg>Вас же ніхто не вкусить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Online-Lehre war eine gute Lösung für die Pandemiesituation.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T202746Z" creationid="hp" creationdate="20210211T185818Z">
+        <seg>Онлайн навчання стало хорошим виходом під час пандемії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Sie haben dann super &lt;t0/&gt;reagiert und haben uns auch erlaubt, Wörterbücher zu benutzen (sogar während der Prüfung!), das war toll.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T190309Z" creationid="hp" creationdate="20210211T190309Z">
+        <seg>Вони чудово на це реагували, і дозволяли користуватися словниками навіть на іспитах!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Sie sind schon Master in der Ukraine?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T132608Z" creationid="hp" creationdate="20210204T132602Z">
+        <seg>В Україні ти вже магістр?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Studiert seit 2018 an der OVGU</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T123049Z" creationid="hp" creationdate="20210204T123026Z">
+        <seg>Навчається в університеті Отто фон Ґеріке з 2018 року</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Technologie des Maschinenbaus&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T123208Z" creationid="hp" creationdate="20210204T123208Z">
+        <seg>на факультеті Технології машинобудування.&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Vor zwei Wochen war ich auf der Verteidigung eines Doktoranden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T130455Z" creationid="hp" creationdate="20210204T130455Z">
+        <seg>Два тижні тому я був на захисті аспірантської роботи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Was würdest du ukrainischen Studierenden raten, die neu nach Deutschland kommen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T201534Z" creationid="hp" creationdate="20210211T110135Z">
+        <seg>Щоб ти порекомендував українським студентам, які тільки переїхали до Німеччини?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Welche Pläne hast du für die Zukunft?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T201437Z" creationid="hp" creationdate="20210204T132626Z">
+        <seg>Які плани на майбутнє?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wenn man sich gut vorbereitet hat, stellt die Prüfung kein Problem dar.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T124652Z" creationid="hp" creationdate="20210204T124603Z">
+        <seg>Якщо добре підготуватися, то з іспитами не виникне жодних проблем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wenn wir das Studium in Deutschland und in der Ukraine miteinander vergleichen, dann finde ich, dass es in Deutschland in Bezug auf Maschinenbau mehrere allgemeine Fächer gibt, beispielsweise zur Planung der Produktion, zum Management der Produktionssysteme.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T184540Z" creationid="hp" creationdate="20210211T184540Z">
+        <seg>Якщо порівняти навчання в обох країнах, то можна сказати, що в Німеччині існує кілька загальних предметів стосовно машинобудування, наприклад планування виробництва, управління виробничими системами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wie ist das für dich, auf Deutsch zu studieren?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T123321Z" creationid="hp" creationdate="20210204T123321Z">
+        <seg>Як тобі навчатися німеьцою мовою? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wie war das Studium des Maschinenbaus in der Ukraine und in Deutschland?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T184133Z" creationid="hp" creationdate="20210211T184126Z">
+        <seg>Яка різниця в навчанні на факультеті машинобудування в Україні та Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wie war es, Prüfungen auf Deutsch abzulegen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T124620Z" creationid="hp" creationdate="20210204T124510Z">
+        <seg>І як тобі вдалося скласти іспити німецькою мовою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wie war es, zu Corona-Zeiten online zu studieren?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T185119Z" creationid="hp" creationdate="20210211T185119Z">
+        <seg>А як проходило дистанційне навчання під час пандемії?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wir Ukrainer wohnen zu dritt in einer WG in Magdeburg, das ist natürlich für uns sehr bequem, aber diese Lebensweise wirkt sich natürlich auch darauf aus, dass wir kaum deutsche Freunde haben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210212T201400Z" creationid="hp" creationdate="20210204T132437Z">
+        <seg>Ми троє українців, живемо в разом в Магдебурзі, тому через це в нас майже немає німецьких друзів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wir sind viel passiver, wir warten auf Befehle und Anweisungen und dann wissen wir, was wir machen sollen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210211T110841Z" creationid="hp" creationdate="20210211T110841Z">
+        <seg>Наші студенти пасивніші, вони чекають від когось наказів та інструкцій, щоб знати що робити далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wenn man sich gut vorbereitet hat, sind Prüfungen kein Problem“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210204T122833Z" creationid="hp" creationdate="20210204T122719Z">
+        <seg>"Якщо добре підготуватися, то на іспиті не виникне жодних проблем."     </seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

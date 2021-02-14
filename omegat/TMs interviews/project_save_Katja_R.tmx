@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>(nickt) Wenn du an diese Zukunft denkst, hast du Angst?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T090015Z" creationid="ADMIN" creationdate="20210211T085049Z">
+        <seg>(киває) Чи не страшно тобі, коли починаєш задумуватися про це майбутнє?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>(überlegt lange) Das ist eine gute Frage.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T115023Z" creationid="ADMIN" creationdate="20210212T115023Z">
+        <seg>(довго думає) Це хороше запитання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Die &lt;t1/&gt;Privatsphäre in &lt;t2/&gt;Deutschland&lt;t3/&gt; wird mehr respektiert, auch in Freundschaften, da wird &lt;t4/&gt;zeitlich viel &lt;t5/&gt;eher ein Termin gemacht und sehr respektvoll miteinander umgegangen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T124350Z" creationid="ADMIN" creationdate="20210212T124350Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;У Німеччині сфера особистого життя &lt;t2/&gt;&lt;t3/&gt;дуже поважається.&lt;t4/&gt; Мається на увазі, що зустріч буде призначена завчасно.&lt;t5/&gt; Люди ставляться одне до одного дуже шанобливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Für mich war das Studium sowohl in&lt;t1/&gt; Kiew und Magdeburg angenehm.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T202238Z" creationid="ADMIN" creationdate="20210210T202238Z">
+        <seg>&lt;t0/&gt;Навчання в&lt;t1/&gt; Києві та Магдебурзі було приємним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Ich bin lokal nicht fixiert, sondern ich suche w&lt;t1/&gt;eltweit mit &lt;t2/&gt;dem &lt;t3/&gt;Schwerpunkt Deutschland.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T112218Z" creationid="ADMIN" creationdate="20210211T084123Z">
+        <seg>&lt;t0/&gt;Я не планую залишатися лише в Магдебурзі, оскільки хочу шукати роботу по всьому світу&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;, але Німеччина поки що залишається в пріоритеті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t14/&gt;Dafür ist in Deutschland die &lt;t15/&gt;Terminplanung schwierig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T125259Z" creationid="ADMIN" creationdate="20210212T125259Z">
+        <seg>&lt;t14/&gt;Але тут є проблема з тайм-менеджментом&lt;t15/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t18/&gt;Um einen Job in der&lt;t19/&gt; IT &lt;t20/&gt;zu bekommen und gutes Geld zu verdienen, &lt;t21/&gt;muss man auch schon sehr spezialisiert sein, da steigt die Konkurrenz auch extrem an.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T201814Z" creationid="ADMIN" creationdate="20210210T201814Z">
+        <seg>&lt;t18/&gt;Щоб влаштуватися на роботу в &lt;t19/&gt;ІТ &lt;t20/&gt;і заробити непогані гроші, &lt;t21/&gt;ви повинні бути висококваліфікованим спеціалістом, оскільки конкуренція надзвичайно зростає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t8/&gt;Meiner Meinung nach ist es aber schwerer, mit Maschinenbau einen Job zu finden, &lt;t9/&gt;als ein Elektrotechniker oder Mechatroniker.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T195949Z" creationid="ADMIN" creationdate="20210210T195949Z">
+        <seg>&lt;t8/&gt;Однак, на мій погляд, набагато важче знайти роботу машинобудівнику, ніж інженеру-електрику чи інженеру з мехатроніки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t9/&gt;Dort ist d&lt;t10/&gt;ie erste Einladung &lt;t11/&gt;wichtig, da wird dann gekocht und so.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T124916Z" creationid="ADMIN" creationdate="20210212T124916Z">
+        <seg>&lt;t9/&gt;Там важливе перше запрошення, потім приготування їжі тощо&lt;t10/&gt;&lt;t11/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>A&lt;t1/&gt;m Anfang habe ich etwas nicht richtig verstanden&lt;t2/&gt;, &lt;t3/&gt;das war &lt;t4/&gt;aber &lt;t5/&gt;eher sprachlich bedingt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T120506Z" creationid="ADMIN" creationdate="20210212T115930Z">
+        <seg>&lt;t1/&gt;Наприклад, спочатку я міг неправильно розуміти, що мені кажуть. Але це більше пов'язано з мовою&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ab und zu hat man das Gefühl&lt;t0/&gt;, fremd zu sein.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T115947Z" creationid="ADMIN" creationdate="20210212T115535Z">
+        <seg>Інколи може виникнути така думка, що ти тут чужий&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Am Anfang hatte ich einen Minderwertigkeitskomplex als Ausländer.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T121306Z" creationid="ADMIN" creationdate="20210212T121306Z">
+        <seg>На початку навчання я мав комплекс неповноцінності.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Am Anfang war es überhaupt erst mal schwierig, deutsch zu verstehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T180617Z" creationid="ADMIN" creationdate="20210210T175638Z">
+        <seg>Спочатку було важко розуміти німецьку мову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>An der Universität sprechen viele hochdeutsch&lt;t10/&gt;.&lt;t11/&gt; Die bayrische &lt;t12/&gt;Mundart&lt;t13/&gt; verstehe ich ab und zu deutlicher und besser, das ist näher am &lt;t14/&gt;U&lt;t15/&gt;krainischen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T183801Z" creationid="ADMIN" creationdate="20210210T183801Z">
+        <seg>В університеті багато хто розмовляє верхньонімецькою мовою&lt;t10/&gt;.&lt;t11/&gt; Інколи я краще розумію баварський діалект, який схожий на український &lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt;&lt;t15/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Angenehm.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T201931Z" creationid="ADMIN" creationdate="20210210T201931Z">
+        <seg>Приємним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auf Deutsch parallel &lt;t4/&gt;et&lt;t5/&gt;was mitschreiben und zu&lt;t6/&gt;zu&lt;t7/&gt;hören&lt;t8/&gt;, ist echt schwierig&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T093659Z" creationid="ADMIN" creationdate="20210211T093659Z">
+        <seg>Але насправді досить тяжко записувати щось і &lt;t4/&gt;&lt;t5/&gt;одночасно&lt;t6/&gt;&lt;t7/&gt;слухати&lt;t8/&gt;німецькою мовою&lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bist du mit deinem Deutsch zufrieden?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T170227Z" creationid="ADMIN" creationdate="20210210T170227Z">
+        <seg>Ти задоволений своїм рівнем володіння німецької?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann habe ich irgendwann das Angebot bekommen, hier zu promovieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T103436Z" creationid="ADMIN" creationdate="20210204T132913Z">
+        <seg>Потім отримав пропозицію захищати тут докторську.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann wurde das aber schnell besser.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T211816Z" creationid="ADMIN" creationdate="20210210T211816Z">
+        <seg>Але з часом ситуація покращилася.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das bedeutet konkret, das &lt;t4/&gt;Skript durch&lt;t5/&gt;zu&lt;t6/&gt;lesen und unbekannte Wörter &lt;t7/&gt;zu &lt;t8/&gt;übersetzen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T113046Z" creationid="ADMIN" creationdate="20210211T091525Z">
+        <seg>Особисто я почувався впевненішим на лекціях, після того як ознайомився з&lt;t4/&gt; конспектами лекцій&lt;t5/&gt;&lt;t6/&gt; та&lt;t7/&gt;переклав &lt;t8/&gt;незнайомі слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das hat sich so ergeben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210204T133056Z" creationid="ADMIN" creationdate="20210204T133056Z">
+        <seg>Тому так і вийшло.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das hängt sicher auch &lt;t10/&gt;von&lt;t11/&gt; der persönlichen Wahrnehmung ab.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T121532Z" creationid="ADMIN" creationdate="20210212T121444Z">
+        <seg>Це, безумовно, залежить від особистого сприйняття&lt;t10/&gt;&lt;t11/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das ist aber eher &lt;t32/&gt;eine&lt;t33/&gt; Folge des ersten Punktes.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105747Z" creationid="ADMIN" creationdate="20210210T194150Z">
+        <seg>Але це скоріше &lt;t32/&gt;&lt;t33/&gt;наслідок першого пункту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das ist das wichtigste.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T113821Z" creationid="ADMIN" creationdate="20210211T091846Z">
+        <seg>Я вважаю, що це дуже важливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das ist der Vorteil der &lt;t8/&gt;GUDF&lt;t9/&gt;, ich war gut aufgestellt, hatte die Unterstützung von der Fakultät hier und wurde gut betreut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T112032Z" creationid="ADMIN" creationdate="20210210T204504Z">
+        <seg>Це одна з переваг &lt;t8/&gt;Спільного Українсько-Німецького Факультету (СУНФ), оскільки працівники завжди були готові мені допомогти&lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das ist einfacher als &lt;t0/&gt;damals, als ich &lt;t1/&gt;die Masterarbeit auf Deutsch &lt;t2/&gt;geschrieben habe&lt;t3/&gt;, also einfacher vom Schreiben her.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T104031Z" creationid="ADMIN" creationdate="20210210T163610Z">
+        <seg>Цю роботу я пишу набагато краще, ніж &lt;t0/&gt;&lt;t1/&gt;магістерську&lt;t2/&gt;, яку я теж писав німецькою&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das ist wie beim Hörverstehen, nur da muss man Stichpunkte machen und 90 min zuhören und mitschreiben.&lt;t10/&gt; Das ist echt anstrengend!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T095139Z" creationid="ADMIN" creationdate="20210211T095139Z">
+        <seg>Це як під час аудіювання, тільки тут потрібно 90 хвилин слухати і паралельно робити нотатки.&lt;t10/&gt; Це справді виснажує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das war eine &lt;t2/&gt;tolle&lt;t3/&gt; Zeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T202307Z" creationid="ADMIN" creationdate="20210210T202307Z">
+        <seg>Це був &lt;t2/&gt;чудовий&lt;t3/&gt; час.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das wichtigste ist aber nicht die Finanzierung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105539Z" creationid="ADMIN" creationdate="20210210T191937Z">
+        <seg>Але фінансування — це не найголовніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das wäre unmöglich in der &lt;t8/&gt;Ukraine!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T124745Z" creationid="ADMIN" creationdate="20210212T124745Z">
+        <seg>В Україні це було б неможливо&lt;t8/&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der größte Unterschied ist, dass es in Deutschland Kooperationen zwischen den Universitäten und Unternehmen gibt, in der Ukraine findet man das fast gar nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105436Z" creationid="ADMIN" creationdate="20210210T185954Z">
+        <seg>Найбільша різниця полягає в тому, що в Німеччині наявна співпраця між університетами та компаніями. На жаль, в Україні ви навряд чи це зустрінете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Deutsche sind anders.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T122153Z" creationid="ADMIN" creationdate="20210212T122153Z">
+        <seg>Німці відрізняються від українців.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Beziehungen sind anders als bei uns.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T123757Z" creationid="ADMIN" creationdate="20210212T123757Z">
+        <seg>Їхні відносини не схожі на наші.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Vorbereitung &lt;t6/&gt;auf das Studium in Magdeburg &lt;t7/&gt;war gut, ich wusste, was mich erwartet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T110656Z" creationid="ADMIN" creationdate="20210210T203247Z">
+        <seg>Викладачі добре підготували мене до навчання в Магдебурзі. Я знав, що мене очікує&lt;t6/&gt;&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die ersten Wochen &lt;t0/&gt;in Magdeburg &lt;t1/&gt;waren schwer.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T211546Z" creationid="ADMIN" creationdate="20210210T211546Z">
+        <seg>Перші тижні &lt;t0/&gt;в Магдебурзі &lt;t1/&gt;були складними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dmytro Borysenko</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210204T121838Z" creationid="ADMIN" creationdate="20210204T121838Z">
+        <seg>Дмитро Борисенко</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du siehst deine Zukunft in Deutschland?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T084658Z" creationid="ADMIN" creationdate="20210211T084658Z">
+        <seg>Ти бачиш своє майбутнє в Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eher nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T175541Z" creationid="ADMIN" creationdate="20210210T175541Z">
+        <seg>Найвірогідніше, ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Tipp: Installiert euch eine &lt;t0/&gt;Übersetzungsapp und &lt;t1/&gt;lernt den &lt;t2/&gt;Wortschatz&lt;t3/&gt;!&lt;t4/&gt; Dann kann man schnell was nachschauen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T095626Z" creationid="ADMIN" creationdate="20210211T095626Z">
+        <seg>Порада: встановіть &lt;t0/&gt;додаток для перекладу та &lt;t1/&gt;поповнюйте &lt;t2/&gt;свій словниковий запас&lt;t3/&gt;!&lt;t4/&gt; За допомогою додатку ви зможете швидко перекласти незнайомі слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Einige Fächer &lt;t0/&gt;hier in Magdeburg &lt;t1/&gt;waren schwer, einige Fächer waren &lt;t2/&gt;für mich eine &lt;t3/&gt;Wiederholung aus Kiew, da haben sich die Inhalte überschnitten&lt;t4/&gt;, das hat mir gut gefallen&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T211348Z" creationid="ADMIN" creationdate="20210210T210659Z">
+        <seg>Деякі предмети &lt;t0/&gt;в Магдебурзі &lt;t1/&gt;були досить тяжкими для мене, деякі були &lt;t2/&gt;просто &lt;t3/&gt;повторенням того, що я вивчав у Києві. Мені дуже подобалося, що мої знання поповнювалися та оновлювалися&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es geht mir gut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T104645Z" creationid="ADMIN" creationdate="20210210T164201Z">
+        <seg>Досить добре, але хотілось би позбутися свого акценту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gibt dafür keine Kooperationsform.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105518Z" creationid="ADMIN" creationdate="20210210T191409Z">
+        <seg>Тут досить тяжко знайти якусь із форм співпраці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gibt sogar Software, die einem das Skript i&lt;t5/&gt;n eine&lt;t6/&gt; &lt;t7/&gt;PDF&lt;t8/&gt; übersetzt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T114242Z" creationid="ADMIN" creationdate="20210211T100019Z">
+        <seg>Можна навіть знайти програмне забезпечення, яке перекладає конспекти лекцій у &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;PDF-формат&lt;t8/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es ist auf jeden Fall wichtig, die &lt;t0/&gt;Vorlesung&lt;t1/&gt;en&lt;t2/&gt; zu Hause &lt;t3/&gt;vorzubereiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T112338Z" creationid="ADMIN" creationdate="20210211T091241Z">
+        <seg>У будь-якому випадку, важливо готуватися до &lt;t0/&gt;лекцій&lt;t1/&gt;&lt;t2/&gt; вдома&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es könnte immer besser sein.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T170410Z" creationid="ADMIN" creationdate="20210210T170410Z">
+        <seg>Завжди може бути краще.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Generell schon.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T170527Z" creationid="ADMIN" creationdate="20210210T170527Z">
+        <seg>Але загалом так.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gibt es Sachen, die dich an Deutschland stören?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T121649Z" creationid="ADMIN" creationdate="20210212T121649Z">
+        <seg>Чи є речі, які турбують тебе в Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hast du Probleme mit dem Dialekt in Sachsen-Anhalt&lt;t0/&gt; oder irgendwo anders in Deutschland&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105046Z" creationid="ADMIN" creationdate="20210210T175124Z">
+        <seg>Чи маєш ти проблеми з діалектом в Саксонії-Анхальт&lt;t0/&gt; або в якомусь іншому регіоні Німеччини&lt;t1/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T114806Z" creationid="ADMIN" creationdate="20210212T114806Z">
+        <seg>Чи не відчував ти себе чужим &lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier sind die Universitäten vor allem auch von Drittmittelprojekten abhängig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T191617Z" creationid="ADMIN" creationdate="20210210T191617Z">
+        <seg>В Україні університети особливо залежать від проєктів, що фінансуються сторонніми організаціями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier&lt;t0/&gt; (in Magdeburg)&lt;t1/&gt; gibt es keine Akzentabbaukurse, nur in Berlin gibt es das oder auf Youtube.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105019Z" creationid="ADMIN" creationdate="20210210T165842Z">
+        <seg>Це можливо лише в Берліні або в ютубі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>IT ist &lt;t10/&gt;im Moment &lt;t11/&gt;super gefragt, &lt;t12/&gt;vor allem &lt;t13/&gt;Softwareentwickler.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T200315Z" creationid="ADMIN" creationdate="20210210T200315Z">
+        <seg>Сьогодні &lt;t10/&gt;ІТ &lt;t11/&gt;має великий попит, &lt;t12/&gt;особливо &lt;t13/&gt;розробники програмного забезпечення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich bin keine Person, die Politik oder allgemeine gesellschaftliche Prozesse kritisiert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T121803Z" creationid="ADMIN" creationdate="20210212T121803Z">
+        <seg>Я не та людина, яка критикує політику чи соціальні процеси.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich bin noch in einem Alter, wo &lt;t0/&gt;man sich auf&lt;t1/&gt; etwas Neues freut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T090214Z" creationid="ADMIN" creationdate="20210211T090214Z">
+        <seg>Я ще в тому віці, коли &lt;t0/&gt;чекаєш &lt;t1/&gt; чогось нового.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich freue mich auf die neuen Herausforderungen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T090619Z" creationid="ADMIN" creationdate="20210211T090619Z">
+        <seg>Нові виклики, навпаки, дають мені силу й натхнення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich freue mich eigentlich richtig darauf.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T085510Z" creationid="ADMIN" creationdate="20210211T085510Z">
+        <seg>Я дуже цього чекаю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe aber auch ehrlicherweise keine anderen Universitäten gesucht, &lt;t0/&gt;da &lt;t1/&gt;ich hier schon Kontakte&lt;t2/&gt; hatte&lt;t3/&gt; und der &lt;t4/&gt;Professor &lt;t5/&gt;kannte mich und bot mir an, meine Doktorarbeit zu betreuen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T103522Z" creationid="ADMIN" creationdate="20210204T133925Z">
+        <seg>Але, чесно кажучи, я не шукав інших варіантів, &lt;t0/&gt;тому що &lt;t1/&gt;в цьому університеті я вже мав зв'язки&lt;t2/&gt; &lt;t3/&gt; і до того ж &lt;t4/&gt; професор запропонував бути моїм науковим керівником &lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe hier studiert und meine Masterarbeit verteidigt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T160546Z" creationid="ADMIN" creationdate="20210204T132423Z">
+        <seg>Тут я навчався та згодом захистив магістерську дисертацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe mich nie direkt benachteiligt gefühlt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T115212Z" creationid="ADMIN" creationdate="20210212T115212Z">
+        <seg>Я ніколи не відчував, що до мене ставляться не так, як до інших.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich war froh, wenn ich die Hälfte verstanden habe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T211710Z" creationid="ADMIN" creationdate="20210210T211710Z">
+        <seg>Я був радий, коли розумів хоча б половину нового матеріалу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich werde in der Industrie einen Job suchen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T212344Z" creationid="ADMIN" creationdate="20210210T212344Z">
+        <seg>Я буду шукати роботу, пов'язану з промисловістю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich wohne seit 2013&lt;t4/&gt; in Magdeburg, ich möchte auch neue Städte kennen lernen&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T085056Z" creationid="ADMIN" creationdate="20210211T084349Z">
+        <seg>Я живу в Магдебурзі з 2013 року&lt;t4/&gt;, тому зараз хочеться пізнати й інші міста&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im Moment promovierst du in Magdeburg.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T161310Z" creationid="ADMIN" creationdate="20210204T131650Z">
+        <seg>Зараз ти захищаєш докторську дисертацію в Магдебурзі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Immer, wenn ich Hilfe gebraucht habe, habe ich die&lt;t8/&gt;se auch&lt;t9/&gt; bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T121101Z" creationid="ADMIN" creationdate="20210212T121101Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In &lt;t4/&gt;den &lt;t5/&gt;Entwicklungsländern &lt;t6/&gt;wird auch Maschinenbau gebraucht&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105837Z" creationid="ADMIN" creationdate="20210210T195355Z">
+        <seg>Ця &lt;t4/&gt;&lt;t5/&gt;галузь &lt;t6/&gt;також потрібна в країнах, що розвиваються.&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In Kiew ist das natürlich etwas schwierig, ein Auslandssemester zu beantragen und einen individuellen Plan zu machen und 1000 Papiere nach&lt;t4/&gt;zu&lt;t5/&gt;reichen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T110505Z" creationid="ADMIN" creationdate="20210210T202823Z">
+        <seg>У Києві, звичайно, трохи складно скласти індивідуальний план, подати заявку і 1000 документів на семестр за кордон&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der U&lt;t0/&gt;kraine&lt;t1/&gt; sind &lt;t2/&gt;Universitäten&lt;t3/&gt; &lt;t4/&gt;A&lt;t5/&gt;usbildungszentren, sie sind aber abgekoppelt von der realen &lt;t6/&gt;W&lt;t7/&gt;irtschaft und den realen &lt;t8/&gt;P&lt;t9/&gt;roblemen in &lt;t10/&gt;G&lt;t11/&gt;esellschaft und &lt;t12/&gt;T&lt;t13/&gt;echnik.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105634Z" creationid="ADMIN" creationdate="20210210T192542Z">
+        <seg>В Україні&lt;t0/&gt;&lt;t1/&gt; університети &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;від'єднані від реальної економіки і реальних проблем у суспільстві та технологіях&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der U&lt;t26/&gt;kraine&lt;t27/&gt; fehlt die Basis&lt;t28/&gt;ausstattung an den Universitäten, d.h. die&lt;t29/&gt; Ausrüstung &lt;t30/&gt;an&lt;t31/&gt; Messgeräten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105741Z" creationid="ADMIN" creationdate="20210210T193908Z">
+        <seg>Українським університетам&lt;t26/&gt;&lt;t27/&gt; бракує базового обладнання&lt;t28/&gt;, тобто обладнання для вимірювальних приладів&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In meiner Fachrichtung war das okay und machbar.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T211408Z" creationid="ADMIN" creationdate="20210210T211245Z">
+        <seg>У моїй спеціальності це нормальне явище.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Interview am 20.02.2020</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T103353Z" creationid="ADMIN" creationdate="20210204T131406Z">
+        <seg>Інтерв'ю 20.02.2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Irgendwann werde ich vielleicht auch meinen Akzent los.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T104654Z" creationid="ADMIN" creationdate="20210210T164534Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ja.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T162140Z" creationid="ADMIN" creationdate="20210210T162140Z">
+        <seg>Так.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kannst du die Wissenschaftslandschaft vergleichen und Unterschiede zwischen der Ukraine und Deutschland &lt;t0/&gt;herausstellen&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105247Z" creationid="ADMIN" creationdate="20210210T184119Z">
+        <seg>Чи можеш ти порівняти науковий ландшафт та виділити відмінності між Україною та Німеччиною&lt;t0/&gt;&lt;t1/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kommt aus Mykolaiv</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210204T131252Z" creationid="ADMIN" creationdate="20210204T131252Z">
+        <seg>Родом з Миколаєва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man kennt die Sprache jetzt besser und kann viel freier formulieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T163943Z" creationid="ADMIN" creationdate="20210210T163943Z">
+        <seg>Зараз я набагато краще володію мовою і можу вільно висловлювати свою думку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man muss vieles mit Humor nehmen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T121837Z" creationid="ADMIN" creationdate="20210212T121837Z">
+        <seg>Багато чого потрібно сприймати з гумором.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man weiß aber nicht, wie die Entwicklung weitergeht, der &lt;t14/&gt;Arbeitsmarkt&lt;t15/&gt; ist sehr schnelllebig, vor ein paar Jahren spielte&lt;t16/&gt; die IT eine weniger große &lt;t17/&gt;Rolle.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105933Z" creationid="ADMIN" creationdate="20210210T201107Z">
+        <seg>Але невідомо, якою буде ситуація через декілька років, оскільки ринок праці стрімко розвивається. Можемо спостерігати це на прикладі IT, які кілька років тому відігравали&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt; менш важливу &lt;t17/&gt;роль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manchmal dauert das sehr lange, bis ein gemeinsamer Termin gefunden ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210213T085424Z" creationid="ADMIN" creationdate="20210212T125616Z">
+        <seg>Іноді дуже тяжко знайти час, на який можна призначити якусь зустріч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mir gefällt es, dass&lt;t12/&gt; in Deutschland&lt;t13/&gt; die Privatsphäre respektiert wird.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T125020Z" creationid="ADMIN" creationdate="20210212T125020Z">
+        <seg>Мені дуже подобається, що&lt;t12/&gt; в Німеччині&lt;t13/&gt; поважають сферу особистого життя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit der Zeit ist das aber deutlich kleiner geworden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T121434Z" creationid="ADMIN" creationdate="20210212T121434Z">
+        <seg>Але з часом я поборов це відчуття.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mittlerweile gibt es so viele &lt;t6/&gt;andere &lt;t7/&gt;ausländische Studierende.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T120909Z" creationid="ADMIN" creationdate="20210212T120909Z">
+        <seg>Тут багато інших іноземних студентів, тому коли мені потрібна була допомога, я її отримував&lt;t6/&gt;&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Promovierst du auf Deutsch?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T162129Z" creationid="ADMIN" creationdate="20210210T162129Z">
+        <seg>Ти захищаєш дисертацію німецькою мовою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sobald man aber drin ist und sich eingehört hat, ist der &lt;t0/&gt;„&lt;t1/&gt;Machdeburjer Dialekt&lt;t2/&gt;“&lt;t3/&gt; doch nichts anderes als &lt;t4/&gt;h&lt;t5/&gt;ochdeutsch, &lt;t6/&gt;man hört &lt;t7/&gt;nicht viele Unterschiede und &lt;t8/&gt;diese stören&lt;t9/&gt; nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105208Z" creationid="ADMIN" creationdate="20210210T182300Z">
+        <seg>Але щойно опиняєшся в цій місцевості, то розумієш, що &lt;t0/&gt;„&lt;t1/&gt;магдебурзький діалект&lt;t2/&gt;“&lt;t3/&gt; — це не що інше, як &lt;t4/&gt;&lt;t5/&gt;верхньонімецька мова, &lt;t6/&gt;саме тому ти &lt;t7/&gt;не помічаєш особливих відмінностей &lt;t8/&gt;&lt;t9/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Studierte an der OVGU Magdeburg zwischen 2013 und 2015 Zerspantechnik&lt;t0/&gt; und&lt;t1/&gt; Ferti&lt;t2/&gt;gungs&lt;t3/&gt;technik mit Schwerpunkt Trennen&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T103256Z" creationid="ADMIN" creationdate="20210204T131010Z">
+        <seg>З 2013 по 2015 вивчав технологію обробки&lt;t0/&gt; та&lt;t1/&gt; виробництва&lt;t2/&gt;&lt;t3/&gt; з поглибленим вивченням різання металу в університеті Отто фон Ґеріке в Магдебурзі&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Von der organisatorischen Seite des Studiums &lt;t10/&gt;wurde&lt;t11/&gt; ich gut unterstützt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T112037Z" creationid="ADMIN" creationdate="20210210T205055Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vor drei oder vier Jahren hat mein Akzent mich sehr gestört.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T104853Z" creationid="ADMIN" creationdate="20210210T164741Z">
+        <seg>Три-чотири роки тому мене це дуже турбувало, але в Магдебурзі немає курсів, які допомагають усунути акцент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was wir in Kiew nicht geübt haben&lt;t0/&gt;,&lt;t1/&gt; ist simultan &lt;t2/&gt;zu &lt;t3/&gt;schreiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T113848Z" creationid="ADMIN" creationdate="20210211T092922Z">
+        <seg>Ми записували те, чого не практикували в Києві&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt; &lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was würdest du anderen ukrainischen Studi&lt;t0/&gt;erenden&lt;t1/&gt; raten, die neu nach Deutschland kommen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210211T091630Z" creationid="ADMIN" creationdate="20210211T090940Z">
+        <seg>Що б ти порадив українським студентам,&lt;t0/&gt;&lt;t1/&gt; які вперше їдуть навчатися в Німеччину?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Chancen bietet generell ein Maschinenbaustudium?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T194744Z" creationid="ADMIN" creationdate="20210210T194744Z">
+        <seg>Наскільки перспективним можна вважати таку галузь промисловості, як машинобудування?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Pläne hast du nach der Diss&lt;t0/&gt;ertation&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T212030Z" creationid="ADMIN" creationdate="20210210T211849Z">
+        <seg>Які ти маєш плани після дисертації&lt;t0/&gt;&lt;t1/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Weltweit in &lt;t0/&gt;den &lt;t1/&gt;Industrieländern ist &lt;t2/&gt;Maschinenbau&lt;t3/&gt; immer gefragt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105830Z" creationid="ADMIN" creationdate="20210210T194940Z">
+        <seg>Машинобудування &lt;t0/&gt;&lt;t1/&gt;завжди &lt;t2/&gt;має попит&lt;t3/&gt; в промислово розвинених країнах світу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn einer in der &lt;t14/&gt;Ukraine&lt;t15/&gt; im Unternehmen ein Problem hat&lt;t16/&gt;,&lt;t17/&gt; kommt er nicht auf die Idee&lt;t18/&gt;,&lt;t19/&gt; in eine &lt;t20/&gt;Universität&lt;t21/&gt; zu gehen, sondern &lt;t22/&gt;man geht &lt;t23/&gt;eher zu &lt;t24/&gt;Unternehmensberatungsfirmen&lt;t25/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105724Z" creationid="ADMIN" creationdate="20210210T193707Z">
+        <seg>Якщо хтось &lt;t14/&gt;&lt;t15/&gt;має проблеми в компанії&lt;t16/&gt;,&lt;t17/&gt; то їм не спадає на думку вступити до університету&lt;t18/&gt;,&lt;t19/&gt; &lt;t20/&gt;&lt;t21/&gt;найвірогідніше &lt;t22/&gt;вони підуть &lt;t23/&gt;&lt;t24/&gt;до фірм, що займаються управлінням&lt;t25/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man das Skript schon gesehen hat, ist der Großteil schon gemacht&lt;t9/&gt; und man kann besser der Vorlesung folgen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T113825Z" creationid="ADMIN" creationdate="20210211T092615Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man nach Hause eingeladen wird, kann man zum Beispiel eigenes &lt;t6/&gt;E&lt;t7/&gt;ssen mitbringen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T124631Z" creationid="ADMIN" creationdate="20210212T124631Z">
+        <seg>Тобто якщо вас запросять в гості, ви можете принести свою їжу&lt;t6/&gt;&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man spontan Leute zu sich einlädt, zum Beispiel &lt;t16/&gt;„K&lt;t17/&gt;ommt morgen Abend zu mir &lt;t18/&gt;B&lt;t19/&gt;ier trinken&lt;t20/&gt;!“&lt;t21/&gt;, dann würden viele nicht kommen, weil sie schon was vorhaben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210213T090218Z" creationid="ADMIN" creationdate="20210213T090033Z">
+        <seg>Якщо ви неочікувано скажете: "Приходьте до мене завтра ввечері на пиво!", то будьте готові до того, що багато хто відмовить, оскільки вони вже мають інші плани&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie fühlst du dich in Deutschland?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T114318Z" creationid="ADMIN" creationdate="20210212T114318Z">
+        <seg>Як ти почуваєшся в Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie geht es dir mit der deutschen Sprache?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T104450Z" creationid="ADMIN" creationdate="20210210T164052Z">
+        <seg>Чи добре ти знаєш німецьку мову?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie nimmst du zwischenmenschliche Beziehungen und Freundschaften in Deutschland wahr?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T122008Z" creationid="ADMIN" creationdate="20210212T122008Z">
+        <seg>Що ти думаєш про міжособистісні стосунки та дружбу в Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie war das Studium für dich?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210210T201914Z" creationid="ADMIN" creationdate="20210210T201914Z">
+        <seg>Яким було для вас навчання?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie äußert sich das?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T114935Z" creationid="ADMIN" creationdate="20210212T114924Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wieso gerade an der OVGU?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210212T103400Z" creationid="ADMIN" creationdate="20210204T131835Z">
+        <seg>Чому саме університет Отто фон Ґеріке?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„&lt;t0/&gt;Maschinenbau ist immer gefragt und Maschinenbauer werden immer gesucht&lt;t1/&gt;“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210204T123642Z" creationid="ADMIN" creationdate="20210204T123642Z">
+        <seg>„&lt;t0/&gt;Машинобудування завжди матиме великий попит, а інженери-машинобудівники завжди будуть потрібні&lt;t1/&gt;“</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

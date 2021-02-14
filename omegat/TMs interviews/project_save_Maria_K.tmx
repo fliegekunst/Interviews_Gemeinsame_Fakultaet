@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="DE-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>(nickt) Wenn du an diese Zukunft denkst, hast du Angst?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T082921Z" creationid="krps" creationdate="20210211T085833Z">
+        <seg>Чи боїшся ти, коли думаєш про нього?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>2018-2020 (Ende für Frühjahr 2021 geplant)</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210213T114358Z" creationid="krps" creationdate="20210204T121313Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>&lt;t5/&gt;Kommt aus &lt;t6/&gt;Kyiw.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210204T121921Z" creationid="krps" creationdate="20210204T121921Z">
+        <seg>&lt;t5/&gt;Родом з &lt;t6/&gt;Києва.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Auf den ersten Blick schien es leicht, weil wir fast keine Aufgaben hatten, die wir im Laufe des Semesters erledigen mussten.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210204T123058Z" creationid="krps" creationdate="20210204T122415Z">
+        <seg>Спочатку було легко, тому що ми майже не мали завдань, які потрібно було виконувати протягом семестру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Außerdem habe ich viele Redewendungen gelernt, die Muttersprachler im Alltag sagen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T082417Z" creationid="krps" creationdate="20210210T223738Z">
+        <seg>Крім того, я вивчив багато виразів, які щодня вживають носії мови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Bist du mit deinem Deutsch zufrieden?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T074830Z" creationid="krps" creationdate="20210211T074830Z">
+        <seg>Ти задоволений своєю німецькою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Dann kam die erste Prüfungszeit, die war für mich und die anderen ein Albtraum!</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T143751Z" creationid="krps" creationdate="20210204T124953Z">
+        <seg>Потім почалася сесія, яка була для всіх справжнім кошмаром!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Darüber hinaus gibt es hier viele Leute aus der Ukraine (GUDFM-Studenten in erster Linie) und anderen postsowjetischen Ländern, mit denen fühle ich mich, wie zu Hause.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T171506Z" creationid="krps" creationdate="20210211T085305Z">
+        <seg>Крім того, тут є багато людей з України (насамперед із СУНФМ) та інших країн пострадянського простору, з якими я почуваюся немов вдома.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Darüber hinaus wurden viele Alltagsprobleme beseitigt und ich habe mich an das Leben in Deutschland ein bisschen gewöhnt.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T154035Z" creationid="krps" creationdate="20210210T095119Z">
+        <seg>звик до життя в Німеччині.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das Wörterbuch hat mir auch nicht geholfen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T164645Z" creationid="krps" creationdate="20210211T074030Z">
+        <seg>Словник також не допомагав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das bedeutet nur, dass ich anders bin.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T171318Z" creationid="krps" creationdate="20210211T084508Z">
+        <seg>Я просто інший</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das bedeutet, dass ich nur einen begrenzten Wortschatz aktiv benutze, was meine Sprachkenntnisse negativ beeinflusst.&lt;t2/&gt; &lt;t3/&gt;Trotzdem fühle ich mich viel sicherer bei der Kommunikation auf Deutsch als früher, obwohl ich noch Fehler beim flüssigen Reden mache.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T155017Z" creationid="krps" creationdate="20210210T220753Z">
+        <seg>Щодня я використовую лише невелику кількість слів, що не дуже добре впливає на знання мови.&lt;t2/&gt; &lt;t3/&gt;Незважаючи на це, я почуваюся набагато впевненішим під час спілкування німецькою, ніж раніше, хоча й часто роблю помилки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das bedeutete für mich nur eins: Es gibt auch eine Tageszeit, nämlich die Nacht, in der man auch etwas tun kann.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T080723Z" creationid="krps" creationdate="20210204T131234Z">
+        <seg>Саме ніч стала для мене тим часом, коли можна плідно попрацювати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das betrifft sowohl das Studium an der Uni, als auch das Leben in Deutschland insgesamt.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T090208Z" creationid="krps" creationdate="20210210T095222Z">
+        <seg>Це стосується як навчання в університеті, так і життя загалом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das fällt auf und das gefällt mir sehr.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T105430Z" creationid="krps" creationdate="20210211T091436Z">
+        <seg>Це мені дуже подобається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das hat ziemlich viel Zeit in Anspruch genommen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T143500Z" creationid="krps" creationdate="20210211T143500Z">
+        <seg>на які пішло чимало часу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das ist aber nicht vom Land abhängig.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T090000Z" creationid="krps" creationdate="20210211T090000Z">
+        <seg>Але це не залежить від країни.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das ist aber sehr selten und betrifft vorwiegend Gesundheit (d.h. medizinische Lexik).</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T164408Z" creationid="krps" creationdate="20210211T073351Z">
+        <seg>Але це буває дуже рідко і стосується лише специфічної лексики (наприклад, медичної).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das ist auch sehr unfair.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T214846Z" creationid="krps" creationdate="20210210T214846Z">
+        <seg>Це також дуже несправедливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das ist bestimmt ich mit der derzeitigen Lebensperiode verbunden.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T171028Z" creationid="krps" creationdate="20210211T083954Z">
+        <seg>А, можливо, це просто такий період в житті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das ist komisch.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T215917Z" creationid="krps" creationdate="20210210T215917Z">
+        <seg>Це насправді кумедно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das ist meine starke Empfehlung.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T101253Z" creationid="krps" creationdate="20210211T081357Z">
+        <seg>Це моя щира рекомендація.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das ist meiner Meinung nach der beste Weg.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T081953Z" creationid="krps" creationdate="20210211T081953Z">
+        <seg>На мою думку, це найкращий шлях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das ist selbstverständlich, weil die Zukunft immer unbekannt ist.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T155421Z" creationid="krps" creationdate="20210211T090258Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das liegt in erster Linie daran, dass ich mich fast nicht mit den Altersgenossen aus Deutschland unterhalte und zusammen mit ihnen Zeit verbringe.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T170851Z" creationid="krps" creationdate="20210211T083433Z">
+        <seg>Можливо, це трапляється тому, що я майже не розмовляю зі своїми однолітками з Німеччини та не проводжу з ними час.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das macht das Leben interessanter und öffnet neue Türen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T101441Z" creationid="krps" creationdate="20210211T082249Z">
+        <seg>Це робить життя цікавішим та відчиняє багато дверей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das sind vielleicht die Datenschutzregeln, die ich zu streng finde.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T171909Z" creationid="krps" creationdate="20210211T090840Z">
+        <seg>Можливо, це занадто суворі правила захисту даних.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das war ein Fiasko.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T074048Z" creationid="krps" creationdate="20210211T074048Z">
+        <seg>Це був провал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das war für mich eine Überraschung, als ich das von den Studenten aus anderem Austauschprogramm gehört habe.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T095539Z" creationid="krps" creationdate="20210210T100350Z">
+        <seg>Для мене стало несподіванкою, коли я почув це від студентів в інших програмах обміну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das war schwieriger als in Deutschland, hat aber das Semester gut strukturiert.&lt;t0/&gt; &lt;t1/&gt;Darüber hinaus gab es viele Alltagsprobleme und -fragen, die wir in der Freizeit beseitigen und lösen musste.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T083549Z" creationid="krps" creationdate="20210204T124659Z">
+        <seg>Це було важче, ніж у Німеччині, але добре структурувало семестр.&lt;t0/&gt; &lt;t1/&gt;Ба більше, було багато щоденних проблем та питань,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Dazu stehen immer ältere Generationen von ukrainischen Studierenden gerne zur Verfügung und helfen gerne.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T181154Z" creationid="krps" creationdate="20210211T080122Z">
+        <seg>Завжди можна звернутися до старших студентів,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Deshalb denke ich nicht an die ferne Zukunft.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T155534Z" creationid="krps" creationdate="20210211T090402Z">
+        <seg>Тому я не думаю про те, що буде, а</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Deshalb empfehle ich, den Mut aufzubringen, und sich an Mitarbeiter zu wenden.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T082915Z" creationid="krps" creationdate="20210211T081929Z">
+        <seg>Тому варто набратися сміливості та бути готовими звертатися по допомогу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Deshalb habe ich eigentlich fast nichts gemacht.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T081530Z" creationid="krps" creationdate="20210204T123143Z">
+        <seg>Саме тому я практично нічого не робив.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Deshalb hat sie mir diese Wörter mit den Händen erklärt.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T155336Z" creationid="krps" creationdate="20210211T074239Z">
+        <seg>Вона пояснювала мені слова на пальцях, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Deshalb ist es einfach, hier Unterstützung zu bekommen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T165618Z" creationid="krps" creationdate="20210211T080209Z">
+        <seg>які радо допоможуть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Deshalb war es für mich leichter, hier selbstständig Alltagsprobleme zu lösen und zu studieren.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T161631Z" creationid="krps" creationdate="20210210T100418Z">
+        <seg>Тому мені було простіше самостійно вирішувати повсякденні проблеми та вчитися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Deswegen bekommt man die Note, die man verdient hat.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T100627Z" creationid="krps" creationdate="20210210T100627Z">
+        <seg>Тому кожен отримує ту оцінку, яку заслуговує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Die Hauptgründe waren mein falsches Zeitmanagement und eine falsche Vorbereitungsstrategie.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T144237Z" creationid="krps" creationdate="20210204T130221Z">
+        <seg>Думаю, що це все через поганенький тайм-менеджмент та неправильну підготовку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Die Prüfungen sind wirklich fair und ihr Aufbau ist einfach genial.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T155425Z" creationid="krps" creationdate="20210210T100519Z">
+        <seg>Вони справді чесні, а їхня структура просто блискуча,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Die anderen Studierenden der GUDFM aus unterschiedlichen Generationen haben hier in Magdeburg entsprechendes Renommee.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T154507Z" creationid="krps" creationdate="20210210T100237Z">
+        <seg>Студенти СУНФМ мають тут, у Магдебурзі, хорошу репутацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Dieses Fremdheitsgefühl stört mir nicht.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T084351Z" creationid="krps" creationdate="20210211T084351Z">
+        <seg>Почуття того, що я чужий не заважає мені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Du siehst deine Zukunft in Deutschland?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T085333Z" creationid="krps" creationdate="20210211T085333Z">
+        <seg>Ти бачиш своє майбутнє в Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ein Abschluss des Studiums ist für Frühjahr 2021 geplant.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210204T121820Z" creationid="krps" creationdate="20210204T121820Z">
+        <seg>Закінчення навчання планується навесні 2021 року.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Eine gute Lösung sind HiWi-Tätigkeiten an der Uni.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T165754Z" creationid="krps" creationdate="20210211T080534Z">
+        <seg>Хорошим рішенням буде наукова діяльність в університеті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Erstens bekommen alle unterschiedliche Aufgaben, was ich unfair finde.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T100912Z" creationid="krps" creationdate="20210210T100912Z">
+        <seg>По-перше, кожному даються різні завдання, що я вважаю несправедливим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Es gibt unterschiedliche Möglichkeiten, eine solche Stelle zu kriegen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T082637Z" creationid="krps" creationdate="20210211T081500Z">
+        <seg>Можливостей отримати роботу дуже багато.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Es ist aber meine Würze.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T171328Z" creationid="krps" creationdate="20210211T084608Z">
+        <seg>і це мій вибір.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Fühlst du dich integriert?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T170551Z" creationid="krps" creationdate="20210211T082456Z">
+        <seg>Ти відчуваєш взаємодію з іншими?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Für mich war es unklar, was ich machen sollte, wie die Prüfungen aussehen usw. In der Ukraine musste ich systematisch unterschiedliche Aufgaben erledigen und während des Semesters abgeben.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T153950Z" creationid="krps" creationdate="20210204T123601Z">
+        <seg>Не міг зрозуміти, що треба виконувати, як виглядають іспити тощо. В Україні я систематично здавав різні завдання впродовж семестру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Gibt es &lt;t0/&gt;etwas&lt;t1/&gt;, d&lt;t2/&gt;as&lt;t3/&gt; dich an Deutschland stören?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T181915Z" creationid="krps" creationdate="20210211T090647Z">
+        <seg>Чи є &lt;t0/&gt;щось&lt;t1/&gt;, що &lt;t2/&gt;тобі&lt;t3/&gt; заважає в Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T082909Z" creationid="krps" creationdate="20210211T082909Z">
+        <seg>Чи все ж почуваєшся &lt;t0/&gt;чужим?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich bin sowieso fremd hier.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T171337Z" creationid="krps" creationdate="20210211T084442Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich danke sehr den GUDFM-Mitarbeitern dafür.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T154455Z" creationid="krps" creationdate="20210210T095842Z">
+        <seg>Я дуже дякую за це працівникам Спільного Українсько-Німецького Факультету Машинобудування (СУНФМ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich denke jetzt mehr daran, welche Hard- und Soft-Skills ich noch erwerben muss, um eine gute Stelle zu kriegen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T163329Z" creationid="krps" creationdate="20210210T215611Z">
+        <seg>Я ще розмірковую над тим, які навички мені ще треба освоїти, щоб отримати хорошу роботу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich empfehle auch, außerhalb des Studiums die eigene Bildung und Entwicklung weiter zu treiben und möglichst oft, die eigene Komfortzone zu verlassen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T101433Z" creationid="krps" creationdate="20210211T082222Z">
+        <seg>Також хочу порадити отримувати додаткові знання, розвиватися та якомога частіше покидати зону комфорту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich finde Menschen in Deutschland nett, freundlich und tolerant.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T091255Z" creationid="krps" creationdate="20210211T091255Z">
+        <seg>В Німеччині люди дружні та толерантні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich fühle mich glücklich.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T084409Z" creationid="krps" creationdate="20210211T084409Z">
+        <seg>Я щасливий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich glaube, dass ich in der Zukunft mehr mit den Muttersprachlern sprechen werde, damit ich sprachlich wieder in Hochform komme.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T164850Z" creationid="krps" creationdate="20210211T074757Z">
+        <seg>Надалі потрібно більше розмовляти з носіями мови, щоб знову "бути у формі".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich habe aber noch Zeit dafür.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T160201Z" creationid="krps" creationdate="20210210T215425Z">
+        <seg>Але в мене вистачає часу для цього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich habe beim nächsten Mal mein Zeitmanagement korrekt angepasst.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T154019Z" creationid="krps" creationdate="20210204T131919Z">
+        <seg>Потім я вже налаштував свій тайм-менеджмент та</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich habe darüber noch nicht so viel nachgedacht, weil ich zurzeit viele andere Sachen wie z.B. die Masterarbeit und meine HiWi-Aufgaben im Kopf habe.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T082301Z" creationid="krps" creationdate="20210210T215405Z">
+        <seg>Я над цим не замислювався, бо зараз багато працюю над магістерською роботою та науковою діяльністю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich habe doppelt so viel Zeit gebraucht für die Vorbereitung, als ich das geplant hatte.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T080632Z" creationid="krps" creationdate="20210204T130442Z">
+        <seg>Адже на неї я витратив вдвічі більше часу, ніж запланував.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich habe nicht verstanden, was für Beschwerden die Ärztin nennt.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T155042Z" creationid="krps" creationdate="20210211T074013Z">
+        <seg>Я взагалі не розумів, про які хвороби говорила лікарка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich halte das für wichtig.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T082530Z" creationid="krps" creationdate="20210211T080323Z">
+        <seg>І це справді круто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich hatte fast keine Zeit dafür.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T084055Z" creationid="krps" creationdate="20210211T084055Z">
+        <seg>Я не мав просто часу для цього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich konzentriere mich auf die Gegenwart und versuche alles zu tun, damit meine Zukunft möglichst besser wird.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T155556Z" creationid="krps" creationdate="20210211T090540Z">
+        <seg>зосереджуюся на теперішньому та намагаюся зробити зараз все, щоб моє майбутнє було якомога кращим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich war in der Notaufnahme des Krankenhauses und dort war es ganz lustig.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T164559Z" creationid="krps" creationdate="20210211T073823Z">
+        <seg>Одного разу в лікарні пережив кумедну ситуацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich werde auch in der Ukraine verschiedene Varianten betrachten.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T215708Z" creationid="krps" creationdate="20210210T215708Z">
+        <seg>Варіанти роботи в Україні я також візьму до уваги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich werde einen Job in Deutschland suchen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T215144Z" creationid="krps" creationdate="20210210T215144Z">
+        <seg>Я шукатиму роботу в Німеччині.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ich wohne in einer WG mit Artur Koval und Artem Mai&lt;t0/&gt;d&lt;t1/&gt;anovich.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T220401Z" creationid="krps" creationdate="20210210T220352Z">
+        <seg>Я живу в одній квартирі з Артуром Ковалем та Артемом Май&lt;t0/&gt;д&lt;t1/&gt;ановичем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Im Alltagsleben kommuniziere ich meistens mit anderen auf Ukrainisch, Russisch oder Englisch.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T163650Z" creationid="krps" creationdate="20210210T220246Z">
+        <seg>У побуті я розмовляю здебільшого українською, російською чи англійською.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Im Januar habe eine Vorlesung (1.5 Stunde) auf Deutsch gehalten und das war für mich kein Problem.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T175954Z" creationid="krps" creationdate="20210210T220934Z">
+        <seg>В січні я проводив півторагодинну лекцію німецькою і я б не сказав, що це було складно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Im Prinzip, ja, weil zu diesem Zeitpunkt mein Deutsch ausreichend ist, damit ich mich wohl in Deutschland fühle.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T164950Z" creationid="krps" creationdate="20210211T075019Z">
+        <seg>Загалом, моєї німецької достатньо, щоб комфортно почуватися в Німеччині.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Im Studium haben mir die Prüfungen sehr gefallen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T155415Z" creationid="krps" creationdate="20210210T100451Z">
+        <seg>У навчанні мені дуже подобалися іспити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>In Deutschland lerne ich alles auswendig, schreibe wie ein Roboter und trotzdem ist es manchmal schwierig, alle Aufgaben rechtzeitig zu schaffen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T162921Z" creationid="krps" creationdate="20210210T215041Z">
+        <seg>В Німеччині я все ретельно вивчаю, пишу немов робот, але, незважаючи на це, іноді дуже важко вчасно виконувати всі завдання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>In Magdeburg spreche ich meistens im Rahmen der HiWi-Tätigkeiten oder Lehrveranstaltungen Deutsch.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T163610Z" creationid="krps" creationdate="20210210T220130Z">
+        <seg>У Магдебурзі я переважно розмовляю німецькою мовою на навчанні та під час додаткової наукової роботи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>In der Ukraine gab es nur zwei oder drei Fragen pro Prüfung.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T155714Z" creationid="krps" creationdate="20210210T100829Z">
+        <seg>В Україні на екзамені подають лише два чи три питання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>In der Ukraine hatte ich mehr Sprachpraxis als in Deutschland im Moment.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T100449Z" creationid="krps" creationdate="20210210T215901Z">
+        <seg>В Україні я мав більше мовної практики, ніж зараз в Німеччині.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Interview am &lt;t0/&gt;09.10&lt;t1/&gt;.2020</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210204T121943Z" creationid="krps" creationdate="20210204T121943Z">
+        <seg>Інтерв'ю &lt;t0/&gt;09.10&lt;t1/&gt;.2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ja, ich fühle mich manchmal fremd.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T101806Z" creationid="krps" creationdate="20210211T083021Z">
+        <seg>Іноді я справді почуваюся чужим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Jetzt fühle ich mich wohl und sicher.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T154150Z" creationid="krps" creationdate="20210210T095151Z">
+        <seg>Зараз в мене все добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Jetzt habe ich schon mein Grundstudium abgeschlossen, habe mehr Zeit und dementsprechend mehr Möglichkeiten dafür.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T084255Z" creationid="krps" creationdate="20210211T084255Z">
+        <seg>Зараз я вже закінчив бакалаврат, тому маю більше часу і, відповідно, більше можливостей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Mal sehen, wie mir das gelingt.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T163019Z" creationid="krps" creationdate="20210210T215215Z">
+        <seg>Побачимо, як все складеться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Manchmal passieren Situationen, in denen ich ohne Wörterbuch nichts sagen kann.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T073246Z" creationid="krps" creationdate="20210211T073246Z">
+        <seg>Інколи трапляються ситуації, коли я не можу нічого сказати без словника.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Meine Kenntnisse sind aber zu verbessern.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T075323Z" creationid="krps" creationdate="20210211T075323Z">
+        <seg>Знання все ж треба покращувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Nach dem ersten Semester habe ich aber verstanden, wie das alles funktioniert, was ich während des Semesters zu tun habe und wie die Prüfungen aussehen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T081101Z" creationid="krps" creationdate="20210204T131522Z">
+        <seg>Після першого семестру я вже зрозумів, як все працює, що мені треба робити та як відбуваються істити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Natürlich habe ich Angst, wenn ich an die Zukunft denke.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T155409Z" creationid="krps" creationdate="20210211T085912Z">
+        <seg>Звісно, що я маю певний страх, коли думаю про майбутнє, адже воно завжди невідоме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Obwohl es am Anfang schwierig war, waren wir echt gut auf das Leben und Studium in Deutschland vorbereitet.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T154301Z" creationid="krps" creationdate="20210210T095341Z">
+        <seg>Хоча й спочатку було тяжко, але ми були підготовлені до життя та навчання в Німеччині.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Obwohl ich am Ende nicht so schlechte Ergebnisse erreicht habe, habe ich während der Vorbereitung unter großem Stress gestanden und fast nicht geschlafen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T144002Z" creationid="krps" creationdate="20210204T125505Z">
+        <seg>Хоч все і пройшло добре, але протягом підготовки я постійно стресував та майже не спав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Praktisch hängen solche Papierblätter Ewigkeiten irgendwo und sind oft nicht aktuell.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T170306Z" creationid="krps" creationdate="20210211T081729Z">
+        <seg>Але насправді це може тривати вічність.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Sie enthalten viele Fragen, die entweder alle, oder fast alle Themen umfassen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T175924Z" creationid="krps" creationdate="20210210T100551Z">
+        <seg>адже містить багато питань, що охоплюють або всі, або майже всі теми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Sie machen aber mein Leben sicherer und ich soll einfach daran noch gewöhnen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T155647Z" creationid="krps" creationdate="20210211T091118Z">
+        <seg>але водночас вони роблять моє життя надійнішим і мені треба просто до цього звикнути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Sie schaffen manche Schwierigkeiten.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T172045Z" creationid="krps" creationdate="20210211T090903Z">
+        <seg>З ними багато клопоту, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Sie sollten auch möglichst schnell Nebenjobs bzw. zusätzliche Geldquellen finden.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T165722Z" creationid="krps" creationdate="20210211T080437Z">
+        <seg>Також я порадив би якомога швидше знайти роботу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Sie sollten sich möglichst schneller vertraut machen, wie das Studium funktioniert und wie z.B. hier Prüfungen aussehen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T165136Z" creationid="krps" creationdate="20210211T075744Z">
+        <seg>Вам слід якомога швидше звикнути до того, як проходить навчання та іспити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Solche Stellen sind gut bezahlt und man kann gleichzeitig mehr oder weniger relevante Berufserfahrung sammeln, was positiv die Chancen auf dem Arbeitsmarkt beeinflusst, mehrere Skills erwerben und Kontakte mit den wissenschaftlichen Mitarbeitern knüpfen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T165905Z" creationid="krps" creationdate="20210211T081126Z">
+        <seg>Такі місця добре оплачуються і можна здобути більш-менш корисний досвід. Це підвищує ваші шанси на ринку праці, допомагає отримати хороші навички та контакт з іншими науковцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Studierte an der OVGU Magdeburg zwischen 201&lt;t0/&gt;8&lt;t1/&gt; und 20&lt;t2/&gt;20&lt;t3/&gt; Zerspantechnik&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210213T114323Z" creationid="krps" creationdate="20210204T120237Z">
+        <seg>Вивчає технологію обробки в Магдебурзі у 201&lt;t0/&gt;8&lt;t1/&gt;-20&lt;t2/&gt;20&lt;t3/&gt; рр. в університеті Отто фон Ґеріке&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Theoretisch kann man Stellenausschreibungen suchen und sich bewerben.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T170046Z" creationid="krps" creationdate="20210211T081547Z">
+        <seg>Звісно ви можете шукати оголошення про роботу та подавати заявки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Und das ist einfach, Angst vor dem Unbekannten zu haben.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T090331Z" creationid="krps" creationdate="20210211T090331Z">
+        <seg>Нормально мати страх перед незнайомцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Unsere gute Vorbereitung im Vergleich zu den anderen ausländischen Studenten ist auffällig.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T081150Z" creationid="krps" creationdate="20210210T095922Z">
+        <seg>Наша хороша підготовка, порівняно з іншими іноземними студентами, була відразу помітною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Viktor Artiushenko</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210204T120416Z" creationid="krps" creationdate="20210204T120416Z">
+        <seg>Віктор Артюшенко</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Was würdest du anderen ukrainischen Studierenden raten, die neu nach Deutschland kommen?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210213T114031Z" creationid="krps" creationdate="20210211T075504Z">
+        <seg>Щоб б ти порадив іншим українським студентам, які вперше приїжджають в Німеччину?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Welche Pläne hast du nach dem Studium?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T215123Z" creationid="krps" creationdate="20210210T215123Z">
+        <seg>Що робитимеш після навчання?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wenn ich was Interessantes für mich finde, ist es nicht ausgeschlossen, dass ich in die Ukraine zurückkehre.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210213T142408Z" creationid="krps" creationdate="20210210T215759Z">
+        <seg>Якщо знайду щось цікаве, то можливо навіть повернуся додому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wenn man 80% der Fragen gelernt hat, dann bekommt man die entsprechende Note.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T100729Z" creationid="krps" creationdate="20210210T100729Z">
+        <seg>Якщо студент вивчив 80% запитань, то він отримує відповідний бал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wenn man fünf Fragen aus 120 gut gelernt hat, bekommst du dann eine davon in der Aufgabe, in der es insgesamt zwei Fragen gibt und man könnte nur 50% der Punkte bekommen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T155919Z" creationid="krps" creationdate="20210210T101642Z">
+        <seg>Якщо вивчити якісно п’ять питань зі 120, тоді отримаєш одне з них у завданні, в якому міститься два запитання, тобто можна отримати лише половину балів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wie geht es dir mit der deutschen Sprache?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T215815Z" creationid="krps" creationdate="20210210T215815Z">
+        <seg>А як справи з німецькою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wie nimmst du zwischenmenschliche Beziehungen und Freundschaften wahr?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210213T114103Z" creationid="krps" creationdate="20210211T091210Z">
+        <seg>Як ти сприймаєш міжособистісні стосунки та дружбу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wie war das Studium für dich?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210212T080300Z" creationid="krps" creationdate="20210204T122101Z">
+        <seg>Яким було для тебе навчання?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wie äußert sich das?</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T082935Z" creationid="krps" creationdate="20210211T082935Z">
+        <seg>Як це проявляється?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wir haben gute Deutschkenntnisse, wir waren schon zweimal in Magdeburg und die Struktur der Uni war uns bekannt.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T154352Z" creationid="krps" creationdate="20210210T095518Z">
+        <seg>Ми добре знаємо німецьку, а до того двічі були в Магдебурзі і знаємо структуру університету.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wir haben sehr oft anderen ausländischen Studenten geholfen.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T175409Z" creationid="krps" creationdate="20210210T095950Z">
+        <seg>Ми часто їм допомагали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wir haben uns dann endlich verstanden.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T164709Z" creationid="krps" creationdate="20210211T074359Z">
+        <seg>але врешті-решт ми порозумілися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wir hatten auch Kenntnisse über die Kultur und die Geschichte.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210210T095554Z" creationid="krps" creationdate="20210210T095554Z">
+        <seg>Також ми знаємо трохи про культуру та мову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Zweitens ist das Lernen des Stoffes schwierig.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210211T155724Z" creationid="krps" creationdate="20210210T100932Z">
+        <seg>По-друге, вивчити матеріал справді складно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>„Die erste Prüfungszeit war der Albtraum!“</seg>
+      </tuv>
+      <tuv lang="UK" changeid="krps" changedate="20210204T120541Z" creationid="krps" creationdate="20210204T120541Z">
+        <seg>„Перша сесія була кошмаром!“</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

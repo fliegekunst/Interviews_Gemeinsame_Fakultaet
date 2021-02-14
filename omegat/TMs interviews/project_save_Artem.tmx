@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Von Jahr zu Jahr fühle ich mich im Deutschen sicherer und wohler.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T125137Z" creationid="PC" creationdate="20210204T125137Z">
+        <seg>&lt;t0/&gt;З кожним роком мені вдається легше і впевненіше комунікувати з німцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t1/&gt;Deswegen ist es sehr wichtig, am Anfang des Studiums in einem fremden Land, nicht so hohe Anforderungen an sich zu stellen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T131722Z" creationid="PC" creationdate="20210204T131722Z">
+        <seg>&lt;t1/&gt;Тому важливо не бути занадто вимогливим до себе, коли починаєте навчатися за кордоном.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t3/&gt;Dann habe ich gleich das Gefühl, dass ich distanziert wurde.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T155951Z" creationid="PC" creationdate="20210213T155951Z">
+        <seg>&lt;t3/&gt;Тоді я почуваюся чужою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t4/&gt; Die Frage für mich ist: Akzeptiere ich das?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T160017Z" creationid="PC" creationdate="20210213T160017Z">
+        <seg>&lt;t4/&gt; Питання в тому, чи приймаю я це?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t4/&gt;Im Alltag ist die Aussprache auch nicht besonders wichtig, aber das hilft trotzdem, sich wohler zu fühlen.&lt;t5/&gt; Von den deutschen Freunden wird mir &lt;t6/&gt;manchmal&lt;t7/&gt; gesagt, ich spreche &lt;t8/&gt;einige Wörter&lt;t9/&gt; falsch aus, &lt;t10/&gt;dann werde ich korrigiert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T151628Z" creationid="PC" creationdate="20210213T151628Z">
+        <seg>&lt;t4/&gt;Та і в повсякденні правильна вимова не така й важлива, але все одно допомагає відчувати себе комфортніше. &lt;t5/&gt; Мої друзі &lt;t6/&gt;іноді&lt;t7/&gt; вказують на помилки &lt;t8/&gt;у вимові певних слів&lt;t9/&gt; і &lt;t10/&gt;виправляють мене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t5/&gt;Am Anfang ja, ich fühlte mich sogar verletzt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T160518Z" creationid="PC" creationdate="20210213T160518Z">
+        <seg>&lt;t5/&gt;Спочатку мене це ображало.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Aber da ich mich eher für eine selbstkritische Person halte, bin ich nicht immer mit meinem Niveau zufrieden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T124137Z" creationid="PC" creationdate="20210204T124137Z">
+        <seg>Але оскільки я схильна вважати себе самокритичною людиною, я не завжди задоволена своїм рівнем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Aber…dass mein Akzent eine große Rolle fürs Leben spielt, kann ich nicht sagen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T163426Z" creationid="PC" creationdate="20210213T140008Z">
+        <seg>Але... я б не сказала, що він значною мірою впливає на моє життя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Alles kommt mit der Zeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T124628Z" creationid="PC" creationdate="20210204T124628Z">
+        <seg>Усе приходить з часом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Besonders in den Moment, wenn ich sehr tief in meinen Gedanken (natürlich auf Ukrainisch) bin.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210210T202941Z" creationid="PC" creationdate="20210210T202941Z">
+        <seg>Особливо тоді, коли я довго про щось собі думаю (і звичайно ж українською мовою).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>D&lt;t3/&gt;as entspricht aber nicht&lt;t4/&gt; ganz, was man hier braucht.&lt;t5/&gt; Dass man den Test&lt;t6/&gt;DaF&lt;t7/&gt; geschafft hat, bedeutet noch lange nicht, dass man gut &lt;t8/&gt;D&lt;t9/&gt;eutsch kann. &lt;t10/&gt;Außerdem lernt man in Sprachkursen keine Umgangssprache.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T133615Z" creationid="PC" creationdate="20210204T133615Z">
+        <seg>Але&lt;t3/&gt;це не зовсім&lt;t4/&gt; те, шо вам тут знадобиться.&lt;t5/&gt; Той факт, що&lt;t6/&gt;пройшли&lt;t7/&gt; TestDaF, не означає, що ви добре володієте &lt;t8/&gt;німецькою&lt;t9/&gt;мовою. &lt;t10/&gt;Крім того, на мовних курсах ви не вивчаєте розмовну мову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann brauche ich ein paar Sekunden um &lt;t0/&gt;von einer Sprache in eine andere zu wechseln.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210210T203808Z" creationid="PC" creationdate="20210210T203808Z">
+        <seg>Мені потрібно декілька секунд, щоб &lt;t0/&gt;переключитися з одної мови на іншу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann frage ich mich, ob ich nach 2 Jahren Studium an der „Gemeinsamen Ukrainisch-Deutschen Fakultät für Maschinenbau“ eiwandfrei die Sprache können sollte.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T124549Z" creationid="PC" creationdate="20210204T124549Z">
+        <seg>Тоді я запитую себе, чи повинна я досконало володіти мовою після двох років навчання на "Спільному Українсько-Німецькому Факультеті Машинобудування".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das alles in der Kombination hilft sowohl die Sprache zu verbessern, als auch neue Kultur kennenzulernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T170051Z" creationid="PC" creationdate="20210213T170051Z">
+        <seg>Все це в сукупності допомагає як вдосконалювати мову, так і пізнавати нову культуру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das finde ich nett und bin sehr dankbar für ihre Geduld und Unterstützung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210210T201456Z" creationid="PC" creationdate="20210210T201456Z">
+        <seg>Це дуже мило з їхнього боку і я вдячна їм за терпіння та підтримку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das habe ich hier gelernt, wie man richtig eigene Zeit organisieren kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T165421Z" creationid="PC" creationdate="20210213T165421Z">
+        <seg>Там я і дізналася як можна правильно організувати свій час.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das mache ich eigentlich sehr gerne.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T162433Z" creationid="PC" creationdate="20210213T162433Z">
+        <seg>І я з задоволенням цим займаюся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das muss man selbst in Magdeburg lernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210210T200021Z" creationid="PC" creationdate="20210210T200021Z">
+        <seg>Цього вам потрібно буде навчитися безпосередньо в Магдебурзі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die in der Ukraine durchgeführte Test&lt;t0/&gt;DaF-&lt;t1/&gt;Vorbereitung mit ihren typischen Aufgaben, wie Gra&lt;t2/&gt;fikbeschreibung oder Erörterung von Lebenssituationen, haben wir bis zur Perfektion geschliffen und konnten mitten in der Nacht alle Redewendungen auswendig erzählen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T133107Z" creationid="PC" creationdate="20210204T133107Z">
+        <seg>В Україні, готуючись до TestDaF, &lt;t0/&gt;з усіма&lt;t1/&gt;типовими для нього завданнями, такими як&lt;t2/&gt;опис графіка чи обговорення життєвих ситуацій, ми досконало вивчили всі відповіді на можливі завдання тесту і ми б їх розкалази напам'ять навіть якби нас розбудили посеред ночі. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dieses Thema ist auch sehr interessant und wichtig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T165308Z" creationid="PC" creationdate="20210213T165308Z">
+        <seg>Це насправді дуже цікаво і важливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erlebst du oft solche Situationen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T133707Z" creationid="PC" creationdate="20210213T133707Z">
+        <seg>Часто з тобою таке трапляється?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gibt oft die Situationen, wenn es sogar hilft, ein unerwünschtes Gespräch zu vermeiden (lacht).</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T133842Z" creationid="PC" creationdate="20210213T133842Z">
+        <seg>Бувають моменти, коли це справді допомагає уникнути небажаної розмови (сміється).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hast du Probleme mit dem Dialekt in &lt;t0/&gt;Sachsen-Anhalt&lt;t1/&gt; oder in Deutschland&lt;t2/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210210T200509Z" creationid="PC" creationdate="20210210T200509Z">
+        <seg>Чи були у тебе проблеми з діалектом &lt;t0/&gt;у Саксонії-Ангальт&lt;t1/&gt; або інших землях&lt;t2/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier an der O&lt;t2/&gt;V&lt;t3/&gt;GU besuche ich oft Workshops, z.B. darüber, wie man richtig eine Bewerbung schreibt&lt;t4/&gt; und worauf man bei dem Bewerbungsprozess achten&lt;t5/&gt; &lt;t6/&gt;muss.&lt;t7/&gt; &lt;t8/&gt;Oder ein Workshop auf das Thema Zeitmanagement.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T165214Z" creationid="PC" creationdate="20210213T165214Z">
+        <seg>А тут, в У&lt;t2/&gt;О&lt;t3/&gt;ВГ, я часто відвідую воркшопи, де навчають, наприклад, правильно писати заяви  &lt;t4/&gt; і розповідають на що звертати увагу під час їх &lt;t5/&gt; &lt;t6/&gt;подання.&lt;t7/&gt; &lt;t8/&gt;Або воркшоп на тему "Таймменеджмент".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe dann meine Freunde gefragt, was fühlen sie in solchen Situationen und habe mich danach entschieden, &lt;t6/&gt;keine Gedanken&lt;t7/&gt; mehr&lt;t8/&gt; darüber&lt;t9/&gt; zu machen&lt;t10/&gt;.&lt;t11/&gt; Es lohnt sich einfach nicht.&lt;t12/&gt; &lt;t13/&gt;Ja, ich muss hier&lt;t14/&gt; meine Sprache vereinfachen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T162510Z" creationid="PC" creationdate="20210213T161319Z">
+        <seg>Потім я порадилася з друзями і вирішила  &lt;t6/&gt;більше&lt;t7/&gt; не звертати&lt;t8/&gt; на те&lt;t9/&gt; уваги&lt;t10/&gt;.&lt;t11/&gt; Воно того не варте.&lt;t12/&gt; &lt;t13/&gt;Так, я вимушена спрощувати&lt;t14/&gt; мову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe hier auch mehr Zeit fürs Lesen und Hobbies.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T171123Z" creationid="PC" creationdate="20210213T165641Z">
+        <seg>Тут, в Магдебурзі, я можу приділяти більше часу читанню книг та моїм хоббі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich kann mich nicht so gut ausdrücken&lt;t15/&gt;, wie auf Ukrainisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T161411Z" creationid="PC" creationdate="20210213T161411Z">
+        <seg>Я не можу висловлюватися так вміло,&lt;t15/&gt;як українською.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich verstehe nicht immer die Witze oder wenn jemand etwas sehr schnell sagt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210210T202313Z" creationid="PC" creationdate="20210210T202313Z">
+        <seg>Я не завжди розумію жарти або коли хтось занадто швидко говорить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich versuche alles zu merken, damit nächstes Mal mehr „deutsch“ zu klingeln (lacht).</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T152123Z" creationid="PC" creationdate="20210213T152123Z">
+        <seg>Я намагаюся все запам'ятати, щоб наступного разу звучати більш "по-німецьки" (сміється).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im Studium ist es nicht so wichtig, insbesondere für &lt;t0/&gt;diejenigen&lt;t1/&gt;, die keine &lt;t2/&gt;Geisteswissenschaften&lt;t3/&gt; oder etwas Vergleichbares lernen, wo man viel Kommunikation hat.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T151150Z" creationid="PC" creationdate="20210213T151150Z">
+        <seg>Це не так важливо в навчанні, &lt;t0/&gt;особливо для тих,&lt;t1/&gt;, хто не вивчає &lt;t2/&gt;гуманітарні науки&lt;t3/&gt; або щось подібне, де потрібно багато спілкуватися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der Ukraine hat man als Student &lt;t0/&gt;nicht so viel freie &lt;t1/&gt;Zeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T164216Z" creationid="PC" creationdate="20210213T164216Z">
+        <seg>В Україні у студента &lt;t0/&gt;не так багато вільного &lt;t1/&gt;часу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Interview am 04&lt;t0/&gt;.&lt;t1/&gt;12&lt;t2/&gt;.&lt;t3/&gt;2019</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T122928Z" creationid="PC" creationdate="20210204T122928Z">
+        <seg>Інтерв'ю від 04&lt;t0/&gt;.&lt;t1/&gt;12&lt;t2/&gt;.&lt;t3/&gt;2019</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Inwieweit beeinflusst mich das?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T160505Z" creationid="PC" creationdate="20210213T160505Z">
+        <seg>Як це на мене впливає?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kommt aus &lt;t0/&gt;Oleksandriya</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T122821Z" creationid="PC" creationdate="20210204T122821Z">
+        <seg>Родом з &lt;t0/&gt;Олександрії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Macht mich das dümmer?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T162020Z" creationid="PC" creationdate="20210213T162020Z">
+        <seg>Чи означає це, що мені бракує розуму?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man kann nicht neue Sprache sofort fühlen und zwischen den Zeilen lesen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T124853Z" creationid="PC" creationdate="20210204T124853Z">
+        <seg>Не можна отак зразу відчути нову мову і навчитися читати між рядків.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Maryna Bosiaha</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T120910Z" creationid="PC" creationdate="20210204T120910Z">
+        <seg>Марина Босяга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mindestens sagen alle so (lacht).</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210210T201319Z" creationid="PC" creationdate="20210210T201319Z">
+        <seg>Принаймні вони так кажуть (сміється).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Natürlich gibt es manchmal Probleme in der Alltagskommunikation.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210210T202118Z" creationid="PC" creationdate="20210210T202118Z">
+        <seg>Звичайно бувають іноді непорозуміння у повсякденному спілкуванні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Natürlich hört man es sofort, dass ich nicht aus Deutschland komme.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T135856Z" creationid="PC" creationdate="20210213T135856Z">
+        <seg>Звичайно, я говорю з акцентом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nein.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T162026Z" creationid="PC" creationdate="20210213T162026Z">
+        <seg>Ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nein.&lt;t0/&gt; &lt;t1/&gt;Die meisten Deutschen sind daran gewöhnt, dass es viele Ausländer in Deutschland gibt, außerdem sind sie sehr tolerant und haben keine Probleme auf &lt;t2/&gt;Hochdeutsch zu reden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210210T201206Z" creationid="PC" creationdate="20210210T201206Z">
+        <seg>Ні.&lt;t0/&gt; &lt;t1/&gt;Більшість німців уже звикли до того, що в Німеччині багато іноземців, тому вони ставляться до нас з розумінням і запросто можуть перейти &lt;t2/&gt;на літературну німецькую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Offensichtlich nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T124606Z" creationid="PC" creationdate="20210204T124606Z">
+        <seg>Очевидно, ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schon viel besser, als am Anfang meines Studiums hier in Magdeburg.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T123137Z" creationid="PC" creationdate="20210204T123137Z">
+        <seg>Набагато краще, ніж на початку мого навчання тут, в Магдебурзі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Soll ich aber trotzdem &lt;t16/&gt;an mir &lt;t17/&gt;selbst &lt;t18/&gt;arbeiten und meine Sprachkenntnisse verbessern?&lt;t19/&gt; Ja, klar.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T162244Z" creationid="PC" creationdate="20210213T162244Z">
+        <seg>Але чи варто мені працювати &lt;t16/&gt;над &lt;t17/&gt;собою &lt;t18/&gt;та вдосконалювати мовні навички?&lt;t19/&gt; Авжеж.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Studiert an der OVGU &lt;t0/&gt;seit 2017 Werkstofftechnik</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T122721Z" creationid="PC" creationdate="20210204T122721Z">
+        <seg>Вивчає матеріалознавство в університеті Отто-фон-Гьоріке  &lt;t0/&gt;з 2017 року</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was ich nicht mag, dass es wenn die Leute&lt;t0/&gt; sagen „Was, bitte?“, selbst wenn ich &lt;t1/&gt;mir sicher bin&lt;t2/&gt;, dass sie das verstanden haben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T154234Z" creationid="PC" creationdate="20210213T154234Z">
+        <seg>А от не подобається мені, коли відповідають "Перепрошую?"&lt;t0/&gt; навіть тоді, коли &lt;t1/&gt;я впевнена,&lt;t2/&gt;що мене зрозуміли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie geht es dir mit der deutschen Sprache?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T123046Z" creationid="PC" creationdate="20210204T123046Z">
+        <seg>Як у тебе справи з Німецькою мовою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie versuchst du, an dir selbst zu arbeiten?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T164007Z" creationid="PC" creationdate="20210213T164007Z">
+        <seg>Ти сказала, що важливо працювати над собою. Що саме ти робиш для цього?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zum Beispiel, wenn jemand ruft an, um eine Umfrage durchzuführen oder auf der Straße etwas verkaufen will, dann sage ich „Oh, sorry, i&lt;t0/&gt;ch verstehe sie leider nicht so gut.&lt;t1/&gt;“ Obwohl ist es nicht so.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210213T135138Z" creationid="PC" creationdate="20210213T135138Z">
+        <seg>Наприклад, коли мені хтось телефонуює, щоб провести опитування або щось продати, я відповідаю: "Перепрошую, &lt;t0/&gt;але я не дуже розумію про що ви.&lt;t1/&gt;“ Хоча насправді це не так.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Але&lt;t3/&gt;це не зовсім&lt;t4/&gt; те, шо вам тут знадобиться.&lt;t5/&gt; Той факт, що&lt;t6/&gt;пройшли&lt;t7/&gt; TestDaF, не означає, що ви добре володієте &lt;t8/&gt;німецькою&lt;t9/&gt;мовою. &lt;t10/&gt;Крім того, на мовних курсах ви не вивчаєте розмовну мову.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210210T200026Z" creationid="PC" creationdate="20210210T195900Z">
+        <seg>Але&lt;t3/&gt;це не зовсім&lt;t4/&gt; те, що вам тут знадобиться.&lt;t5/&gt; Той факт, що&lt;t6/&gt;ви пройшли&lt;t7/&gt; TestDaF, не означає, що ви добре володієте &lt;t8/&gt;німецькою&lt;t9/&gt;мовою. &lt;t10/&gt;Крім того, на мовних курсах ви не вивчаєте розмовну мову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Вивчає матеріалознавство в університеті Отто-фон-Гьоріке  &lt;t0/&gt;з 2017 року</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210211T112018Z" creationid="PC" creationdate="20210211T112018Z">
+        <seg>Вивчає матеріалознавство в університеті Отто фон Геріке  &lt;t0/&gt;з 2017 року</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„&lt;t0/&gt;Von Jahr zu Jahr fühle ich mich i&lt;t1/&gt;n Deutschland &lt;t2/&gt;sicherer und wohler&lt;t3/&gt;!“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210204T121840Z" creationid="PC" creationdate="20210204T121840Z">
+        <seg>„&lt;t0/&gt;З кожним роком, у&lt;t1/&gt;Німеччині, &lt;t2/&gt;я відчуваю себе впевненіше та комфортніше&lt;t3/&gt;!“</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
