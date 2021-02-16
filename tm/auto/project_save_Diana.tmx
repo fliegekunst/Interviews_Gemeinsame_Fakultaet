@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Die wichtigste Frage für mich war: &lt;t1/&gt;Wie &lt;t2/&gt;werde ich&lt;t3/&gt; selbstständig?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T173504Z" creationid="Диана" creationdate="20210204T123233Z">
+        <seg>&lt;t0/&gt;
+Найголовнішим запитанням для мене було: &lt;t1/&gt;як &lt;t2/&gt;мені стати&lt;t3/&gt; самостійним? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Ich habe Angst, mein Hochdeutsch zu verlernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T175310Z" creationid="Диана" creationdate="20210204T130146Z">
+        <seg>&lt;t0/&gt;Я боюся забути свою літературну німецьку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t1/&gt;Ich würde das g&lt;t2/&gt;erne als eigene Sprache kennen und das von der hochdeutschen Sprache trennen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T175415Z" creationid="Диана" creationdate="20210204T130424Z">
+        <seg>&lt;t1/&gt;Я хотів би знати діалект як свою власну мову та відокремити від літературної німецької.&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t11/&gt;Außerdem verstand ich lange nicht, wie das mit den &lt;t12/&gt;Ärzte&lt;t13/&gt;n&lt;t14/&gt; und Krankenkassen &lt;t15/&gt;funktioniert und was der Unterschied zwischen gesetzlichen und privaten Krankenkassen ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T133549Z" creationid="Диана" creationdate="20210204T133549Z">
+        <seg>&lt;t11/&gt;До того ж, я довгий час не розумів, як працюють лікарі та медичні страхові компанії та яка різниця між державними та приватними. &lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;  &lt;t15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t14/&gt;Erzgebirgisch&lt;t15/&gt; ist ein seltsamer Dialekt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T125607Z" creationid="Диана" creationdate="20210204T125607Z">
+        <seg>&lt;t14/&gt;Erzgebirgisch&lt;t15/&gt; дивний діалект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t18/&gt;Es ist extrem wichtig, andere Studierende zu treffen und kennen zu lernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T124527Z" creationid="Диана" creationdate="20210204T124527Z">
+        <seg>&lt;t18/&gt;Надзвичайно важливо зустрітися і познайомитися з іншими студентами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t19/&gt;Man lernt auf Partys &lt;t20/&gt;super &lt;t21/&gt;Leute kennen und kann dann etwas nachfragen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T175008Z" creationid="Диана" creationdate="20210204T124650Z">
+        <seg>&lt;t19/&gt;Ви спочатку знайомитеся з чудовими людьми на вечірках, а потім можете задавати їм питання. &lt;t20/&gt; &lt;t21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t2/&gt;Ich habe &lt;t3/&gt;aber auch &lt;t4/&gt;nicht viele &lt;t5/&gt;deutsche &lt;t6/&gt;Freunde&lt;t7/&gt; und&lt;t8/&gt; nehme wenig Kontakt &lt;t9/&gt;zu Deutschen &lt;t10/&gt;auf.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T132449Z" creationid="Диана" creationdate="20210204T132449Z">
+        <seg>&lt;t2/&gt;Але у мене також не так багато друзів, і я не надто багато контактую з німцями. &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t4/&gt;Es gibt so viele Sachen zu erledigen, wie die Organisation der WG, r&lt;t5/&gt;echtliche Sachen, &lt;t6/&gt;das Visum, usw&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T173623Z" creationid="Диана" creationdate="20210204T123500Z">
+        <seg>&lt;t4/&gt;Так багато проблем, котрі треба вирішити, наприклад, такі як оренда квартири&lt;t5/&gt;
+юридичні питання, &lt;t6/&gt;віза тощо.&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t6/&gt;Also nehmt das Masterprojekt ernst und strengt euch an!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T131922Z" creationid="Диана" creationdate="20210204T131922Z">
+        <seg>&lt;t6/&gt;Тож відностесь до магістерського проєкту серйозно і докладайте зусиля!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t6/&gt;Das war super!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T133044Z" creationid="Диана" creationdate="20210204T133044Z">
+        <seg>&lt;t6/&gt;Це було чудово!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Am Anfang war das &lt;t16/&gt;für mich &lt;t17/&gt;eine andere Sprache.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T125929Z" creationid="Диана" creationdate="20210204T125929Z">
+        <seg> Спочатку для мене це була інша мова&lt;t16/&gt;&lt;t17/&gt;..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bist du mit deinem Deutsch zufrieden?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T130503Z" creationid="Диана" creationdate="20210204T130503Z">
+        <seg>Ви задоволені своєю німецькою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann gab es sprachliche Probleme.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T123727Z" creationid="Диана" creationdate="20210204T123727Z">
+        <seg>Потім були мовні проблеми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das deutsche&lt;t0/&gt; Banksystem&lt;t1/&gt; finde ich nicht so gut wie das ukrainische Banksystem&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T133320Z" creationid="Диана" creationdate="20210204T133320Z">
+        <seg>Я не думаю, що німецька банківська система настільки хороша, як українська&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das hängt aber bei mir immer damit zusammen, wie wo&lt;t11/&gt;hl ich mich bei der Arbeit fühl&lt;t12/&gt;e&lt;t13/&gt;, und im Moment geht es mir auf meiner Arbeit gut&lt;t14/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T175524Z" creationid="Диана" creationdate="20210204T131322Z">
+        <seg>Але для мене це завжди пов’язано з тим,&lt;t11/&gt;наскільки комфортно я почуваюся на роботі,і на даний момент мені там добре&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das war gar nicht so einfach.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T122806Z" creationid="Диана" creationdate="20210204T122806Z">
+        <seg>Це було не так-то просто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Davor habe ich Angst.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T130113Z" creationid="Диана" creationdate="20210204T130113Z">
+        <seg>Це те, чого я боюся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Firma beschäftigt sich mit Karosseriebau und Kleinteile.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T174705Z" creationid="Диана" creationdate="20210204T122654Z">
+        <seg>Компанія займається конструкцією кузовів та дрібними деталями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Studierenden&lt;t7/&gt;, die schon &lt;t8/&gt;in Magdeburg sind&lt;t9/&gt;, können auf jeden Fall helfen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T132020Z" creationid="Диана" creationdate="20210204T132020Z">
+        <seg>Студенти, які вже перебувають у Магдебурзі, безумовно можуть допомогти.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gab bestimmt einen Moment, an dem ich gemerkt habe, dass ich frei reden kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T131112Z" creationid="Диана" creationdate="20210204T131112Z">
+        <seg>Безумовно, був момент, коли я зрозумів, що можу вільно розмовляти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es war aber sehr hilfreich, jemanden &lt;t10/&gt;zu kennen&lt;t11/&gt; und &lt;t12/&gt;von dieser Person &lt;t13/&gt;die Mitschrift &lt;t14/&gt;zu &lt;t15/&gt;bekomm&lt;t16/&gt;en&lt;t17/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T124423Z" creationid="Диана" creationdate="20210204T124423Z">
+        <seg>Але було дуже корисно знати когось і отримати від нього стенограму. &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Früher &lt;t11/&gt;hatte ich ein&lt;t12/&gt; stärker&lt;t13/&gt;es Fremdheitsgefühl&lt;t14/&gt; als jetzt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T132617Z" creationid="Диана" creationdate="20210204T132617Z">
+        <seg>Раніше відчуття відчуженості у мене було сильніше .&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gab es einen spezifischen Moment, als du gemerkt hast, jetzt kann ich frei &lt;t0/&gt;Deutsch &lt;t1/&gt;reden?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T175507Z" creationid="Диана" creationdate="20210204T130809Z">
+        <seg>Чи був якийсь конкретний момент, коли ти помітив, що тепер можешь вільно розмовляти німецькою? &lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gibt es Sachen, die dich an Deutschland stören?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T133143Z" creationid="Диана" creationdate="20210204T133143Z">
+        <seg>Чи є речі, які турбують вас у Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T132045Z" creationid="Диана" creationdate="20210204T132045Z">
+        <seg>У вас є відчуття відчуженості &lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich arbeite in Zwönitz in der Analyse-Abteilung und im Werksengeneering.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T122404Z" creationid="Диана" creationdate="20210204T122404Z">
+        <seg>Я працюю в Цвоніці в аналітичному відділі та на фабричному машинобудуванні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich bin eigentlich &lt;t0/&gt;ganz &lt;t1/&gt;zufrieden&lt;t2/&gt; mit meinem Deutsch&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T130618Z" creationid="Диана" creationdate="20210204T130618Z">
+        <seg>Я насправді цілком задоволений своєю німецькою. &lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe als Werksstudent angefangen und wurde dann übernommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T174329Z" creationid="Диана" creationdate="20210207T174329Z">
+        <seg>Мене взяли туди, коли я ще був студентом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe richtig viele er&lt;t0/&gt;z&lt;t1/&gt;gebirgische Wörter gelernt, z&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;B.&lt;t5/&gt; &lt;t6/&gt;„G&lt;t7/&gt;lück auf&lt;t8/&gt;!“&lt;t9/&gt; Wenn ich jetzt nach &lt;t10/&gt;Magdeburg&lt;t11/&gt; komme, wundere ich mich, dass alle ganz normal &lt;t12/&gt;D&lt;t13/&gt;eutsch reden und ich sie gut verstehen kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T175253Z" creationid="Диана" creationdate="20210204T125455Z">
+        <seg>&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;B.&lt;t5/&gt; &lt;t6/&gt;„G&lt;t7/&gt;lück auf&lt;t8/&gt;!“&lt;t9/&gt; Я правильно вивчив багато сленгових слів, наприклад " "Glück auf!“ Тепер, коли я приїжджаю в Магдебург, я дивуюся, що всі говорять для мене звично і я можу всіх розуміти.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe super viele Leute auf Partys kennen gelernt, mit denen &lt;t22/&gt;ich&lt;t23/&gt; super quatschen&lt;t24/&gt; konnte&lt;t25/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T124734Z" creationid="Диана" creationdate="20210204T124734Z">
+        <seg>Я познайомився з багатьма людьми на вечірках, з якими я міг дуже добре поспілкуватися.&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich musste viele Sachen lernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T122909Z" creationid="Диана" creationdate="20210204T122909Z">
+        <seg>Мені довелося багато чому навчитися..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich würde nicht empfehlen, das zu machen, was ich gemacht habe&lt;t0/&gt;:&lt;t1/&gt; Ich bin &lt;t2/&gt;im&lt;t3/&gt; Masterprojekt durchgefallen und hatte ries&lt;t4/&gt;ige&lt;t5/&gt; Schwierigkeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T131802Z" creationid="Диана" creationdate="20210204T131802Z">
+        <seg>Я б не рекомендував робити те, що робив я. Я провалив магістерський проект і мав величезні труднощі.&lt;t0/&gt;:&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im Sept&lt;t7/&gt;ember&lt;t8/&gt; bin ich dann&lt;t9/&gt; ganz&lt;t10/&gt; umgezogen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T131020Z" creationid="Диана" creationdate="20210204T131020Z">
+        <seg>Потім у вересні я повністю переїхав.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In 10 Jahren sprichst du vielleicht auch so.&lt;t0/&gt; &lt;t1/&gt;(Nickt)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T130048Z" creationid="Диана" creationdate="20210204T130048Z">
+        <seg>Можливо, через 10 років ви теж будете говорити так.&lt;t0/&gt; &lt;t1/&gt;(Киває)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In &lt;t3/&gt;der &lt;t4/&gt;Privatbank &lt;t5/&gt;kannst&lt;t6/&gt; du &lt;t7/&gt;eine &lt;t8/&gt;Überweisung in drei Sekunden &lt;t9/&gt;machen &lt;t10/&gt;– kostenlos!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T173413Z" creationid="Диана" creationdate="20210204T133442Z">
+        <seg>У приватбанку ти можешь здійснити переказ за три секунди - безкоштовно!&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der Ukraine gibt es das nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T180454Z" creationid="Диана" creationdate="20210204T133947Z">
+        <seg> В Україні такого немає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Interview am 11.03.2020</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T122141Z" creationid="Диана" creationdate="20210204T122141Z">
+        <seg>Інтерв'ю на 11.03.2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ja, n&lt;t0/&gt;achdem ich nach Zwönitz umgezogen bin, &lt;t1/&gt;das war &lt;t2/&gt;im September 2019. Als Werkstudent habe ich in Chemnitz gewohnt und bin ständig nach Zwönitz und nach Magde&lt;t3/&gt;burg&lt;t4/&gt; &lt;t5/&gt;gependelt&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T130915Z" creationid="Диана" creationdate="20210204T130915Z">
+        <seg>Так, після того, як я переїхав до Цвоніца, це було у вересні 2019 року. Як студент, що працював, я жив у Хемніці і завжди їздив до Цвінця та Магдебурга.&lt;t0/&gt; &lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kollegen versuchen mit mir, Hochdeutsch zu reden, aber das können sie manchmal &lt;t18/&gt;gar &lt;t19/&gt;nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T130229Z" creationid="Диана" creationdate="20210204T130015Z">
+        <seg>Колеги намагаються розмовляти зі мною літературною німецькою мовою, але іноді не можуть.&lt;t18/&gt; &lt;t19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kommt aus Khmelnitzky</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T122112Z" creationid="Диана" creationdate="20210204T122112Z">
+        <seg>Родом з Хмельницького</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Meine Aufgabe ist es, alle Abläufe, wie z.B. Schweißen oder andere begleitende Prozesse, zu optimieren und zu verbessern.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T174540Z" creationid="Диана" creationdate="20210204T122458Z">
+        <seg>Моє завдання полягає в оптимізації та вдосконаленні всіх процесів, наприклад, таких як зварювання або інші супутні з цим справи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mittlerweile quatsche ich auch&lt;t15/&gt; ohne Probleme&lt;t16/&gt; mit &lt;t17/&gt;meinen&lt;t18/&gt; Kollegen auf Arbeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T175544Z" creationid="Диана" creationdate="20210204T131431Z">
+        <seg>Зараз я без проблем спілкуюся з колегами на роботі&lt;t15/&gt;&lt;t16/&gt;  &lt;t17/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nicht direkt&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T132207Z" creationid="Диана" creationdate="20210204T132207Z">
+        <seg>Не безпосередньо&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Niemand sagt mir ins Gesicht, &lt;t1/&gt;dass ich ein Ausländer bin oder irgendwo ausgeschlossen bin.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T132309Z" creationid="Диана" creationdate="20210204T132309Z">
+        <seg>Мені ніхто не каже в обличчя, що я іноземець або десь виключенний. &lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Studierte an der OVGU Magdeburg Laser&lt;t0/&gt;technik</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T173309Z" creationid="Диана" creationdate="20210204T122054Z">
+        <seg>Вивчав лазерні технології в Університеті Отто фон Геріке в Магдебурзі &lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ukrainische und deutsche Studierende zusammen, wir haben in einer &lt;t1/&gt;WG&lt;t2/&gt; gewohnt &lt;t3/&gt;und &lt;t4/&gt;zusammen Party gemacht&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T133016Z" creationid="Диана" creationdate="20210204T133016Z">
+        <seg>Ми з українськими та німецькими студенти жили разом у спільній квартирі та влаштовували вечірки разом. &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vielleicht brauchte ich aber auch mehr Zeit, um mich &lt;t15/&gt;an alles&lt;t16/&gt; zu gewöhnen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T132712Z" creationid="Диана" creationdate="20210204T132712Z">
+        <seg> А може, мені просто потрібно було більше часу, щоб звикнути до всього.&lt;t15/&gt;&lt;t16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was machst du jetzt?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T122231Z" creationid="Диана" creationdate="20210204T122231Z">
+        <seg>Чим ти зараз займаєшься?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was würdes&lt;t0/&gt;t du anderen ukrainischen Studierenden&lt;t1/&gt; raten, die neu nach Deutschland kommen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T131628Z" creationid="Диана" creationdate="20210204T131628Z">
+        <seg>Що б ви&lt;t0/&gt;порадили іншим українським студентам, які приїжджають до Німеччини?&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn der Prof&lt;t0/&gt;essor sagt: „Achtung, das ist prüfu&lt;t1/&gt;ngsrelevant&lt;t2/&gt;!“ und man hat&lt;t3/&gt; &lt;t4/&gt;das nicht mitbekommen, dann ha&lt;t5/&gt;t &lt;t6/&gt;man&lt;t7/&gt; &lt;t8/&gt;eben &lt;t9/&gt;Pech.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T124328Z" creationid="Диана" creationdate="20210204T124328Z">
+        <seg>Якщо професор каже: "Увага, це пов'язано з іспитом! &lt;t1/&gt;&lt;t2/&gt;і ви&lt;t3/&gt; &lt;t4/&gt;цього не зрозуміли, то вам просто не пощастило&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt; &lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie geht es dir mit der deutschen Sprache?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T125058Z" creationid="Диана" creationdate="20210204T125058Z">
+        <seg>Як у тебе з німецькою мовою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie war das Studium &lt;t0/&gt;an der OVGU &lt;t1/&gt;für dich?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T173434Z" creationid="Диана" creationdate="20210204T122746Z">
+        <seg>Як тобі навчання &lt;t0/&gt; в  Університеті Отто фон Геріке?&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie äußert sich das?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T132122Z" creationid="Диана" creationdate="20210204T132122Z">
+        <seg>Як це виражається?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wo arbeitest du nach dem Studium?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T122314Z" creationid="Диана" creationdate="20210204T122314Z">
+        <seg>Де ти працюєш після навчання?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Während des Studiums waren wir eine gute Gruppe&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210204T132812Z" creationid="Диана" creationdate="20210204T132812Z">
+        <seg>Під час навчання ми були хорошою групою&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„Ich habe super viele Leute kennen gelernt“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210207T174504Z" creationid="Диана" creationdate="20210204T121755Z">
+        <seg>"Я познайомився з багатьма новими людьми" </seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
