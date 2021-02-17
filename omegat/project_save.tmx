@@ -1658,8 +1658,8 @@
       <tuv lang="de-DE">
         <seg>Er konnte sich nicht vorstellen, dass Ingenieure gut verdienen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T170933Z" creationid="Kate" creationdate="20210211T110039Z">
-        <seg>Він не міг уявити, що інженери заробляють непогані гроші.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210217T200600Z" creationid="Kate" creationdate="20210211T110039Z">
+        <seg>Він не міг уявити, що інженери взагалі заробляють непогані гроші.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1970,8 +1970,8 @@
       <tuv lang="de-DE">
         <seg>Gibt es Sachen, die dich an Deutschland stören?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T134348Z" creationid="Lenovo" creationdate="20210214T134348Z">
-        <seg>Чи є речі, які турбують вас у Німеччині?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210217T200746Z" creationid="Lenovo" creationdate="20210214T134348Z">
+        <seg>Чи є у Німеччині речі, які тебе бентежать?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3402,8 +3402,8 @@
       <tuv lang="de-DE">
         <seg>Keiner glaubt, dass ich einfach hierher gefahren bin, weil ich alle Prüfungen bestanden habe, viele denken, ich hatte &lt;t5/&gt;„&lt;t6/&gt;Vitamin &lt;t7/&gt;B“&lt;t8/&gt; oder habe &lt;t9/&gt;Geld&lt;t10/&gt; bezahlt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210211T110754Z" creationid="Kate" creationdate="20210211T110357Z">
-        <seg>Ніхто не вірить, що я просто приїхала сюди, тому що склала всі іспити, багато хто думає, що у мене був &lt;t5/&gt;„вітамін&lt;t6/&gt; &lt;t7/&gt;B“&lt;t8/&gt; або я заплатила гроші &lt;t9/&gt;&lt;t10/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210217T201037Z" creationid="Kate" creationdate="20210211T110357Z">
+        <seg>Ніхто не вірить, що я просто приїхала сюди, тому що склала всі іспити, багато хто думає, що у мене тут зв'язки &lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;або ж я заплатила гроші&lt;t9/&gt;&lt;t10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
