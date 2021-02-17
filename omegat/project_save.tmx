@@ -1930,8 +1930,8 @@
       <tuv lang="de-DE">
         <seg>Für mich ist eher Sächsisch ein Problem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T203313Z" creationid="Kate" creationdate="20210210T203313Z">
-        <seg>Для мене, ймовіршніше, сам по собі саксонський діалект - проблема.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210217T195929Z" creationid="Kate" creationdate="20210210T203313Z">
+        <seg>Для мене, ймовірніше, сам по собі саксонський діалект - проблема.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,8 +3994,8 @@
       <tuv lang="de-DE">
         <seg>Seitdem ich auch privat Deutsch rede, ist mein Deutsch &lt;t2/&gt;viel &lt;t3/&gt;besser.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T170340Z" creationid="Kate" creationdate="20210210T202740Z">
-        <seg>Оскільки я розмовляю з ним німецькою, моя німецька стала &lt;t2/&gt;набагато &lt;t3/&gt;кращою.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210217T195848Z" creationid="Kate" creationdate="20210210T202740Z">
+        <seg>Оскільки я розмовляю з ним німецькою, моя мова стала &lt;t2/&gt;набагато &lt;t3/&gt;кращою.</seg>
       </tuv>
     </tu>
     <tu>
