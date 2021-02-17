@@ -16,8 +16,8 @@
       <tuv lang="de-DE">
         <seg>(nickt) Wenn du an diese Zukunft denkst, hast du Angst?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T082921Z" creationid="krps" creationdate="20210211T085833Z">
-        <seg>Чи боїшся ти, коли думаєш про нього?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210217T200211Z" creationid="krps" creationdate="20210211T085833Z">
+        <seg>Чи страшно тобі, коли ти думаєш про нього?</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,8 +562,8 @@
       <tuv lang="de-DE">
         <seg>Auf jeden Fall würde ich Deutschkurse an der Uni machen, die sind relativ günstig und haben eine gute Qualität.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T203648Z" creationid="Kate" creationdate="20210210T203648Z">
-        <seg>У будь-якому разі я би відвідувала курси німецької мови в університеті, вони відносно дешеві та якісні.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210217T200048Z" creationid="Kate" creationdate="20210210T203648Z">
+        <seg>В будь-якому разі я би відвідувала курси німецької мови в університеті, вони відносно дешеві та якісні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1378,8 +1378,8 @@
       <tuv lang="de-DE">
         <seg>Deswegen wollte ich nach dem Master &lt;t1/&gt;auch &lt;t2/&gt;eigentlich zurückgehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210211T122343Z" creationid="Kate" creationdate="20210210T204718Z">
-        <seg>Ось чому я і хотіла повернутися &lt;t1/&gt;назад &lt;t2/&gt;після закінчення магістратури.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210217T200112Z" creationid="Kate" creationdate="20210210T204718Z">
+        <seg>Ось чому я і хотіла повернутися &lt;t1/&gt;&lt;t2/&gt;після закінчення магістратури.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,8 +1618,8 @@
       <tuv lang="de-DE">
         <seg>Eher nicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210210T175541Z" creationid="ADMIN" creationdate="20210210T175541Z">
-        <seg>Найвірогідніше, ні.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210217T200247Z" creationid="ADMIN" creationdate="20210210T175541Z">
+        <seg>Ймовірніше, ні.</seg>
       </tuv>
     </tu>
     <tu>
