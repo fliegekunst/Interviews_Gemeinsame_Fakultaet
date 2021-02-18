@@ -1834,8 +1834,8 @@
       <tuv lang="de-DE">
         <seg>Einmal waren wir am Wochenende bei VW. Das war auch super!</seg>
       </tuv>
-      <tuv lang="uk" changeid="nasty" changedate="20210218T130642Z" creationid="nasty" creationdate="20210218T130642Z">
-        <seg>Також універитет організовує щось подібне, але в цьому випадку ми їздили самі.</seg>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130814Z" creationid="nasty" creationdate="20210218T130642Z">
+        <seg>Одного разу ми поїхали на вихідні до VW. Це було чудово!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2196,6 +2196,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T110602Z" creationid="hp" creationdate="20210211T110602Z">
         <seg>Загалом навчання в Німеччині чітке та зрозуміле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Haltet euch an einen Studierenden, der schon in Deutschland gereist ist und ein wenig Erfahrung hat, mit dem könnt ihr dann Reisen machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130935Z" creationid="nasty" creationdate="20210218T130935Z">
+        <seg>Тримайтесь поруч зі студентом, який вже подорожував Німеччиною, з ним легше подорожувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4144,6 +4152,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mit solchen Sachen hat uns Oleksii Scherepenko sehr viel geholfen, der hatte schon viel Erfahrung in Magdeburg.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130910Z" creationid="nasty" creationdate="20210218T130834Z">
+        <seg>У таких справах нам дуже допомагав Олексій Шерепенко, у багато разів був у Магдебурзі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mittlerweile gibt es so viele &lt;t6/&gt;andere &lt;t7/&gt;ausländische Studierende.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T120909Z" creationid="ADMIN" creationdate="20210212T120909Z">
@@ -4260,6 +4276,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T203455Z" creationid="Kate" creationdate="20210210T203455Z">
         <seg>Зараз набагато краще.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nutzt die Angebote der OVGU!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130950Z" creationid="nasty" creationdate="20210218T130950Z">
+        <seg>Скористайтеся пропозиціями OVGU!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4428,6 +4452,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210218T112626Z" creationid="PC" creationdate="20210218T112626Z">
         <seg>Чи збираєшся&lt;t0/&gt; ти залишитися у Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>So etwas wird auch von der Uni organisiert, aber wir sind selbst gefahren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130734Z" creationid="nasty" creationdate="20210218T130734Z">
+        <seg>Також універитет організовує щось подібне, але в цьому випадку ми їздили самі.</seg>
       </tuv>
     </tu>
     <tu>
