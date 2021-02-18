@@ -1810,8 +1810,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt viele Ausländer in Deutschland und es gibt an der Universität viele ausländische Studierende.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T185939Z" creationid="hp" creationdate="20210211T185939Z">
-        <seg>В Німеччині дуже багато іноземців та студентів з усього світу.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T110151Z" creationid="hp" creationdate="20210211T185939Z">
+        <seg>У Німеччині дуже багато іноземців та студентів з усього світу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2002,8 +2002,8 @@
       <tuv lang="de-DE">
         <seg>Grundsätzlich gefällt mir das Präsenzstudium besser, weil man direkt Fragen stellen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T185222Z" creationid="hp" creationdate="20210211T185222Z">
-        <seg>Ходити на пари мені подобалося більше, тому що якщо є якісь питання, то їх можна відразу задати викладачу.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T110007Z" creationid="hp" creationdate="20210211T185222Z">
+        <seg>Ходити на пари мені подобалося більше, тому що якщо виникають якісь питання, їх можна відразу поставити викладачу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,8 +2722,8 @@
       <tuv lang="de-DE">
         <seg>Ich spreche oft zufällig mit Leuten im Vorlesungsraum, das geht natürlich im Online Studium nicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210212T202720Z" creationid="hp" creationdate="20210211T185654Z">
-        <seg>Зазвичай під час лекцій, я спілкувався зі студентами з потоку, а під час онлайн навчання так не виходило.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T110124Z" creationid="hp" creationdate="20210211T185654Z">
+        <seg>Зазвичай під час лекцій я спілкувався зі студентами з потоку, а під час онлайн навчання так не виходило.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3698,8 +3698,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal gab es keine Möglichkeit, direkt dem Professor während der Vorlesung Fragen zu stellen, da musste man dann hinterher ein Mail schreiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T185356Z" creationid="hp" creationdate="20210211T185356Z">
-        <seg>Інколи бувало так, що не було можливості задати питання під час онлайн-пари, і доводилося писати емейл викладачеві.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T110048Z" creationid="hp" creationdate="20210211T185356Z">
+        <seg>Інколи бувало так, що не було можливості щось запитати під час онлайн-пари, і доводилося писати емейл викладачеві.</seg>
       </tuv>
     </tu>
     <tu>
