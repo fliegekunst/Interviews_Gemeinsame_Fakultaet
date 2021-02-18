@@ -185,8 +185,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t2/&gt;Ich habe &lt;t3/&gt;aber auch &lt;t4/&gt;nicht viele &lt;t5/&gt;deutsche &lt;t6/&gt;Freunde&lt;t7/&gt; und&lt;t8/&gt; nehme wenig Kontakt &lt;t9/&gt;zu Deutschen &lt;t10/&gt;auf.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T132449Z" creationid="Диана" creationdate="20210204T132449Z">
-        <seg>&lt;t2/&gt;Але у мене також не так багато друзів, і я не надто багато контактую з німцями. &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T113425Z" creationid="Диана" creationdate="20210204T132449Z">
+        <seg>&lt;t2/&gt;Але у мене також не так багато друзів і я не надто багато контактую з німцями. &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3978,8 +3978,8 @@
       <tuv lang="de-DE">
         <seg>Niemand sagt mir ins Gesicht, &lt;t1/&gt;dass ich ein Ausländer bin oder irgendwo ausgeschlossen bin.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T132309Z" creationid="Диана" creationdate="20210204T132309Z">
-        <seg>Мені ніхто не каже в обличчя, що я іноземець або десь виключенний. &lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T113329Z" creationid="Диана" creationdate="20210204T132309Z">
+        <seg>Мені ніхто в обличчя не каже, що я іноземець або мене звідкись не виключають. &lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,8 +4274,8 @@
       <tuv lang="de-DE">
         <seg>Ukrainische und deutsche Studierende zusammen, wir haben in einer &lt;t1/&gt;WG&lt;t2/&gt; gewohnt &lt;t3/&gt;und &lt;t4/&gt;zusammen Party gemacht&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T133016Z" creationid="Диана" creationdate="20210204T133016Z">
-        <seg>Ми з українськими та німецькими студенти жили разом у спільній квартирі та влаштовували вечірки разом. &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T113509Z" creationid="Диана" creationdate="20210204T133016Z">
+        <seg>Ми з українськими та німецькими студенти жили разом у спільній квартирі та влаштовували вечірки. &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
