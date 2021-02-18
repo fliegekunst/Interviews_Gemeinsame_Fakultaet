@@ -538,8 +538,8 @@
       <tuv lang="de-DE">
         <seg>Auf Deutsch parallel &lt;t4/&gt;et&lt;t5/&gt;was mitschreiben und zu&lt;t6/&gt;zu&lt;t7/&gt;hören&lt;t8/&gt;, ist echt schwierig&lt;t9/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210211T093659Z" creationid="ADMIN" creationdate="20210211T093659Z">
-        <seg>Але насправді досить тяжко записувати щось і &lt;t4/&gt;&lt;t5/&gt;одночасно&lt;t6/&gt;&lt;t7/&gt;слухати&lt;t8/&gt;німецькою мовою&lt;t9/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105401Z" creationid="ADMIN" creationdate="20210211T093659Z">
+        <seg>Але насправді досить тяжко записувати щось і &lt;t4/&gt;&lt;t5/&gt;одночасно&lt;t6/&gt; &lt;t7/&gt;слухати&lt;t8/&gt; німецькою мовою&lt;t9/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,8 +1786,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt sogar Software, die einem das Skript i&lt;t5/&gt;n eine&lt;t6/&gt; &lt;t7/&gt;PDF&lt;t8/&gt; übersetzt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T114242Z" creationid="ADMIN" creationdate="20210211T100019Z">
-        <seg>Можна навіть знайти програмне забезпечення, яке перекладає конспекти лекцій у &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;PDF-формат&lt;t8/&gt; .</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105428Z" creationid="ADMIN" creationdate="20210211T100019Z">
+        <seg>Можна навіть знайти програмне забезпечення, яке перекладає конспекти лекцій у&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;PDF-формат&lt;t8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2058,8 +2058,8 @@
       <tuv lang="de-DE">
         <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T082909Z" creationid="krps" creationdate="20210211T082909Z">
-        <seg>Чи все ж почуваєшся &lt;t0/&gt;чужим?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105525Z" creationid="krps" creationdate="20210211T082909Z">
+        <seg>Чи не відчував ти себе &lt;t0/&gt;чужим?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4338,8 +4338,8 @@
       <tuv lang="de-DE">
         <seg>Was wir in Kiew nicht geübt haben&lt;t0/&gt;,&lt;t1/&gt; ist simultan &lt;t2/&gt;zu &lt;t3/&gt;schreiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T113848Z" creationid="ADMIN" creationdate="20210211T092922Z">
-        <seg>Ми записували те, чого не практикували в Києві&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt; &lt;t3/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105245Z" creationid="ADMIN" creationdate="20210211T092922Z">
+        <seg>Ми записували те, чого не практикували в Києві&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
