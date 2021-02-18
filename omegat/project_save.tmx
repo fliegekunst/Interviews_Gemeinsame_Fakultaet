@@ -512,6 +512,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Andrii Filiursky</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T114418Z" creationid="Диана" creationdate="20210218T114418Z">
+        <seg>Андрій Філюрський</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Angenehm.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T201931Z" creationid="ADMIN" creationdate="20210210T201931Z">
