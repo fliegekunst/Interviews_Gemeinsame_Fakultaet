@@ -119,6 +119,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Mich hat sehr überrascht, wie viel Zeit man doch beim Studium hat.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T124414Z" creationid="nasty" creationdate="20210218T124414Z">
+        <seg>&lt;t0/&gt;Я був здивований, скільки часу люди приділяють навчанню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Von Jahr zu Jahr fühle ich mich im Deutschen sicherer und wohler.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210204T125137Z" creationid="PC" creationdate="20210204T125137Z">
@@ -676,6 +684,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210210T202941Z" creationid="PC" creationdate="20210210T202941Z">
         <seg>Особливо тоді, коли я довго про щось собі думаю (і звичайно ж українською мовою).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Besucht gerne unsere Webseite: &lt;t2/&gt;Kobzarenko.eu</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T124314Z" creationid="nasty" creationdate="20210218T124314Z">
+        <seg>Якщо ви маєте бажання, то можете відвідати наш сайт: Kobzarenko.eu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4842,8 +4858,8 @@
       <tuv lang="de-DE">
         <seg>Wie war das Studium für dich?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T080300Z" creationid="krps" creationdate="20210204T122101Z">
-        <seg>Яким було для тебе навчання?</seg>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T124345Z" creationid="krps" creationdate="20210204T122101Z">
+        <seg>Яким було навчання для вас?</seg>
       </tuv>
     </tu>
     <tu>
