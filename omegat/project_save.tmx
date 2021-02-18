@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3858,8 +3858,8 @@
       <tuv lang="de-DE">
         <seg>Nach dem ersten Semester habe ich aber verstanden, wie das alles funktioniert, was ich während des Semesters zu tun habe und wie die Prüfungen aussehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T081101Z" creationid="krps" creationdate="20210204T131522Z">
-        <seg>Після першого семестру я вже зрозумів, як все працює, що мені треба робити та як відбуваються істити.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210218T110520Z" creationid="krps" creationdate="20210204T131522Z">
+        <seg>Після першого семестру я вже зрозумів, як все працює, що мені треба робити та як відбуваються іспити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4746,8 +4746,8 @@
       <tuv lang="de-DE">
         <seg>Wir hatten auch Kenntnisse über die Kultur und die Geschichte.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210210T095554Z" creationid="krps" creationdate="20210210T095554Z">
-        <seg>Також ми знаємо трохи про культуру та мову.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210218T110822Z" creationid="krps" creationdate="20210210T095554Z">
+        <seg>Також знаємо трохи про культуру та мову.</seg>
       </tuv>
     </tu>
     <tu>
