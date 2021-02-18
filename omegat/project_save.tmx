@@ -1456,6 +1456,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dennoch fand ich es zu langweilig, in Deutschland zu bleiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T132135Z" creationid="nasty" creationdate="20210218T132135Z">
+        <seg>Все таки мені було нудно там.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Der Kontakt mit den Deutschen wird durch die eigene Lebensweise definiert.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210213T174952Z" creationid="hp" creationdate="20210204T132159Z">
@@ -2764,6 +2772,22 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T160546Z" creationid="ADMIN" creationdate="20210204T132423Z">
         <seg>Тут я навчався та згодом захистив магістерську дисертацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe in Polen dann meine eigene Firma gegründet und das auch nicht bereut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T132217Z" creationid="nasty" creationdate="20210218T132217Z">
+        <seg>Пізніше я заснував власну компанію в Польщі, і не пошкодував..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe keine Angst vor der Zukunft, das war meine Wahl, die ich gern getroffen habe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T132455Z" creationid="nasty" creationdate="20210218T132455Z">
+        <seg>Я не боюся майбутнього, це був мій вибір, який я зробив.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5284,6 +5308,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T124046Z" creationid="Lenovo" creationdate="20210214T124046Z">
         <seg>Спочатку я працював у IFQ(Das Institut für Forschungsinformation und Qualitätssicherung).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zugegeben: Wenn ich sehr viel Stress bei meiner Arbeit habe,  beneide ich meinen Freunde in Deutschland, die eineinhalb Monate Urlaub von der Universität bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T132348Z" creationid="nasty" creationdate="20210218T132348Z">
+        <seg>Чесно кажучи, коли у мене багато роботи, я заздрю ​​своїм друзям у Німеччині у яких півтора місяці відпустки в університеті.</seg>
       </tuv>
     </tu>
     <tu>
