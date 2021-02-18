@@ -1986,8 +1986,8 @@
       <tuv lang="de-DE">
         <seg>Gibt es Sachen, die dich an Deutschland stören?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210217T200746Z" creationid="Lenovo" creationdate="20210214T134348Z">
-        <seg>Чи є у Німеччині речі, які тебе бентежать?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105845Z" creationid="Lenovo" creationdate="20210214T134348Z">
+        <seg>Чи є в Німеччині речі, які тебе турбують?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4682,8 +4682,8 @@
       <tuv lang="de-DE">
         <seg>Wie äußert sich das?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T082935Z" creationid="krps" creationdate="20210211T082935Z">
-        <seg>Як це проявляється?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105554Z" creationid="krps" creationdate="20210211T082935Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
