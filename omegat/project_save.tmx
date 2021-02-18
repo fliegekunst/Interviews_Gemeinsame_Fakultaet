@@ -16,8 +16,8 @@
       <tuv lang="de-DE">
         <seg>(nickt) Wenn du an diese Zukunft denkst, hast du Angst?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105139Z" creationid="krps" creationdate="20210211T085833Z">
-        <seg>Чи не страшно тобі, коли починаєш задумуватися про це?</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210218T112850Z" creationid="krps" creationdate="20210211T085833Z">
+        <seg>Боїшся думати про майбутнє?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3924,6 +3924,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T135856Z" creationid="PC" creationdate="20210213T135856Z">
         <seg>Звичайно, я говорю з акцентом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nein, ich habe keine Angst, ich denke ich schaffe das alles, meine Sprache wird auch besser.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T113046Z" creationid="PC" creationdate="20210218T113046Z">
+        <seg>Ні, не боюся, я думаю, що впораюся з усим і краще володітиму мовою.</seg>
       </tuv>
     </tu>
     <tu>
