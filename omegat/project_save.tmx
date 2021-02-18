@@ -1592,6 +1592,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Deutsche sind sehr nett zu Ausländern.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T132101Z" creationid="nasty" creationdate="20210218T132043Z">
+        <seg>Німці дуже привтні до іноземців.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Anmeldung in Magdeburg war gut, es gab keine Probleme.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T132235Z" creationid="Lenovo" creationdate="20210214T132235Z">
