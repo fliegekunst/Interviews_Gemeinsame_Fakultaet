@@ -696,6 +696,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Danach ging es auf Ukrainisch weiter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T112052Z" creationid="PC" creationdate="20210218T112052Z">
+        <seg>Потім знову перейшли на рідну, солов'їну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Danach werde ich an meiner Masterarbeit arbeiten, das dauert auch zwischen 5 und 8 Monaten.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210204T132827Z" creationid="hp" creationdate="20210204T132827Z">
@@ -868,6 +876,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210212T090208Z" creationid="krps" creationdate="20210210T095222Z">
         <seg>Це стосується як навчання в університеті, так і життя загалом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das bringt nichts&lt;t7/&gt; (für die Sprache)&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T105213Z" creationid="PC" creationdate="20210218T105213Z">
+        <seg>Так буде краще.&lt;t7/&gt; (для розуміння мови)&lt;t8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1108,6 +1124,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210211T095139Z" creationid="ADMIN" creationdate="20210211T095139Z">
         <seg>Це як під час аудіювання, тільки тут потрібно 90 хвилин слухати і паралельно робити нотатки.&lt;t10/&gt; Це справді виснажує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das kann ich aus eigener Erfahrung sagen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T105233Z" creationid="PC" creationdate="20210218T105233Z">
+        <seg>Я знаю це з власного досвіду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2852,6 +2876,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210210T220401Z" creationid="krps" creationdate="20210210T220352Z">
         <seg>Я живу в одній квартирі з Артуром Ковалем та Артемом Май&lt;t0/&gt;д&lt;t1/&gt;ановичем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich wohne mit zwei &lt;t9/&gt;ukrainischen Kommilitonen zusammen, wir haben nur zwei Tage Deutsch geredet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T111954Z" creationid="PC" creationdate="20210218T111954Z">
+        <seg>Я жила з двома &lt;t9/&gt;однокурсницями українками, німецькою ми змогли поспілкувались лише два дні.</seg>
       </tuv>
     </tu>
     <tu>
