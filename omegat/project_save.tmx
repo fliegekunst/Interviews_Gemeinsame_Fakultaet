@@ -704,6 +704,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Besonders das &lt;t0/&gt;IKUS bietet viel an, man kann Partys besuchen und neue Leute kennen lernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T131145Z" creationid="nasty" creationdate="20210218T131145Z">
+        <seg>Є багато пропозицій від &lt;t0/&gt;IKUS, ви можете відвідувати різні заходити та знайомитися з людьми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Besonders in den Moment, wenn ich sehr tief in meinen Gedanken (natürlich auf Ukrainisch) bin.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210210T202941Z" creationid="PC" creationdate="20210210T202941Z">
@@ -1220,6 +1228,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T081953Z" creationid="krps" creationdate="20210211T081953Z">
         <seg>На мою думку, це найкращий шлях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das ist nicht zu unterschätzen!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T131314Z" creationid="nasty" creationdate="20210218T131314Z">
+        <seg>Це не можна недооцінювати!</seg>
       </tuv>
     </tu>
     <tu>
