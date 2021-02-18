@@ -736,6 +736,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Da ich viel mit Ukrainischen Firmen beschäftigt war und Auslandserfahrung habe, habe ich diese Chance gekriegt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T124252Z" creationid="nasty" creationdate="20210218T124252Z">
+        <seg>Так як у мене є міжнародний досвід роботи, також працював і з українськими компаніями, я скористувався цим шансом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Da konnte man in Kiew überall, selbst im kleinsten Kiosk, mit &lt;t0/&gt;EC-&lt;t1/&gt;Karte bezahlen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T171024Z" creationid="Kate" creationdate="20210211T114338Z">
@@ -1458,8 +1466,8 @@
       <tuv lang="de-DE">
         <seg>Deswegen haben wir in Polen ein Werk gebaut.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T104710Z" creationid="hp" creationdate="20210211T104710Z">
-        <seg>hbjjbbDeswegen haben wir in Polen ein Werk gebaut.</seg>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123826Z" creationid="hp" creationdate="20210211T104710Z">
+        <seg>Тому саме ми побудували завод у Польші.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4308,6 +4316,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T162244Z" creationid="PC" creationdate="20210213T162244Z">
         <seg>Але чи варто мені працювати &lt;t16/&gt;над &lt;t17/&gt;собою &lt;t18/&gt;та вдосконалювати мовні навички?&lt;t19/&gt; Авжеж.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Später haben wir uns dann gefragt, wer die Firma leiten wird.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123858Z" creationid="nasty" creationdate="20210218T123858Z">
+        <seg>Пізніше ми вирішували хто буде керувати компанією.</seg>
       </tuv>
     </tu>
     <tu>
