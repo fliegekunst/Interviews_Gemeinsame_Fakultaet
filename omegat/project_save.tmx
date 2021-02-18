@@ -1096,6 +1096,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das ist aber ein falscher Eindruck.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T124434Z" creationid="nasty" creationdate="20210218T124434Z">
+        <seg>Але це неправильне враження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das ist aber nicht vom Land abhängig.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T090000Z" creationid="krps" creationdate="20210211T090000Z">
@@ -1488,6 +1496,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Deswegen meine Botschaft an alle zukünftigen Studierenden: Die freie Zeit, die ihr nicht an der Universität verbringt, solltet ihr trotzdem für etwas Sinnvolles verwenden und lernen und den Stoff wiederholen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T124546Z" creationid="nasty" creationdate="20210218T124546Z">
+        <seg>Моє послання всім майбутнім студентам: "Вільний час, який ви проводите поза університету, використовуйте на щось значуще, навчання та повтор матеріалів. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Deswegen war der Übergang von der Ukraine nach Deutschland nicht so schwer.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T105648Z" creationid="hp" creationdate="20210204T123755Z">
@@ -1708,6 +1724,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T125219Z" creationid="Lenovo" creationdate="20210214T125219Z">
         <seg>Ця співпраця виникла наступним чином: спочатку я був студентським асистентом, потім я отримав досвід, як це повинно виглядати, і зорієнтувався.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese Zeit muss man sich aber auch nehmen!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T124649Z" creationid="nasty" creationdate="20210218T124649Z">
+        <seg>Скористайтесь ним!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2576,6 +2600,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe die Prüfungsvorbereitung schleifen lassen und bin danach durch vier Prüfungen gefallen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T124500Z" creationid="nasty" creationdate="20210218T124500Z">
+        <seg>Я готовувся до іспитів, але згодом провалив всі 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe die deutschen Kommilitonen als freundlich, offen und hilfsbereit kennen gelernt.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T132817Z" creationid="Lenovo" creationdate="20210214T132817Z">
@@ -2612,6 +2644,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T171123Z" creationid="PC" creationdate="20210213T165641Z">
         <seg>Тут, в Магдебурзі, я можу приділяти більше часу читанню книг та моїм хоббі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe hier ein Foto, das ich „deine Vorbereitungszeit, wenn du acht Prüfungen bestehen sollst“ nenne:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T124750Z" creationid="nasty" creationdate="20210218T124703Z">
+        <seg>У мене є фото, під назвою "час підготовки, коли тобі потрібно скласти вісім іспитів":</seg>
       </tuv>
     </tu>
     <tu>
@@ -3708,6 +3748,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T163019Z" creationid="krps" creationdate="20210210T215215Z">
         <seg>Побачимо, як все складеться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man hat aber auch die Zeit dafür.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T124636Z" creationid="nasty" creationdate="20210218T124636Z">
+        <seg>У вас також буде час і на відпочинок. </seg>
       </tuv>
     </tu>
     <tu>
