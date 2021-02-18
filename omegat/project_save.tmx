@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t4/&gt;Deswegen wäre es wichtig &lt;t5/&gt;für neue Studierende&lt;t6/&gt;, nicht zusammen mit anderen Ukrainern zu wohnen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T105108Z" creationid="PC" creationdate="20210218T105108Z">
+        <seg>&lt;t4/&gt;Тому для нових студентів &lt;t5/&gt;важливо пожити трохи&lt;t6/&gt;з носіями мови, а не іншими імігрантами з країн СНД.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t4/&gt;Es gibt so viele Sachen zu erledigen, wie die Organisation der WG, r&lt;t5/&gt;echtliche Sachen, &lt;t6/&gt;das Visum, usw&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210207T173623Z" creationid="Диана" creationdate="20210204T123500Z">
@@ -1388,6 +1396,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T200549Z" creationid="Kate" creationdate="20210210T200549Z">
         <seg>Німецька завжди давалася мені важко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Deutsche You-Tube Videos, Serien, Filme angucken, wo man nicht Hochdeutsch spricht.&lt;t0/&gt; &lt;t1/&gt;Zum Beispiel, i&lt;t2/&gt;ch habe viele Lücken in der Haushaltssprache. Wie heißt denn „Schwabra“ auf Deutsch?&lt;t3/&gt; Keine Ahnung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T104706Z" creationid="PC" creationdate="20210218T104706Z">
+        <seg>Корисно було б також дивитися відео на YouTube, серіали та фільми німецькою.&lt;t0/&gt; &lt;t1/&gt;Я, наприклад, не завжди знаю&lt;t2/&gt;як називаються ті чи інші побутові предмети. От як сказати "швабра" німецькою?&lt;t3/&gt; Не маю уявлення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2856,6 +2872,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich würde empfehlen, die Alltagssprache zu lernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T103650Z" creationid="PC" creationdate="20210218T103650Z">
+        <seg>Я б порадила вивчати розмовну, повсякденну мову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich würde gerne in Deutschland bleiben, wenn es möglich ist.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T123521Z" creationid="Lenovo" creationdate="20210214T123521Z">
@@ -3340,6 +3364,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T130915Z" creationid="Диана" creationdate="20210204T130915Z">
         <seg>Так, після того, як я переїхав до Цвоніца, це було у вересні 2019 року. Як студент, що працював, я жив у Хемніці і завжди їздив до Цвінця та Магдебурга.&lt;t0/&gt; &lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ja, natürlich das ist nicht das wichtigste Wort, aber trotzdem nicht das Einzige, das ich nicht weiß.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T104842Z" creationid="PC" creationdate="20210218T104842Z">
+        <seg>Так, звичайно, це не таке й важливе слово, але воно одне з багатьох, котрі я не знаю.</seg>
       </tuv>
     </tu>
     <tu>
