@@ -87,6 +87,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Ich mag das Land und i&lt;t1/&gt;ch verstehe&lt;t2/&gt;, dass ich&lt;t3/&gt; nicht die einzige Ausländerin&lt;t4/&gt; in Magdeburg und in Deutschland bin&lt;t5/&gt;, ich sehe hier in Magdeburg jeden Tag &lt;t6/&gt;Menschen aus anderen Ländern&lt;t7/&gt; und höre jeden Tag Fremdsprachen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T122301Z" creationid="PC" creationdate="20210218T122301Z">
+        <seg>&lt;t0/&gt;Країна мені до вподоби&lt;t1/&gt;і я розумію&lt;t2/&gt;, що я не&lt;t3/&gt; одна така іноземка тут&lt;t4/&gt; в Магдебурзі і в Німеччині&lt;t5/&gt;, я кожного дня бачу іноземців тут &lt;t6/&gt;і чую&lt;t7/&gt; кожного дня іноземні мови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Mein Opa war gegen mein Studium, er konnte sich nicht vorstellen, dass eine Frau Ingenieurswissenschaften studieren.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210217T200551Z" creationid="Kate" creationdate="20210211T105936Z">
