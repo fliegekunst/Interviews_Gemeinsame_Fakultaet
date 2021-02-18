@@ -3408,6 +3408,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Interview am &lt;t0/&gt;1&lt;t1/&gt;3&lt;t2/&gt;.&lt;t3/&gt;1&lt;t4/&gt;0&lt;t5/&gt;.2020</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123224Z" creationid="nasty" creationdate="20210218T123224Z">
+        <seg>Інтерв'ю &lt;t0/&gt;1&lt;t1/&gt;3&lt;t2/&gt;.&lt;t3/&gt;1&lt;t4/&gt;0&lt;t5/&gt;.2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Inwieweit beeinflusst mich das?</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T160505Z" creationid="PC" creationdate="20210213T160505Z">
@@ -3548,6 +3556,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210204T125407Z" creationid="Lenovo" creationdate="20210204T125407Z">
         <seg>Родом з &lt; т0 / &gt;Житомирської області</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kommt aus K&lt;t0/&gt;yi&lt;t1/&gt;w</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123158Z" creationid="nasty" creationdate="20210218T123158Z">
+        <seg>Народився в К&lt;t0/&gt;и&lt;t1/&gt;єві</seg>
       </tuv>
     </tu>
     <tu>
@@ -4852,6 +4868,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T110841Z" creationid="hp" creationdate="20210211T110841Z">
         <seg>Наші студенти пасивніші, вони чекають від когось наказів та інструкцій, щоб знати що робити далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wo arbeitest du jetzt?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123254Z" creationid="nasty" creationdate="20210218T123254Z">
+        <seg>Де ви зараз працюєте?</seg>
       </tuv>
     </tu>
     <tu>
