@@ -2096,6 +2096,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Früher zu Zeiten des Studiums konnte ich echt gut und frei sprechen, jetzt spreche ich aber mehr Polnisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130352Z" creationid="nasty" creationdate="20210218T130352Z">
+        <seg>Під час навчання я міг говорити вільно та гарно, але зараз я розмовляю більше польською.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Fühlst du dich integriert?</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T170551Z" creationid="krps" creationdate="20210211T082456Z">
@@ -2380,6 +2388,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123323Z" creationid="nasty" creationdate="20210218T123323Z">
         <seg>Ich binЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich bin auch mit meinem Deutsch nicht zufrieden, ich würde gerne mehr sprechen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130327Z" creationid="nasty" creationdate="20210218T130327Z">
+        <seg>Я також не задоволений моїм рівнем знань німецької, хотів би більше говорити.</seg>
       </tuv>
     </tu>
     <tu>
