@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3354,8 +3354,8 @@
       <tuv lang="de-DE">
         <seg>Ja, ich fühle mich manchmal fremd.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T101806Z" creationid="krps" creationdate="20210211T083021Z">
-        <seg>Іноді я справді почуваюся чужим.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210218T111434Z" creationid="krps" creationdate="20210211T083021Z">
+        <seg>Іноді справді почуваюся чужим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4130,8 +4130,8 @@
       <tuv lang="de-DE">
         <seg>Solche Stellen sind gut bezahlt und man kann gleichzeitig mehr oder weniger relevante Berufserfahrung sammeln, was positiv die Chancen auf dem Arbeitsmarkt beeinflusst, mehrere Skills erwerben und Kontakte mit den wissenschaftlichen Mitarbeitern knüpfen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T165905Z" creationid="krps" creationdate="20210211T081126Z">
-        <seg>Такі місця добре оплачуються і можна здобути більш-менш корисний досвід. Це підвищує ваші шанси на ринку праці, допомагає отримати хороші навички та контакт з іншими науковцями.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210218T111401Z" creationid="krps" creationdate="20210211T081126Z">
+        <seg>Такі місця добре оплачуються і можна здобути більш-менш корисний досвід. Робота там підвищує ваші шанси на ринку праці, допомагає отримати хороші навички та контакт з іншими науковцями.</seg>
       </tuv>
     </tu>
     <tu>
