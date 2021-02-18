@@ -600,6 +600,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Auch ist es sehr wichtig, sich wohl in einem fremden Land zu fühlen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T124250Z" creationid="PC" creationdate="20210218T124250Z">
+        <seg>Також важливо почувати себе комфортно в іншій країні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Auf Deutsch parallel &lt;t4/&gt;et&lt;t5/&gt;was mitschreiben und zu&lt;t6/&gt;zu&lt;t7/&gt;hören&lt;t8/&gt;, ist echt schwierig&lt;t9/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210218T105401Z" creationid="ADMIN" creationdate="20210211T093659Z">
@@ -2668,6 +2676,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210212T080632Z" creationid="krps" creationdate="20210204T130442Z">
         <seg>Адже на неї я витратив вдвічі більше часу, ніж запланував.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe es oft gehört, dass für einigen Menschen Deutschland einfach nicht passt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T130651Z" creationid="PC" creationdate="20210218T130651Z">
+        <seg>Я часто чула, що деяким людям Німеччина просто не підходить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4940,6 +4956,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T132015Z" creationid="Lenovo" creationdate="20210214T132015Z">
         <seg>Важливо не відкладати все на довгу лаву.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wichtig ist, was für ein Mensch du bist, und nicht woher du kommst.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T123020Z" creationid="PC" creationdate="20210218T123020Z">
+        <seg>Важливо саме що це за людина, а не звідки вона приїхала.</seg>
       </tuv>
     </tu>
     <tu>
