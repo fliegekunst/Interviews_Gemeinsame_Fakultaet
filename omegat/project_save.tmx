@@ -16,8 +16,8 @@
       <tuv lang="de-DE">
         <seg>(nickt) Wenn du an diese Zukunft denkst, hast du Angst?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210217T200211Z" creationid="krps" creationdate="20210211T085833Z">
-        <seg>Чи страшно тобі, коли ти думаєш про нього?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105139Z" creationid="krps" creationdate="20210211T085833Z">
+        <seg>Чи не страшно тобі, коли починаєш задумуватися про це?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,8 +2242,8 @@
       <tuv lang="de-DE">
         <seg>Ich bin noch in einem Alter, wo &lt;t0/&gt;man sich auf&lt;t1/&gt; etwas Neues freut.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210211T090214Z" creationid="ADMIN" creationdate="20210211T090214Z">
-        <seg>Я ще в тому віці, коли &lt;t0/&gt;чекаєш &lt;t1/&gt; чогось нового.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105226Z" creationid="ADMIN" creationdate="20210211T090214Z">
+        <seg>Я ще в тому віці, коли &lt;t0/&gt;чекаєш&lt;t1/&gt; чогось нового.</seg>
       </tuv>
     </tu>
     <tu>
