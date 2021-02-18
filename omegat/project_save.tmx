@@ -1832,6 +1832,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Einmal waren wir am Wochenende bei VW. Das war auch super!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130642Z" creationid="nasty" creationdate="20210218T130642Z">
+        <seg>Також універитет організовує щось подібне, але в цьому випадку ми їздили самі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Er konnte sich nicht vorstellen, dass Ingenieure gut verdienen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210217T200600Z" creationid="Kate" creationdate="20210211T110039Z">
@@ -3016,6 +3024,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich weiß noch, wir sind einmal auf eine Exkursion ins BMW-Werk selbst gefahren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130629Z" creationid="nasty" creationdate="20210218T130629Z">
+        <seg>Пам'ятаю як ми самі їздили на екскурсію на завод BMW.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich werde auch in der Ukraine verschiedene Varianten betrachten.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210210T215708Z" creationid="krps" creationdate="20210210T215708Z">
@@ -3100,6 +3116,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T133340Z" creationid="Lenovo" creationdate="20210214T133340Z">
         <seg>Я живу один, але не відчуваю себе самотнім тут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich würde auch dazu raten, viele Exkursionen zu besuchen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130600Z" creationid="nasty" creationdate="20210218T130600Z">
+        <seg>Також я б порадив відвідувати багато екскурсій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3482,8 +3506,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine können wir uns das nur anschauen, wie ein Arbeiter der Uni diese Arbeit macht, dürfen aber die Maschinen selbst nicht bedienen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="nasty" changedate="20210218T125956Z" creationid="nasty" creationdate="20210218T125956Z">
-        <seg>В Україні ми можемо спостерігати лише за викладачем, який виконує цю роботу, та нам не дозволяється керувати машинами самостіійно.</seg>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130423Z" creationid="nasty" creationdate="20210218T125956Z">
+        <seg>В Україні ми можемо спостерігати лише за викладачем, який виконує цю роботу, та нам не дозволяється керувати машинами самостійно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3764,6 +3788,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T194653Z" creationid="Kate" creationdate="20210204T123240Z">
         <seg>Родом із&lt;t0/&gt; м. Олександрія Кіровоградської області</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Legt euch nicht auf die faule Haut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130544Z" creationid="nasty" creationdate="20210218T130544Z">
+        <seg> Не лінуватися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4676,6 +4708,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210213T114031Z" creationid="krps" creationdate="20210211T075504Z">
         <seg>Щоб б ти порадив іншим українським студентам, які вперше приїжджають в Німеччину?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was würdest du anderen ukrainischen Studierenden raten, die neu nach Deutschland kommen?&lt;t0/&gt; Wie oben gesagt, ist die viele Freizeit, die man während des Studiums hat, ein trügerisches Gefühl.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130515Z" creationid="nasty" creationdate="20210218T130515Z">
+        <seg>Що ви б порадили українським студентам, які навчаються в Німеччині та новеньки там? ?&lt;t0/&gt; Як ви згадували раніше, кількість вільного часу під час навчання не така значна.</seg>
       </tuv>
     </tu>
     <tu>
