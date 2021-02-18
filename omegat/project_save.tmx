@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>80 Firmen haben sich beworben und nur 15 haben mit ihrer Idee überzeugt und das Geld am Ende bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123740Z" creationid="nasty" creationdate="20210218T123740Z">
+        <seg>Заявки подало 80 компаній, але перемогли тільки 15 зі своєю ідеєю та отримали кошти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Die &lt;t1/&gt;Privatsphäre in &lt;t2/&gt;Deutschland&lt;t3/&gt; wird mehr respektiert, auch in Freundschaften, da wird &lt;t4/&gt;zeitlich viel &lt;t5/&gt;eher ein Termin gemacht und sehr respektvoll miteinander umgegangen.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T124350Z" creationid="ADMIN" creationdate="20210212T124350Z">
@@ -1812,6 +1820,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T131112Z" creationid="Диана" creationdate="20210204T131112Z">
         <seg>Безумовно, був момент, коли я зрозумів, що можу вільно розмовляти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gab eine Ausschreibung und einen Wettbewerb zwischen neuen Produkten, den wir gewonnen haben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123707Z" creationid="nasty" creationdate="20210218T123707Z">
+        <seg>Ми отримали запрошення на тендер, була значна конкуренція між новими продуктами, де ми здобули перемогу.</seg>
       </tuv>
     </tu>
     <tu>
