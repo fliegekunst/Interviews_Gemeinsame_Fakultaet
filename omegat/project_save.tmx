@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -482,8 +482,8 @@
       <tuv lang="de-DE">
         <seg>Am Ende kommen die Studierenden, die geeignet sind und das machen wollen, nach Deutschland.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210212T202922Z" creationid="hp" creationdate="20210211T190520Z">
-        <seg>Зрештою ті, хто хочуть це зробити й приїжджають до Німеччини.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T110307Z" creationid="hp" creationdate="20210211T190520Z">
+        <seg>Зрештою ті, хто хочуть це зробити і приїжджають туди.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,8 +1482,8 @@
       <tuv lang="de-DE">
         <seg>Die OVGU Magdeburg war sehr präsent während unseres Studiums in Kiew, sie haben Präsentationen gemacht und die Konferenzen waren gut organisiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210213T173237Z" creationid="hp" creationdate="20210213T173237Z">
-        <seg>Університет OVGU були присутніпід час навчання в Києві,також вони виступали з презентаціями та організовували конференції.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T110251Z" creationid="hp" creationdate="20210213T173237Z">
+        <seg>Університет OVGU були присутні під час навчання в Києві, також вони виступали з презентаціями та організовували конференції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,8 +1746,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt eine große Toleranz in Deutschland und ich hatte nie Probleme hier oder habe negative Erfahrungen gemacht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T190010Z" creationid="hp" creationdate="20210211T190010Z">
-        <seg>Там всі відносяться толерантно один до одного, тому ніяких негативних спогадів немає.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T110203Z" creationid="hp" creationdate="20210211T190010Z">
+        <seg>Там всі ставляться толерантно один до одного, тому ніяких негативних спогадів немає.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4162,8 +4162,8 @@
       <tuv lang="de-DE">
         <seg>Studiert seit 2018 an der OVGU</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210204T121334Z" creationid="Kate" creationdate="20210204T121334Z">
-        <seg> Studiert seit 2018 an der OVGU</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T111243Z" creationid="Kate" creationdate="20210204T121334Z">
+        <seg>Навчається в університеті Оттофон Геріке з 2018 року.</seg>
       </tuv>
     </tu>
     <tu>
