@@ -608,6 +608,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Bei Haushaltssachen oder wenn man schnell etwas sagen will entsteht ein Mix aus Deutsch und Ukrainisch, dann lassen wir &lt;t10/&gt;es&lt;t11/&gt; oft und reden Ukrainisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210218T112519Z" creationid="PC" creationdate="20210218T112519Z">
+        <seg>Коли у когось виникали побутові питання або хтось хотів швидко щось сказати, утворювався мікс з німецької та української &lt;t10/&gt;мов&lt;t11/&gt; тому ми просто переходили на українську.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Bei Zoom-Meetings kann man auch Fragen stellen und kommunizieren, wie in der Präsenzlehre.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T133929Z" creationid="Lenovo" creationdate="20210214T133929Z">
@@ -2882,8 +2890,8 @@
       <tuv lang="de-DE">
         <seg>Ich wohne mit zwei &lt;t9/&gt;ukrainischen Kommilitonen zusammen, wir haben nur zwei Tage Deutsch geredet.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210218T111954Z" creationid="PC" creationdate="20210218T111954Z">
-        <seg>Я жила з двома &lt;t9/&gt;однокурсницями українками, німецькою ми змогли поспілкувались лише два дні.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210218T112115Z" creationid="PC" creationdate="20210218T111954Z">
+        <seg>Я жила з двома &lt;t9/&gt;однокурсницями українками і німецькою ми змогли поспілкуватися лише два дні.</seg>
       </tuv>
     </tu>
     <tu>
