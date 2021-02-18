@@ -127,6 +127,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Schlecht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130024Z" creationid="nasty" creationdate="20210218T130024Z">
+        <seg>&lt;t0/&gt;Погано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Viel Arbeiten.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T124830Z" creationid="nasty" creationdate="20210218T124830Z">
@@ -3456,6 +3464,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In der Ukraine können wir uns das nur anschauen, wie ein Arbeiter der Uni diese Arbeit macht, dürfen aber die Maschinen selbst nicht bedienen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T125956Z" creationid="nasty" creationdate="20210218T125956Z">
+        <seg>В Україні ми можемо спостерігати лише за викладачем, який виконує цю роботу, та нам не дозволяється керувати машинами самостіійно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In der Ukraine liegt der Schwerpunkt auf der eigentlichen Produktion und der Gestaltung der Produktionssysteme.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T184606Z" creationid="hp" creationdate="20210211T184606Z">
@@ -3636,6 +3652,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T210754Z" creationid="Kate" creationdate="20210210T210754Z">
         <seg>Зараз там розвиваються компанії, і їх будується все більше і більше, оскільки робоча сила дешева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Jetzt wohne ich in Polen und spreche selten und ich fühle richtig, wie meine Grammatik immer schlechter wird.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130256Z" creationid="nasty" creationdate="20210218T130256Z">
+        <seg>Зараз я живу у Польщі та майже не розмовляю німецькою, і справді відчуваю як моя граматика погіршується і погіршується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4028,6 +4052,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T125020Z" creationid="ADMIN" creationdate="20210212T125020Z">
         <seg>Мені дуже подобається, що&lt;t12/&gt; в Німеччині&lt;t13/&gt; поважають сферу особистого життя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mir hat das Studium in Magdeburg sehr gefallen, weil man alleine ohne Hilfe mit Werkzeugmaschinen arbeiten kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T125936Z" creationid="nasty" creationdate="20210218T125936Z">
+        <seg>Мені дуже сподобалося навчання в Магдебурзі, адже ти можеш самостійно працювати з верстатами без чиєїсь допомоги.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4712,6 +4744,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn du etwas werden willst, musst du früh aufstehen und viel arbeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T125912Z" creationid="nasty" creationdate="20210218T125912Z">
+        <seg>Якщо ви хочете досягти певних успіхів, вам потрібно рано прокидатися та плідно працювати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn einer in der &lt;t14/&gt;Ukraine&lt;t15/&gt; im Unternehmen ein Problem hat&lt;t16/&gt;,&lt;t17/&gt; kommt er nicht auf die Idee&lt;t18/&gt;,&lt;t19/&gt; in eine &lt;t20/&gt;Universität&lt;t21/&gt; zu gehen, sondern &lt;t22/&gt;man geht &lt;t23/&gt;eher zu &lt;t24/&gt;Unternehmensberatungsfirmen&lt;t25/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T105724Z" creationid="ADMIN" creationdate="20210210T193707Z">
@@ -4858,8 +4898,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210218T104327Z" creationid="Lenovo" creationdate="20210214T130017Z">
-        <seg>Чи добре ти знаєш німецькою мовою?</seg>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T130011Z" creationid="Lenovo" creationdate="20210214T130017Z">
+        <seg>Як у вас справи з німецькою мовою?</seg>
       </tuv>
     </tu>
     <tu>
