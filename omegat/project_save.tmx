@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2306,8 +2306,8 @@
       <tuv lang="de-DE">
         <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210218T112810Z" creationid="krps" creationdate="20210211T082909Z">
-        <seg>У тебе є відчуття &lt;t0/&gt;відчуженості?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210218T112613Z" creationid="krps" creationdate="20210211T082909Z">
+        <seg>Чи не почувався &lt;t0/&gt;чужим?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5194,8 +5194,8 @@
       <tuv lang="de-DE">
         <seg>Wie äußert sich das?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210218T112412Z" creationid="krps" creationdate="20210211T082935Z">
-        <seg>Як воно проявляється?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210218T112654Z" creationid="krps" creationdate="20210211T082935Z">
+        <seg>Як це проявляється?</seg>
       </tuv>
     </tu>
     <tu>
