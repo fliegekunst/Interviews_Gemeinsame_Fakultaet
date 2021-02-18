@@ -664,6 +664,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>D&lt;t0/&gt;mytro Kobzarenko</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T122935Z" creationid="nasty" creationdate="20210218T122935Z">
+        <seg>Д&lt;t0/&gt;митро Кобзаренко</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>D&lt;t2/&gt;ie Promotion&lt;t3/&gt; &lt;t4/&gt;gefällt mir sehr gur&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T171145Z" creationid="Kate" creationdate="20210210T201200Z">
@@ -4236,6 +4244,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T111243Z" creationid="Kate" creationdate="20210204T121334Z">
         <seg>Навчається в університеті Оттофон Геріке з 2018 року.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Studierte &lt;t0/&gt;zwischen &lt;t1/&gt;201&lt;t2/&gt;5&lt;t3/&gt;-20&lt;t4/&gt;1&lt;t5/&gt;7&lt;t6/&gt; an der OVGU&lt;t7/&gt; Magdeburg &lt;t8/&gt;Produktionstechnik.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123110Z" creationid="nasty" creationdate="20210218T123110Z">
+        <seg>З&lt;t0/&gt; &lt;t1/&gt;201&lt;t2/&gt;5&lt;t3/&gt;-20&lt;t4/&gt;1&lt;t5/&gt;7&lt;t6/&gt; навчався&lt;t7/&gt; виробничому машинобудуванню &lt;t8/&gt;у Магдебурзі.</seg>
       </tuv>
     </tu>
     <tu>
