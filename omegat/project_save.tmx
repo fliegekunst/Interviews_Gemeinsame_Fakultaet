@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>2017 hatten wir die Möglichkeit, mit dem Geld der EU eine Werkhalle zu bauen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123557Z" creationid="nasty" creationdate="20210218T123557Z">
+        <seg>У 2017 ми мали можливість, побудувати цех на кошти ЄС.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>2018-2020 (Ende für Frühjahr 2021 geplant)</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210213T114358Z" creationid="krps" creationdate="20210204T121313Z">
@@ -123,6 +131,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210207T175415Z" creationid="Диана" creationdate="20210204T130424Z">
         <seg>&lt;t1/&gt;Я хотів би знати діалект як свою власну мову та відокремити від літературної німецької.&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t1/&gt;Nach dem Studium habe ich zwei Jahre lange bei meinem Vater in der Ukraine gearbeitet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123428Z" creationid="nasty" creationdate="20210218T123428Z">
+        <seg>&lt;t1/&gt;. Після закінчення навчання я працював у мого батька в Україні..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1624,6 +1640,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die deutsche Sprache hat mir auf Ausstellungen in Deutschland sehr geholfen, ich konnte so, leicht Kontakte knüpfen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123442Z" creationid="nasty" creationdate="20210218T123442Z">
+        <seg>Німецька мова допомогла мені на виставках у Німеччині, я легко знаходив спільну мову з людьми. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die ersten Wochen &lt;t0/&gt;in Magdeburg &lt;t1/&gt;waren schwer.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T211546Z" creationid="ADMIN" creationdate="20210210T211546Z">
@@ -2272,6 +2296,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich bin &lt;t0/&gt;CEO bei Kobzarenko sp.z o.o.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123323Z" creationid="nasty" creationdate="20210218T123323Z">
+        <seg>Ich binЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich bin eigentlich &lt;t0/&gt;ganz &lt;t1/&gt;zufrieden&lt;t2/&gt; mit meinem Deutsch&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T130618Z" creationid="Диана" creationdate="20210204T130618Z">
@@ -2608,6 +2640,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe selbst eine Ausstellung in Hannover organisiert, mein Vater ist damals nur zum fertigen Stand gekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123500Z" creationid="nasty" creationdate="20210218T123500Z">
+        <seg>Я самостійно організував одну з виставок у Ганновері, тоді мій батько її відвідав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe sogar ein paar deutsche Freunde gefunden.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210212T201055Z" creationid="hp" creationdate="20210204T130353Z">
@@ -2628,6 +2668,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T105536Z" creationid="Kate" creationdate="20210211T105536Z">
         <seg>Мене мало хто підтримував під час навчання на машинобудуванні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe viel mit Kunden und Händlern auf Deutsch gesprochen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123513Z" creationid="nasty" creationdate="20210218T123513Z">
+        <seg>Я багато спілкувався німецькою мовою з клієнтами та замовниками. .</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,8 +4482,8 @@
       <tuv lang="de-DE">
         <seg>Was machst du jetzt?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T122231Z" creationid="Диана" creationdate="20210204T122231Z">
-        <seg>Чим ти зараз займаєшься?</seg>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123306Z" creationid="Диана" creationdate="20210204T122231Z">
+        <seg>Чим займаєтесь?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4868,6 +4916,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T110841Z" creationid="hp" creationdate="20210211T110841Z">
         <seg>Наші студенти пасивніші, вони чекають від когось наказів та інструкцій, щоб знати що робити далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir verkaufen Mähdrescher und andere Maschinen und haben ein Händlernetzwerk in 30 Länder.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T123401Z" creationid="nasty" creationdate="20210218T123401Z">
+        <seg>Ми продаємо зернозбиральні та інші машиини, також маємо філіали в понад 30 країнах..</seg>
       </tuv>
     </tu>
     <tu>
