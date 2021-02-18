@@ -56,9 +56,9 @@
       <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Die wichtigste Frage für mich war: &lt;t1/&gt;Wie &lt;t2/&gt;werde ich&lt;t3/&gt; selbstständig?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210207T173504Z" creationid="Диана" creationdate="20210204T123233Z">
+      <tuv lang="uk" changeid="Диана" changedate="20210218T105127Z" creationid="Диана" creationdate="20210204T123233Z">
         <seg>&lt;t0/&gt;
-Найголовнішим запитанням для мене було: &lt;t1/&gt;як &lt;t2/&gt;мені стати&lt;t3/&gt; самостійним? </seg>
+Найголовнішим питанням для мене було: &lt;t1/&gt;як &lt;t2/&gt;мені стати&lt;t3/&gt; самостійним?</seg>
       </tuv>
     </tu>
     <tu>
@@ -225,8 +225,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t4/&gt;Es gibt so viele Sachen zu erledigen, wie die Organisation der WG, r&lt;t5/&gt;echtliche Sachen, &lt;t6/&gt;das Visum, usw&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210207T173623Z" creationid="Диана" creationdate="20210204T123500Z">
-        <seg>&lt;t4/&gt;Так багато проблем, котрі треба вирішити, наприклад, такі як оренда квартири&lt;t5/&gt;
+      <tuv lang="uk" changeid="Диана" changedate="20210218T110509Z" creationid="Диана" creationdate="20210204T123500Z">
+        <seg>&lt;t4/&gt;Так багато проблем, які треба вирішити, наприклад, такі як організація спільної квартири&lt;t5/&gt;
 юридичні питання, &lt;t6/&gt;віза тощо.&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
@@ -1562,8 +1562,8 @@
       <tuv lang="de-DE">
         <seg>Die Studierenden&lt;t7/&gt;, die schon &lt;t8/&gt;in Magdeburg sind&lt;t9/&gt;, können auf jeden Fall helfen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T132020Z" creationid="Диана" creationdate="20210204T132020Z">
-        <seg>Студенти, які вже перебувають у Магдебурзі, безумовно можуть допомогти.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T112458Z" creationid="Диана" creationdate="20210204T132020Z">
+        <seg>Студенти, які вже перебувають у Магдебурзі у будь якому випадку можуть допомогти.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1906,8 +1906,8 @@
       <tuv lang="de-DE">
         <seg>Es war aber sehr hilfreich, jemanden &lt;t10/&gt;zu kennen&lt;t11/&gt; und &lt;t12/&gt;von dieser Person &lt;t13/&gt;die Mitschrift &lt;t14/&gt;zu &lt;t15/&gt;bekomm&lt;t16/&gt;en&lt;t17/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T124423Z" creationid="Диана" creationdate="20210204T124423Z">
-        <seg>Але було дуже корисно знати когось і отримати від нього стенограму. &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T110855Z" creationid="Диана" creationdate="20210204T124423Z">
+        <seg>Але дуже корисно було бути знайомим з кимось і отримати від нього записи. &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt; &lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,8 +2090,8 @@
       <tuv lang="de-DE">
         <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105525Z" creationid="krps" creationdate="20210211T082909Z">
-        <seg>Чи не відчував ти себе &lt;t0/&gt;чужим?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T112810Z" creationid="krps" creationdate="20210211T082909Z">
+        <seg>У тебе є відчуття &lt;t0/&gt;відчуженості?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2434,8 +2434,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe als Werksstudent angefangen und wurde dann übernommen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210207T174329Z" creationid="Диана" creationdate="20210207T174329Z">
-        <seg>Мене взяли туди, коли я ще був студентом.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T104943Z" creationid="Диана" creationdate="20210207T174329Z">
+        <seg>Я починав працювати, коли ще був студентом, а потім мене взяли.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,8 +2570,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe richtig viele er&lt;t0/&gt;z&lt;t1/&gt;gebirgische Wörter gelernt, z&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;B.&lt;t5/&gt; &lt;t6/&gt;„G&lt;t7/&gt;lück auf&lt;t8/&gt;!“&lt;t9/&gt; Wenn ich jetzt nach &lt;t10/&gt;Magdeburg&lt;t11/&gt; komme, wundere ich mich, dass alle ganz normal &lt;t12/&gt;D&lt;t13/&gt;eutsch reden und ich sie gut verstehen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210207T175253Z" creationid="Диана" creationdate="20210204T125455Z">
-        <seg>&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;B.&lt;t5/&gt; &lt;t6/&gt;„G&lt;t7/&gt;lück auf&lt;t8/&gt;!“&lt;t9/&gt; Я правильно вивчив багато сленгових слів, наприклад " "Glück auf!“ Тепер, коли я приїжджаю в Магдебург, я дивуюся, що всі говорять для мене звично і я можу всіх розуміти.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T111150Z" creationid="Диана" creationdate="20210204T125455Z">
+        <seg>&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;“&lt;t9/&gt; Я правильно вивчив багато сленгових слів, наприклад "Glück auf!“ Тепер, коли я приїжджаю в Магдебург, я дивуюся, що всі говорять для мене звично і я можу всіх розуміти.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2586,8 +2586,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe super viele Leute auf Partys kennen gelernt, mit denen &lt;t22/&gt;ich&lt;t23/&gt; super quatschen&lt;t24/&gt; konnte&lt;t25/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T124734Z" creationid="Диана" creationdate="20210204T124734Z">
-        <seg>Я познайомився з багатьма людьми на вечірках, з якими я міг дуже добре поспілкуватися.&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T110921Z" creationid="Диана" creationdate="20210204T124734Z">
+        <seg>Я познайомився з багатьма людьми на вечірках з якими міг дуже добре поспілкуватися.&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2730,8 +2730,8 @@
       <tuv lang="de-DE">
         <seg>Ich musste viele Sachen lernen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T122909Z" creationid="Диана" creationdate="20210204T122909Z">
-        <seg>Мені довелося багато чому навчитися..</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T105056Z" creationid="Диана" creationdate="20210204T122909Z">
+        <seg>Мені довелося навчитися багатьом речам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,8 +3066,8 @@
       <tuv lang="de-DE">
         <seg>In 10 Jahren sprichst du vielleicht auch so.&lt;t0/&gt; &lt;t1/&gt;(Nickt)</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T130048Z" creationid="Диана" creationdate="20210204T130048Z">
-        <seg>Можливо, через 10 років ви теж будете говорити так.&lt;t0/&gt; &lt;t1/&gt;(Киває)</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T111230Z" creationid="Диана" creationdate="20210204T130048Z">
+        <seg>Можливо, через 10 років ви теж будете так говорити.&lt;t0/&gt; &lt;t1/&gt;(Киває)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3330,8 +3330,8 @@
       <tuv lang="de-DE">
         <seg>Interview am 11.03.2020</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T122141Z" creationid="Диана" creationdate="20210204T122141Z">
-        <seg>Інтерв'ю на 11.03.2020</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T104300Z" creationid="Диана" creationdate="20210204T122141Z">
+        <seg>Інтерв'ю 11.03.2020</seg>
       </tuv>
     </tu>
     <tu>
@@ -3794,8 +3794,8 @@
       <tuv lang="de-DE">
         <seg>Meine Aufgabe ist es, alle Abläufe, wie z.B. Schweißen oder andere begleitende Prozesse, zu optimieren und zu verbessern.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210207T174540Z" creationid="Диана" creationdate="20210204T122458Z">
-        <seg>Моє завдання полягає в оптимізації та вдосконаленні всіх процесів, наприклад, таких як зварювання або інші супутні з цим справи.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T104531Z" creationid="Диана" creationdate="20210204T122458Z">
+        <seg>Моє завдання полягає в оптимізації та вдосконаленні всіх процесів, наприклад, таких як зварювання або інших супутних з цим справ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3954,8 +3954,8 @@
       <tuv lang="de-DE">
         <seg>Nicht direkt&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T132207Z" creationid="Диана" creationdate="20210204T132207Z">
-        <seg>Не безпосередньо&lt;t0/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T112843Z" creationid="Диана" creationdate="20210204T132207Z">
+        <seg>Не зовсім&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4674,8 +4674,8 @@
       <tuv lang="de-DE">
         <seg>Wie war das Studium &lt;t0/&gt;an der OVGU &lt;t1/&gt;für dich?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210207T173434Z" creationid="Диана" creationdate="20210204T122746Z">
-        <seg>Як тобі навчання &lt;t0/&gt; в  Університеті Отто фон Геріке?&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210218T105015Z" creationid="Диана" creationdate="20210204T122746Z">
+        <seg>Як тобі було навчатися &lt;t0/&gt; в  Університеті Отто фон Геріке?&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
