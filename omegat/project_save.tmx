@@ -402,8 +402,8 @@
       <tuv lang="de-DE">
         <seg>Aber in Deutschland bereitet man sich zu Hause vor, überarbeitet das und besteht dann die Prüfung.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210204T125658Z" creationid="hp" creationdate="20210204T125658Z">
-        <seg>Але в Німеччині готуватися потрібно вдома, переглянути матеріал, а потім вже здати іспит.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T105357Z" creationid="hp" creationdate="20210204T125658Z">
+        <seg>Готуватися потрібно вдома, переглянути матеріал, а потім вже здати іспит.</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,8 +442,8 @@
       <tuv lang="de-DE">
         <seg>Als wir Team-Projekte während des Studiums hatten, stellt das keine Herausforderung für mich da.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210204T130249Z" creationid="hp" creationdate="20210204T130249Z">
-        <seg>Протягом начання ми виконували багато командних проєктів, тому для мене це не стало якимось викликом .</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T105426Z" creationid="hp" creationdate="20210204T130249Z">
+        <seg>Протягом начання ми виконували багато командних проєктів, тому для мене це не стало якимось викликом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3586,8 +3586,8 @@
       <tuv lang="de-DE">
         <seg>Man muss aber auch fragen!</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T110330Z" creationid="hp" creationdate="20210211T110330Z">
-        <seg>Запитутйте все, що вам незрозуміло!</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T105543Z" creationid="hp" creationdate="20210211T110330Z">
+        <seg>Запитуйте все, що вам незрозуміло!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,8 +4594,8 @@
       <tuv lang="de-DE">
         <seg>Wie ist das für dich, auf Deutsch zu studieren?</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210204T123321Z" creationid="hp" creationdate="20210204T123321Z">
-        <seg>Як тобі навчатися німеьцою мовою? </seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T105235Z" creationid="hp" creationdate="20210204T123321Z">
+        <seg>Як тобі навчатися німецькою мовою? </seg>
       </tuv>
     </tu>
     <tu>
@@ -4706,8 +4706,8 @@
       <tuv lang="de-DE">
         <seg>Wir Ukrainer wohnen zu dritt in einer WG in Magdeburg, das ist natürlich für uns sehr bequem, aber diese Lebensweise wirkt sich natürlich auch darauf aus, dass wir kaum deutsche Freunde haben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210212T201400Z" creationid="hp" creationdate="20210204T132437Z">
-        <seg>Ми троє українців, живемо в разом в Магдебурзі, тому через це в нас майже немає німецьких друзів.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210218T105446Z" creationid="hp" creationdate="20210204T132437Z">
+        <seg>Ми троє українців, живемо разом в Магдебурзі, тому через це в нас майже немає німецьких друзів.</seg>
       </tuv>
     </tu>
     <tu>
