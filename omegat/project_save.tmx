@@ -1850,8 +1850,8 @@
       <tuv lang="de-DE">
         <seg>Es könnte immer besser sein.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210210T170410Z" creationid="ADMIN" creationdate="20210210T170410Z">
-        <seg>Завжди може бути краще.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T104237Z" creationid="ADMIN" creationdate="20210210T170410Z">
+        <seg>Завжди може бути краще, але загалом так</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,8 +1954,8 @@
       <tuv lang="de-DE">
         <seg>Generell schon.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210210T170527Z" creationid="ADMIN" creationdate="20210210T170527Z">
-        <seg>Але загалом так.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T103637Z" creationid="ADMIN" creationdate="20210210T170527Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -2370,8 +2370,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe aber auch ehrlicherweise keine anderen Universitäten gesucht, &lt;t0/&gt;da &lt;t1/&gt;ich hier schon Kontakte&lt;t2/&gt; hatte&lt;t3/&gt; und der &lt;t4/&gt;Professor &lt;t5/&gt;kannte mich und bot mir an, meine Doktorarbeit zu betreuen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T103522Z" creationid="ADMIN" creationdate="20210204T133925Z">
-        <seg>Але, чесно кажучи, я не шукав інших варіантів, &lt;t0/&gt;тому що &lt;t1/&gt;в цьому університеті я вже мав зв'язки&lt;t2/&gt; &lt;t3/&gt; і до того ж &lt;t4/&gt; професор запропонував бути моїм науковим керівником &lt;t5/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T103617Z" creationid="ADMIN" creationdate="20210204T133925Z">
+        <seg>Але, чесно кажучи, я не шукав інших варіантів, &lt;t0/&gt;тому що &lt;t1/&gt;в цьому університеті я вже мав зв'язки&lt;t2/&gt; &lt;t3/&gt; і до того ж&lt;t4/&gt; професор запропонував бути моїм науковим керівником&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4554,8 +4554,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T130017Z" creationid="Lenovo" creationdate="20210214T130017Z">
-        <seg>Як у тебе з німецькою мовою?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210218T104327Z" creationid="Lenovo" creationdate="20210214T130017Z">
+        <seg>Чи добре ти знаєш німецькою мовою?</seg>
       </tuv>
     </tu>
     <tu>
