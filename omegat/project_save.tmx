@@ -103,6 +103,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Ich habe mehr mit Studenten von GUDF gesprochen, deswegen Freundschaften mit UA Studenten war geil, mit DE habe ich nicht übergelebt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="nasty" changedate="20210218T132707Z" creationid="nasty" creationdate="20210218T132707Z">
+        <seg>&lt;t0/&gt;Я підтримував зв'язок зі GUDF студентами, дружба з українськими студентами була чудовою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Ich hatte eher ein&lt;t1/&gt; &lt;t2/&gt;Heimatgefühl, kein Fremdheitsgefühl.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T131907Z" creationid="nasty" creationdate="20210218T131907Z">
