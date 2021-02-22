@@ -1224,6 +1224,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das ist einerseits gut, man achtet auf deine Persönlichkeit&lt;t0/&gt; und schätzt deine Grenzen&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T175159Z" creationid="PC" creationdate="20210222T175159Z">
+        <seg>З одної сторони це круто, людина&lt;t0/&gt; поважає тебе і не порушує твою зону комфорту&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das ist einfacher als &lt;t0/&gt;damals, als ich &lt;t1/&gt;die Masterarbeit auf Deutsch &lt;t2/&gt;geschrieben habe&lt;t3/&gt;, also einfacher vom Schreiben her.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T104031Z" creationid="ADMIN" creationdate="20210210T163610Z">
