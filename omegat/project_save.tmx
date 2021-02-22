@@ -1088,6 +1088,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das finde ich toll.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T182412Z" creationid="PC" creationdate="20210222T182412Z">
+        <seg>Це круто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das fällt auf und das gefällt mir sehr.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T105430Z" creationid="krps" creationdate="20210211T091436Z">
@@ -2872,6 +2880,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe in Magdeburg viele neue Menschen kennengelernt und viele davon sind nicht Deutsche.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T182359Z" creationid="PC" creationdate="20210222T182359Z">
+        <seg>В Магдебурзі я познайомилася з багатьма різними людьми і багато з них взагалі не німці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe in Polen dann meine eigene Firma gegründet und das auch nicht bereut.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T132217Z" creationid="nasty" creationdate="20210218T132217Z">
@@ -4028,6 +4044,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T124636Z" creationid="nasty" creationdate="20210218T124636Z">
         <seg>У вас також буде час і на відпочинок. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man hat hier die Möglichkeit auch andere Kulturen kennenzulernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T182221Z" creationid="PC" creationdate="20210222T182221Z">
+        <seg>Це чудова можливість, пізнати інші культури.</seg>
       </tuv>
     </tu>
     <tu>
