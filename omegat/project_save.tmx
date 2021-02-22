@@ -263,6 +263,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t2/&gt;Ich empfinde das jedoch als kalt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T175710Z" creationid="PC" creationdate="20210222T175710Z">
+        <seg>&lt;t2/&gt;Але це якось незвично для мене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t2/&gt;Ich habe &lt;t3/&gt;aber auch &lt;t4/&gt;nicht viele &lt;t5/&gt;deutsche &lt;t6/&gt;Freunde&lt;t7/&gt; und&lt;t8/&gt; nehme wenig Kontakt &lt;t9/&gt;zu Deutschen &lt;t10/&gt;auf.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210218T113425Z" creationid="Диана" creationdate="20210204T132449Z">
@@ -1226,8 +1234,8 @@
       <tuv lang="de-DE">
         <seg>Das ist einerseits gut, man achtet auf deine Persönlichkeit&lt;t0/&gt; und schätzt deine Grenzen&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T175159Z" creationid="PC" creationdate="20210222T175159Z">
-        <seg>З одної сторони це круто, людина&lt;t0/&gt; поважає тебе і не порушує твою зону комфорту&lt;t1/&gt;.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210222T175326Z" creationid="PC" creationdate="20210222T175159Z">
+        <seg>З одної сторони це круто, людина&lt;t0/&gt; поважає тебе і розмежовує соціальне та приватне життя&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
