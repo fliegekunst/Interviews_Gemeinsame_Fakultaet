@@ -4816,6 +4816,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Was ist anders&lt;t0/&gt; in Deutschland&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T174531Z" creationid="PC" creationdate="20210222T174531Z">
+        <seg>Що в Німеччині не так,&lt;t0/&gt; як у тебе вдома&lt;t1/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Was kann man machen, um sich schneller zu integrieren?</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T173407Z" creationid="PC" creationdate="20210222T173407Z">
