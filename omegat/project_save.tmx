@@ -295,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t3/&gt;Ukrainer sind meiner Meinung nach aufgeschlossener&lt;t4/&gt; und emotionaler&lt;t5/&gt;.&lt;t6/&gt; &lt;t7/&gt;Auf der anderen Seite sind &lt;t8/&gt;alle Leute hier&lt;t9/&gt; immer nett.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T180047Z" creationid="PC" creationdate="20210222T180047Z">
+        <seg>&lt;t3/&gt;Українці, на мою думку, більш розкуті&lt;t4/&gt; і не скупі на емоції&lt;t5/&gt;.&lt;t6/&gt; &lt;t7/&gt;Auf der anderen Seite sind &lt;t8/&gt;alle Leute hier&lt;t9/&gt; immer nett.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t4/&gt; Die Frage für mich ist: Akzeptiere ich das?</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T160017Z" creationid="PC" creationdate="20210213T160017Z">
@@ -1316,6 +1324,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210218T105233Z" creationid="PC" creationdate="20210218T105233Z">
         <seg>Я знаю це з власного досвіду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das liegt aber daran, dass ich in einer anderen Gesellschaft aufgewachsen bin.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T175833Z" creationid="PC" creationdate="20210222T175833Z">
+        <seg>Просто я зростала в іншому суспільстві.</seg>
       </tuv>
     </tu>
     <tu>
