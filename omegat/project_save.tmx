@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>(Überlegt lange.) Hier gibt es mehr Distanz.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T174706Z" creationid="PC" creationdate="20210222T174706Z">
+        <seg>(Довго думає.) Тут усі більш дистанційовані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>(überlegt lange) Das ist eine gute Frage.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T115023Z" creationid="ADMIN" creationdate="20210212T115023Z">
@@ -484,6 +492,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T163426Z" creationid="PC" creationdate="20210213T140008Z">
         <seg>Але... я б не сказала, що він значною мірою впливає на моє життя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Alle sind selbstständig und unabhängig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T174727Z" creationid="PC" creationdate="20210222T174727Z">
+        <seg>Кожен сам по собі і ні від кого не залежить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4364,6 +4380,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210218T112843Z" creationid="Диана" creationdate="20210204T132207Z">
         <seg>Не зовсім&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Niemand darf deine Komfortzone überschreiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T174920Z" creationid="PC" creationdate="20210222T174920Z">
+        <seg>Тут не прийнято порушувати особистий простір.</seg>
       </tuv>
     </tu>
     <tu>
