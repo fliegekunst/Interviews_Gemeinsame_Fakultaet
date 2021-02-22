@@ -1392,6 +1392,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das nervt manchmal.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T181952Z" creationid="PC" creationdate="20210222T181952Z">
+        <seg>Це іноді дратує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das sind vielleicht die Datenschutzregeln, die ich zu streng finde.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T171909Z" creationid="krps" creationdate="20210211T090840Z">
@@ -4952,6 +4960,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Was noch anders ist, dass hier viel mehr Ausländer gibt, als in der Ukraine.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T182132Z" creationid="PC" creationdate="20210222T182132Z">
+        <seg>Відмінним також можна назвати те, що тут іноземців більше ніж в Україні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Was wir in Kiew nicht geübt haben&lt;t0/&gt;,&lt;t1/&gt; ist simultan &lt;t2/&gt;zu &lt;t3/&gt;schreiben.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210218T105245Z" creationid="ADMIN" creationdate="20210211T092922Z">
@@ -5476,6 +5492,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T135138Z" creationid="PC" creationdate="20210213T135138Z">
         <seg>Наприклад, коли мені хтось телефонуює, щоб провести опитування або щось продати, я відповідаю: "Перепрошую, &lt;t0/&gt;але я не дуже розумію про що ви.&lt;t1/&gt;“ Хоча насправді це не так.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zum Beispiel, wenn man etwas dringend braucht, soll man zunächst abwarten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T181932Z" creationid="PC" creationdate="20210222T181932Z">
+        <seg>Наприклад, якщо вам щось терміново необхідно, вам все одно доведеться почекати.</seg>
       </tuv>
     </tu>
     <tu>
