@@ -520,6 +520,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Alles ist sehr individuell.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T181529Z" creationid="PC" creationdate="20210222T181529Z">
+        <seg>Усе дуже індивідуально.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Alles kommt mit der Zeit.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210204T124628Z" creationid="PC" creationdate="20210204T124628Z">
