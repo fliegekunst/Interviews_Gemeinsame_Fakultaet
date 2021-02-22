@@ -1264,6 +1264,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das ist eine unschätzbare Erfahrung, die im Leben helfen kann, unabhängig davon, in welchem Land man wohnen wird.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T182530Z" creationid="PC" creationdate="20210222T182530Z">
+        <seg>Це безцінний досвід, який може допомогти в житті незалежно від того, в якій країні ви будете жити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das ist einerseits gut, man achtet auf deine Persönlichkeit&lt;t0/&gt; und schätzt deine Grenzen&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T180056Z" creationid="PC" creationdate="20210222T175159Z">
