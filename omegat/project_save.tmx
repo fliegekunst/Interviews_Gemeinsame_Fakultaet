@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2084,6 +2084,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T112338Z" creationid="ADMIN" creationdate="20210211T091241Z">
         <seg>У будь-якому випадку, важливо готуватися до &lt;t0/&gt;лекцій&lt;t1/&gt;&lt;t2/&gt; вдома&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es ist immer einfacher etwas zu tun, was Spaß bringt und auf keinen Fall nicht umgekehrt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T173612Z" creationid="PC" creationdate="20210222T173612Z">
+        <seg>Завжди легше робити щось, що приносить радість, а не навпаки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4760,6 +4768,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Vor allem muss man die Sprache und Kultur mögen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T173457Z" creationid="PC" creationdate="20210222T173457Z">
+        <seg>Перш за все, вам повинна подобится мова і культура.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Vor drei oder vier Jahren hat mein Akzent mich sehr gestört.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T104853Z" creationid="ADMIN" creationdate="20210210T164741Z">
@@ -4788,6 +4804,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T154234Z" creationid="PC" creationdate="20210213T154234Z">
         <seg>А от не подобається мені, коли відповідають "Перепрошую?"&lt;t0/&gt; навіть тоді, коли &lt;t1/&gt;я впевнена,&lt;t2/&gt;що мене зрозуміли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was kann man machen, um sich schneller zu integrieren?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T173407Z" creationid="PC" creationdate="20210222T173407Z">
+        <seg>Що можна зробити, щоб швидше освоїтися?</seg>
       </tuv>
     </tu>
     <tu>
