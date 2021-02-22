@@ -2032,6 +2032,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es gibt aber auch Nachteile.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T181811Z" creationid="PC" creationdate="20210222T181811Z">
+        <seg>Але є і недоліки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gibt dafür keine Kooperationsform.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T105518Z" creationid="ADMIN" creationdate="20210210T191409Z">
@@ -3856,6 +3864,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Jetzt kann ich mein Leben ohne Termine nicht vorstellen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T181758Z" creationid="PC" creationdate="20210222T181758Z">
+        <seg>Зараз я вже не можу уявити своє життя без них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Jetzt wachsen dort die Betriebe und es werden immer mehr gebaut, weil die Arbeitskräfte billig sind.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T210754Z" creationid="Kate" creationdate="20210210T210754Z">
@@ -4880,6 +4896,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wa&lt;t0/&gt;s mir von Anfang an aufgefallen ist&lt;t1/&gt;, sind die Termine.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T181651Z" creationid="PC" creationdate="20210222T181651Z">
+        <seg>Що&lt;t0/&gt;мене вразило з самого початку, так це&lt;t1/&gt;строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Warum hast du dich nicht so schnell integriert und Freunde gefunden?</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T195742Z" creationid="Kate" creationdate="20210210T195742Z">
@@ -5468,6 +5492,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T155724Z" creationid="krps" creationdate="20210210T100932Z">
         <seg>По-друге, вивчити матеріал справді складно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Überall Termine (lacht).</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210222T181733Z" creationid="PC" creationdate="20210222T181733Z">
+        <seg>Усюди якісь строки (сміється).</seg>
       </tuv>
     </tu>
     <tu>
