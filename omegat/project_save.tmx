@@ -305,8 +305,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t4/&gt; Die Frage für mich ist: Akzeptiere ich das?</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210213T160017Z" creationid="PC" creationdate="20210213T160017Z">
-        <seg>&lt;t4/&gt; Питання в тому, чи приймаю я це?</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210223T134110Z" creationid="PC" creationdate="20210213T160017Z">
+        <seg>&lt;t4/&gt;Питання в тому, чи приймаю я це?</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,8 +330,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t4/&gt;Im Alltag ist die Aussprache auch nicht besonders wichtig, aber das hilft trotzdem, sich wohler zu fühlen.&lt;t5/&gt; Von den deutschen Freunden wird mir &lt;t6/&gt;manchmal&lt;t7/&gt; gesagt, ich spreche &lt;t8/&gt;einige Wörter&lt;t9/&gt; falsch aus, &lt;t10/&gt;dann werde ich korrigiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210213T151628Z" creationid="PC" creationdate="20210213T151628Z">
-        <seg>&lt;t4/&gt;Та і в повсякденні правильна вимова не така й важлива, але все одно допомагає відчувати себе комфортніше. &lt;t5/&gt; Мої друзі &lt;t6/&gt;іноді&lt;t7/&gt; вказують на помилки &lt;t8/&gt;у вимові певних слів&lt;t9/&gt; і &lt;t10/&gt;виправляють мене.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210223T134153Z" creationid="PC" creationdate="20210213T151628Z">
+        <seg>&lt;t4/&gt;Та і в повсякденні правильна вимова не така й важлива, але все одно допомагає відчувати себе комфортніше. &lt;t5/&gt;Мої друзі &lt;t6/&gt;іноді&lt;t7/&gt; вказують на помилки &lt;t8/&gt;у вимові певних слів&lt;t9/&gt; і &lt;t10/&gt;виправляють мене.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4770,8 +4770,8 @@
       <tuv lang="de-DE">
         <seg>Studiert an der OVGU &lt;t0/&gt;seit 2017 Werkstofftechnik</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210204T122721Z" creationid="PC" creationdate="20210204T122721Z">
-        <seg>Вивчає матеріалознавство в університеті Отто-фон-Гьоріке  &lt;t0/&gt;з 2017 року</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210223T134001Z" creationid="PC" creationdate="20210204T122721Z">
+        <seg>Вивчає матеріалознавство в університеті Отто-фон-Гьоріке &lt;t0/&gt;з 2017 року</seg>
       </tuv>
     </tu>
     <tu>
