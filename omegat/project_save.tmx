@@ -2026,8 +2026,8 @@
       <tuv lang="de-DE">
         <seg>Es fällt mir schwer, die schlechte Digitalisierung zu akzeptieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210211T111342Z" creationid="Kate" creationdate="20210211T111342Z">
-        <seg>Мені важко змиритися з поганою оцифровкою.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210224T163846Z" creationid="Kate" creationdate="20210211T111342Z">
+        <seg>Мені важко змиритися з поганим оцифруванням.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3698,8 +3698,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine kann man &lt;t2/&gt;z.B. &lt;t3/&gt;den Pass online beantragen&lt;t4/&gt; und&lt;t5/&gt; man kann mit seiner elektronischen Unterschrift viel machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T170943Z" creationid="Kate" creationdate="20210211T114001Z">
-        <seg>Наприклад, в Україні можна подати заявку на отримання паспорта в інтернеті і загалом багато чого зробити за допомогою електронного підпису.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210224T163925Z" creationid="Kate" creationdate="20210211T114001Z">
+        <seg>Наприклад, в Україні можна подати заявку на отримання паспорта в інтернеті й загалом багато чого зробити за допомогою електронного підпису.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
