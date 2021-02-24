@@ -321,8 +321,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t4/&gt;Es gibt so viele Sachen zu erledigen, wie die Organisation der WG, r&lt;t5/&gt;echtliche Sachen, &lt;t6/&gt;das Visum, usw&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210218T110509Z" creationid="Диана" creationdate="20210204T123500Z">
-        <seg>&lt;t4/&gt;Так багато проблем, які треба вирішити, наприклад, такі як організація спільної квартири&lt;t5/&gt;
+      <tuv lang="uk" changeid="Диана" changedate="20210224T153540Z" creationid="Диана" creationdate="20210204T123500Z">
+        <seg>&lt;t4/&gt;Так багато проблем, які треба вирішити, наприклад, такі, як організація спільного житла&lt;t5/&gt;
 юридичні питання, &lt;t6/&gt;віза тощо.&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
@@ -1738,8 +1738,8 @@
       <tuv lang="de-DE">
         <seg>Die Firma beschäftigt sich mit Karosseriebau und Kleinteile.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T153211Z" creationid="Диана" creationdate="20210204T122654Z">
-        <seg>Компанія займається конструюванням кузовів та дрібними деталями.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T153245Z" creationid="Диана" creationdate="20210204T122654Z">
+        <seg>Компанія займається конструюванням кузовів та дрібних деталей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2778,8 +2778,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe als Werksstudent angefangen und wurde dann übernommen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210218T104943Z" creationid="Диана" creationdate="20210207T174329Z">
-        <seg>Я починав працювати, коли ще був студентом, а потім мене взяли.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T153437Z" creationid="Диана" creationdate="20210207T174329Z">
+        <seg>Я починав підробляти ще студентом і згодом мене нарешті прийняли (на роботу).</seg>
       </tuv>
     </tu>
     <tu>
