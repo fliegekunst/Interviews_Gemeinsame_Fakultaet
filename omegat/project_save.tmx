@@ -241,8 +241,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t19/&gt;Man lernt auf Partys &lt;t20/&gt;super &lt;t21/&gt;Leute kennen und kann dann etwas nachfragen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210207T175008Z" creationid="Диана" creationdate="20210204T124650Z">
-        <seg>&lt;t19/&gt;Ви спочатку знайомитеся з чудовими людьми на вечірках, а потім можете задавати їм питання. &lt;t20/&gt; &lt;t21/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T153932Z" creationid="Диана" creationdate="20210204T124650Z">
+        <seg>&lt;t19/&gt;Ви спочатку знайомитеся з чудовими людьми на вечірках, а потім можете в них щось перепитувати. &lt;t20/&gt; &lt;t21/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,8 +2986,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe super viele Leute auf Partys kennen gelernt, mit denen &lt;t22/&gt;ich&lt;t23/&gt; super quatschen&lt;t24/&gt; konnte&lt;t25/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210218T110921Z" creationid="Диана" creationdate="20210204T124734Z">
-        <seg>Я познайомився з багатьма людьми на вечірках з якими міг дуже добре поспілкуватися.&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T153953Z" creationid="Диана" creationdate="20210204T124734Z">
+        <seg>Саме так у мене з’явилося багато знайомих, з якими на вечірках з якими міг дуже добре поспілкуватися.&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,8 +5290,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="nasty" changedate="20210218T130011Z" creationid="Lenovo" creationdate="20210214T130017Z">
-        <seg>Як у вас справи з німецькою мовою?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T154115Z" creationid="Lenovo" creationdate="20210214T130017Z">
+        <seg>Чи добре ти знаєш німецьку мову?</seg>
       </tuv>
     </tu>
     <tu>
