@@ -217,8 +217,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t14/&gt;Erzgebirgisch&lt;t15/&gt; ist ein seltsamer Dialekt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T125607Z" creationid="Диана" creationdate="20210204T125607Z">
-        <seg>&lt;t14/&gt;Erzgebirgisch&lt;t15/&gt; дивний діалект.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T154415Z" creationid="Диана" creationdate="20210204T125607Z">
+        <seg>&lt;t14/&gt;Ерцгебіргський діалект – дивний. &lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,8 +2962,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe richtig viele er&lt;t0/&gt;z&lt;t1/&gt;gebirgische Wörter gelernt, z&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;B.&lt;t5/&gt; &lt;t6/&gt;„G&lt;t7/&gt;lück auf&lt;t8/&gt;!“&lt;t9/&gt; Wenn ich jetzt nach &lt;t10/&gt;Magdeburg&lt;t11/&gt; komme, wundere ich mich, dass alle ganz normal &lt;t12/&gt;D&lt;t13/&gt;eutsch reden und ich sie gut verstehen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210218T114836Z" creationid="Диана" creationdate="20210204T125455Z">
-        <seg>&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;“&lt;t9/&gt; Я правильно вивчив багато сленгових слів, наприклад "Glück auf!“ Тепер, коли я приїжджаю в Магдебург, я дивуюся, що всі говорять для мене звично і я можу всіх розуміти.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T154339Z" creationid="Диана" creationdate="20210204T125455Z">
+        <seg>&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;“&lt;t9/&gt; Я вивчив багато слів на ерцгебіргському діалекті , наприклад "Glück auf!“ Тепер, коли я приїжджаю в Магдебург, я дивуюся, що всі говорять для мене звично і я всіх розумію.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
