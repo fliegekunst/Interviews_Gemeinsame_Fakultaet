@@ -4794,8 +4794,8 @@
       <tuv lang="de-DE">
         <seg>Studierte an der OVGU Magdeburg Laser&lt;t0/&gt;technik</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210207T173309Z" creationid="Диана" creationdate="20210204T122054Z">
-        <seg>Вивчав лазерні технології в Університеті Отто фон Геріке в Магдебурзі &lt;t0/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T152841Z" creationid="Диана" creationdate="20210204T122054Z">
+        <seg>Вивчав лазерні технології в університеті Отто фон Геріке в Магдебурзі &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4978,8 +4978,8 @@
       <tuv lang="de-DE">
         <seg>Was machst du jetzt?</seg>
       </tuv>
-      <tuv lang="uk" changeid="nasty" changedate="20210218T123306Z" creationid="Диана" creationdate="20210204T122231Z">
-        <seg>Чим займаєтесь?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T152944Z" creationid="Диана" creationdate="20210204T122231Z">
+        <seg>Чим ти зараз займаєшься?</seg>
       </tuv>
     </tu>
     <tu>
