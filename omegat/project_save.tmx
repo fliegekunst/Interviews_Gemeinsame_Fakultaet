@@ -362,8 +362,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t6/&gt;Also nehmt das Masterprojekt ernst und strengt euch an!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T131922Z" creationid="Диана" creationdate="20210204T131922Z">
-        <seg>&lt;t6/&gt;Тож відностесь до магістерського проєкту серйозно і докладайте зусиля!</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T160028Z" creationid="Диана" creationdate="20210204T131922Z">
+        <seg>&lt;t6/&gt;Тож відносьтесь до магістерського проєкту серйозно і докладайте зусилля!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1818,8 +1818,8 @@
       <tuv lang="de-DE">
         <seg>Die Studierenden&lt;t7/&gt;, die schon &lt;t8/&gt;in Magdeburg sind&lt;t9/&gt;, können auf jeden Fall helfen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210218T112458Z" creationid="Диана" creationdate="20210204T132020Z">
-        <seg>Студенти, які вже перебувають у Магдебурзі у будь якому випадку можуть допомогти.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T160125Z" creationid="Диана" creationdate="20210204T132020Z">
+        <seg>Студенти, які вже перебувають у Магдебурзі у будь якому разі можуть допомогти.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,8 +2410,8 @@
       <tuv lang="de-DE">
         <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210218T112613Z" creationid="krps" creationdate="20210211T082909Z">
-        <seg>Чи не почувався &lt;t0/&gt;чужим?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T160146Z" creationid="krps" creationdate="20210211T082909Z">
+        <seg>У тебе є відчуття відчуженості &lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,8 +5386,8 @@
       <tuv lang="de-DE">
         <seg>Wie äußert sich das?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210218T112654Z" creationid="krps" creationdate="20210211T082935Z">
-        <seg>Як це проявляється?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T160315Z" creationid="krps" creationdate="20210211T082935Z">
+        <seg>Як воно проявляється?</seg>
       </tuv>
     </tu>
     <tu>
