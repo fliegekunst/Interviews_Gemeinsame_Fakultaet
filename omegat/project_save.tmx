@@ -185,8 +185,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t1/&gt;Ich würde das g&lt;t2/&gt;erne als eigene Sprache kennen und das von der hochdeutschen Sprache trennen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210207T175415Z" creationid="Диана" creationdate="20210204T130424Z">
-        <seg>&lt;t1/&gt;Я хотів би знати діалект як свою власну мову та відокремити від літературної німецької.&lt;t2/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T155156Z" creationid="Диана" creationdate="20210204T130424Z">
+        <seg>&lt;t1/&gt;Я хотів би знати діалект як свою власну мову та відокремити його від літературної.&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,8 +578,8 @@
       <tuv lang="de-DE">
         <seg>Am Anfang war das &lt;t16/&gt;für mich &lt;t17/&gt;eine andere Sprache.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T125929Z" creationid="Диана" creationdate="20210204T125929Z">
-        <seg> Спочатку для мене це була інша мова&lt;t16/&gt;&lt;t17/&gt;..</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210224T154555Z" creationid="Диана" creationdate="20210204T125929Z">
+        <seg> Спочатку для мене це була взагалі інша мова&lt;t16/&gt;&lt;t17/&gt;. </seg>
       </tuv>
     </tu>
     <tu>
