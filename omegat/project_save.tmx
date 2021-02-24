@@ -16,8 +16,8 @@
       <tuv lang="de-DE">
         <seg>(nickt) Wenn du an diese Zukunft denkst, hast du Angst?</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210218T112850Z" creationid="krps" creationdate="20210211T085833Z">
-        <seg>Боїшся думати про майбутнє?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210224T162316Z" creationid="krps" creationdate="20210211T085833Z">
+        <seg>Чи страшно тобі, коли думаєш про нього?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,8 +4866,8 @@
       <tuv lang="de-DE">
         <seg>Verglichen mit der Ukraine, wie war das Studium &lt;t0/&gt;in Deutschland &lt;t1/&gt;für dich?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T194728Z" creationid="Kate" creationdate="20210204T125008Z">
-        <seg>Якщо порівнювати з Україною, яким для тебе &lt;t0/&gt; було&lt;t1/&gt;навчання в Німеччині?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210224T162126Z" creationid="Kate" creationdate="20210204T125008Z">
+        <seg>Якщо порівнювати з Україною, яким для тебе &lt;t0/&gt; було&lt;t1/&gt; навчання в Німеччині?</seg>
       </tuv>
     </tu>
     <tu>
