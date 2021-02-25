@@ -2328,6 +2328,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dort lernt man viele internationale Leute kennen und auch einige Russischsprecher.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T133207Z" creationid="Диана" creationdate="20210225T133207Z">
+        <seg>Там ви знайомитесь з багатьма іноземцями, а також з деякими російськомовними людьми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Dort saßen die Teamführer von verschiedenen Abteilungen, die neue Mitarbeiter gesucht haben, und ich habe sie überzeugt und wurde angenommen.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T115229Z" creationid="PC" creationdate="20210225T115229Z">
@@ -6748,6 +6756,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T110841Z" creationid="hp" creationdate="20210211T110841Z">
         <seg>Наші студенти пасивніші, вони чекають від когось наказів та інструкцій, щоб знати що робити далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir treffen uns im IKUS, im Internationalen Büro der O&lt;t4/&gt;V&lt;t5/&gt;GU. Jedes Semester bildet sich eine Kerngruppe mit &lt;t6/&gt;einer &lt;t7/&gt;W&lt;t8/&gt;hat&lt;t9/&gt;sapp Gruppe, jede Woche gibt es eine &lt;t10/&gt;„&lt;t11/&gt;Kitchen Party&lt;t12/&gt;“&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T133109Z" creationid="Диана" creationdate="20210225T133109Z">
+        <seg>Ми зустрічаємось в IKUS (interkulturelle Studenten- міжкультурні студенти), в міжнародному офісі університету Отто фон Геріке в Магдебурзі. Кожного семестру формується група з назвою Whatsapp, та щотижня проводиться "Кухонна вечірка"&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
