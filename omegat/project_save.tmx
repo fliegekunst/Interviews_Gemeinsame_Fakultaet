@@ -1472,6 +1472,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das ist nicht &lt;t0/&gt;vergleichbar.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T120736Z" creationid="Диана" creationdate="20210225T120736Z">
+        <seg>Це не порівняти &lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das ist nicht zu unterschätzen!</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T131314Z" creationid="nasty" creationdate="20210218T131314Z">
@@ -5300,6 +5308,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T100517Z" creationid="PC" creationdate="20210218T112626Z">
         <seg>Чи збираєшся&lt;t0/&gt; ти залишитися в Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sind Prüfungen in Deutschland schwerer&lt;t0/&gt; als in der Ukraine&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T120637Z" creationid="Диана" creationdate="20210225T120637Z">
+        <seg>Чи складніше іспити в Німеччині, а ніж в Україні?&lt;t0/&gt; &lt;t1/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
