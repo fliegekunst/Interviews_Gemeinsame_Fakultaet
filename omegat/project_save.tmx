@@ -1440,6 +1440,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das kommt hoffentlich mit der Zeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T113202Z" creationid="Диана" creationdate="20210225T113202Z">
+        <seg>Це, сподіваюся, прийде з часом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das lief gut.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T111657Z" creationid="krps" creationdate="20210225T111657Z">
@@ -3472,6 +3480,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich weiß aber nicht, ob das realistisch ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T114853Z" creationid="Диана" creationdate="20210225T114853Z">
+        <seg>Але я не знаю, чи це реально.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich weiß noch, wir sind einmal auf eine Exkursion ins BMW-Werk selbst gefahren.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T130629Z" creationid="nasty" creationdate="20210218T130629Z">
@@ -3564,6 +3580,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T133340Z" creationid="Lenovo" creationdate="20210214T133340Z">
         <seg>Я живу один, але не відчуваю себе самотнім тут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich wäre mit meinem Deutsch zufrieden, wenn ich keine Fehler mehr machen würde.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T113838Z" creationid="Диана" creationdate="20210225T113838Z">
+        <seg>Я був би задоволений своєю німецькою, якби перестав робити помилки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4888,6 +4912,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Neulich habe ich die Show eine&lt;t0/&gt;s&lt;t1/&gt; Stand&lt;t2/&gt;-&lt;t3/&gt;Up&lt;t4/&gt;-&lt;t5/&gt;Comedian&lt;t6/&gt;s&lt;t7/&gt; auf Deutsch gesehen und gar nichts verstanden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T113924Z" creationid="Диана" creationdate="20210225T113924Z">
+        <seg>Днями я дивився шоу стендап коміка німецькою мовою і нічого не розумів.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Nicht direkt&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210218T112843Z" creationid="Диана" creationdate="20210204T132207Z">
@@ -5372,6 +5404,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T132712Z" creationid="Диана" creationdate="20210204T132712Z">
         <seg> А може, мені просто потрібно було більше часу, щоб звикнути до всього.&lt;t15/&gt;&lt;t16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vielleicht muss ich mir aber auch &lt;t24/&gt;einfach &lt;t25/&gt;mehr Mühe geben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T113620Z" creationid="Диана" creationdate="20210225T113620Z">
+        <seg>Але, можливо, мені просто потрібно докладати більше зусиль&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
