@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5322,8 +5322,8 @@
       <tuv lang="de-DE">
         <seg>Sie machen aber mein Leben sicherer und ich soll einfach daran noch gewöhnen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T155647Z" creationid="krps" creationdate="20210211T091118Z">
-        <seg>але водночас вони роблять моє життя надійнішим і мені треба просто до цього звикнути.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T122852Z" creationid="krps" creationdate="20210211T091118Z">
+        <seg>але водночас вони роблять моє життя надійнішим і, я думаю, мені треба просто до цього звикнути.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5578,8 +5578,8 @@
       <tuv lang="de-DE">
         <seg>Und das ist einfach, Angst vor dem Unbekannten zu haben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T090331Z" creationid="krps" creationdate="20210211T090331Z">
-        <seg>Нормально мати страх перед незнайомцями.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T123052Z" creationid="krps" creationdate="20210211T090331Z">
+        <seg>Нормально мати страх перед чимось незнайомим.</seg>
       </tuv>
     </tu>
     <tu>
