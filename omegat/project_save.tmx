@@ -794,8 +794,8 @@
       <tuv lang="de-DE">
         <seg>Bist du mit deinem Deutsch zufrieden?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210218T104556Z" creationid="Lenovo" creationdate="20210214T131152Z">
-        <seg>Ти задоволений своїм рівнем володіння німецькою мовою?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T081641Z" creationid="Lenovo" creationdate="20210214T131152Z">
+        <seg>Ти задоволений своїм рівнем володіння німецькою?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,8 +2202,8 @@
       <tuv lang="de-DE">
         <seg>Es könnte immer besser sein.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210218T104237Z" creationid="ADMIN" creationdate="20210210T170410Z">
-        <seg>Завжди може бути краще, але загалом так</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T081733Z" creationid="ADMIN" creationdate="20210210T170410Z">
+        <seg>Завжди може бути краще, але загалом так.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,8 +2538,8 @@
       <tuv lang="de-DE">
         <seg>Hier&lt;t0/&gt; (in Magdeburg)&lt;t1/&gt; gibt es keine Akzentabbaukurse, nur in Berlin gibt es das oder auf Youtube.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105019Z" creationid="ADMIN" creationdate="20210210T165842Z">
-        <seg>Це можливо лише в Берліні або в ютубі.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T081438Z" creationid="ADMIN" creationdate="20210210T165842Z">
+        <seg>Це можливо лише в Берліні або в YouTube.</seg>
       </tuv>
     </tu>
     <tu>
