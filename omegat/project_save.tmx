@@ -504,6 +504,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Aber es ist nicht nur der finanz&lt;t8/&gt;ielle&lt;t9/&gt; &lt;t10/&gt;A&lt;t11/&gt;spekt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T112516Z" creationid="hp" creationdate="20210225T112416Z">
+        <seg>До того ж, діло не тільки у фінансах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Aber ich fühle, dass es mir manchmal schwerfällt, mich auszudrücken und mir manchmal die Worte fehlen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T110356Z" creationid="Lenovo" creationdate="20210214T130104Z">
@@ -2106,8 +2114,8 @@
       <tuv lang="de-DE">
         <seg>Erstens fü&lt;t2/&gt;h&lt;t3/&gt;le ich mich hier viel sicherer, mir ist bewusst wie viel man in der &lt;t4/&gt;Ukraine&lt;t5/&gt; verdient, ich kann mir nicht vorstellen, wie man &lt;t6/&gt;damit das Leben &lt;t7/&gt;bewältigen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T112236Z" creationid="hp" creationdate="20210225T112236Z">
-        <seg>Перш за все, це зарплата. Я навіть не уявляю як можна забезпечити совє прожиття з українськими зарплатами.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T112346Z" creationid="hp" creationdate="20210225T112236Z">
+        <seg>Перш за все, тут я можу почувати себе впевненіше, я не уявляю як можна забезпечити своє прожиття з українськими зарплатами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4892,6 +4900,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T123043Z" creationid="Kate" creationdate="20210210T203827Z">
         <seg>Навіть якщо після цього ви повернетесь в Україну, знання іноземної мови завжди буде перевагою.&lt;t0/&gt;&lt;t1/&gt; В Україні студенти звикли, що за ними бігають.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sicherheit durch &lt;t12/&gt;eine funktionierende K&lt;t13/&gt;rankenversicherung ist au&lt;t14/&gt;ch ein Aspekt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T112440Z" creationid="hp" creationdate="20210225T112440Z">
+        <seg>а </seg>
       </tuv>
     </tu>
     <tu>
