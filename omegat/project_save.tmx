@@ -2248,6 +2248,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die haben andere &lt;t2/&gt;Z&lt;t3/&gt;iele.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T132339Z" creationid="hp" creationdate="20210225T132339Z">
+        <seg>У всіх різні цілі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die in der Ukraine durchgeführte Test&lt;t0/&gt;DaF-&lt;t1/&gt;Vorbereitung mit ihren typischen Aufgaben, wie Gra&lt;t2/&gt;fikbeschreibung oder Erörterung von Lebenssituationen, haben wir bis zur Perfektion geschliffen und konnten mitten in der Nacht alle Redewendungen auswendig erzählen.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T094533Z" creationid="PC" creationdate="20210204T133107Z">
@@ -4948,6 +4956,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T163019Z" creationid="krps" creationdate="20210210T215215Z">
         <seg>Побачимо, як все складеться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man darf nicht auf die anderen &lt;t0/&gt;K&lt;t1/&gt;ommilitonen schauen, mit denen man studiert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T132329Z" creationid="hp" creationdate="20210225T132329Z">
+        <seg>Не рівнятися на інших студентів.</seg>
       </tuv>
     </tu>
     <tu>
