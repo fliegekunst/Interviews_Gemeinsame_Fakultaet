@@ -528,6 +528,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t67/&gt;(lacht)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T131416Z" creationid="hp" creationdate="20210225T131416Z">
+        <seg>(сміється)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t8/&gt;Es ist wichtig, die Aufgaben und sich selbst gut zu strukturieren.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T204522Z" creationid="Kate" creationdate="20210210T204240Z">
@@ -2156,6 +2164,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T195151Z" creationid="Kate" creationdate="20210210T195151Z">
         <seg>Кількість академічних годин &lt;t6/&gt;у Німеччині &lt;t7/&gt;менша, ніж в Україні, де ми вивчали німецьку мову ще в другій половині дня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Serie „Game of Thrones“&lt;t56/&gt; habe ich von vorne bis hinten auf &lt;t57/&gt;Deutsch&lt;t58/&gt; angeschaut, da habe ich viele &lt;t59/&gt;S&lt;t60/&gt;achen gelernt, die man &lt;t61/&gt;jedoch &lt;t62/&gt;in der &lt;t63/&gt;A&lt;t64/&gt;lltagskommunikation &lt;t65/&gt;eher &lt;t66/&gt;nicht verwendet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T131407Z" creationid="hp" creationdate="20210225T131407Z">
+        <seg>Наприклад "Гру Престолів" я дивився німецькою, і вивчив звідти величезну кількість слів, які не використовуються у повсякденному житті.</seg>
       </tuv>
     </tu>
     <tu>
