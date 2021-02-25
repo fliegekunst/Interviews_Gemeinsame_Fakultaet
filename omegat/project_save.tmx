@@ -1032,6 +1032,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das &lt;t0/&gt;Hauptprojekt &lt;t1/&gt;läuft &lt;t2/&gt;bis Ende 2020,&lt;t3/&gt; es geht um&lt;t4/&gt; &lt;t5/&gt;eine 3&lt;t6/&gt;D&lt;t7/&gt;-CFD &lt;t8/&gt;Simulation &lt;t9/&gt;(&lt;t10/&gt;Strömungssimulation&lt;t11/&gt;).</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T111623Z" creationid="hp" creationdate="20210225T111623Z">
+        <seg>Закінчив свій сновний проєкт про D7/CFD моделювання (тобто моделювання потоків) у 2020 році</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das Online Studium insgesamt war super an der OVGU, im Hinblick auf die Situation.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T185737Z" creationid="hp" creationdate="20210211T185730Z">
@@ -1992,6 +2000,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Du promovierst in Deutschland und nicht in der Ukraine.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T111738Z" creationid="hp" creationdate="20210225T111738Z">
+        <seg>Чому ти вирішив здобувати ступінь доктора в Німеччині,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Du siehst deine Zukunft in Deutschland?</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T205228Z" creationid="Kate" creationdate="20210210T205228Z">
@@ -2084,6 +2100,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210210T100912Z" creationid="krps" creationdate="20210210T100912Z">
         <seg>По-перше, кожному даються різні завдання, що я вважаю несправедливим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstens fü&lt;t2/&gt;h&lt;t3/&gt;le ich mich hier viel sicherer, mir ist bewusst wie viel man in der &lt;t4/&gt;Ukraine&lt;t5/&gt; verdient, ich kann mir nicht vorstellen, wie man &lt;t6/&gt;damit das Leben &lt;t7/&gt;bewältigen kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T112236Z" creationid="hp" creationdate="20210225T112236Z">
+        <seg>Перш за все, це зарплата. Я навіть не уявляю як можна забезпечити совє прожиття з українськими зарплатами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2204,6 +2228,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210212T082637Z" creationid="krps" creationdate="20210211T081500Z">
         <seg>Можливостей отримати роботу дуже багато.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gibt versch&lt;t0/&gt;iedene G&lt;t1/&gt;ründe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T112048Z" creationid="hp" creationdate="20210225T112048Z">
+        <seg>На це є багато причин.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5228,6 +5260,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T195742Z" creationid="Kate" creationdate="20210210T195742Z">
         <seg>Чому так сталось?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Warum?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T111750Z" creationid="hp" creationdate="20210225T111750Z">
+        <seg>а не в Україні?</seg>
       </tuv>
     </tu>
     <tu>
