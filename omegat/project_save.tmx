@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -746,8 +746,8 @@
       <tuv lang="de-DE">
         <seg>Auf den ersten Blick schien es leicht, weil wir fast keine Aufgaben hatten, die wir im Laufe des Semesters erledigen mussten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210204T123058Z" creationid="krps" creationdate="20210204T122415Z">
-        <seg>Спочатку було легко, тому що ми майже не мали завдань, які потрібно було виконувати протягом семестру.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T112448Z" creationid="krps" creationdate="20210204T122415Z">
+        <seg>Спочатку було легко, тому що майже не було завдань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1538,8 +1538,8 @@
       <tuv lang="de-DE">
         <seg>Das war schwieriger als in Deutschland, hat aber das Semester gut strukturiert.&lt;t0/&gt; &lt;t1/&gt;Darüber hinaus gab es viele Alltagsprobleme und -fragen, die wir in der Freizeit beseitigen und lösen musste.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T083549Z" creationid="krps" creationdate="20210204T124659Z">
-        <seg>Це було важче, ніж у Німеччині, але добре структурувало семестр.&lt;t0/&gt; &lt;t1/&gt;Ба більше, було багато щоденних проблем та питань,</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T112843Z" creationid="krps" creationdate="20210204T124659Z">
+        <seg>Це було важче, ніж у Німеччині, але добре структурувало семестр.&lt;t0/&gt; &lt;t1/&gt;Крім того, було багато щоденних проблем та питань,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1674,8 +1674,8 @@
       <tuv lang="de-DE">
         <seg>Deshalb habe ich eigentlich fast nichts gemacht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T081530Z" creationid="krps" creationdate="20210204T123143Z">
-        <seg>Саме тому я практично нічого не робив.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T112502Z" creationid="krps" creationdate="20210204T123143Z">
+        <seg>Через це я практично нічого не робив.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2938,8 +2938,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe beim nächsten Mal mein Zeitmanagement korrekt angepasst.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T154019Z" creationid="krps" creationdate="20210204T131919Z">
-        <seg>Потім я вже налаштував свій тайм-менеджмент та</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T112932Z" creationid="krps" creationdate="20210204T131919Z">
+        <seg>Потім я вже зрозумів як використовувати час та</seg>
       </tuv>
     </tu>
     <tu>
@@ -4090,8 +4090,8 @@
       <tuv lang="de-DE">
         <seg>Jetzt fühle ich mich wohl und sicher.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T154150Z" creationid="krps" creationdate="20210210T095151Z">
-        <seg>Зараз в мене все добре.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T112952Z" creationid="krps" creationdate="20210210T095151Z">
+        <seg>Зараз у мене все добре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4842,8 +4842,8 @@
       <tuv lang="de-DE">
         <seg>Obwohl es am Anfang schwierig war, waren wir echt gut auf das Leben und Studium in Deutschland vorbereitet.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T154301Z" creationid="krps" creationdate="20210210T095341Z">
-        <seg>Хоча й спочатку було тяжко, але ми були підготовлені до життя та навчання в Німеччині.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T113041Z" creationid="krps" creationdate="20210210T095341Z">
+        <seg>Хоч і спочатку було тяжко, але ми були підготовлені до життя та навчання в Німеччині.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5178,8 +5178,8 @@
       <tuv lang="de-DE">
         <seg>Studierte an der OVGU Magdeburg zwischen 201&lt;t0/&gt;8&lt;t1/&gt; und 20&lt;t2/&gt;20&lt;t3/&gt; Zerspantechnik&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210213T114323Z" creationid="krps" creationdate="20210204T120237Z">
-        <seg>Вивчає технологію обробки в Магдебурзі у 201&lt;t0/&gt;8&lt;t1/&gt;-20&lt;t2/&gt;20&lt;t3/&gt; рр. в університеті Отто фон Ґеріке&lt;t4/&gt;.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T112303Z" creationid="krps" creationdate="20210204T120237Z">
+        <seg>Вивчає технології обробки в Магдебурзі у 201&lt;t0/&gt;8&lt;t1/&gt;-20&lt;t2/&gt;20&lt;t3/&gt; рр. в університеті Отто фон Ґеріке&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5842,8 +5842,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben gute Deutschkenntnisse, wir waren schon zweimal in Magdeburg und die Struktur der Uni war uns bekannt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T154352Z" creationid="krps" creationdate="20210210T095518Z">
-        <seg>Ми добре знаємо німецьку, а до того двічі були в Магдебурзі і знаємо структуру університету.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T113155Z" creationid="krps" creationdate="20210210T095518Z">
+        <seg>Ми добре володіємо німецькою, а до того двічі були в Магдебурзі і знайомі зі структурою університету.</seg>
       </tuv>
     </tu>
     <tu>
