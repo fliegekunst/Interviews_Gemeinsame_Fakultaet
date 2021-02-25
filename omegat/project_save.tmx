@@ -5154,8 +5154,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man 80% der Fragen gelernt hat, dann bekommt man die entsprechende Note.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210210T100729Z" creationid="krps" creationdate="20210210T100729Z">
-        <seg>Якщо студент вивчив 80% запитань, то він отримує відповідний бал.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T084837Z" creationid="krps" creationdate="20210210T100729Z">
+        <seg>Якщо студент вивчив 80% питань, то він отримує відповідний бал.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5178,8 +5178,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man fünf Fragen aus 120 gut gelernt hat, bekommst du dann eine davon in der Aufgabe, in der es insgesamt zwei Fragen gibt und man könnte nur 50% der Punkte bekommen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T155919Z" creationid="krps" creationdate="20210210T101642Z">
-        <seg>Якщо вивчити якісно п’ять питань зі 120, тоді отримаєш одне з них у завданні, в якому міститься два запитання, тобто можна отримати лише половину балів.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T084933Z" creationid="krps" creationdate="20210210T101642Z">
+        <seg>Якщо вивчити якісно п’ять питань зі 120, тоді отримаєш одне з них у завданні, в якому міститься два питання, тобто можна отримати лише половину балів.</seg>
       </tuv>
     </tu>
     <tu>
