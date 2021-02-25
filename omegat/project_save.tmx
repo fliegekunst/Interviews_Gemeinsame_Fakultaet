@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4770,8 +4770,8 @@
       <tuv lang="de-DE">
         <seg>Studiert an der OVGU &lt;t0/&gt;seit 2017 Werkstofftechnik</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210223T134001Z" creationid="PC" creationdate="20210204T122721Z">
-        <seg>Вивчає матеріалознавство в університеті Отто-фон-Гьоріке &lt;t0/&gt;з 2017 року</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T093708Z" creationid="PC" creationdate="20210204T122721Z">
+        <seg>Вивчає матеріалознавство в університеті Отто-фон-Ґеріке &lt;t0/&gt;з 2017 року</seg>
       </tuv>
     </tu>
     <tu>
@@ -5578,8 +5578,8 @@
       <tuv lang="de-DE">
         <seg>„&lt;t0/&gt;Von Jahr zu Jahr fühle ich mich i&lt;t1/&gt;n Deutschland &lt;t2/&gt;sicherer und wohler&lt;t3/&gt;!“</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210204T121840Z" creationid="PC" creationdate="20210204T121840Z">
-        <seg>„&lt;t0/&gt;З кожним роком, у&lt;t1/&gt;Німеччині, &lt;t2/&gt;я відчуваю себе впевненіше та комфортніше&lt;t3/&gt;!“</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T093520Z" creationid="PC" creationdate="20210204T121840Z">
+        <seg>„&lt;t0/&gt;З кожним роком, я&lt;t1/&gt; почуваюся &lt;t2/&gt;впевненіше та комфортніше у Німеччині&lt;t3/&gt;!</seg>
       </tuv>
     </tu>
     <tu>
