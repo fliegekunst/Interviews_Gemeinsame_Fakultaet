@@ -898,8 +898,8 @@
       <tuv lang="de-DE">
         <seg>Dann brauche ich ein paar Sekunden um &lt;t0/&gt;von einer Sprache in eine andere zu wechseln.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210210T203808Z" creationid="PC" creationdate="20210210T203808Z">
-        <seg>Мені потрібно декілька секунд, щоб &lt;t0/&gt;переключитися з одної мови на іншу.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T095210Z" creationid="PC" creationdate="20210210T203808Z">
+        <seg>Мені потрібно декілька секунд, щоб &lt;t0/&gt;переключитися з однієї мови на іншу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4426,8 +4426,8 @@
       <tuv lang="de-DE">
         <seg>Natürlich gibt es manchmal Probleme in der Alltagskommunikation.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210210T202118Z" creationid="PC" creationdate="20210210T202118Z">
-        <seg>Звичайно бувають іноді непорозуміння у повсякденному спілкуванні.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T095128Z" creationid="PC" creationdate="20210210T202118Z">
+        <seg>Звичайно іноді бувають непорозуміння в повсякденному спілкуванні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4474,8 +4474,8 @@
       <tuv lang="de-DE">
         <seg>Nein.&lt;t0/&gt; &lt;t1/&gt;Die meisten Deutschen sind daran gewöhnt, dass es viele Ausländer in Deutschland gibt, außerdem sind sie sehr tolerant und haben keine Probleme auf &lt;t2/&gt;Hochdeutsch zu reden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210210T201206Z" creationid="PC" creationdate="20210210T201206Z">
-        <seg>Ні.&lt;t0/&gt; &lt;t1/&gt;Більшість німців уже звикли до того, що в Німеччині багато іноземців, тому вони ставляться до нас з розумінням і запросто можуть перейти &lt;t2/&gt;на літературну німецькую.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T095001Z" creationid="PC" creationdate="20210210T201206Z">
+        <seg>Ні.&lt;t0/&gt; &lt;t1/&gt;Більшість німців уже звикли до того, що в Німеччині багато іноземців, тому вони ставляться до нас з розумінням і легко можуть перейти &lt;t2/&gt;на літературну німецьку.</seg>
       </tuv>
     </tu>
     <tu>
