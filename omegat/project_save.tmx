@@ -1266,8 +1266,8 @@
       <tuv lang="de-DE">
         <seg>Das ist eine unschätzbare Erfahrung, die im Leben helfen kann, unabhängig davon, in welchem Land man wohnen wird.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210223T075306Z" creationid="PC" creationdate="20210222T182530Z">
-        <seg> Це безцінний досвід, який може допомогти в житті незалежно від того, в якій країні ви будете жити.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T102444Z" creationid="PC" creationdate="20210222T182530Z">
+        <seg>Це безцінний досвід, який може допомогти в житті незалежно від того, в якій країні ви будете жити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2890,8 +2890,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe in Magdeburg viele neue Menschen kennengelernt und viele davon sind nicht Deutsche.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T182359Z" creationid="PC" creationdate="20210222T182359Z">
-        <seg>В Магдебурзі я познайомилася з багатьма різними людьми і багато з них взагалі не німці.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T102425Z" creationid="PC" creationdate="20210222T182359Z">
+        <seg>В Магдебурзі я познайомилася з різними людьми і багато з них взагалі не німці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4058,8 +4058,8 @@
       <tuv lang="de-DE">
         <seg>Man hat hier die Möglichkeit auch andere Kulturen kennenzulernen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T182221Z" creationid="PC" creationdate="20210222T182221Z">
-        <seg>Це чудова можливість, пізнати інші культури.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T102350Z" creationid="PC" creationdate="20210222T182221Z">
+        <seg>Це чудова можливість пізнати інші культури.</seg>
       </tuv>
     </tu>
     <tu>
