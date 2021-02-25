@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -524,6 +524,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T104926Z" creationid="Диана" creationdate="20210225T104926Z">
         <seg>Здача магістерської роботи запланована на травень 2020 року</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Alle Aufgaben und Ziele sind klar und alle Unterlagen sind verfügbar, das macht das Studium einfach.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T111037Z" creationid="krps" creationdate="20210225T111037Z">
+        <seg>Всі завдання та цілі чіткі, а всі документи доступні, що суттєво полегшує навчання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2112,6 +2120,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es gibt mehr freie Zeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T110816Z" creationid="krps" creationdate="20210225T110816Z">
+        <seg>Є більше вільного часу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gibt oft die Situationen, wenn es sogar hilft, ein unerwünschtes Gespräch zu vermeiden (lacht).</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T133842Z" creationid="PC" creationdate="20210213T133842Z">
@@ -2496,6 +2512,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hier ist das Studiensystem transparenter als in der Ukraine.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T110757Z" creationid="krps" creationdate="20210225T110757Z">
+        <seg>Система освіти тут прозоріша, ніж в Україні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hier kann man nicht überall mit Karte bezahlen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T120354Z" creationid="Kate" creationdate="20210211T114043Z">
@@ -2868,6 +2892,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T171126Z" creationid="Kate" creationdate="20210210T201045Z">
         <seg>І я подумала: „&lt;t0/&gt;Я &lt;t1/&gt;зроблю це“, адже в Україну я зможу повернутися в будь-який момент, а от вдруге таку можливість мені навряд чи вже нададуть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe gedacht, dass es schwierig wird, Prüfungen in Deutschland abzulegen, aber das war nicht so.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T111221Z" creationid="krps" creationdate="20210225T111221Z">
+        <seg>Я думав, що складати іспити в Німеччині дуже складно, але це виявилося не так.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3968,6 +4000,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Keiner schimpft mit dir!“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T103950Z" creationid="krps" creationdate="20210225T103950Z">
+        <seg>Ніхто тебе за це не сварить!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Kniet euch sofort ins Studium rein und macht alles, was gemacht werden muss.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T132207Z" creationid="Lenovo" creationdate="20210214T132207Z">
@@ -4040,6 +4080,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Kommt aus dem Gebiet Chernihiv</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T104009Z" creationid="krps" creationdate="20210225T104009Z">
+        <seg>Родом з чернігівської області</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Kommt aus&lt;t0/&gt; Krivih R&lt;t1/&gt;ih.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T110511Z" creationid="hp" creationdate="20210225T110511Z">
@@ -4060,6 +4108,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T130544Z" creationid="nasty" creationdate="20210218T130544Z">
         <seg> Не лінуватися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Letztes Semester habe ich fünf Prüfungen abgelegt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T111106Z" creationid="krps" creationdate="20210225T111106Z">
+        <seg>Минулого семестру я склав п'ять іспитів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4144,6 +4200,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man kann viel selbst lernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T110957Z" creationid="krps" creationdate="20210225T110957Z">
+        <seg>Багато чого можна вивчити самостійно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man kennt die Sprache jetzt besser und kann viel freier formulieren.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T163943Z" creationid="ADMIN" creationdate="20210210T163943Z">
@@ -4188,6 +4252,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T132039Z" creationid="Lenovo" creationdate="20210214T132039Z">
         <seg>У будь-якому випадку, ви завжди повинні надолужити все це, тобто іспити і пропущені лекції.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man muss manche Veranstaltungen nicht besuchen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T110935Z" creationid="krps" creationdate="20210225T110935Z">
+        <seg>Не обов'язково відвідувати деякі заходи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4396,6 +4468,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T125020Z" creationid="ADMIN" creationdate="20210212T125020Z">
         <seg>Мені дуже подобається, що&lt;t12/&gt; в Німеччині&lt;t13/&gt; поважають сферу особистого життя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mir geht’s sehr gut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T104331Z" creationid="krps" creationdate="20210225T104331Z">
+        <seg>В мене все чудово.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4860,6 +4940,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T103534Z" creationid="Kate" creationdate="20210204T121334Z">
         <seg>Навчається в університеті Отто фон Ґеріке з 2018 року.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Studiert seit 2019 an der OVGU Werkstofftechnik</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T104304Z" creationid="krps" creationdate="20210225T104304Z">
+        <seg>Вивчає матеріалознавство з 2019 в університеті Отто фон Ґеріке</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,6 +5496,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wie geht es dir?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T104319Z" creationid="krps" creationdate="20210225T104319Z">
+        <seg>Як в тебе справи?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wie ist das für dich, auf Deutsch zu studieren?</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T105235Z" creationid="hp" creationdate="20210204T123321Z">
@@ -5708,6 +5804,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T110306Z" creationid="nasty" creationdate="20210218T110306Z">
         <seg>„&lt;t0/&gt;Якщо ви хочете досягти мети, вам потрібно рано прокидатися та плідно працювати.&lt;t1/&gt;“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„Andere Menschen verstehen, dass man kaum Erfahrung hat.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T103932Z" creationid="krps" creationdate="20210225T103932Z">
+        <seg>„Всі люди розуміють, що ти майже не маєш досвіду.</seg>
       </tuv>
     </tu>
     <tu>
