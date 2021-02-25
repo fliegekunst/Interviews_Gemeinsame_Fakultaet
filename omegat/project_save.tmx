@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4144,6 +4144,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In der Ukraine ist es in manchen Studiengängen Usus, voneinander abzuschreiben, hier nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T122920Z" creationid="Диана" creationdate="20210225T122920Z">
+        <seg>В Україні прийнято списувати один в одного, але тут такого немає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In der Ukraine kann man &lt;t2/&gt;z.B. &lt;t3/&gt;den Pass online beantragen&lt;t4/&gt; und&lt;t5/&gt; man kann mit seiner elektronischen Unterschrift viel machen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210224T163925Z" creationid="Kate" creationdate="20210211T114001Z">
@@ -5552,6 +5560,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Thermodynamik scheint hier am schwersten im Bachelor zu sein, habe ich gehört.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T122802Z" creationid="Диана" creationdate="20210225T122733Z">
+        <seg>Термодинаміка, здається, найважча на бакалаврі тут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ukrainische und deutsche Studierende zusammen, wir haben in einer &lt;t1/&gt;WG&lt;t2/&gt; gewohnt &lt;t3/&gt;und &lt;t4/&gt;zusammen Party gemacht&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T160431Z" creationid="Диана" creationdate="20210204T133016Z">
@@ -6292,6 +6308,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T133322Z" creationid="Lenovo" creationdate="20210214T133322Z">
         <seg>Під час підготовки до іспиту у всіх нас була група техніків у Whattsapp, так як ми обмінялися номерами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Während des Bachelors wird hier in Magdeburg viel gesiebt, &lt;t1/&gt;viele fallen durch die Prüfungen, das ist &lt;t2/&gt;in der Ukraine &lt;t3/&gt;anders&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T122614Z" creationid="Диана" creationdate="20210225T122614Z">
+        <seg> &lt;t1/&gt;Під час навчання на бакалавраті тут, у Магдебурзі, багато контролю, багато хто провалюють іспити, в Україні все навпаки. &lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
