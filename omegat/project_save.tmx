@@ -1778,8 +1778,8 @@
       <tuv lang="de-DE">
         <seg>Die OVGU Magdeburg war sehr präsent während unseres Studiums in Kiew, sie haben Präsentationen gemacht und die Konferenzen waren gut organisiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210218T110251Z" creationid="hp" creationdate="20210213T173237Z">
-        <seg>Університет OVGU були присутні під час навчання в Києві, також вони виступали з презентаціями та організовували конференції.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105737Z" creationid="hp" creationdate="20210213T173237Z">
+        <seg>Предаставники університету OVGU були присутні під час навчання в Києві, також вони виступали з презентаціями та організовували конференції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,8 +2090,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt einige Dozierende, die gemerkt haben, dass wir aus der Ukraine sind, wenn wir in der Vorlesung etwas sagen sollten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T190232Z" creationid="hp" creationdate="20210211T190232Z">
-        <seg>Деякі лектори, помічали що ми з України, якщо на лекції нам треба було щось сказати.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105547Z" creationid="hp" creationdate="20210211T190232Z">
+        <seg>Деякі лектори помічали, що ми з України, якщо на лекції нам треба було щось сказати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3162,8 +3162,8 @@
       <tuv lang="de-DE">
         <seg>Ich möchte mich gerne bei der GUDF bedanken, bei allen Leuten, die dieses Programm möglich gemacht haben und sich damit so intensiv beschäftigt haben und sich damit immer noch beschäftigen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T190407Z" creationid="hp" creationdate="20210211T190407Z">
-        <seg>Я хотів би подякувати GUDF, усім людям, які зробили цю програму можливою і хто так інтенсивно нею досі займається.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105656Z" creationid="hp" creationdate="20210211T190407Z">
+        <seg>Я хотів би подякувати GUDF та усім, хто створив цю програму та так інтенсивно нею досі займається.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4394,8 +4394,8 @@
       <tuv lang="de-DE">
         <seg>Mir wurde nie das Gefühl gegeben, ich gehöre nicht hierher oder so.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210212T202835Z" creationid="hp" creationdate="20210211T190118Z">
-        <seg>Я ніколи не почувався так ніби я там зайвий.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105527Z" creationid="hp" creationdate="20210211T190118Z">
+        <seg>Я ніколи не почувався зайвим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4682,8 +4682,8 @@
       <tuv lang="de-DE">
         <seg>Sie haben dann super &lt;t0/&gt;reagiert und haben uns auch erlaubt, Wörterbücher zu benutzen (sogar während der Prüfung!), das war toll.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T190309Z" creationid="hp" creationdate="20210211T190309Z">
-        <seg>Вони чудово на це реагували, і дозволяли користуватися словниками навіть на іспитах!</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105603Z" creationid="hp" creationdate="20210211T190309Z">
+        <seg>Вони чудово на це реагували і дозволяли користуватися словниками навіть на іспитах!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5544,6 +5544,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wladyslaw Sazono&lt;t0/&gt;w</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T110035Z" creationid="hp" creationdate="20210225T110035Z">
+        <seg>Владислав Сазоно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wo arbeitest du jetzt?</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123254Z" creationid="nasty" creationdate="20210218T123254Z">
@@ -5692,6 +5700,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T095442Z" creationid="Kate" creationdate="20210204T122134Z">
         <seg>„Мене мало хто підтримував“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„Man muss lernen, Prioritäten zu setzen“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T110128Z" creationid="hp" creationdate="20210225T110128Z">
+        <seg>„Потрібно навчитися визначати приорітети“</seg>
       </tuv>
     </tu>
     <tu>
