@@ -297,8 +297,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t3/&gt;Ukrainer sind meiner Meinung nach aufgeschlossener&lt;t4/&gt; und emotionaler&lt;t5/&gt;.&lt;t6/&gt; &lt;t7/&gt;Auf der anderen Seite sind &lt;t8/&gt;alle Leute hier&lt;t9/&gt; immer nett.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T180239Z" creationid="PC" creationdate="20210222T180047Z">
-        <seg>&lt;t3/&gt;Українці, на мою думку, більш розкуті&lt;t4/&gt; і не скупі на емоції&lt;t5/&gt;.&lt;t6/&gt; &lt;t7/&gt;З іншого боку &lt;t8/&gt;тут усі&lt;t9/&gt; завжди люб'язні.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T101708Z" creationid="PC" creationdate="20210222T180047Z">
+        <seg>&lt;t3/&gt;Українці, на мою думку, більш розкуті&lt;t4/&gt; і не скупі на емоції&lt;t5/&gt;.&lt;t6/&gt; &lt;t7/&gt;З іншого боку, &lt;t8/&gt;тут усі&lt;t9/&gt; завжди люб'язні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,8 +754,8 @@
       <tuv lang="de-DE">
         <seg>Beispielsweise im Geschäft oder in der Bank sind die Leute alle &lt;t10/&gt;freundlich&lt;t11/&gt; und hilfsbereit&lt;t12/&gt;.&lt;t13/&gt; &lt;t14/&gt;Ob sie wirklich so sind, ist ganz andere Frage.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T180509Z" creationid="PC" creationdate="20210222T180509Z">
-        <seg>Наприклад в магазині або в банку люди &lt;t10/&gt;привітні&lt;t11/&gt; і доброзичливі&lt;t12/&gt;.&lt;t13/&gt; &lt;t14/&gt;А чи вони насправді такі, це вже зовсім інше питання.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T102112Z" creationid="PC" creationdate="20210222T180509Z">
+        <seg>Наприклад, в магазині або в банку люди &lt;t10/&gt;привітні&lt;t11/&gt; й доброзичливі&lt;t12/&gt;.&lt;t13/&gt; &lt;t14/&gt;А чи вони насправді такі, це вже зовсім інше питання.</seg>
       </tuv>
     </tu>
     <tu>
