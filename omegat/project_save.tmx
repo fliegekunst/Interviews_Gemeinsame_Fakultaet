@@ -399,6 +399,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t3/&gt;Das möchte ich vermeiden&lt;t4/&gt;!&lt;t5/&gt; Ich versuche, neue Leute kennen zu lernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T125530Z" creationid="Диана" creationdate="20210225T125530Z">
+        <seg>&lt;t3/&gt;Я хочу цього уникнути! І намагаюся знайомитися з людьми.&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t3/&gt;Ich &lt;t4/&gt;will auch&lt;t5/&gt; nicht immer nachfragen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T200847Z" creationid="Kate" creationdate="20210210T200847Z">
