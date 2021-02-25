@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -295,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t21/&gt;Das verzögert&lt;t22/&gt; die Wissenschaft und die Selbstentwicklung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T113524Z" creationid="hp" creationdate="20210225T113524Z">
+        <seg>Це гальмує розвиток нашої економіки та розвиток особистості кожного.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t3/&gt;Dann habe ich gleich das Gefühl, dass ich distanziert wurde.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T155951Z" creationid="PC" creationdate="20210213T155951Z">
@@ -506,8 +514,8 @@
       <tuv lang="de-DE">
         <seg>Aber es ist nicht nur der finanz&lt;t8/&gt;ielle&lt;t9/&gt; &lt;t10/&gt;A&lt;t11/&gt;spekt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T112516Z" creationid="hp" creationdate="20210225T112416Z">
-        <seg>До того ж, діло не тільки у фінансах</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T112623Z" creationid="hp" creationdate="20210225T112416Z">
+        <seg>До того ж, діло не тільки у фінансах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1452,6 +1460,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T095632Z" creationid="PC" creationdate="20210213T162433Z">
         <seg>І я із задоволенням цим займаюся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das macht M&lt;t23/&gt;ensc&lt;t24/&gt;hen kaputt.&lt;t25/&gt; Natürlich spielten auch akademische &lt;t26/&gt;G&lt;t27/&gt;ründe &lt;t28/&gt;bei meiner Entscheidung &lt;t29/&gt;eine &lt;t30/&gt;R&lt;t31/&gt;olle.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T113745Z" creationid="hp" creationdate="20210225T113745Z">
+        <seg>У нас людей ламають. Ще однією причино, чому я обрав Німеччину став вибір професії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3336,6 +3352,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich studiere in Deutschland auch aus moralischen Gründen, hier fühle ich mich frei, kann mein L&lt;t15/&gt;eben leben wie ich will und wie ich erzo&lt;t16/&gt;gen wurde.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T113032Z" creationid="hp" creationdate="20210225T113023Z">
+        <seg>Я навчаюся в Німеччині також і з моральних принципів, адже тут я почуваю себе вільним та можу прожити своє життя як захочеться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich verstehe nicht immer die Witze oder wenn jemand etwas sehr schnell sagt.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210210T202313Z" creationid="PC" creationdate="20210210T202313Z">
@@ -4560,6 +4584,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Manchmal kann man in&lt;t17/&gt; &lt;t18/&gt;der U&lt;t19/&gt;kraine nicht das machen, was man glaubt od&lt;t20/&gt;er was die eigenen moralischen Überzeugungen sind, d.h. Korruption ist ein Thema.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T113430Z" creationid="hp" creationdate="20210225T113430Z">
+        <seg>Частіше в Україні не можна зробити все, що ти задумав, адже це може перечити якимось моральним переконанням, до цього всього тут існує корупція.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Manchmal passieren Situationen, in denen ich ohne Wörterbuch nichts sagen kann.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T073246Z" creationid="krps" creationdate="20210211T073246Z">
@@ -4954,8 +4986,8 @@
       <tuv lang="de-DE">
         <seg>Sicherheit durch &lt;t12/&gt;eine funktionierende K&lt;t13/&gt;rankenversicherung ist au&lt;t14/&gt;ch ein Aspekt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T112440Z" creationid="hp" creationdate="20210225T112440Z">
-        <seg>а </seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T112748Z" creationid="hp" creationdate="20210225T112440Z">
+        <seg>Медичне страхуваня - теж немаловажливий аспект.</seg>
       </tuv>
     </tu>
     <tu>
