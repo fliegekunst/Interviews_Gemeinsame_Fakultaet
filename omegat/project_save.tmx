@@ -512,6 +512,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Abgabe der Masterarbeit geplant für Mai 2020</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T104926Z" creationid="Диана" creationdate="20210225T104926Z">
+        <seg>Здача магістерської роботи запланована на травень 2020 року</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Alle sind selbstständig und unabhängig.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T174727Z" creationid="PC" creationdate="20210222T174727Z">
@@ -5188,6 +5196,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T114310Z" creationid="Lenovo" creationdate="20210214T114310Z">
         <seg>Що стосується лекцій, вони дуже інформативні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich eine Familie hier in Deutschland gründe, dann bleibe ich hier, wenn nicht, ziehe &lt;t0/&gt;ich &lt;t1/&gt;weiter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T105138Z" creationid="Диана" creationdate="20210225T105138Z">
+        <seg>Якщо я створю сім’ю тут, у Німеччині, то я залишусь тут, якщо ні, то піду далі. &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
