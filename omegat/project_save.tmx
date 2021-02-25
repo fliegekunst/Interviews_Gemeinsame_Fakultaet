@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t1/&gt;Es war einfacher für mich&lt;t2/&gt;, Menschen aus Sachsen-Anhalt zu verstehen&lt;t3/&gt;,&lt;t4/&gt; w&lt;t5/&gt;eil ich hier angefangen &lt;t6/&gt;habe, zu studieren, und auch schon im Sprachpraktikum und im Betriebspraktikum hier war&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T132030Z" creationid="hp" creationdate="20210225T132030Z">
+        <seg>Але для мене це не було так важко, адже саме тут я почав своє навчання і з самого початку в мене була і мовна практика, і практика у моєму фасі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t1/&gt;Ich würde das g&lt;t2/&gt;erne als eigene Sprache kennen und das von der hochdeutschen Sprache trennen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T155156Z" creationid="Диана" creationdate="20210204T130424Z">
@@ -3512,6 +3520,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe mich &lt;t8/&gt;schnell &lt;t9/&gt;an den &lt;t10/&gt;D&lt;t11/&gt;ialekt gewöhnt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T132048Z" creationid="hp" creationdate="20210225T132048Z">
+        <seg>Я швидко звик до діалекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe mich dazu gezwungen, mit Leuten ins Gespräch zu kommen und &lt;t8/&gt;ich finde, das hat sich&lt;t9/&gt; gelohnt.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T125730Z" creationid="Диана" creationdate="20210225T125730Z">
@@ -5232,6 +5248,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mein &lt;t12/&gt;Professor&lt;t13/&gt; ist aus &lt;t14/&gt;M&lt;t15/&gt;ünchen, seinen &lt;t16/&gt;D&lt;t17/&gt;ialekt verstehe ich viel schlechter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T132121Z" creationid="hp" creationdate="20210225T132121Z">
+        <seg>Один мій викладач з Мюнхена, то його я розумію гірше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mein Englisch muss ich aber verbessern, bis zur siebten Klasse hatte ich die Vertiefungsrichtung Englisch, danach Mathe&lt;t0/&gt;matik&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T170235Z" creationid="Kate" creationdate="20210210T202212Z">
@@ -6162,8 +6186,8 @@
       <tuv lang="de-DE">
         <seg>Was würdes&lt;t0/&gt;t du anderen ukrainischen Studierenden&lt;t1/&gt; raten, die neu nach Deutschland kommen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T100023Z" creationid="Диана" creationdate="20210204T131628Z">
-        <seg>Що б ви&lt;t0/&gt; порадили іншим українським студентам, які приїжджають до Німеччини?&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T132237Z" creationid="Диана" creationdate="20210204T131628Z">
+        <seg>Щоб ти порадив іншим українським студентам, які приїжджають навчатися до Німеччини?</seg>
       </tuv>
     </tu>
     <tu>
