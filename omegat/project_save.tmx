@@ -600,6 +600,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Aber ich finde, man sollte sich nicht einbilden, dass man irgendwann ein Deutscher wird – wir sind Ukrainer, und das ist gut so.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T123630Z" creationid="Диана" creationdate="20210225T123510Z">
+        <seg>Але я думаю, що ви не повинні уявляти, що з часом станете німцями - ми українці, і це добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Aber ich fühle, dass es mir manchmal schwerfällt, mich auszudrücken und mir manchmal die Worte fehlen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T110356Z" creationid="Lenovo" creationdate="20210214T130104Z">
@@ -2738,8 +2746,8 @@
       <tuv lang="de-DE">
         <seg>Hast du noch ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T123315Z" creationid="Диана" creationdate="20210225T123315Z">
-        <seg>Чи є ще в тебе почуття відчуженсті?&lt;t0/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T123550Z" creationid="Диана" creationdate="20210225T123315Z">
+        <seg>В тебе ще почуття відчуженсті?&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3996,6 +4004,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T211212Z" creationid="Kate" creationdate="20210210T211212Z">
         <seg>У Німеччині, безумовно, є більш серйозні дослідження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In Deutschland gibt es viele unterschiedliche Nationalitäten und viele Menschen leben zusammen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T123725Z" creationid="Диана" creationdate="20210225T123725Z">
+        <seg>У Німеччині багато різних національностей, і багато людей живуть разом.</seg>
       </tuv>
     </tu>
     <tu>
