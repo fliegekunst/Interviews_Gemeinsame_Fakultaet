@@ -2410,8 +2410,8 @@
       <tuv lang="de-DE">
         <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T160146Z" creationid="krps" creationdate="20210211T082909Z">
-        <seg>У тебе є відчуття відчуженості &lt;t0/&gt;?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T085631Z" creationid="krps" creationdate="20210211T082909Z">
+        <seg>Чи все ж почуваєшся чужим &lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
