@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1602,8 +1602,8 @@
       <tuv lang="de-DE">
         <seg>Das war für mich eine Überraschung, als ich das von den Studenten aus anderem Austauschprogramm &lt;t0/&gt;gehört habe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T084713Z" creationid="krps" creationdate="20210217T082718Z">
-        <seg>Для мене стало несподіванкою, коли я почув це від студентів &lt;t0/&gt;з інших програм обміну.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T115752Z" creationid="krps" creationdate="20210217T082718Z">
+        <seg>Я був приємно здивований, коли почув це від студентів &lt;t0/&gt;з інших програм обміну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,8 +1802,8 @@
       <tuv lang="de-DE">
         <seg>Deshalb war es für mich leichter, hier selbstständig Alltagsprobleme zu lösen und zu studieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T161631Z" creationid="krps" creationdate="20210210T100418Z">
-        <seg>Тому мені було простіше самостійно вирішувати повсякденні проблеми та вчитися.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T115829Z" creationid="krps" creationdate="20210210T100418Z">
+        <seg>Через це мені було легше самостійно вирішувати повсякденні проблеми та вчитися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5490,8 +5490,8 @@
       <tuv lang="de-DE">
         <seg>Unsere gute Vorbereitung im Vergleich zu den anderen ausländischen Studenten ist auffällig.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T113452Z" creationid="krps" creationdate="20210210T095922Z">
-        <seg>Іноді ми були навіть кращі, ніж інші іноземні студенти.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T115708Z" creationid="krps" creationdate="20210210T095922Z">
+        <seg>Іноді ми були навіть кращі, ніж інші іноземні студенти, яким ми, до речі, часто допомагали.</seg>
       </tuv>
     </tu>
     <tu>
