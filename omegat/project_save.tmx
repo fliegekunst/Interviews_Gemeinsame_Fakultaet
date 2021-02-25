@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T130042Z" creationid="Lenovo" creationdate="20210214T130042Z">
         <seg>(сміється) На роботі цього досить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>(nickt) &lt;t0/&gt; &lt;t1/&gt;Wenn du an diese Zukunft denkst, hast du Angst&lt;t2/&gt; davor, keinen Job zu finden oder Probleme zu bekommen, alleine in Deutschland zu leben&lt;t3/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T125113Z" creationid="Диана" creationdate="20210225T125113Z">
+        <seg>&lt;t0/&gt; (киває) Коли думаєш про майбутнє, боїшся не знайти роботу або зіштовхнутися з проблемами, які пов'язані з самотністю в Німеччині.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1652,6 +1660,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T181952Z" creationid="PC" creationdate="20210222T181952Z">
         <seg>Це іноді дратує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das sind alles spannende Prozesse, auf dich ich mich freue.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T124727Z" creationid="Диана" creationdate="20210225T124727Z">
+        <seg>Це такі захоплюючі процеси, яких я з нетерпінням чекаю.</seg>
       </tuv>
     </tu>
     <tu>
