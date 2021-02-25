@@ -1072,6 +1072,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Da&lt;t29/&gt;s&lt;t30/&gt; &lt;t31/&gt;ist aber eine&lt;t32/&gt; &lt;t33/&gt;F&lt;t34/&gt;rage der &lt;t35/&gt;P&lt;t36/&gt;rioritäten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130913Z" creationid="hp" creationdate="20210225T130913Z">
+        <seg>Треба правильно визначати приорітети.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Damals konnte ich ihn gar nicht verstehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T203435Z" creationid="Kate" creationdate="20210210T203429Z">
@@ -3792,6 +3800,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich versuche &lt;t23/&gt;F&lt;t24/&gt;ilme &lt;t25/&gt;auf Deutsch &lt;t26/&gt;zu sehen und mehr auf &lt;t27/&gt;Deutsch&lt;t28/&gt; zu lesen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130822Z" creationid="hp" creationdate="20210225T130822Z">
+        <seg>Я стараюся більше дивитися фільмів та читати німецькою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich versuche alles zu merken, damit nächstes Mal mehr „deutsch“ zu klingeln (lacht).</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T152123Z" creationid="PC" creationdate="20210213T152123Z">
@@ -5876,6 +5892,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210224T162126Z" creationid="Kate" creationdate="20210204T125008Z">
         <seg>Якщо порівнювати з Україною, яким для тебе &lt;t0/&gt; було&lt;t1/&gt; навчання в Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Viele &lt;t37/&gt;U&lt;t38/&gt;krainer, die hier sind, schauen &lt;t39/&gt;F&lt;t40/&gt;ilme auf &lt;t41/&gt;Englisch an&lt;t42/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130936Z" creationid="hp" creationdate="20210225T130936Z">
+        <seg>Багато українців тут дивляться фільми англійською.</seg>
       </tuv>
     </tu>
     <tu>
