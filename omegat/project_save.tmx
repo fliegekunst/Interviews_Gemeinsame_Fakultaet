@@ -2656,6 +2656,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Euch wird eine Integration in Deutschland schwer fallen, we&lt;t0/&gt;nn &lt;t1/&gt;ihr &lt;t2/&gt;immer Nachrichten und Lieder in &lt;t3/&gt;eurer&lt;t4/&gt; Muttersprache hör&lt;t5/&gt;t und nur den &lt;t6/&gt;Kontakt mit Freunden und Bekannten hab&lt;t7/&gt;t, die auch eure Muttersprache sprechen!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T131337Z" creationid="Диана" creationdate="20210225T131337Z">
+        <seg>Вам буде важко інтегруватися в Німеччині, якщо будете слухати новини і пісні на своїй рідній мові і мати контакт тільки з друзями і знайомими, які також говорять на вашій рідній мові.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Falls mir das nicht gefällt, kann ich ja zurück gehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T171153Z" creationid="Kate" creationdate="20210210T201106Z">
@@ -5676,6 +5684,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T130734Z" creationid="nasty" creationdate="20210218T130734Z">
         <seg>Також універитет організовує щось подібне, але в цьому випадку ми їздили самі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>So lebt ihr in einer&lt;t8/&gt; Art Parallelgesellschaft&lt;t9/&gt; und w&lt;t10/&gt;enn man will, kann man in dieser Muttersprachen-Heimat-Blase immer bleiben und sich dort wohl fühlen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T131530Z" creationid="Диана" creationdate="20210225T131530Z">
+        <seg>Таким чином, ви живете в якомусь паралельному суспільстві, і при бажанні ви завжди можете залишитися в цьому міхурі рідної мови і батьківщини і відчувати себе там комфортно.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
