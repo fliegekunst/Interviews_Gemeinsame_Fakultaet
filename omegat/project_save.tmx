@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2170,8 +2170,8 @@
       <tuv lang="de-DE">
         <seg>Dieses Fremdheitsgefühl stört mir nicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T122117Z" creationid="krps" creationdate="20210211T084351Z">
-        <seg>Почуття того, що я чужий, не заважає мені.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T124656Z" creationid="krps" creationdate="20210211T084351Z">
+        <seg>А взагалі, почуття того, що я чужий, не заважає мені.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2442,8 +2442,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt unterschiedliche Möglichkeiten, eine solche Stelle zu kriegen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T082637Z" creationid="krps" creationdate="20210211T081500Z">
-        <seg>Можливостей отримати роботу дуже багато.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T124548Z" creationid="krps" creationdate="20210211T081500Z">
+        <seg>Можливостей отримати роботу справді багато.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5322,8 +5322,8 @@
       <tuv lang="de-DE">
         <seg>Praktisch hängen solche Papierblätter Ewigkeiten irgendwo und sind oft nicht aktuell.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T170306Z" creationid="krps" creationdate="20210211T081729Z">
-        <seg>Але насправді це може тривати вічність.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T124555Z" creationid="krps" creationdate="20210211T081729Z">
+        <seg>Але це може тривати вічність.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5514,8 +5514,8 @@
       <tuv lang="de-DE">
         <seg>Solche Stellen sind gut bezahlt und man kann gleichzeitig mehr oder weniger relevante Berufserfahrung sammeln, was positiv die Chancen auf dem Arbeitsmarkt beeinflusst, mehrere Skills erwerben und Kontakte mit den wissenschaftlichen Mitarbeitern knüpfen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210218T111401Z" creationid="krps" creationdate="20210211T081126Z">
-        <seg>Такі місця добре оплачуються і можна здобути більш-менш корисний досвід. Робота там підвищує ваші шанси на ринку праці, допомагає отримати хороші навички та контакт з іншими науковцями.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T124529Z" creationid="krps" creationdate="20210211T081126Z">
+        <seg>Такі місця добре оплачуються і можна здобути більш-менш корисний досвід. Робота там підвищує шанси на ринку праці, допомагає отримати хороші навички та контакт з іншими науковцями.</seg>
       </tuv>
     </tu>
     <tu>
