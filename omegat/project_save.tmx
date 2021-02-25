@@ -2440,6 +2440,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Gerade mache ich meine PhD. Ich habe meinen Fachbereich ein bisschen verändert, vorher habe ich Produktentwicklung studiert, wie Tetiana Pittsyk und Rostyslav Nizinkovskyi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T112642Z" creationid="PC" creationdate="20210225T112642Z">
+        <seg>Також працюю над своєю докторською. Я трохи змінила спеціальність, до цього я вивчала розробку продукції, як і Тетяна Пітцик та ростислав Нізинковський.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Gibt es &lt;t0/&gt;etwas&lt;t1/&gt;, d&lt;t2/&gt;as&lt;t3/&gt; dich an Deutschland stören?</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T181915Z" creationid="krps" creationdate="20210211T090647Z">
@@ -2484,6 +2492,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T130935Z" creationid="nasty" creationdate="20210218T130935Z">
         <seg>Тримайтесь поруч зі студентом, який вже подорожував Німеччиною, з ним легше подорожувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hanna Tsybenko</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T104243Z" creationid="PC" creationdate="20210225T104243Z">
+        <seg>Анна Цибенко</seg>
       </tuv>
     </tu>
     <tu>
@@ -3576,6 +3592,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Im Moment arbeite ich in Düsseldorf und lebe in Neuss.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T112428Z" creationid="PC" creationdate="20210225T112428Z">
+        <seg>Наразі я працюю в Дюссельдорфі та живу в Нойсі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Im Moment promovierst du in Magdeburg.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T161310Z" creationid="ADMIN" creationdate="20210204T131650Z">
@@ -3944,6 +3968,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Interview am 14.09.2019</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T112048Z" creationid="PC" creationdate="20210225T112048Z">
+        <seg>Інтерв'ю від 14.09.2019</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Interview am 20.02.2020</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T081121Z" creationid="ADMIN" creationdate="20210204T131406Z">
@@ -4172,6 +4204,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T122112Z" creationid="Диана" creationdate="20210204T122112Z">
         <seg>Родом з Хмельницького</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kommt aus Kyiw</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T105953Z" creationid="PC" creationdate="20210225T105953Z">
+        <seg>Родом з Києва</seg>
       </tuv>
     </tu>
     <tu>
@@ -5136,6 +5176,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Studierte an der OVGU von 2016-2018 Produktentwicklung, Dynamik und Festigkeit der Maschinen</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T112027Z" creationid="PC" creationdate="20210225T112027Z">
+        <seg>З 2016 по 2018 рік вивчала розробку продукції, динміку та стабільність машин в університеті Отто фон Ґеріке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Studierte in der Ukraine „H&lt;t0/&gt;ydraulische und pneumatische Systeme&lt;t1/&gt;“, änderte dann im Master den Studiengang und studierte „Automobile Systeme“&lt;t2/&gt; &lt;t3/&gt;(&lt;t4/&gt;Automotive Systems&lt;t5/&gt;) an der OVGU.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T110917Z" creationid="hp" creationdate="20210225T110917Z">
@@ -5832,6 +5880,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wo arbeite&lt;t0/&gt;st du&lt;t1/&gt; jetzt?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T112129Z" creationid="PC" creationdate="20210225T112129Z">
+        <seg>Де ти&lt;t0/&gt;зараз&lt;t1/&gt; працюєш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wo arbeitest du jetzt?</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123254Z" creationid="nasty" creationdate="20210218T123254Z">
@@ -5988,6 +6044,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T095442Z" creationid="Kate" creationdate="20210204T122134Z">
         <seg>„Мене мало хто підтримував“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„Man darf sich von der Sprachbarriere nicht einschüchtern lassen!“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T104331Z" creationid="PC" creationdate="20210225T104331Z">
+        <seg>„Не бійтеся мовного бар'єра!“</seg>
       </tuv>
     </tu>
     <tu>
