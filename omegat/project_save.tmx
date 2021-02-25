@@ -191,6 +191,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t1/&gt;Die Studienfächer &lt;t2/&gt;im Master &lt;t3/&gt;waren für mich einfacher als im Bachelor, da &lt;t4/&gt;wir&lt;t5/&gt; kein&lt;t6/&gt;e&lt;t7/&gt; Mathe&lt;t8/&gt;matik&lt;t9/&gt; oder &lt;t10/&gt;kein&lt;t11/&gt; Rechnen hatte&lt;t12/&gt;n und nicht so viel auswendig lernen mussten&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T115646Z" creationid="Диана" creationdate="20210225T115646Z">
+        <seg>&lt;t1/&gt;Предмети на магістратурі були простішими, ніж на бакалавраті, оскільки у нас не було математики та арифметики, і нам не потрібно було так багато запам’ятовувати.&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t1/&gt;Ich würde das g&lt;t2/&gt;erne als eigene Sprache kennen und das von der hochdeutschen Sprache trennen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T155156Z" creationid="Диана" creationdate="20210204T130424Z">
@@ -239,6 +247,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t14/&gt;Im Master kommt es eher darauf an&lt;t15/&gt;, Informationen zu strukturieren und zu verstehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T115839Z" creationid="Диана" creationdate="20210225T115839Z">
+        <seg>&lt;t14/&gt;На магістратурі важливіше структурувати та розуміти інформацію.&lt;t15/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t18/&gt;Es ist extrem wichtig, andere Studierende zu treffen und kennen zu lernen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T124527Z" creationid="Диана" creationdate="20210204T124527Z">
@@ -275,6 +291,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T202300Z" creationid="Kate" creationdate="20210210T202300Z">
         <seg>&lt;t2/&gt;Тому моя порада всім українським студентам, які в майбутньому планують вступати в університет Отто фон Ґеріке: Будь ласка, не забувайте свою англійську!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t2/&gt;Ein Mal mehr &lt;t3/&gt;Nachfragen ist besser, als nichts &lt;t4/&gt;zu &lt;t5/&gt;verstehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T115340Z" creationid="Диана" creationdate="20210225T115340Z">
+        <seg>&lt;t2/&gt;Перепитати ще раз краще, ніж нічого не розуміти&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1096,6 +1120,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das Studium hat mir sehr gut gefallen&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T115412Z" creationid="Диана" creationdate="20210225T115412Z">
+        <seg>Мені дуже сподобалося&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das Thema ist noch nicht final, aber ich überlege gerade, welcher Betreuer in Frage kommt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T105559Z" creationid="hp" creationdate="20210211T105559Z">
@@ -1268,6 +1300,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T155211Z" creationid="Диана" creationdate="20210204T131322Z">
         <seg>Але для мене це завжди пов’язано з тим&lt;t11/&gt;наскільки комфортно я почуваюся на роботі,і на даний момент мені там добре&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das hängt davon ab, was die Studi&lt;t0/&gt;erenden&lt;t1/&gt; wollen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T114953Z" creationid="Диана" creationdate="20210225T114953Z">
+        <seg>Це залежить від того, чого вони хочуть.&lt;t0/&gt;&lt;t1/&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -4640,6 +4680,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man sollte sich allerdings nicht schämen, Ausländer zu sein und nicht schüchtern sein.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T115211Z" creationid="Диана" creationdate="20210225T115211Z">
+        <seg>Однак не слід соромитися того, що ти іноземець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man steht aber auch immer unter Zeitdruck, wenn man zu viele Prüfungen hat und muss außerdem zwischen Deutschland und der Ukraine pendeln.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T130302Z" creationid="Lenovo" creationdate="20210214T130302Z">
@@ -4852,6 +4900,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T105527Z" creationid="hp" creationdate="20210211T190118Z">
         <seg>Я ніколи не почувався зайвим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit der Basis, die wir in der Ukraine bekommen haben, war das Studium in Magdeburg machbar.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T115059Z" creationid="Диана" creationdate="20210225T115059Z">
+        <seg>З базою, яку ми отримали в Україні, навчання в Магдебурзі було реальним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5970,8 +6026,8 @@
       <tuv lang="de-DE">
         <seg>Wie war das Studium &lt;t0/&gt;an der OVGU &lt;t1/&gt;für dich?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210218T105015Z" creationid="Диана" creationdate="20210204T122746Z">
-        <seg>Як тобі було навчатися &lt;t0/&gt; в  Університеті Отто фон Геріке?&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T115347Z" creationid="Диана" creationdate="20210204T122746Z">
+        <seg>Як тобі було навчатися &lt;t0/&gt; в  університеті Отто фон Геріке?&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
