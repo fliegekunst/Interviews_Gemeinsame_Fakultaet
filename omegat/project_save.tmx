@@ -1466,8 +1466,8 @@
       <tuv lang="de-DE">
         <seg>Das macht M&lt;t23/&gt;ensc&lt;t24/&gt;hen kaputt.&lt;t25/&gt; Natürlich spielten auch akademische &lt;t26/&gt;G&lt;t27/&gt;ründe &lt;t28/&gt;bei meiner Entscheidung &lt;t29/&gt;eine &lt;t30/&gt;R&lt;t31/&gt;olle.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T113745Z" creationid="hp" creationdate="20210225T113745Z">
-        <seg>У нас людей ламають. Ще однією причино, чому я обрав Німеччину став вибір професії.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T113850Z" creationid="hp" creationdate="20210225T113745Z">
+        <seg>У нас людей ламають. Ще однією причиною чому я обрав Німеччину став вибір професії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,6 +1600,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das, was ich hier studiert habe&lt;t32/&gt; (Automotive Systems)&lt;t33/&gt;, gibt es in der &lt;t34/&gt;Ukraine&lt;t35/&gt; nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T113856Z" creationid="hp" creationdate="20210225T113834Z">
+        <seg>В Україні немає можливості вивчати автомобільні системи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Davor habe ich Angst.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T130113Z" creationid="Диана" creationdate="20210204T130113Z">
@@ -1644,6 +1652,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T132135Z" creationid="nasty" creationdate="20210218T132135Z">
         <seg>Все таки мені було нудно там.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der &lt;t0/&gt;Hauptgrund&lt;t1/&gt; war, dass mei&lt;t2/&gt;n &lt;t3/&gt;Professor&lt;t4/&gt; mich schon &lt;t5/&gt;kannte &lt;t6/&gt;und w&lt;t7/&gt;usste&lt;t8/&gt;, was ich kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T114405Z" creationid="hp" creationdate="20210225T114405Z">
+        <seg>Один мій викладач , котрий мене вже добре знав,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3340,6 +3356,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T105716Z" creationid="hp" creationdate="20210211T105647Z">
         <seg>Після навчання я б хотів почати кар'єру в сфері машинобудування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich promoviere im &lt;t36/&gt;B&lt;t37/&gt;ereich &lt;t38/&gt;V&lt;t39/&gt;erbrennungsmotoren und &lt;t40/&gt;En&lt;t41/&gt;ergietechnik&lt;t42/&gt; und leider &lt;t43/&gt;gibt &lt;t44/&gt;es &lt;t45/&gt;diese Studienrichtung in &lt;t46/&gt;Kyiw nicht, deswegen habe ich mich entschlossen, in Deutschland zu studieren und auch zu promovieren&lt;t47/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T114253Z" creationid="hp" creationdate="20210225T114253Z">
+        <seg>Я навчаюся у сфері про двигуни внутрішнього згораннята енергетичної техніки, на жаль, в такому напрямку розвиватися в Києві не можна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5380,6 +5404,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T102205Z" creationid="PC" creationdate="20210222T181651Z">
         <seg>Що&lt;t0/&gt;мене спочатку вразило, так це&lt;t1/&gt; строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Warum &lt;t0/&gt;hast du dich für Magdeburg entschieden&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T114311Z" creationid="hp" creationdate="20210225T114311Z">
+        <seg>А чому тоді Магдебург?</seg>
       </tuv>
     </tu>
     <tu>
