@@ -3850,8 +3850,8 @@
       <tuv lang="de-DE">
         <seg>Ja, natürlich das ist nicht das wichtigste Wort, aber trotzdem nicht das Einzige, das ich nicht weiß.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210218T104842Z" creationid="PC" creationdate="20210218T104842Z">
-        <seg>Так, звичайно, це не таке й важливе слово, але воно одне з багатьох, котрі я не знаю.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T100103Z" creationid="PC" creationdate="20210218T104842Z">
+        <seg>Так, звичайно, це не таке й важливе слово, але воно одне з багатьох, які я не знаю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5010,8 +5010,8 @@
       <tuv lang="de-DE">
         <seg>Was würdes&lt;t0/&gt;t du anderen ukrainischen Studierenden&lt;t1/&gt; raten, die neu nach Deutschland kommen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T131628Z" creationid="Диана" creationdate="20210204T131628Z">
-        <seg>Що б ви&lt;t0/&gt;порадили іншим українським студентам, які приїжджають до Німеччини?&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T100023Z" creationid="Диана" creationdate="20210204T131628Z">
+        <seg>Що б ви&lt;t0/&gt; порадили іншим українським студентам, які приїжджають до Німеччини?&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
