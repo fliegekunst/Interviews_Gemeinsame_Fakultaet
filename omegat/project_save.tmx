@@ -3800,6 +3800,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Interview am 12.12.2019</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T110530Z" creationid="hp" creationdate="20210225T110530Z">
+        <seg>Інтерв'ю 12.12.2019.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Interview am 20.02.2020</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T081121Z" creationid="ADMIN" creationdate="20210204T131406Z">
@@ -4028,6 +4036,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210211T105729Z" creationid="ADMIN" creationdate="20210211T105715Z">
         <seg>Родом з Миколаєва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kommt aus&lt;t0/&gt; Krivih R&lt;t1/&gt;ih.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T110511Z" creationid="hp" creationdate="20210225T110511Z">
+        <seg>З міста Кривий Ріг.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4892,6 +4908,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210213T114323Z" creationid="krps" creationdate="20210204T120237Z">
         <seg>Вивчає технологію обробки в Магдебурзі у 201&lt;t0/&gt;8&lt;t1/&gt;-20&lt;t2/&gt;20&lt;t3/&gt; рр. в університеті Отто фон Ґеріке&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Studierte in der Ukraine „H&lt;t0/&gt;ydraulische und pneumatische Systeme&lt;t1/&gt;“, änderte dann im Master den Studiengang und studierte „Automobile Systeme“&lt;t2/&gt; &lt;t3/&gt;(&lt;t4/&gt;Automotive Systems&lt;t5/&gt;) an der OVGU.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T110917Z" creationid="hp" creationdate="20210225T110917Z">
+        <seg>Вивчав в Україні гідравлічні та пневматичні системи, але на магістратурі в OVGU змінив напрямок на "Автомобільні системи" (Automobile Systeme).</seg>
       </tuv>
     </tu>
     <tu>
