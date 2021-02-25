@@ -311,6 +311,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t3/&gt;Als ich mich beworben habe, wurde ich eingeladen und habe meine Master-Arbeit präsentiert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T114913Z" creationid="PC" creationdate="20210225T114913Z">
+        <seg>&lt;t3/&gt;Я подала заявку, мене запросили і тоді я презентувала керівникам свою магістерську роботу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t3/&gt;Dann habe ich gleich das Gefühl, dass ich distanziert wurde.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T155951Z" creationid="PC" creationdate="20210213T155951Z">
@@ -3368,6 +3376,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich mache Experimente mit Proben mit einer Maschine (einem so genannten Nanoindenter) und schaue mir das Deformationsverhalten und die chemischen Veränderungen an.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T114555Z" creationid="PC" creationdate="20210225T114555Z">
+        <seg>Я проводжу експерименти зі зразками на спеціальному обладнанні (так званому наноінденторі) та дивлюся на деформацію та зміни в хімічному складі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich muss mehr üben und Bücher lesen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T130131Z" creationid="Lenovo" creationdate="20210214T130131Z">
@@ -3412,6 +3428,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T110218Z" creationid="Диана" creationdate="20210225T110218Z">
         <seg>Я часто прислуховуюсь до власної інтуіції й більше не соромлюся робити помилки&lt;t6/&gt;&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich spreche den ganzen Tag Englisch, da das ein internationales Projekt ist&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T114646Z" creationid="PC" creationdate="20210225T114646Z">
+        <seg>Весл день я розмовляю англійською, оскільки це міжнародний проєкт&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
