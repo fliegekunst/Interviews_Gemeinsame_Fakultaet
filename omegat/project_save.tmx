@@ -2120,6 +2120,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es gibt manchmal auch die Möglichkeit, eine Prüfung mündlich zu machen, das habe ich schon zwei Mal gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T111621Z" creationid="krps" creationdate="20210225T111621Z">
+        <seg>Іноді можна складати іспит усно, що я і робив два рази.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gibt mehr freie Zeit.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T110816Z" creationid="krps" creationdate="20210225T110816Z">
@@ -4280,6 +4288,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man muss sich gut vorbereiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T111235Z" creationid="krps" creationdate="20210225T111235Z">
+        <seg>Потрібно добре готуватися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man muss sich klar sein, welches Ziel man in der Zukunft hat, danach sollte man seinen Studienplan aufbauen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T111024Z" creationid="hp" creationdate="20210211T111024Z">
@@ -4340,6 +4356,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104242Z" creationid="hp" creationdate="20210211T110645Z">
         <seg>Ти завжди знаєш, що від тебе вимагають.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manche Dozierende schicken Listen mit Fragen und man hat inhaltlich dann eine Vorstellung, was in der Prüfung drankommt und kann sich darauf vorbereiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T111418Z" creationid="krps" creationdate="20210225T111418Z">
+        <seg>Деякі викладачі надсилають списки питань, і тоді ви маєте уявлення про зміст іспиту і можете підготуватися до нього.</seg>
       </tuv>
     </tu>
     <tu>
