@@ -2008,6 +2008,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Deutschland ist ein wunderschönes &lt;t11/&gt;Land, in dem man sich sehr wohl fühlen kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T130427Z" creationid="Диана" creationdate="20210225T130427Z">
+        <seg>Німеччина - прекрасна країна, де можна відчувати себе дуже комфортно. &lt;t11/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die &lt;t8/&gt;deutschen &lt;t9/&gt;Artikel sind problematisch&lt;t10/&gt;, da mache ich oft Fehler&lt;t11/&gt; und nur wenige Menschen korrigieren mich, vielleicht, weil sie mich nicht andauernd unterbrechen wollen und höflich &lt;t12/&gt;bleiben&lt;t13/&gt; wollen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T110728Z" creationid="Диана" creationdate="20210225T110728Z">
@@ -3204,6 +3212,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210217T200350Z" creationid="Kate" creationdate="20210210T210432Z">
         <seg>Я спілкуюсь з іншими аспірантами і можу сказати, що це, ймовірніше, виняток.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe Sportkurse gemacht und eine Sprachtandempartnerin für ein halbes Jahr gehabt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T130447Z" creationid="Диана" creationdate="20210225T130447Z">
+        <seg>t.</seg>
       </tuv>
     </tu>
     <tu>
