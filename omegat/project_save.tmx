@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -554,8 +554,8 @@
       <tuv lang="de-DE">
         <seg>Als wir Team-Projekte während des Studiums hatten, stellt das keine Herausforderung für mich da.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210218T105426Z" creationid="hp" creationdate="20210204T130249Z">
-        <seg>Протягом начання ми виконували багато командних проєктів, тому для мене це не стало якимось викликом.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T103910Z" creationid="hp" creationdate="20210204T130249Z">
+        <seg>Протягом навчання ми виконували багато командних проєктів, тому для мене це не стало якимось викликом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,8 +674,8 @@
       <tuv lang="de-DE">
         <seg>Auf Deutsch zu studieren war am Anfang relativ schwierig, jetzt ist es besser.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210204T123350Z" creationid="hp" creationdate="20210204T123350Z">
-        <seg>Спочатку це було відносно важко, але зараз вже легше.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T103650Z" creationid="hp" creationdate="20210204T123350Z">
+        <seg>Спочатку було порівняно важко, але зараз вже легше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,8 +1570,8 @@
       <tuv lang="de-DE">
         <seg>Der größte Unterscheid bei den Prüfungen besteht darin, dass in Deutschland wesentlich mehr Fragen gestellt werden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210204T125056Z" creationid="hp" creationdate="20210204T125024Z">
-        <seg>Найбільша відмінність від іспитів в Україні - це те, що на німецьких іспитах задають значно більше питань.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T103826Z" creationid="hp" creationdate="20210204T125024Z">
+        <seg>Найбільша відмінність від іспитів в Україні - це те, що на німецьких іспитах дають значно більше питань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1922,8 +1922,8 @@
       <tuv lang="de-DE">
         <seg>Dort habe ich während der Abschlussveranstaltung getrommelt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210204T131220Z" creationid="hp" creationdate="20210204T131220Z">
-        <seg>Там на випускному вечері я грав на барабанах.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T103929Z" creationid="hp" creationdate="20210204T131220Z">
+        <seg>Там, на випускному вечері, я грав на барабанах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3450,8 +3450,8 @@
       <tuv lang="de-DE">
         <seg>Im Rahmen einer Fakultät kann man selbst Spezialisierungen auswählen und mehrere Studienfächer wählen, das gefällt mir sehr.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210212T200910Z" creationid="hp" creationdate="20210204T124047Z">
-        <seg>Мені подобається, що в рамках факультету можна самому обирати основні та додаткові предмети, які вивчати.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T103714Z" creationid="hp" creationdate="20210204T124047Z">
+        <seg>Мені подобається, що в рамках факультету можна самому обирати основні та додаткові предмети для вивчення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3514,8 +3514,8 @@
       <tuv lang="de-DE">
         <seg>In Deutschland eine Prüfung zu bestehen ist kein Zufall.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210204T125223Z" creationid="hp" creationdate="20210204T125223Z">
-        <seg>Скласти іспит в Німеччиині випадково не вийде.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T103849Z" creationid="hp" creationdate="20210204T125223Z">
+        <seg>Скласти іспит в Німеччині випадково не вийде.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4130,8 +4130,8 @@
       <tuv lang="de-DE">
         <seg>Man muss aber mit mehr Vorbereitungszeit als in der Ukraine rechnen, d.h. ca. 1-2 Wochen für eine Prüfung.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T080820Z" creationid="hp" creationdate="20210204T124845Z">
-        <seg>Але потрібно звернути увагу на те, що знадобиться більше часу на підготовку ніж в Україні, приблизно 1-2 тижні до одного іспиту.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T103756Z" creationid="hp" creationdate="20210204T124845Z">
+        <seg>Але потрібно звернути увагу на те, що знадобиться більше часу на підготовку, ніж в Україні, приблизно 1-2 тижні до одного іспиту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4154,8 +4154,8 @@
       <tuv lang="de-DE">
         <seg>Man muss sich aber auch mehr organisieren, niemand sagt einem, was man wann machen muss, man muss selbst die Termine planen, um rechtzeitig all die notwendigen Aufgaben zu erledigen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210204T124422Z" creationid="hp" creationdate="20210204T124416Z">
-        <seg>Але також доводиться організовувати план навчання самостійно, щоб вчасно виконати всі необхідні завдання, тому що тобі ніхто не пояснює що і як робити.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T103741Z" creationid="hp" creationdate="20210204T124416Z">
+        <seg>Але також доводиться організовувати план навчання самостійно, щоб вчасно виконати всі необхідні завдання, тому що тобі ніхто не пояснює, що і як робити.</seg>
       </tuv>
     </tu>
     <tu>
