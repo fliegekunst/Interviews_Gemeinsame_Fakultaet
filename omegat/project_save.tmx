@@ -474,8 +474,8 @@
       <tuv lang="de-DE">
         <seg>Aber es gibt auch Prüfungen aus den vorherigen Semestern zum Üben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T123257Z" creationid="Lenovo" creationdate="20210214T123257Z">
-        <seg>Але є також іспити з попередніх семестрів для практики.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110010Z" creationid="Lenovo" creationdate="20210214T123257Z">
+        <seg>Але є також іспити з попередніх семестрів для підготовки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,8 +1890,8 @@
       <tuv lang="de-DE">
         <seg>Diese Kooperation ist so zu Stande gekommen: Erst war ich Hiwi, dann habe ich Erfahrungen gesammelt, wie das aussehen muss und mich orientiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T125219Z" creationid="Lenovo" creationdate="20210214T125219Z">
-        <seg>Ця співпраця виникла наступним чином: спочатку я був студентським асистентом, потім я отримав досвід, як це повинно виглядати, і зорієнтувався.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110327Z" creationid="Lenovo" creationdate="20210214T125219Z">
+        <seg>Ця співпраця виникла так: спочатку я був студентом-асистентом, потім я отримав досвід і зорієнтувався.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3578,8 +3578,8 @@
       <tuv lang="de-DE">
         <seg>In Deutschland sind Prüfungen schwerer als in der Ukraine, man fragt aktuelle Dinge ab.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T123224Z" creationid="Lenovo" creationdate="20210214T123224Z">
-        <seg>Іспити в Німеччині складніші, ніж в Україні, ви запитуєте про актуальні речі.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T105942Z" creationid="Lenovo" creationdate="20210214T123224Z">
+        <seg>Іспити в Німеччині складніші, ніж в Україні, ви запитуєте про актуальні проблеми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5586,8 +5586,8 @@
       <tuv lang="de-DE">
         <seg>Zuerst war ich an der IFQ tätig.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T124046Z" creationid="Lenovo" creationdate="20210214T124046Z">
-        <seg>Спочатку я працював у IFQ(Das Institut für Forschungsinformation und Qualitätssicherung).</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110028Z" creationid="Lenovo" creationdate="20210214T124046Z">
+        <seg>Спочатку я працював у IFQ (Das Institut für Forschungsinformation und Qualitätssicherung).\</seg>
       </tuv>
     </tu>
     <tu>
