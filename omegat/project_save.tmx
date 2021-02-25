@@ -255,6 +255,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t13/&gt;Mein Professor sagt immer: „Die S&lt;t14/&gt;prache der &lt;t15/&gt;V&lt;t16/&gt;erbrennungsmotoren ist deutsch.&lt;t17/&gt;“&lt;t18/&gt; Das ist eine eher konservative &lt;t19/&gt;Meinung und&lt;t20/&gt; ändert sich gerade, &lt;t21/&gt;E&lt;t22/&gt;nglisch wird wichtiger.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T122918Z" creationid="hp" creationdate="20210225T122918Z">
+        <seg>Мій викладач завжди говорив, що німецька - це мова двигунів. Я ж думаю, що з цим можна посперечатися, і англійська все таки важливіша.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t13/&gt;Wenn&lt;t14/&gt; ich studentische &lt;t15/&gt;A&lt;t16/&gt;rbeiten &lt;t17/&gt;betreue&lt;t18/&gt;, waren die &lt;t19/&gt;Studierenden&lt;t20/&gt; älter als ich.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T114759Z" creationid="hp" creationdate="20210225T114626Z">
@@ -2448,6 +2456,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es gibt immer noch einige &lt;t3/&gt;S&lt;t4/&gt;ituationen, &lt;t5/&gt;in denen&lt;t6/&gt; ich wenig oder &lt;t7/&gt;nichts&lt;t8/&gt; verstehe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130245Z" creationid="hp" creationdate="20210225T130245Z">
+        <seg>Адже досі трапляються ситуації, коли я можу щось не розуміти німецькою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gibt in den Prüfungen sehr viele Aufgaben, man bekommt viele Blätter und muss dann alles ausfüllen und rechnen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T122613Z" creationid="Lenovo" creationdate="20210214T122613Z">
@@ -2560,6 +2576,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es ist für mich l&lt;t0/&gt;eichter&lt;t1/&gt;, auf Deutsch,&lt;t2/&gt; als auf &lt;t3/&gt;Englisch&lt;t4/&gt; zu schreiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T123826Z" creationid="hp" creationdate="20210225T123826Z">
+        <seg>Писати німецькою мені легше ніж англійською.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es ist immer einfacher etwas zu tun, was Spaß bringt und auf keinen Fall nicht umgekehrt.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T100926Z" creationid="PC" creationdate="20210222T173612Z">
@@ -2644,6 +2668,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T130352Z" creationid="nasty" creationdate="20210218T130352Z">
         <seg>Під час навчання я міг говорити вільно та гарно, але зараз я розмовляю більше польською.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Fällt &lt;t0/&gt;es dir&lt;t1/&gt; leicht&lt;t2/&gt;,&lt;t3/&gt; auf &lt;t4/&gt;Deutsch&lt;t5/&gt; zu schreiben&lt;t6/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T123409Z" creationid="hp" creationdate="20210225T123409Z">
+        <seg>А як в тебе виходить писати німецькою?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3152,6 +3184,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich frage dann immer mehrmals nach, was gemeint &lt;t13/&gt;wurde&lt;t14/&gt;.&lt;t15/&gt; Aber meine Kollegen aus Deutschland haben mich beruhigt, weil sie auch kaum was in dem Dialekt verstehen und manchmal einfach aus Höflichkeitsgründen nicht nachfragen.&lt;t16/&gt; Es gibt zwar eine gewisse &lt;t17/&gt;L&lt;t18/&gt;ogik, aber manchmal ist &lt;t19/&gt;es&lt;t20/&gt; schwierig&lt;t21/&gt;, das zu verstehen&lt;t22/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130648Z" creationid="hp" creationdate="20210225T130648Z">
+        <seg>Я багата разів перепитував у своїх німецьких колег, що означають певні фрази. Але вони мене заспокоїли тим, що це був діалект, і їм також важко його зрозуміти. Можна було прослідкувати якусь логіку в тій промові, але це також дуже важко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich freue mich auf die neuen Herausforderungen.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210211T090619Z" creationid="ADMIN" creationdate="20210211T090619Z">
@@ -3608,6 +3648,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich kenne keine &lt;t23/&gt;A&lt;t24/&gt;nalogien auf &lt;t25/&gt;R&lt;t26/&gt;ussisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130048Z" creationid="hp" creationdate="20210225T130030Z">
+        <seg>адже це все я вивчав саме у Німеччині.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich konnte leicht mit deutschen Kommilitonen kommunizieren.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210213T174920Z" creationid="hp" creationdate="20210204T130333Z">
@@ -3668,6 +3716,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T105716Z" creationid="hp" creationdate="20210211T105647Z">
         <seg>Після навчання я б хотів почати кар'єру в сфері машинобудування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich müsste &lt;t1/&gt;nur &lt;t2/&gt;viel weniger Russisch reden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130215Z" creationid="hp" creationdate="20210225T130215Z">
+        <seg>Мені треба було менше говорити російською.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3764,6 +3820,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T211710Z" creationid="ADMIN" creationdate="20210210T211710Z">
         <seg>Я був радий, коли розумів хоча б половину нового матеріалу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich war in &lt;t9/&gt;G&lt;t10/&gt;raz auf einer &lt;t11/&gt;K&lt;t12/&gt;onferenz und habe dort nur wenig verstanden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130404Z" creationid="hp" creationdate="20210225T130404Z">
+        <seg>Якось я був на конференції у Ґраці, і я практично нічогісінько не зрозумів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3962,8 +4026,8 @@
       <tuv lang="de-DE">
         <seg>Im &lt;t8/&gt;Antriebsbereich ist &lt;t9/&gt;aber D&lt;t10/&gt;eutschland &lt;t11/&gt;S&lt;t12/&gt;pitzenreiter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T121143Z" creationid="hp" creationdate="20210225T121143Z">
-        <seg>В сфері двигунів Німеччина є лідером.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T122122Z" creationid="hp" creationdate="20210225T121143Z">
+        <seg>У сфері двигунів Німеччина є лідером.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5264,6 +5328,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Nein, es&lt;t0/&gt; könnte viel besser sein.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130157Z" creationid="hp" creationdate="20210225T130157Z">
+        <seg>Не дуже, він би міг бути і кращим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Nein, ich habe keine Angst, ich denke ich schaffe das alles, meine Sprache wird auch besser.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T100602Z" creationid="PC" creationdate="20210218T113046Z">
@@ -6108,6 +6180,22 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T114310Z" creationid="Lenovo" creationdate="20210214T114310Z">
         <seg>Що стосується лекцій, вони дуже інформативні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich &lt;t27/&gt;R&lt;t28/&gt;uss&lt;t29/&gt;isch&lt;t30/&gt; spreche&lt;t31/&gt;,&lt;t32/&gt; verwende ich &lt;t33/&gt;oft &lt;t34/&gt;deutsche &lt;t35/&gt;W&lt;t36/&gt;örter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130131Z" creationid="hp" creationdate="20210225T130131Z">
+        <seg>Цікаво й те, що коли я розмовляю російсько, то дуже часто вживаю німецькі слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich ein techn&lt;t5/&gt;isches&lt;t6/&gt; &lt;t7/&gt;P&lt;t8/&gt;aper auf &lt;t9/&gt;R&lt;t10/&gt;uss&lt;t11/&gt;isch schreiben müsste, wäre das&lt;t12/&gt; extrem schwierig, weil es diese &lt;t13/&gt;B&lt;t14/&gt;egriffe&lt;t15/&gt;, die ich brauche,&lt;t16/&gt; nicht gib&lt;t17/&gt;t oder ich sie nicht kenne, weil&lt;t18/&gt; ich das &lt;t19/&gt;F&lt;t20/&gt;ach komplett in &lt;t21/&gt;D&lt;t22/&gt;eutschland von vorne gelernt habe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T130044Z" creationid="hp" creationdate="20210225T130013Z">
+        <seg>А от коли мені доводилося писати це все російською, то це було нереально! Я не міг підбрати еквіваленти німецьким термінам, </seg>
       </tuv>
     </tu>
     <tu>
