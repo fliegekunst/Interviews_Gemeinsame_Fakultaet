@@ -330,8 +330,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t4/&gt;Im Alltag ist die Aussprache auch nicht besonders wichtig, aber das hilft trotzdem, sich wohler zu fühlen.&lt;t5/&gt; Von den deutschen Freunden wird mir &lt;t6/&gt;manchmal&lt;t7/&gt; gesagt, ich spreche &lt;t8/&gt;einige Wörter&lt;t9/&gt; falsch aus, &lt;t10/&gt;dann werde ich korrigiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210223T134153Z" creationid="PC" creationdate="20210213T151628Z">
-        <seg>&lt;t4/&gt;Та і в повсякденні правильна вимова не така й важлива, але все одно допомагає відчувати себе комфортніше. &lt;t5/&gt;Мої друзі &lt;t6/&gt;іноді&lt;t7/&gt; вказують на помилки &lt;t8/&gt;у вимові певних слів&lt;t9/&gt; і &lt;t10/&gt;виправляють мене.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T095456Z" creationid="PC" creationdate="20210213T151628Z">
+        <seg>&lt;t4/&gt;Я не можу сказати, що правильна вимова дуже важлива в повсякденному житті, але вона все одно допомагає почуватися комфортніше. &lt;t5/&gt;Мої друзі &lt;t6/&gt;іноді&lt;t7/&gt; вказують на помилки &lt;t8/&gt;у вимові певних слів&lt;t9/&gt; і &lt;t10/&gt;виправляють мене.</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,8 +506,8 @@
       <tuv lang="de-DE">
         <seg>Aber…dass mein Akzent eine große Rolle fürs Leben spielt, kann ich nicht sagen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210213T163426Z" creationid="PC" creationdate="20210213T140008Z">
-        <seg>Але... я б не сказала, що він значною мірою впливає на моє життя.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T095319Z" creationid="PC" creationdate="20210213T140008Z">
+        <seg>Але... я б не сказала, що це значною мірою впливає на моє життя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3474,8 +3474,8 @@
       <tuv lang="de-DE">
         <seg>Im Studium ist es nicht so wichtig, insbesondere für &lt;t0/&gt;diejenigen&lt;t1/&gt;, die keine &lt;t2/&gt;Geisteswissenschaften&lt;t3/&gt; oder etwas Vergleichbares lernen, wo man viel Kommunikation hat.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210213T151150Z" creationid="PC" creationdate="20210213T151150Z">
-        <seg>Це не так важливо в навчанні, &lt;t0/&gt;особливо для тих,&lt;t1/&gt;, хто не вивчає &lt;t2/&gt;гуманітарні науки&lt;t3/&gt; або щось подібне, де потрібно багато спілкуватися.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T095339Z" creationid="PC" creationdate="20210213T151150Z">
+        <seg>Це не так важливо в навчанні, &lt;t0/&gt;особливо для тих&lt;t1/&gt;, хто не вивчає &lt;t2/&gt;гуманітарні науки&lt;t3/&gt; або щось подібне, де потрібно багато спілкуватися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5522,8 +5522,8 @@
       <tuv lang="de-DE">
         <seg>Zum Beispiel, wenn jemand ruft an, um eine Umfrage durchzuführen oder auf der Straße etwas verkaufen will, dann sage ich „Oh, sorry, i&lt;t0/&gt;ch verstehe sie leider nicht so gut.&lt;t1/&gt;“ Obwohl ist es nicht so.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210223T075640Z" creationid="PC" creationdate="20210213T135138Z">
-        <seg>Наприклад, коли мені хтось телефонує, щоб провести опитування або щось продати, я відповідаю: "Перепрошую, &lt;t0/&gt;але я не дуже розумію про що ви.&lt;t1/&gt;“ Хоча насправді це не так.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T095247Z" creationid="PC" creationdate="20210213T135138Z">
+        <seg>Наприклад, коли мені хтось телефонує, щоб провести опитування або коли пропонують щось купити на вулиці, я відповідаю: "Перепрошую, &lt;t0/&gt;але я не дуже розумію про що ви.&lt;t1/&gt;“ Хоча насправді це не так.</seg>
       </tuv>
     </tu>
     <tu>
