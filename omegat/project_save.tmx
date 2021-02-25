@@ -5858,8 +5858,8 @@
       <tuv lang="de-DE">
         <seg>W&lt;t0/&gt;as ich empfehlen würde, sind soziale Aktivitäten, &lt;t1/&gt;z.B. &lt;t2/&gt;Sportkurse &lt;t3/&gt;zu besuchen&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T125940Z" creationid="Диана" creationdate="20210225T125940Z">
-        <seg>Я б рекомендував відвідувати соціальні заходи, такі як спортивні курси&lt;t0/&gt; &lt;t1/&gt; &lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T130020Z" creationid="Диана" creationdate="20210225T125940Z">
+        <seg>Я б рекомендував відвідувати соціальні активності, такі як спортивні секції&lt;t0/&gt; &lt;t1/&gt; &lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6204,6 +6204,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104838Z" creationid="hp" creationdate="20210211T184540Z">
         <seg>Якщо порівняти навчання в обох країнах, то можна сказати, що в Німеччині існує кілька загальних предметів стосовно машинобудування, наприклад, планування виробництва, управління виробничими системами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wichtig ist, etwas mit den &lt;t5/&gt;anderen Studierenden&lt;t6/&gt; zusammen &lt;t7/&gt;zu &lt;t8/&gt;machen&lt;t9/&gt; und nicht immer mit den anderen internationalen Studierenden aus der GUS zusammen zu sein&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T130354Z" creationid="Диана" creationdate="20210225T130354Z">
+        <seg>Важливо робити щось з іншими студентами і не завжди бути поряд лише з студентами із СНД&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
