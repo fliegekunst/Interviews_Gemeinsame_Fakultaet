@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1202,8 +1202,8 @@
       <tuv lang="de-DE">
         <seg>Das bedeutet, dass ich nur einen begrenzten Wortschatz aktiv benutze, was meine Sprachkenntnisse negativ beeinflusst.&lt;t2/&gt; &lt;t3/&gt;Trotzdem fühle ich mich viel sicherer bei der Kommunikation auf Deutsch als früher, obwohl ich noch Fehler beim flüssigen Reden mache.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210218T111000Z" creationid="krps" creationdate="20210210T220753Z">
-        <seg>Щодня використовую лише невелику кількість слів, що не дуже добре впливає на знання мови.&lt;t2/&gt; &lt;t3/&gt;Незважаючи на це, я почуваюся набагато впевненішим під час спілкування німецькою, ніж раніше, хоча й часто роблю помилки.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T121233Z" creationid="krps" creationdate="20210210T220753Z">
+        <seg>Щодня використовую лише невелику кількість слів, що не дуже добре впливає на знання мови.&lt;t2/&gt; &lt;t3/&gt;Але однаково я почуваюся набагато впевненішим під час спілкування німецькою, ніж раніше, хоча й часто роблю помилки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,8 +3858,8 @@
       <tuv lang="de-DE">
         <seg>Im Januar habe eine Vorlesung (1.5 Stunde) auf Deutsch gehalten und das war für mich kein Problem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T084104Z" creationid="krps" creationdate="20210210T220934Z">
-        <seg>В січні я проводив півторагодинну лекцію німецькою і не можна сказати, що це було складно.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T121253Z" creationid="krps" creationdate="20210210T220934Z">
+        <seg>У січні я проводив півторагодинну лекцію німецькою і не можна сказати, що це було складно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,8 +3890,8 @@
       <tuv lang="de-DE">
         <seg>Im Prinzip, ja, weil zu diesem Zeitpunkt mein Deutsch ausreichend ist, damit ich mich wohl in Deutschland fühle.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T164950Z" creationid="krps" creationdate="20210211T075019Z">
-        <seg>Загалом, моєї німецької достатньо, щоб комфортно почуватися в Німеччині.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T121409Z" creationid="krps" creationdate="20210211T075019Z">
+        <seg>Загалом, моєї німецької достатньо, щоб комфортно почуватися в Німеччині, але</seg>
       </tuv>
     </tu>
     <tu>
@@ -4906,8 +4906,8 @@
       <tuv lang="de-DE">
         <seg>Meine Kenntnisse sind aber zu verbessern.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T075323Z" creationid="krps" creationdate="20210211T075323Z">
-        <seg>Знання все ж треба покращувати.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T121423Z" creationid="krps" creationdate="20210211T075323Z">
+        <seg>знання все ж треба покращувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6066,8 +6066,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T154115Z" creationid="Lenovo" creationdate="20210214T130017Z">
-        <seg>Чи добре ти знаєш німецьку мову?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T120922Z" creationid="Lenovo" creationdate="20210214T130017Z">
+        <seg>Як справи з німецькою?</seg>
       </tuv>
     </tu>
     <tu>
