@@ -1376,6 +1376,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das lief gut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210225T111657Z" creationid="krps" creationdate="20210225T111657Z">
+        <seg>Все пройшло добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das liegt aber daran, dass ich in einer anderen Gesellschaft aufgewachsen bin.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T175833Z" creationid="PC" creationdate="20210222T175833Z">
