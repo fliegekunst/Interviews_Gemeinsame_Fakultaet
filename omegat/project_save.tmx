@@ -313,8 +313,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t3/&gt;Als ich mich beworben habe, wurde ich eingeladen und habe meine Master-Arbeit präsentiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T114913Z" creationid="PC" creationdate="20210225T114913Z">
-        <seg>&lt;t3/&gt;Я подала заявку, мене запросили і тоді я презентувала керівникам свою магістерську роботу.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T115024Z" creationid="PC" creationdate="20210225T114913Z">
+        <seg>&lt;t3/&gt;Я подала заявку, мене запросили і тоді я презентувала керівництву свою магістерську роботу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2084,6 +2084,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T103929Z" creationid="hp" creationdate="20210204T131220Z">
         <seg>Там, на випускному вечері, я грав на барабанах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dort saßen die Teamführer von verschiedenen Abteilungen, die neue Mitarbeiter gesucht haben, und ich habe sie überzeugt und wurde angenommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T115229Z" creationid="PC" creationdate="20210225T115229Z">
+        <seg>Там були керівники команд з різних департаментів, які шукали нових співробітників.Я добре себе зарекомендувала і мене прийняли до команди.</seg>
       </tuv>
     </tu>
     <tu>
