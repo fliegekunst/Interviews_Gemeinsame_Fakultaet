@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3082,8 +3082,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe aber noch Zeit dafür.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T160201Z" creationid="krps" creationdate="20210210T215425Z">
-        <seg>Але в мене вистачає часу для цього.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T120824Z" creationid="krps" creationdate="20210210T215425Z">
+        <seg>Але для цього я завжди маю час.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,8 +3122,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe darüber noch nicht so viel nachgedacht, weil ich zurzeit viele andere Sachen wie z.B. die Masterarbeit und meine HiWi-Aufgaben im Kopf habe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T082301Z" creationid="krps" creationdate="20210210T215405Z">
-        <seg>Я над цим не замислювався, бо зараз багато працюю над магістерською роботою та науковою діяльністю.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T120804Z" creationid="krps" creationdate="20210210T215405Z">
+        <seg>Я не замислювався над цим, бо зараз багато працюю над магістерською роботою та науковими завданнями.</seg>
       </tuv>
     </tu>
     <tu>
