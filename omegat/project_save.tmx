@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16,8 +16,8 @@
       <tuv lang="de-DE">
         <seg>(nickt) Wenn du an diese Zukunft denkst, hast du Angst?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210224T162316Z" creationid="krps" creationdate="20210211T085833Z">
-        <seg>Чи страшно тобі, коли думаєш про нього?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T084201Z" creationid="krps" creationdate="20210211T085833Z">
+        <seg>Чи не страшно тобі, коли починаєш задумуватися про це?</seg>
       </tuv>
     </tu>
     <tu>
@@ -97,8 +97,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Ich bin lokal nicht fixiert, sondern ich suche w&lt;t1/&gt;eltweit mit &lt;t2/&gt;dem &lt;t3/&gt;Schwerpunkt Deutschland.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T112218Z" creationid="ADMIN" creationdate="20210211T084123Z">
-        <seg>&lt;t0/&gt;Я не планую залишатися лише в Магдебурзі, оскільки хочу шукати роботу по всьому світу&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;, але Німеччина поки що залишається в пріоритеті.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T084111Z" creationid="ADMIN" creationdate="20210211T084123Z">
+        <seg>&lt;t0/&gt;Я не збираюся залишатися лише в Магдебурзі, оскільки хочу шукати роботу по всьому світу&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;, але Німеччина поки що залишається в пріоритеті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,8 +1026,8 @@
       <tuv lang="de-DE">
         <seg>Das bedeutet konkret, das &lt;t4/&gt;Skript durch&lt;t5/&gt;zu&lt;t6/&gt;lesen und unbekannte Wörter &lt;t7/&gt;zu &lt;t8/&gt;übersetzen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T113046Z" creationid="ADMIN" creationdate="20210211T091525Z">
-        <seg>Особисто я почувався впевненішим на лекціях, після того як ознайомився з&lt;t4/&gt; конспектами лекцій&lt;t5/&gt;&lt;t6/&gt; та&lt;t7/&gt;переклав &lt;t8/&gt;незнайомі слова.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T084415Z" creationid="ADMIN" creationdate="20210211T091525Z">
+        <seg>Особисто я почувався впевненішим на лекціях, після того як ознайомився з&lt;t4/&gt; конспектами лекцій&lt;t5/&gt;&lt;t6/&gt; та&lt;t7/&gt; переклав &lt;t8/&gt;незнайомі слова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,8 +5082,8 @@
       <tuv lang="de-DE">
         <seg>Welche Pläne hast du nach der Diss&lt;t0/&gt;ertation&lt;t1/&gt;?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210210T212030Z" creationid="ADMIN" creationdate="20210210T211849Z">
-        <seg>Які ти маєш плани після дисертації&lt;t0/&gt;&lt;t1/&gt;?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T083709Z" creationid="ADMIN" creationdate="20210210T211849Z">
+        <seg>Що плануєш робити після дисертації&lt;t0/&gt;&lt;t1/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
