@@ -2736,6 +2736,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hast du noch ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T123315Z" creationid="Диана" creationdate="20210225T123315Z">
+        <seg>Чи є ще в тебе почуття відчуженсті?&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hattest du ein Fremdheitsgefühl?</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T131738Z" creationid="nasty" creationdate="20210218T131738Z">
@@ -2964,6 +2972,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T202615Z" creationid="Kate" creationdate="20210210T202615Z">
         <seg>Я одружена з німцем, тому зараз вдома я теж розмовляю німецькою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich bin nicht in Deutschland aufgewachsen, habe einen Akzent und komme aus einer anderen Kultur – klar habe ich manchmal ein Fremdheitsgefühl.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T123416Z" creationid="Диана" creationdate="20210225T123416Z">
+        <seg>Я не виріс у Німеччині, маю акцент і походжу з іншої культури - звичайно, іноді у мене є це відчуття.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6076,6 +6092,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T202320Z" creationid="Kate" creationdate="20210210T202320Z">
         <seg>Як тобі тепер дається німецька?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie geht es dir in Deutschland?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T123210Z" creationid="Диана" creationdate="20210225T123210Z">
+        <seg>Як тобі в Німеччині?</seg>
       </tuv>
     </tu>
     <tu>
