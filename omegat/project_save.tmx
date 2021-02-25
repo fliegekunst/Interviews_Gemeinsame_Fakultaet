@@ -2618,8 +2618,8 @@
       <tuv lang="de-DE">
         <seg>Gibt es &lt;t0/&gt;etwas&lt;t1/&gt;, d&lt;t2/&gt;as&lt;t3/&gt; dich an Deutschland stören?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T181915Z" creationid="krps" creationdate="20210211T090647Z">
-        <seg>Чи є &lt;t0/&gt;щось&lt;t1/&gt;, що &lt;t2/&gt;тобі&lt;t3/&gt; заважає в Німеччині?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T122700Z" creationid="krps" creationdate="20210211T090647Z">
+        <seg>Чи є &lt;t0/&gt;щось в Німеччині&lt;t1/&gt;, що &lt;t2/&gt;тебе&lt;t3/&gt; бентежить?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2714,8 +2714,8 @@
       <tuv lang="de-DE">
         <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T085030Z" creationid="krps" creationdate="20210211T082909Z">
-        <seg>Чи не відчував ти себе чужим&lt;t0/&gt;?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T122437Z" creationid="krps" creationdate="20210211T082909Z">
+        <seg>Чи все ж почуваєшся чужим&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6170,8 +6170,8 @@
       <tuv lang="de-DE">
         <seg>Wie äußert sich das?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T085652Z" creationid="krps" creationdate="20210211T082935Z">
-        <seg>Як це проявляється?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T122454Z" creationid="krps" creationdate="20210211T082935Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
