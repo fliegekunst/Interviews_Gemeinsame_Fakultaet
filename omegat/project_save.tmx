@@ -2016,6 +2016,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Doch ich habe ein Angebot bekommen, das fachlich etwas anders war und habe das angenommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T112946Z" creationid="PC" creationdate="20210225T112946Z">
+        <seg>Але я отримала пропозицію з трохи іншої галузі і прийняла її.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Dort habe ich während der Abschlussveranstaltung getrommelt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T103929Z" creationid="hp" creationdate="20210204T131220Z">
@@ -4624,10 +4632,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mein Projekt fokussiert sich auf die mikro&lt;t0/&gt;- &lt;t1/&gt;und nanotribologisches Verhalten von Stahl.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T114006Z" creationid="PC" creationdate="20210225T114006Z">
+        <seg>В основі мого проєкту &lt;t0/&gt;лежить мікро- та нанотрібологічна поведінка сталі&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Meine Aufgabe ist es, alle Abläufe, wie z.B. Schweißen oder andere begleitende Prozesse, zu optimieren und zu verbessern.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T153135Z" creationid="Диана" creationdate="20210204T122458Z">
         <seg>Моє задання полягає в оптимізації  та вдосконаленні всіх процесів, наприклад, таких, як зварювання та всіх інших, що з ним пов’язані. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Meine Doktorarbeit schreibe ich beim Max-Planck-Institut für Eisenforschung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210225T113440Z" creationid="PC" creationdate="20210225T113424Z">
+        <seg>Пишу я докторську дисертацію в Інституті дослідження заліза Товариства Макса Планка.</seg>
       </tuv>
     </tu>
     <tu>
