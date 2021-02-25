@@ -2840,6 +2840,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Gibt es Sachen, die di&lt;t0/&gt;r&lt;t1/&gt; &lt;t2/&gt;i&lt;t3/&gt;n Deutschland &lt;t4/&gt;auffallen&lt;t5/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T133525Z" creationid="Диана" creationdate="20210225T133525Z">
+        <seg>Є речі, які кидаються тобі в очі в Німеччині?&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Gibt es Sachen, die dich an Deutschland stören?</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T085339Z" creationid="Lenovo" creationdate="20210214T134348Z">
@@ -5356,6 +5364,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T124418Z" creationid="Lenovo" creationdate="20210214T124418Z">
         <seg>Я роблю магістерський проект у співпраці з професором у Києві, який сам побудував машину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Meistens reden wir da aber Englisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T133252Z" creationid="Диана" creationdate="20210225T133252Z">
+        <seg>В основному ми розмовляємо англійською.</seg>
       </tuv>
     </tu>
     <tu>
