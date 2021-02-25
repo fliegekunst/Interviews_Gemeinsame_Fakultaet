@@ -1530,8 +1530,8 @@
       <tuv lang="de-DE">
         <seg>Deadlines werden spontaner und mündlich kommuniziert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T110858Z" creationid="hp" creationdate="20210211T110858Z">
-        <seg>Дедлайни спонтанні та обговорюються.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T104401Z" creationid="hp" creationdate="20210211T110858Z">
+        <seg>Дедлайни завжди обговорюються зі студентами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,8 +1714,8 @@
       <tuv lang="de-DE">
         <seg>Die Anmeldung zur Prüfung ist wichtig, das ist eine Ausschlussfrist und wenn man zu spät ist, ist die Chance, sich zur Prüfung anzumelden, vorbei.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T183924Z" creationid="hp" creationdate="20210211T183924Z">
-        <seg>Реєстрація на іспит дуже важлива, це граничний термін, і якщо ви спізнилися, шанс зареєструватися на іспит закінчився.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T104624Z" creationid="hp" creationdate="20210211T183924Z">
+        <seg>Реєстрація на іспит дуже важлива, адже це граничний термін, і якщо ви спізнилися, то шанс зареєструватися на іспит втрачено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,8 +2338,8 @@
       <tuv lang="de-DE">
         <seg>Gleichzeitig haben wir in der Ukraine fast gar kein Master Studium erlebt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T184343Z" creationid="hp" creationdate="20210211T184343Z">
-        <seg>До того ж в Україні майже ніхто з нас не здобував ступінь магістра. </seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T104813Z" creationid="hp" creationdate="20210211T184343Z">
+        <seg>А в Україні майже ніхто з нас не проходив магістратуру . </seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,8 +2474,8 @@
       <tuv lang="de-DE">
         <seg>Hier in Magdeburg kann man als Student nichts machen oder alles machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T110925Z" creationid="hp" creationdate="20210211T110925Z">
-        <seg>А тут в Магдебурзі, ти або робиш все - або нічого.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T104420Z" creationid="hp" creationdate="20210211T110925Z">
+        <seg>А тут в Магдебурзі, ти або робиш все, або нічого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,8 +2514,8 @@
       <tuv lang="de-DE">
         <seg>Hier sagt einem niemand, wie viele Fächer man pro Semester ablegen muss, das entscheidend man selbst. &lt;t0/&gt;Man sollte dieser Planung mehr Aufmerksamkeit widmen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T111124Z" creationid="hp" creationdate="20210211T111124Z">
-        <seg>Тут ніхто нікому не каже, скільки предметів ти повинен пройти за семестр, ти повинен сам все продумано та уважно спланувати.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T104452Z" creationid="hp" creationdate="20210211T111124Z">
+        <seg>Тут ніхто нікому не каже, скільки предметів ти повинен пройти за семестр, потрібно все самостійно спланувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4202,8 +4202,8 @@
       <tuv lang="de-DE">
         <seg>Man sollte mehr über wichtige Termine nachdenken und sich selbst kümmern, sonst verpasst man etwas.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T111341Z" creationid="hp" creationdate="20210211T111341Z">
-        <seg>Вам слід більше звертати увагу на важливу інформацію, щоб нічого не пропустити.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T104506Z" creationid="hp" creationdate="20210211T111341Z">
+        <seg>Вам треба більше звертати увагу на важливу інформацію, щоб нічого не пропустити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,8 +4234,8 @@
       <tuv lang="de-DE">
         <seg>Man weiß immer, was von einem verlangt wird.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T110645Z" creationid="hp" creationdate="20210211T110645Z">
-        <seg>Ти завжди знаєш, що від тебе вимагається.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T104242Z" creationid="hp" creationdate="20210211T110645Z">
+        <seg>Ти завжди знаєш, що від тебе вимагають.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,8 +5274,8 @@
       <tuv lang="de-DE">
         <seg>Wenn wir das Studium in Deutschland und in der Ukraine miteinander vergleichen, dann finde ich, dass es in Deutschland in Bezug auf Maschinenbau mehrere allgemeine Fächer gibt, beispielsweise zur Planung der Produktion, zum Management der Produktionssysteme.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T184540Z" creationid="hp" creationdate="20210211T184540Z">
-        <seg>Якщо порівняти навчання в обох країнах, то можна сказати, що в Німеччині існує кілька загальних предметів стосовно машинобудування, наприклад планування виробництва, управління виробничими системами.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T104838Z" creationid="hp" creationdate="20210211T184540Z">
+        <seg>Якщо порівняти навчання в обох країнах, то можна сказати, що в Німеччині існує кілька загальних предметів стосовно машинобудування, наприклад, планування виробництва, управління виробничими системами.</seg>
       </tuv>
     </tu>
     <tu>
