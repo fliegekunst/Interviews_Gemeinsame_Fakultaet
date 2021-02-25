@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -72,8 +72,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Die &lt;t1/&gt;Privatsphäre in &lt;t2/&gt;Deutschland&lt;t3/&gt; wird mehr respektiert, auch in Freundschaften, da wird &lt;t4/&gt;zeitlich viel &lt;t5/&gt;eher ein Termin gemacht und sehr respektvoll miteinander umgegangen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T124350Z" creationid="ADMIN" creationdate="20210212T124350Z">
-        <seg>&lt;t0/&gt;&lt;t1/&gt;У Німеччині сфера особистого життя &lt;t2/&gt;&lt;t3/&gt;дуже поважається.&lt;t4/&gt; Мається на увазі, що зустріч буде призначена завчасно.&lt;t5/&gt; Люди ставляться одне до одного дуже шанобливо.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T085649Z" creationid="ADMIN" creationdate="20210212T124350Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;У Німеччині люди дуже поважають сферу особистого життя&lt;t2/&gt;&lt;t3/&gt;.&lt;t4/&gt; Мається на увазі, що навіть зустріч між друзями призначається завчасно.&lt;t5/&gt; Люди ставляться одне до одного дуже шанобливо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -209,8 +209,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t14/&gt;Dafür ist in Deutschland die &lt;t15/&gt;Terminplanung schwierig.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T125259Z" creationid="ADMIN" creationdate="20210212T125259Z">
-        <seg>&lt;t14/&gt;Але тут є проблема з тайм-менеджментом&lt;t15/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T085826Z" creationid="ADMIN" creationdate="20210212T125259Z">
+        <seg>&lt;t14/&gt;Але тут не все так просто з тайм-менеджментом&lt;t15/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,8 +442,8 @@
       <tuv lang="de-DE">
         <seg>Ab und zu hat man das Gefühl&lt;t0/&gt;, fremd zu sein.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T115947Z" creationid="ADMIN" creationdate="20210212T115535Z">
-        <seg>Інколи може виникнути така думка, що ти тут чужий&lt;t0/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T085153Z" creationid="ADMIN" creationdate="20210212T115535Z">
+        <seg>Інколи виникає така думка, що ти тут чужий&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,8 +570,8 @@
       <tuv lang="de-DE">
         <seg>Am Anfang hatte ich einen Minderwertigkeitskomplex als Ausländer.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T121306Z" creationid="ADMIN" creationdate="20210212T121306Z">
-        <seg>На початку навчання я мав комплекс неповноцінності.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T085232Z" creationid="ADMIN" creationdate="20210212T121306Z">
+        <seg> На початку навчання я мав комплекс неповноцінності.</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,8 +666,8 @@
       <tuv lang="de-DE">
         <seg>Auf Deutsch parallel &lt;t4/&gt;et&lt;t5/&gt;was mitschreiben und zu&lt;t6/&gt;zu&lt;t7/&gt;hören&lt;t8/&gt;, ist echt schwierig&lt;t9/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105401Z" creationid="ADMIN" creationdate="20210211T093659Z">
-        <seg>Але насправді досить тяжко записувати щось і &lt;t4/&gt;&lt;t5/&gt;одночасно&lt;t6/&gt; &lt;t7/&gt;слухати&lt;t8/&gt; німецькою мовою&lt;t9/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T084901Z" creationid="ADMIN" creationdate="20210211T093659Z">
+        <seg>Німецькою це робити тяжко&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2114,8 +2114,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt sogar Software, die einem das Skript i&lt;t5/&gt;n eine&lt;t6/&gt; &lt;t7/&gt;PDF&lt;t8/&gt; übersetzt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105428Z" creationid="ADMIN" creationdate="20210211T100019Z">
-        <seg>Можна навіть знайти програмне забезпечення, яке перекладає конспекти лекцій у&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;PDF-формат&lt;t8/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T084949Z" creationid="ADMIN" creationdate="20210211T100019Z">
+        <seg>Можна навіть знайти програму, яка перекладає конспекти лекцій у&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;PDF-формат&lt;t8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,8 +2330,8 @@
       <tuv lang="de-DE">
         <seg>Gibt es Sachen, die dich an Deutschland stören?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210218T112154Z" creationid="Lenovo" creationdate="20210214T134348Z">
-        <seg>Чи є у Німеччині речі, які тебе бентежать?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T085339Z" creationid="Lenovo" creationdate="20210214T134348Z">
+        <seg>Чи є в Німеччині речі, які тебе турбують?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,8 +2410,8 @@
       <tuv lang="de-DE">
         <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T085631Z" creationid="krps" creationdate="20210211T082909Z">
-        <seg>Чи все ж почуваєшся чужим &lt;t0/&gt;?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T085030Z" creationid="krps" creationdate="20210211T082909Z">
+        <seg>Чи не відчував ти себе чужим&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,8 +5002,8 @@
       <tuv lang="de-DE">
         <seg>Was wir in Kiew nicht geübt haben&lt;t0/&gt;,&lt;t1/&gt; ist simultan &lt;t2/&gt;zu &lt;t3/&gt;schreiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210218T105245Z" creationid="ADMIN" creationdate="20210211T092922Z">
-        <seg>Ми записували те, чого не практикували в Києві&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T084555Z" creationid="ADMIN" creationdate="20210211T092922Z">
+        <seg>Але в Києві ми не тренувалися одночасно слухати й писати&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,8 +5386,8 @@
       <tuv lang="de-DE">
         <seg>Wie äußert sich das?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T160315Z" creationid="krps" creationdate="20210211T082935Z">
-        <seg>Як воно проявляється?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T085038Z" creationid="krps" creationdate="20210211T082935Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
