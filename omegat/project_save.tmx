@@ -1776,6 +1776,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Deswegen habe ich mich für Magdeburg entschieden und damit zumindest eine Variable konstant gehalten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T115105Z" creationid="hp" creationdate="20210225T115105Z">
+        <seg>Тому моє рішення було однозначним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Deswegen haben wir in Polen ein Werk gebaut.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123826Z" creationid="hp" creationdate="20210211T104710Z">
@@ -2956,6 +2964,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T084409Z" creationid="krps" creationdate="20210211T084409Z">
         <seg>Я щасливий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich fühle mich manchmal gut, manchmal schlecht, &lt;t0/&gt;das ist &lt;t1/&gt;immer noch sehr schwankend&lt;t2/&gt; und stark von dem Thema abhängig&lt;t3/&gt;.&lt;t4/&gt; Es gibt immer noch viele selten verwendete Wörter, die ich überhaupt nicht kenne.&lt;t5/&gt; Ich spreche trotzdem immer noch viel &lt;t6/&gt;R&lt;t7/&gt;ussisch&lt;t8/&gt; mit meiner Freundin&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T115311Z" creationid="hp" creationdate="20210225T115311Z">
+        <seg>Ой, ну це залежить від ситуації. В більшості випадках все добре, але є слова, які використовуються рідше, та з якими виникають проблеми. До того ж я говорю російською зі своїми друзями у повсякденному житті.</seg>
       </tuv>
     </tu>
     <tu>
