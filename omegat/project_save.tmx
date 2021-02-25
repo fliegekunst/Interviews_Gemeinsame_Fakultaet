@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1442,8 +1442,8 @@
       <tuv lang="de-DE">
         <seg>Das war für mich eine Überraschung, als ich das von den Studenten aus anderem Austauschprogramm &lt;t0/&gt;gehört habe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210217T082718Z" creationid="krps" creationdate="20210217T082718Z">
-        <seg>Для мене стало несподіванкою, коли я почув це від студентів &lt;t0/&gt;в інших програмах обміну.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T084713Z" creationid="krps" creationdate="20210217T082718Z">
+        <seg>Для мене стало несподіванкою, коли я почув це від студентів &lt;t0/&gt;з інших програм обміну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,8 +2298,8 @@
       <tuv lang="de-DE">
         <seg>Für mich war es unklar, was ich machen sollte, wie die Prüfungen aussehen usw. In der Ukraine musste ich systematisch unterschiedliche Aufgaben erledigen und während des Semesters abgeben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T153950Z" creationid="krps" creationdate="20210204T123601Z">
-        <seg>Не міг зрозуміти, що треба виконувати, як виглядають іспити тощо. В Україні я систематично здавав різні завдання впродовж семестру.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T084335Z" creationid="krps" creationdate="20210204T123601Z">
+        <seg>Не міг зрозуміти, що треба виконувати, як виглядають іспити тощо. В Україні ж я систематично здавав різні завдання впродовж семестру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2946,8 +2946,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe nicht verstanden, was für Beschwerden die Ärztin nennt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T155042Z" creationid="krps" creationdate="20210211T074013Z">
-        <seg>Я взагалі не розумів, про які хвороби говорила лікарка.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T084141Z" creationid="krps" creationdate="20210211T074013Z">
+        <seg>Я взагалі не розумів про які хвороби говорила лікарка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5026,8 +5026,8 @@
       <tuv lang="de-DE">
         <seg>Was würdest du anderen ukrainischen Studierenden raten, die neu nach Deutschland kommen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210224T162812Z" creationid="krps" creationdate="20210211T075504Z">
-        <seg>Щоб б ти порадила іншим українським студентам, які вперше приїжджають у Німеччину?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T084211Z" creationid="krps" creationdate="20210211T075504Z">
+        <seg>Щоб б ти порадила іншим українським студентам, які вперше приїжджають в Німеччину?</seg>
       </tuv>
     </tu>
     <tu>
