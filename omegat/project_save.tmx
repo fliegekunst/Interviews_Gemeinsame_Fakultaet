@@ -279,6 +279,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t2/&gt;Ich würde gerne&lt;t3/&gt; &lt;t4/&gt;in&lt;t5/&gt; Berlin &lt;t6/&gt;wohnen, könnte mir aber auch vorstellen, in&lt;t7/&gt;s Ruhrgebiet&lt;t8/&gt; zu gehen&lt;t9/&gt;, da meine Schwester in Belgien wohnt&lt;t10/&gt;, und ich sie so oft besuchen könnte&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T105616Z" creationid="Диана" creationdate="20210225T105616Z">
+        <seg>&lt;t2/&gt;Я хотів би жити в Берліні, але я також можу собі уявити переїзд до Руру, оскільки моя сестра живе в Бельгії та я міг би часто її відвідувати.&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t11/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t3/&gt;Dann habe ich gleich das Gefühl, dass ich distanziert wurde.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T155951Z" creationid="PC" creationdate="20210213T155951Z">
@@ -3092,6 +3100,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T134751Z" creationid="Lenovo" creationdate="20210214T134751Z">
         <seg>Я також не слухаю радіо, але ви повинні платити ліцензію на радіо, тому що платите за домогосподарство.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich kann alles, was ich will, erklären, vielleicht nicht immer im ersten Anlauf.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T105758Z" creationid="Диана" creationdate="20210225T105758Z">
+        <seg>Я можу пояснити все, що хочу, можливо, просто не завжди з першої спроби.</seg>
       </tuv>
     </tu>
     <tu>
