@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t13/&gt;Wenn&lt;t14/&gt; ich studentische &lt;t15/&gt;A&lt;t16/&gt;rbeiten &lt;t17/&gt;betreue&lt;t18/&gt;, waren die &lt;t19/&gt;Studierenden&lt;t20/&gt; älter als ich.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T114759Z" creationid="hp" creationdate="20210225T114626Z">
+        <seg>Коли я допомагав іншим студентам з їх роботами, я помітив, що всі вони старші за мене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t14/&gt;Dafür ist in Deutschland die &lt;t15/&gt;Terminplanung schwierig.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T085826Z" creationid="ADMIN" creationdate="20210212T125259Z">
@@ -1658,8 +1666,8 @@
       <tuv lang="de-DE">
         <seg>Der &lt;t0/&gt;Hauptgrund&lt;t1/&gt; war, dass mei&lt;t2/&gt;n &lt;t3/&gt;Professor&lt;t4/&gt; mich schon &lt;t5/&gt;kannte &lt;t6/&gt;und w&lt;t7/&gt;usste&lt;t8/&gt;, was ich kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T114405Z" creationid="hp" creationdate="20210225T114405Z">
-        <seg>Один мій викладач , котрий мене вже добре знав,</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T114448Z" creationid="hp" creationdate="20210225T114405Z">
+        <seg>Один мій викладач , котрий вже добре знав, що я можу та знаю, допоміг мені з цим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3452,6 +3460,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T164559Z" creationid="krps" creationdate="20210211T073823Z">
         <seg>Одного разу в лікарні пережив кумедну ситуацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich war mir noch nicht sicher&lt;t9/&gt;, wo und wie ich promovieren/arbeiten soll&lt;t10/&gt;, nach meinem &lt;t11/&gt;Master&lt;t12/&gt;abschluss, weil ich noch sehr jung war.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T114531Z" creationid="hp" creationdate="20210225T114531Z">
+        <seg>Після магістратури я ще був юним, та не знав у якому напрмку хочу в подальшому розвиватися та працювати.</seg>
       </tuv>
     </tu>
     <tu>
