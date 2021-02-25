@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t10/&gt;Als&lt;t11/&gt; ich auf einer &lt;t12/&gt;K&lt;t13/&gt;onferenz &lt;t14/&gt;war&lt;t15/&gt;, habe ich fast drei &lt;t16/&gt;T&lt;t17/&gt;age ohne &lt;t18/&gt;Russisch gelebt, da&lt;t19/&gt; merk&lt;t20/&gt;t&lt;t21/&gt;e ich, dass mein &lt;t22/&gt;D&lt;t23/&gt;eutsch viel besser &lt;t24/&gt;und fließender &lt;t25/&gt;wird.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T115415Z" creationid="hp" creationdate="20210225T115415Z">
+        <seg>Якось одного разу, я брав участь в одній конференції, та не говорив російською аж три дні. Тоді я помітив, що моя німецька покращилась.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t11/&gt;Außerdem verstand ich lange nicht, wie das mit den &lt;t12/&gt;Ärzte&lt;t13/&gt;n&lt;t14/&gt; und Krankenkassen &lt;t15/&gt;funktioniert und was der Unterschied zwischen gesetzlichen und privaten Krankenkassen ist.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T160932Z" creationid="Диана" creationdate="20210204T133549Z">
@@ -347,6 +355,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T113524Z" creationid="hp" creationdate="20210225T113524Z">
         <seg>Це гальмує розвиток нашої економіки та розвиток особистості кожного.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t26/&gt;Mir fällt das swit&lt;t27/&gt;chen schwer&lt;t28/&gt;, das war schon in der Schule so&lt;t29/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T120123Z" creationid="hp" creationdate="20210225T120123Z">
+        <seg>Ще мені було важко перйти на німецьку мову.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2848,6 +2864,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Höchstwahrscheinlich ja, viel&lt;t0/&gt; aber auch auf &lt;t1/&gt;Englisch, d&lt;t2/&gt;amit da&lt;t3/&gt;s&lt;t4/&gt; international ane&lt;t5/&gt;rkannt ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T120943Z" creationid="hp" creationdate="20210225T120926Z">
+        <seg>Звичайно, але загальновідомі речі пишу англійською,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>IT ist &lt;t10/&gt;im Moment &lt;t11/&gt;super gefragt, &lt;t12/&gt;vor allem &lt;t13/&gt;Softwareentwickler.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T200315Z" creationid="ADMIN" creationdate="20210210T200315Z">
@@ -3060,6 +3084,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T105344Z" creationid="hp" creationdate="20210211T185452Z">
         <seg>Я думаю, що я зміг би добре себе організувати, але процес навчання вже не подобався мені так як раніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe &lt;t30/&gt;in der Schule&lt;t31/&gt; mehr &lt;t32/&gt;E&lt;t33/&gt;ngli&lt;t34/&gt;sch als Deutsch gelernt, &lt;t35/&gt;aber jetzt bin ich besser auf Deutsch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T120223Z" creationid="hp" creationdate="20210225T120223Z">
+        <seg>В школі я більше вчив англійську, але зараз навпаки - знаю краще німецьку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3788,6 +3820,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T205839Z" creationid="Kate" creationdate="20210210T205839Z">
         <seg>Я&lt;t0/&gt; могла б&lt;t1/&gt; отримати науковий ступінь і в Україні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im &lt;t8/&gt;Antriebsbereich ist &lt;t9/&gt;aber D&lt;t10/&gt;eutschland &lt;t11/&gt;S&lt;t12/&gt;pitzenreiter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T121143Z" creationid="hp" creationdate="20210225T121143Z">
+        <seg>В сфері двигунів Німеччина є лідером.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5200,6 +5240,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Schreibst du deine D&lt;t0/&gt;iss&lt;t1/&gt;ertation&lt;t2/&gt; auf &lt;t3/&gt;Deutsch&lt;t4/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T120324Z" creationid="hp" creationdate="20210225T120324Z">
+        <seg>А свою дисертацію ти пишеш німецькою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Seit 2016 Doktorandin an der OVGU</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T124201Z" creationid="Kate" creationdate="20210204T123125Z">
@@ -5876,6 +5924,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T122812Z" creationid="Lenovo" creationdate="20210214T122812Z">
         <seg>Якщо ви робите помилку, це дуже сильно вплине на бали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man auf Englisch&lt;t6/&gt; &lt;t7/&gt;schreibt, gibt es mehr Publikum.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T121007Z" creationid="hp" creationdate="20210225T121007Z">
+        <seg>тому що якщо писати англійською, можна охопити більшу аудиторію.</seg>
       </tuv>
     </tu>
     <tu>
