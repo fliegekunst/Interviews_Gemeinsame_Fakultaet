@@ -402,8 +402,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t8/&gt;Es wird alles gegeben, man muss nichts mehr heraussuchen, alles wird gut erklärt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T121552Z" creationid="Lenovo" creationdate="20210214T121552Z">
-        <seg>&lt;t8 /&gt; Все дається, вам більше нічого не потрібно шукати, все добре пояснено.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T105929Z" creationid="Lenovo" creationdate="20210214T121552Z">
+        <seg>&lt;t8 /&gt; Вся інформація присутня, вам більше нічого не потрібно шукати, все добре пояснюють.</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,8 +698,8 @@
       <tuv lang="de-DE">
         <seg>Auf den ersten Blick &lt;t0/&gt;scheint&lt;t1/&gt; das Studium in Deutschland &lt;t2/&gt;nicht so &lt;t3/&gt;schwierig &lt;t4/&gt;zu sein&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T113732Z" creationid="Lenovo" creationdate="20210214T113732Z">
-        <seg>На перший погляд &lt;t0/&gt;&lt;t1/&gt; вивчення в Німеччині &lt;t2/&gt; здається не таким &lt;t3/&gt;важким &lt;t4/&gt;&lt;t5/&gt;.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T105850Z" creationid="Lenovo" creationdate="20210214T113732Z">
+        <seg>На перший погляд &lt;t0/&gt;&lt;t1/&gt; навчання в Німеччині &lt;t2/&gt; здається не таким &lt;t3/&gt;важким &lt;t4/&gt;&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -772,14 +772,6 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T102112Z" creationid="PC" creationdate="20210222T180509Z">
         <seg>Наприклад, в магазині або в банку люди &lt;t10/&gt;привітні&lt;t11/&gt; й доброзичливі&lt;t12/&gt;.&lt;t13/&gt; &lt;t14/&gt;А чи вони насправді такі, це вже зовсім інше питання.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
-        <seg>Berichte unserer AbsolventInnen über ihr Studium an der Otto-von-Guericke-Universität Magdeburg</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210218T103630Z" creationid="krps" creationdate="20210211T104420Z">
-        <seg>Berichte unserer AbsolventInnen über ihr Studium an der Otto-von-Guericke-Universität MagdeburgG</seg>
       </tuv>
     </tu>
     <tu>
@@ -5330,8 +5322,8 @@
       <tuv lang="de-DE">
         <seg>Wie &lt;t0/&gt;ist&lt;t1/&gt; das Studium für dich?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210204T134000Z" creationid="Lenovo" creationdate="20210204T134000Z">
-        <seg>Яке &lt;t0/&gt;навчання&lt;t1/&gt;для тебе?</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T105759Z" creationid="Lenovo" creationdate="20210204T134000Z">
+        <seg>Як&lt;t0/&gt;тобі&lt;t1/&gt;навчання?</seg>
       </tuv>
     </tu>
     <tu>
