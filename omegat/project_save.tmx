@@ -962,8 +962,8 @@
       <tuv lang="de-DE">
         <seg>Dann weiß ich auch gleich, ob ich in einem Unternehmen arbeiten will und kann eher entscheiden, ob ich in die Wirtschaft gehe oder an der Universität bleiben will.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T185046Z" creationid="hp" creationdate="20210211T185042Z">
-        <seg>Тоді я відразу знаю, чи хочу я працювати на підприємстві, чи хочу займатися бізнесом або ж залишатися в університеті.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105205Z" creationid="hp" creationdate="20210211T185042Z">
+        <seg>Тоді я відразу знаю, чи хочу я працювати на підприємстві, займатися бізнесом, або ж залишатися в університеті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2082,8 +2082,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt eine große Toleranz in Deutschland und ich hatte nie Probleme hier oder habe negative Erfahrungen gemacht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210218T110203Z" creationid="hp" creationdate="20210211T190010Z">
-        <seg>Там всі ставляться толерантно один до одного, тому ніяких негативних спогадів немає.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105454Z" creationid="hp" creationdate="20210211T190010Z">
+        <seg>Там всі ставляться толерантно один до одного, тому негативних спогадів не залишилося.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,8 +2162,8 @@
       <tuv lang="de-DE">
         <seg>Es hängt natürlich davon ab, wie das Onlinestudium aufgebaut ist.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T185248Z" creationid="hp" creationdate="20210211T185248Z">
-        <seg>Звичайно все ще залежить від того, як організовано дистанційне навчання.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105233Z" creationid="hp" creationdate="20210211T185248Z">
+        <seg>Звичайно, все ще залежить від того, як організовано дистанційне навчання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,8 +2754,8 @@
       <tuv lang="de-DE">
         <seg>Ich glaube, ich konnte mich gut organisieren, aber der Prozessablauf gefiel mir weniger als vorher.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210211T185452Z" creationid="hp" creationdate="20210211T185452Z">
-        <seg>Я міг би добре себе організувати, але процес навчання вже так не подобався як раніше.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105344Z" creationid="hp" creationdate="20210211T185452Z">
+        <seg>Я думаю, що я зміг би добре себе організувати, але процес навчання вже не подобався мені так як раніше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,8 +3170,8 @@
       <tuv lang="de-DE">
         <seg>Ich spreche oft zufällig mit Leuten im Vorlesungsraum, das geht natürlich im Online Studium nicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210218T110124Z" creationid="hp" creationdate="20210211T185654Z">
-        <seg>Зазвичай під час лекцій я спілкувався зі студентами з потоку, а під час онлайн навчання так не виходило.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105404Z" creationid="hp" creationdate="20210211T185654Z">
+        <seg>Зазвичай, під час лекцій я спілкувався зі студентами з потоку, а під час онлайн навчання так не виходило.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3202,8 +3202,8 @@
       <tuv lang="de-DE">
         <seg>Ich versuche, meine Abschlussarbeit in einem Unternehmen zu schreiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210212T202213Z" creationid="hp" creationdate="20210211T184758Z">
-        <seg>Свою дисертацію я намагаюся писати про підприємництво.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105132Z" creationid="hp" creationdate="20210211T184758Z">
+        <seg>Свою дисертацію я спробую написати, вже працюючи на якійсь фірмі..</seg>
       </tuv>
     </tu>
     <tu>
@@ -4266,8 +4266,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal gab es keine Möglichkeit, direkt dem Professor während der Vorlesung Fragen zu stellen, da musste man dann hinterher ein Mail schreiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210218T110048Z" creationid="hp" creationdate="20210211T185356Z">
-        <seg>Інколи бувало так, що не було можливості щось запитати під час онлайн-пари, і доводилося писати емейл викладачеві.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105255Z" creationid="hp" creationdate="20210211T185356Z">
+        <seg>Інколи не було можливості щось запитати під час онлайн-пари, і доводилося писати емейл викладачеві.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4602,8 +4602,8 @@
       <tuv lang="de-DE">
         <seg>Online-Lehre war eine gute Lösung für die Pandemiesituation.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210212T202746Z" creationid="hp" creationdate="20210211T185818Z">
-        <seg>Онлайн навчання стало хорошим виходом під час пандемії.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210225T105420Z" creationid="hp" creationdate="20210211T185818Z">
+        <seg>Онлайн-навчання стало хорошим виходом під час пандемії.</seg>
       </tuv>
     </tu>
     <tu>
