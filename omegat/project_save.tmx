@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>(Ende für Frühjahr 2021 geplant)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T115704Z" creationid="ADMIN" creationdate="20210225T115704Z">
+        <seg>(Кінець навчання запланований на весну 2021 року)</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>(lacht) Bei der Arbeit ist es ausreichend.</seg>
@@ -796,6 +804,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T203707Z" creationid="Kate" creationdate="20210210T203707Z">
         <seg>Загалом потрібно гуляти та спілкуватися з людьми!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Artem Maidanovych</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T105509Z" creationid="ADMIN" creationdate="20210225T105509Z">
+        <seg>Артем Майданович</seg>
       </tuv>
     </tu>
     <tu>
@@ -3472,6 +3488,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich hatte vorher keine Vorstellungen wie das Studium in Deutschland aussehen könnte.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T124352Z" creationid="ADMIN" creationdate="20210225T124352Z">
+        <seg>Раніше я навіть не уявляв, яким може бути навчання в Німеччині.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich höre auch kein Radio, aber man muss den Rundfunkbeitrag bezahlen, denn man bezahlt pro Haushalt.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T134751Z" creationid="Lenovo" creationdate="20210214T134751Z">
@@ -4344,6 +4368,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Interview am &lt;t0/&gt;23.07.2020</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T120415Z" creationid="ADMIN" creationdate="20210225T120415Z">
+        <seg>Інтерв'ю &lt;t0/&gt;від 23.07.2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Inwieweit beeinflusst mich das?</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T160505Z" creationid="PC" creationdate="20210213T160505Z">
@@ -4548,6 +4580,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210211T105729Z" creationid="ADMIN" creationdate="20210211T105715Z">
         <seg>Родом з Миколаєва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kommt aus Zhytomyr</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T115731Z" creationid="ADMIN" creationdate="20210225T115731Z">
+        <seg>Родом з Житомира</seg>
       </tuv>
     </tu>
     <tu>
@@ -5576,6 +5616,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Studierte in Magdeburg zwischen 2018-2020 Zerspantechnik</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T113144Z" creationid="ADMIN" creationdate="20210225T113144Z">
+        <seg>З 2018 по 2020 вивчав технологію обробки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Studierte in der Ukraine „H&lt;t0/&gt;ydraulische und pneumatische Systeme&lt;t1/&gt;“, änderte dann im Master den Studiengang und studierte „Automobile Systeme“&lt;t2/&gt; &lt;t3/&gt;(&lt;t4/&gt;Automotive Systems&lt;t5/&gt;) an der OVGU.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T110917Z" creationid="hp" creationdate="20210225T110917Z">
@@ -6436,6 +6484,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T131241Z" creationid="Lenovo" creationdate="20210214T131216Z">
         <seg>Анітрохи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„&lt;t0/&gt;Ich hatte vorher keine Vorstellungen&lt;t1/&gt;,&lt;t2/&gt; wie &lt;t3/&gt;ein&lt;t4/&gt; Studium in Deutschland aussehen könnte&lt;t5/&gt;“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T112408Z" creationid="ADMIN" creationdate="20210225T112408Z">
+        <seg>„&lt;t0/&gt;Раніше я навіть не уявляв, яким може бути навчання&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt; в Німеччині&lt;t5/&gt;“</seg>
       </tuv>
     </tu>
     <tu>
