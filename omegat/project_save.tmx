@@ -169,16 +169,16 @@
       <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Von Jahr zu Jahr fühle ich mich im Deutschen sicherer und wohler.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210204T125137Z" creationid="PC" creationdate="20210204T125137Z">
-        <seg>&lt;t0/&gt;З кожним роком мені вдається легше і впевненіше комунікувати з німцями.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T093826Z" creationid="PC" creationdate="20210204T125137Z">
+        <seg>&lt;t0/&gt;З кожним роком я легше та впевненіше комунікую з німцями.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>&lt;t1/&gt;Deswegen ist es sehr wichtig, am Anfang des Studiums in einem fremden Land, nicht so hohe Anforderungen an sich zu stellen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210204T131722Z" creationid="PC" creationdate="20210204T131722Z">
-        <seg>&lt;t1/&gt;Тому важливо не бути занадто вимогливим до себе, коли починаєте навчатися за кордоном.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T094355Z" creationid="PC" creationdate="20210204T131722Z">
+        <seg>&lt;t1/&gt;Тому не потрібно бути занадто вимогливим до себе, коли починаєте навчатися за кордоном.</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,8 +906,8 @@
       <tuv lang="de-DE">
         <seg>Dann frage ich mich, ob ich nach 2 Jahren Studium an der „Gemeinsamen Ukrainisch-Deutschen Fakultät für Maschinenbau“ eiwandfrei die Sprache können sollte.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210204T124549Z" creationid="PC" creationdate="20210204T124549Z">
-        <seg>Тоді я запитую себе, чи повинна я досконало володіти мовою після двох років навчання на "Спільному Українсько-Німецькому Факультеті Машинобудування".</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T093741Z" creationid="PC" creationdate="20210204T124549Z">
+        <seg>Тоді я запитую себе, чи повинна я досконало володіти мовою після двох років навчання на Спільному Українсько-Німецькому Факультеті Машинобудування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4090,8 +4090,8 @@
       <tuv lang="de-DE">
         <seg>Man kann nicht neue Sprache sofort fühlen und zwischen den Zeilen lesen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210204T124853Z" creationid="PC" creationdate="20210204T124853Z">
-        <seg>Не можна отак зразу відчути нову мову і навчитися читати між рядків.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T093800Z" creationid="PC" creationdate="20210204T124853Z">
+        <seg>Не можна отак відразу відчути нову мову і навчитися читати між рядків.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4602,8 +4602,8 @@
       <tuv lang="de-DE">
         <seg>Schon viel besser, als am Anfang meines Studiums hier in Magdeburg.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210204T123137Z" creationid="PC" creationdate="20210204T123137Z">
-        <seg>Набагато краще, ніж на початку мого навчання тут, в Магдебурзі.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T093723Z" creationid="PC" creationdate="20210204T123137Z">
+        <seg>Набагато краще, ніж на початку мого навчання в Магдебурзі.</seg>
       </tuv>
     </tu>
     <tu>
