@@ -335,6 +335,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t20/&gt;Ich finde es wichtig, die &lt;t21/&gt;Informationen zu verstehen&lt;t22/&gt; und zu strukturieren&lt;t23/&gt; und nicht einfach &lt;t24/&gt;nur &lt;t25/&gt;auswendig zu lernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T120604Z" creationid="Диана" creationdate="20210225T120604Z">
+        <seg>&lt;t20/&gt;Я вважаю, що важливвіше розуміти і структурувати інформацію, а не просто запам'ятовувати її&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t21/&gt;Das verzögert&lt;t22/&gt; die Wissenschaft und die Selbstentwicklung.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T113524Z" creationid="hp" creationdate="20210225T113524Z">
