@@ -1016,6 +1016,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Bist du dort aktiv?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T131817Z" creationid="Диана" creationdate="20210225T131817Z">
+        <seg>Ви активні там?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Bist du mit deinem Deutsch zufrieden?</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T081641Z" creationid="Lenovo" creationdate="20210214T131152Z">
@@ -2800,6 +2808,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Gibt es in Magdeburg eine &lt;t0/&gt;ukrainisch- und &lt;t1/&gt;russischsprachige Community?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T131750Z" creationid="Диана" creationdate="20210225T131750Z">
+        <seg>Існує в Магдебурзі українсько - російськомовна громада?&lt;t0/&gt; &lt;t1/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Gleichzeitig haben wir in der Ukraine fast gar kein Master Studium erlebt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104813Z" creationid="hp" creationdate="20210211T184343Z">
@@ -4292,6 +4308,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T110505Z" creationid="ADMIN" creationdate="20210210T202823Z">
         <seg>У Києві, звичайно, трохи складно скласти індивідуальний план, подати заявку і 1000 документів на семестр за кордон&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In Magdeburg braucht man keine Community, hier gibt es so viele Ukrainer und Russischsprecher&lt;t0/&gt;, dass sie sich in &lt;t1/&gt;mehrere kleine G&lt;t2/&gt;ruppen aufgeteilt haben&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T132022Z" creationid="Диана" creationdate="20210225T132022Z">
+        <seg>Вам не потрібна громада в Магдебурзі, тут стільки україно та російськомовних, що вони розділились на кілька невеликих груп.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
