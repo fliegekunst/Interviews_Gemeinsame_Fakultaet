@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -131,6 +131,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T100753Z" creationid="PC" creationdate="20210218T122301Z">
         <seg>&lt;t0/&gt;Країна мені до вподоби&lt;t1/&gt; і я розумію&lt;t2/&gt;, що тут&lt;t3/&gt; я не одна така,&lt;t4/&gt; оскільки&lt;t5/&gt; кожного дня бачу &lt;t6/&gt;та чую&lt;t7/&gt; іноземців.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Manchmal &lt;t1/&gt;verstehe &lt;t2/&gt;ich &lt;t3/&gt;spezifische Wörter oder Redewendungen nicht, &lt;t4/&gt;besonders, &lt;t5/&gt;wenn sie sich auf Lieder oder Filme beziehen, die ich nicht kenne.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T105911Z" creationid="Диана" creationdate="20210225T105911Z">
+        <seg>&lt;t0/&gt;Іноді я не розумію конкретних слів чи фраз, особливо коли вони стосуються пісень чи фільмів, яких я не знаю.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -315,6 +323,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210223T134110Z" creationid="PC" creationdate="20210213T160017Z">
         <seg>&lt;t4/&gt;Питання в тому, чи приймаю я це?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t4/&gt;Beim eigentlichen Sprechen achte ich dann nicht mehr so darauf&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T111923Z" creationid="Диана" creationdate="20210225T111923Z">
+        <seg>&lt;t4/&gt;Насправді коли я розмовляю, я не надто звертаю на це увагу&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -508,6 +524,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T105357Z" creationid="hp" creationdate="20210204T125658Z">
         <seg>Готуватися потрібно вдома, переглянути матеріал, а потім вже здати іспит.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Aber jeder versteht sowieso, dass ich Ausländer bin&lt;t14/&gt;, und gibt sich Mühe, mich zu verstehen und mir zu helfen&lt;t15/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T111247Z" creationid="Диана" creationdate="20210225T111247Z">
+        <seg>Але все одно всі розуміють, що я іноземець і докладають максимум зусиль, щоб зрозуміти і допомогти мені.&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -804,6 +828,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T124314Z" creationid="nasty" creationdate="20210218T124314Z">
         <seg>Якщо ви маєте бажання, то можете відвідати наш сайт: Kobzarenko.eu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bevor ich etwas sage, &lt;t2/&gt;versuche ich mir die Wörter im Kopf zurecht zu legen&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T111657Z" creationid="Диана" creationdate="20210225T111657Z">
+        <seg>Перш ніж щось сказати, я намагаюся розібрати слова в голові. &lt;t2/&gt;&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1724,6 +1756,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T132101Z" creationid="nasty" creationdate="20210218T132043Z">
         <seg>Німці дуже привтні до іноземців.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die &lt;t8/&gt;deutschen &lt;t9/&gt;Artikel sind problematisch&lt;t10/&gt;, da mache ich oft Fehler&lt;t11/&gt; und nur wenige Menschen korrigieren mich, vielleicht, weil sie mich nicht andauernd unterbrechen wollen und höflich &lt;t12/&gt;bleiben&lt;t13/&gt; wollen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T110728Z" creationid="Диана" creationdate="20210225T110728Z">
+        <seg>Німецькі артиклі проблематичні, я часто роблю помилки і мало хто виправляє мене, можливо, тому, що вони не хочуть мене постійно перебивати і хочуть залишатися вічливими.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -3224,6 +3264,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich rede &lt;t6/&gt;oft &lt;t7/&gt;nach Bauchgefühl und schäme mich nicht mehr, Fehler zu machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T110218Z" creationid="Диана" creationdate="20210225T110218Z">
+        <seg>Я часто прислуховуюсь до власної інтуіції й більше не соромлюся робити помилки&lt;t6/&gt;&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich spreche oft zufällig mit Leuten im Vorlesungsraum, das geht natürlich im Online Studium nicht.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T105404Z" creationid="hp" creationdate="20210211T185654Z">
@@ -4588,6 +4636,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210218T110520Z" creationid="krps" creationdate="20210204T131522Z">
         <seg>Після першого семестру я вже зрозумів, як все працює, що мені треба робити та як відбуваються іспити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nach jedem Satz, den ich sage, mache ich a&lt;t0/&gt;utomatisch eine kleine Analyse von dem, was &lt;t1/&gt;ich gesagt habe und ob das jetzt so richtig war.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T111519Z" creationid="Диана" creationdate="20210225T111519Z">
+        <seg>Після кожного сказаного мною речення, я автоматично роблю невеликий аналіз того, що сказав, і обдумую чи було це правильно.&lt;t0/&gt;&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
