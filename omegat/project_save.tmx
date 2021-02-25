@@ -1176,6 +1176,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das Leben der anderen Ukrainer, d.h. meiner Kommilitonen, die schon länger hier leben und arbeiten, zeigt mir, dass sie wenige Freunde &lt;t2/&gt;haben und eher unter sich bleiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T125357Z" creationid="Диана" creationdate="20210225T125357Z">
+        <seg>Життя інших українців, тобто моїх однокурсників, які довгий час тут жили і працювали, показує, що у них мало друзів і вони, як правило, тримаються один одного &lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das Online Studium insgesamt war super an der OVGU, im Hinblick auf die Situation.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T185737Z" creationid="hp" creationdate="20210211T185730Z">
@@ -4420,6 +4428,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T104654Z" creationid="ADMIN" creationdate="20210210T164534Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ja, &lt;t0/&gt;ich habe durchaus &lt;t1/&gt;Angst vor der Einsamkeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T125212Z" creationid="Диана" creationdate="20210225T125212Z">
+        <seg>Так, я дуже боюся самотності&lt;t0/&gt;&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
