@@ -2856,6 +2856,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hast du Probleme mit dem Dialekt in Sachsen Anhalt&lt;t0/&gt; oder allgemein in Deutschland&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T131832Z" creationid="hp" creationdate="20210225T131832Z">
+        <seg>Чи виникають у тебе проблеми в розумінні діалекту в Саксонії-Анхальт?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hast du Probleme mit dem Dialekt in Sachsen Anhalt?</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T202924Z" creationid="Kate" creationdate="20210210T202924Z">
@@ -5148,6 +5156,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T122046Z" creationid="Kate" creationdate="20210211T113732Z">
         <seg>Інколи в дорозі взагалі немає стільникового зв'язку. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manchmal ist es schwierig&lt;t0/&gt;, Leute zu verstehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T131850Z" creationid="hp" creationdate="20210225T131850Z">
+        <seg>Так, буває важкувато зрозуміти людей.</seg>
       </tuv>
     </tu>
     <tu>
