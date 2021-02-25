@@ -1984,6 +1984,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Deswegen finde ich das komplizierter, sich selbst zu organisieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T132344Z" creationid="ADMIN" creationdate="20210225T132344Z">
+        <seg>Тому мені важче самоорганізуватися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Deswegen habe ich mich für Magdeburg entschieden und damit zumindest eine Variable konstant gehalten.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T115105Z" creationid="hp" creationdate="20210225T115105Z">
@@ -2668,6 +2676,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T194743Z" creationid="Kate" creationdate="20210204T133815Z">
         <seg>Інакшим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es war ein bisschen ungewöhnlich, dass es hier nur sehr wenige Laborarbeiten gibt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T124701Z" creationid="ADMIN" creationdate="20210225T124701Z">
+        <seg>Було трохи незвично, що тут дуже мало лабораторних робіт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5060,6 +5076,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T174338Z" creationid="PC" creationdate="20210222T174338Z">
         <seg>Варто заводити нові знайомства, поважати один одного і бути готовим до того, що тут не все так, як у вас вдома.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man muss nicht jede Woche etwas vorstellen und präsentieren, wie es in der Ukraine der Fall ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T125410Z" creationid="ADMIN" creationdate="20210225T125410Z">
+        <seg>В Україні нам потрібно було щотижня щось презентувати. В Магдебурзі такого немає.</seg>
       </tuv>
     </tu>
     <tu>
