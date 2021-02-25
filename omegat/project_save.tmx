@@ -1274,8 +1274,8 @@
       <tuv lang="de-DE">
         <seg>Das ist einerseits gut, man achtet auf deine Persönlichkeit&lt;t0/&gt; und schätzt deine Grenzen&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T180056Z" creationid="PC" creationdate="20210222T175159Z">
-        <seg>З одного боку це круто, людина&lt;t0/&gt; поважає тебе і розмежовує соціальне та приватне життя&lt;t1/&gt;.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T101008Z" creationid="PC" creationdate="20210222T175159Z">
+        <seg>З одного боку, це круто, коли людина&lt;t0/&gt; поважає тебе і розмежовує соціальне та приватне життя&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,8 +2186,8 @@
       <tuv lang="de-DE">
         <seg>Es ist immer einfacher etwas zu tun, was Spaß bringt und auf keinen Fall nicht umgekehrt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T173612Z" creationid="PC" creationdate="20210222T173612Z">
-        <seg>Завжди легше робити щось, що приносить радість, а не навпаки.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T100926Z" creationid="PC" creationdate="20210222T173612Z">
+        <seg>Завжди легше робити те, що приносить задоволення, а не навпаки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,8 +4914,8 @@
       <tuv lang="de-DE">
         <seg>Vor allem muss man die Sprache und Kultur mögen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T173457Z" creationid="PC" creationdate="20210222T173457Z">
-        <seg>Перш за все, вам повинна подобится мова і культура.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T100908Z" creationid="PC" creationdate="20210222T173457Z">
+        <seg>Перш за все, вам повинна подобатися мова і культура.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5634,8 +5634,8 @@
       <tuv lang="de-DE">
         <seg>„Wie findest du es, dass es so viele Ausländer in Magdeburg gibt?“, &lt;t8/&gt;habe ich mal&lt;t9/&gt; meine deutschen Kommilitonen&lt;t10/&gt; gefragt&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210223T134454Z" creationid="PC" creationdate="20210218T122852Z">
-        <seg>Я якось запитала &lt;t8/&gt;своїх знайомих німців, про те,&lt;t9/&gt; як вони ставляться до того, що тут в Магдебурзі так багато &lt;t10/&gt;приїжджих&lt;t11/&gt;.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T100853Z" creationid="PC" creationdate="20210218T122852Z">
+        <seg>Колись я запитала &lt;t8/&gt;своїх знайомих німців про те,&lt;t9/&gt; як вони ставляться до того, що тут так багато &lt;t10/&gt;приїжджих&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
