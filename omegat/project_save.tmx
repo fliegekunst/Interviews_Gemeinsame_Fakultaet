@@ -490,8 +490,8 @@
       <tuv lang="de-DE">
         <seg>Aber ich fühle, dass es mir manchmal schwerfällt, mich auszudrücken und mir manchmal die Worte fehlen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T130104Z" creationid="Lenovo" creationdate="20210214T130104Z">
-        <seg>Але я відчуваю, що іноді мені важко висловитись, а часом мені бракує слів.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110356Z" creationid="Lenovo" creationdate="20210214T130104Z">
+        <seg>Але я відчуваю, що іноді мені важко висловитись, а часом навіть бракує слів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,8 +882,8 @@
       <tuv lang="de-DE">
         <seg>Damit komme ich gut klar.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T131129Z" creationid="Lenovo" creationdate="20210214T131129Z">
-        <seg>З цим я добре пораюся.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110509Z" creationid="Lenovo" creationdate="20210214T131129Z">
+        <seg>Це мені вдається добре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,8 +930,8 @@
       <tuv lang="de-DE">
         <seg>Dann habe ich das mit &lt;t0/&gt;Dmytro Borysenko&lt;t1/&gt; besprochen und der hat mir das empfohlen, und diese Kooperation vermittelt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T125502Z" creationid="Lenovo" creationdate="20210214T125447Z">
-        <seg>Потім я обговорив це з &lt;t0 /&gt; Дмитром Борисенком &lt;t1 /&gt;, і він порекомендував мені це та посприяв цій співпраці.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110341Z" creationid="Lenovo" creationdate="20210214T125447Z">
+        <seg>Потім я обговорив це з &lt;t0 /&gt; Дмитром Борисенком &lt;t1 /&gt;, і він порекомендував мені та посприяв цій співпраці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,8 +5290,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man sich in ein Modul einschreibt, bekommt man alle Skripte und kann diese herunterladen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T130517Z" creationid="Lenovo" creationdate="20210214T130517Z">
-        <seg>Коли ви реєструєтеся в модулі, ви отримуєте всі скрипти і можете їх завантажити.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110439Z" creationid="Lenovo" creationdate="20210214T130517Z">
+        <seg>Коли ви реєструєтеся на модуль, ви отримуєте всі скрипти і можете їх завантажити.</seg>
       </tuv>
     </tu>
     <tu>
