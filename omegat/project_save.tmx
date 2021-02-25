@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Auf &lt;t47/&gt;N&lt;t48/&gt;etflix gibt es fast kein&lt;t49/&gt;e russischsprachigen Filme oder Serien&lt;t50/&gt;, dann muss man das auf &lt;t51/&gt;Deutsch&lt;t52/&gt; schauen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T131112Z" creationid="hp" creationdate="20210225T131112Z">
+        <seg>На Нетфліксі майже немає фільмів та серіалів російською, тому доводиться дивитися німецькою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Auf Deutsch parallel &lt;t4/&gt;et&lt;t5/&gt;was mitschreiben und zu&lt;t6/&gt;zu&lt;t7/&gt;hören&lt;t8/&gt;, ist echt schwierig&lt;t9/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T084901Z" creationid="ADMIN" creationdate="20210211T093659Z">
@@ -4632,6 +4640,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Jetzt gibt es aber mehr und mehr &lt;t53/&gt;russische&lt;t54/&gt; &lt;t55/&gt;Filme, das ist natürlich eine Versuchung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T131306Z" creationid="hp" creationdate="20210225T131306Z">
+        <seg>Але останнім часом переклади російською роблять все більше і більше, і це звичайно велика спокуса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Jetzt habe ich schon mein Grundstudium abgeschlossen, habe mehr Zeit und dementsprechend mehr Möglichkeiten dafür.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T084255Z" creationid="krps" creationdate="20210211T084255Z">
@@ -6660,6 +6676,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T132812Z" creationid="Диана" creationdate="20210204T132812Z">
         <seg>Під час навчання ми були хорошою групою&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Youtube und &lt;t43/&gt;N&lt;t44/&gt;etflix sind sehr hilfreich&lt;t45/&gt; beim Deutschlernen&lt;t46/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T131034Z" creationid="hp" creationdate="20210225T131034Z">
+        <seg>Перегляд Ютуба та Нетфлікса дуже допомагає у вивченні мови.</seg>
       </tuv>
     </tu>
     <tu>
