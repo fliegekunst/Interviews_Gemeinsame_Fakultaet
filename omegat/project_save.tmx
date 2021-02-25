@@ -129,8 +129,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Ich mag das Land und i&lt;t1/&gt;ch verstehe&lt;t2/&gt;, dass ich&lt;t3/&gt; nicht die einzige Ausländerin&lt;t4/&gt; in Magdeburg und in Deutschland bin&lt;t5/&gt;, ich sehe hier in Magdeburg jeden Tag &lt;t6/&gt;Menschen aus anderen Ländern&lt;t7/&gt; und höre jeden Tag Fremdsprachen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210223T080433Z" creationid="PC" creationdate="20210218T122301Z">
-        <seg>&lt;t0/&gt;Країна мені до вподоби&lt;t1/&gt; і я розумію&lt;t2/&gt;, що я не&lt;t3/&gt; одна така іноземка тут&lt;t4/&gt; в Магдебурзі і в Німеччині&lt;t5/&gt;, я кожного дня бачу іноземців тут &lt;t6/&gt;і чую&lt;t7/&gt; кожного дня іноземні мови.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T100753Z" creationid="PC" creationdate="20210218T122301Z">
+        <seg>&lt;t0/&gt;Країна мені до вподоби&lt;t1/&gt; і я розумію&lt;t2/&gt;, що тут&lt;t3/&gt; я не одна така,&lt;t4/&gt; оскільки&lt;t5/&gt; кожного дня бачу &lt;t6/&gt;та чую&lt;t7/&gt; іноземців.</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,8 +738,8 @@
       <tuv lang="de-DE">
         <seg>Bei Haushaltssachen oder wenn man schnell etwas sagen will entsteht ein Mix aus Deutsch und Ukrainisch, dann lassen wir &lt;t10/&gt;es&lt;t11/&gt; oft und reden Ukrainisch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210223T075933Z" creationid="PC" creationdate="20210218T112519Z">
-        <seg>Коли у когось виникали побутові питання або хтось хотів швидко щось сказати, утворювався мікс з німецької та української &lt;t10/&gt;мов,&lt;t11/&gt; тому ми просто переходили на українську.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T100458Z" creationid="PC" creationdate="20210218T112519Z">
+        <seg>Коли в когось виникали побутові питання або хтось хотів швидко щось сказати, утворювався мікс з німецької та української &lt;t10/&gt;мов,&lt;t11/&gt; тому ми вирішили перейти на українську.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4450,8 +4450,8 @@
       <tuv lang="de-DE">
         <seg>Nein, ich habe keine Angst, ich denke ich schaffe das alles, meine Sprache wird auch besser.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210218T113046Z" creationid="PC" creationdate="20210218T113046Z">
-        <seg>Ні, не боюся, я думаю, що впораюся з усим і краще володітиму мовою.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T100602Z" creationid="PC" creationdate="20210218T113046Z">
+        <seg>Ні, не боюся. Я думаю, що впораюся з усим і краще володітиму мовою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4698,8 +4698,8 @@
       <tuv lang="de-DE">
         <seg>Siehst du&lt;t0/&gt; deine Zukunft in Deutschland?</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210218T112626Z" creationid="PC" creationdate="20210218T112626Z">
-        <seg>Чи збираєшся&lt;t0/&gt; ти залишитися у Німеччині?</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210225T100517Z" creationid="PC" creationdate="20210218T112626Z">
+        <seg>Чи збираєшся&lt;t0/&gt; ти залишитися в Німеччині?</seg>
       </tuv>
     </tu>
     <tu>
