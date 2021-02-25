@@ -4656,6 +4656,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Seit 2017 Promotionsstudent an der OVGU (Promotion soll 2021 beendet werden).</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T110456Z" creationid="hp" creationdate="20210225T110456Z">
+        <seg>З 2017 року до 2021 року, здобуває докторський ступінь в OVGU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Seitdem ich auch privat Deutsch rede, ist mein Deutsch &lt;t2/&gt;viel &lt;t3/&gt;besser.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210217T195848Z" creationid="Kate" creationdate="20210210T202740Z">
@@ -4836,6 +4844,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T103534Z" creationid="Kate" creationdate="20210204T121334Z">
         <seg>Навчається в університеті Отто фон Ґеріке з 2018 року.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Studierte &lt;t0/&gt;in Magdeburg &lt;t1/&gt;von 2015-2017&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T110155Z" creationid="hp" creationdate="20210225T110155Z">
+        <seg>Навчався в Магдебурзі в 2015-2017 роках.</seg>
       </tuv>
     </tu>
     <tu>
