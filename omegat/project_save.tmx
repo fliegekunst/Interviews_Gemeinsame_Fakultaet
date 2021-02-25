@@ -3928,6 +3928,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Inhaltlich kann ich alles sagen, was ich will, aber die Form&lt;t18/&gt; und&lt;t19/&gt; die Betonung ist anders, &lt;t20/&gt;weil &lt;t21/&gt;Ironie, Zweideutigkeiten oder Witz verloren&lt;t22/&gt; &lt;t23/&gt;gehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T113116Z" creationid="Диана" creationdate="20210225T113116Z">
+        <seg>За змістом я можу сказати все, що хочу, але форма і акцент різні, тому що іронія, двозначність або жарт втрачаються.&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Interview am 04&lt;t0/&gt;.&lt;t1/&gt;12&lt;t2/&gt;.&lt;t3/&gt;2019</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210204T122928Z" creationid="PC" creationdate="20210204T122928Z">
@@ -5492,6 +5500,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T105830Z" creationid="ADMIN" creationdate="20210210T194940Z">
         <seg>Машинобудування &lt;t0/&gt;&lt;t1/&gt;завжди &lt;t2/&gt;має попит&lt;t3/&gt; в промислово розвинених країнах світу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn &lt;t0/&gt;du&lt;t1/&gt; eine andere Sprache sprich&lt;t2/&gt;s&lt;t3/&gt;t, bist du nicht mehr du, das ist ein anderes du, weil &lt;t4/&gt;du&lt;t5/&gt; nicht &lt;t6/&gt;mehr &lt;t7/&gt;alles sagen kann&lt;t8/&gt;st&lt;t9/&gt;, was &lt;t10/&gt;du&lt;t11/&gt; möch&lt;t12/&gt;test&lt;t13/&gt;, sondern nur das, was &lt;t14/&gt;du&lt;t15/&gt; kann&lt;t16/&gt;st&lt;t17/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210225T112814Z" creationid="Диана" creationdate="20210225T112814Z">
+        <seg>Коли розмовляєш іншою мовою, перестаєш бути собою, бо ти говориш не все, що хочеш, а лише те, що можеш.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
