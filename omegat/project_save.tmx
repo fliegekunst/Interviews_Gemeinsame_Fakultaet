@@ -634,8 +634,8 @@
       <tuv lang="de-DE">
         <seg>Angenehm.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210210T201931Z" creationid="ADMIN" creationdate="20210210T201931Z">
-        <seg>Приємним.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T083238Z" creationid="ADMIN" creationdate="20210210T201931Z">
+        <seg>Приємно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,8 +5354,8 @@
       <tuv lang="de-DE">
         <seg>Wie war das Studium für dich?</seg>
       </tuv>
-      <tuv lang="uk" changeid="nasty" changedate="20210218T124345Z" creationid="krps" creationdate="20210204T122101Z">
-        <seg>Яким було навчання для вас?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210225T083233Z" creationid="krps" creationdate="20210204T122101Z">
+        <seg>Як пройшло твоє навчання?</seg>
       </tuv>
     </tu>
     <tu>
