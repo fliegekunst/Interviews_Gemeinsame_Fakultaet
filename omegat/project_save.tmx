@@ -1344,6 +1344,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das bremst mich nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T093338Z" creationid="PC" creationdate="20210227T093338Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das bringt nichts&lt;t7/&gt; (für die Sprache)&lt;t8/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T100407Z" creationid="PC" creationdate="20210218T105213Z">
@@ -6554,8 +6562,8 @@
       <tuv lang="de-DE">
         <seg>Wichtig ist, was für ein Mensch du bist, und nicht woher du kommst.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210218T123020Z" creationid="PC" creationdate="20210218T123020Z">
-        <seg>Важливо саме що це за людина, а не звідки вона приїхала.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210227T093440Z" creationid="PC" creationdate="20210218T123020Z">
+        <seg>Важливо, яка це людина, а не звідки вона приїхала.</seg>
       </tuv>
     </tu>
     <tu>
