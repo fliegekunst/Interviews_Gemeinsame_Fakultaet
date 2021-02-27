@@ -6880,6 +6880,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wir haben uns immer unterstützt, beispielsweise hat jemand eine Information bekommen und diese dann mit den anderen in der Gruppe geteilt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T120503Z" creationid="PC" creationdate="20210227T120503Z">
+        <seg>Ми завжди підтримували одне одного. Наприклад, ділилися новою інформацією. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wir hatten auch Kenntnisse über die Kultur und die Geschichte.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210218T110822Z" creationid="krps" creationdate="20210210T095554Z">
