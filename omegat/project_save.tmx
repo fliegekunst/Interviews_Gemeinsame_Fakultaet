@@ -6832,6 +6832,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wir mussten aber erst unsere deutsche Master-Arbeit verteidigen und dann die ukrainisch Master-Arbeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T103144Z" creationid="PC" creationdate="20210227T103144Z">
+        <seg>Але нам довелося захищати і німецьку магістерську, і українську.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wir sind viel passiver, wir warten auf Befehle und Anweisungen und dann wissen wir, was wir machen sollen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T110841Z" creationid="hp" creationdate="20210211T110841Z">
