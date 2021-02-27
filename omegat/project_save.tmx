@@ -193,8 +193,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Von Jahr zu Jahr fühle ich mich im Deutschen sicherer und wohler.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T093826Z" creationid="PC" creationdate="20210204T125137Z">
-        <seg>&lt;t0/&gt;З кожним роком я легше та впевненіше комунікую з німцями.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210227T092341Z" creationid="PC" creationdate="20210204T125137Z">
+        <seg>&lt;t0/&gt;З кожним роком я легше та впевненіше спілкуюся з німцями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,8 +618,8 @@
       <tuv lang="de-DE">
         <seg>Aber da ich mich eher für eine selbstkritische Person halte, bin ich nicht immer mit meinem Niveau zufrieden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210204T124137Z" creationid="PC" creationdate="20210204T124137Z">
-        <seg>Але оскільки я схильна вважати себе самокритичною людиною, я не завжди задоволена своїм рівнем.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210227T092306Z" creationid="PC" creationdate="20210204T124137Z">
+        <seg>Але я досить самокритична, тому не завжди задоволена своїм рівнем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,8 +1074,8 @@
       <tuv lang="de-DE">
         <seg>D&lt;t3/&gt;as entspricht aber nicht&lt;t4/&gt; ganz, was man hier braucht.&lt;t5/&gt; Dass man den Test&lt;t6/&gt;DaF&lt;t7/&gt; geschafft hat, bedeutet noch lange nicht, dass man gut &lt;t8/&gt;D&lt;t9/&gt;eutsch kann. &lt;t10/&gt;Außerdem lernt man in Sprachkursen keine Umgangssprache.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T094851Z" creationid="PC" creationdate="20210204T133615Z">
-        <seg>Але&lt;t3/&gt; це не зовсім&lt;t4/&gt; те, що вам тут знадобиться.&lt;t5/&gt; Якщо ви пройшли&lt;t6/&gt; TestDaf,&lt;t7/&gt; це не означає, що ви добре володієте &lt;t8/&gt;німецькою&lt;t9/&gt; мовою. &lt;t10/&gt;Крім того, на мовних курсах ви не вивчаєте розмовну мову.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210227T092458Z" creationid="PC" creationdate="20210204T133615Z">
+        <seg>Але&lt;t3/&gt; це не зовсім&lt;t4/&gt; те, що вам тут знадобиться.&lt;t5/&gt; Якщо ви пройшли&lt;t6/&gt; TestDaf,&lt;t7/&gt; це не означає, що ви добре володієте &lt;t8/&gt;німецькою&lt;t9/&gt;. &lt;t10/&gt;Крім того, на мовних курсах ви не вивчаєте розмовну мову.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,8 +1162,8 @@
       <tuv lang="de-DE">
         <seg>Dann frage ich mich, ob ich nach 2 Jahren Studium an der „Gemeinsamen Ukrainisch-Deutschen Fakultät für Maschinenbau“ eiwandfrei die Sprache können sollte.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T093741Z" creationid="PC" creationdate="20210204T124549Z">
-        <seg>Тоді я запитую себе, чи повинна я досконало володіти мовою після двох років навчання на Спільному Українсько-Німецькому Факультеті Машинобудування.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210227T092319Z" creationid="PC" creationdate="20210204T124549Z">
+        <seg>Але я запитую себе, чи повинна я досконало володіти мовою після двох років навчання на Спільному Українсько-Німецькому Факультеті Машинобудування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6210,8 +6210,8 @@
       <tuv lang="de-DE">
         <seg>Was ich nicht mag, dass es wenn die Leute&lt;t0/&gt; sagen „Was, bitte?“, selbst wenn ich &lt;t1/&gt;mir sicher bin&lt;t2/&gt;, dass sie das verstanden haben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T095607Z" creationid="PC" creationdate="20210213T154234Z">
-        <seg>А от що не подобається мені, так це ситуації, коли відповідають "Перепрошую?"&lt;t0/&gt; навіть тоді, коли &lt;t1/&gt;я впевнена,&lt;t2/&gt; що мене зрозуміли.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210227T092537Z" creationid="PC" creationdate="20210213T154234Z">
+        <seg>А от що мені справді не подобається, так це ситуації, коли відповідають "Перепрошую?"&lt;t0/&gt; навіть тоді, коли &lt;t1/&gt;я впевнена,&lt;t2/&gt; що мене зрозуміли.</seg>
       </tuv>
     </tu>
     <tu>
