@@ -5136,6 +5136,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man muss ja erst die Masterprojektarbeit verteidigen, die einer Masterarbeit in der Struktur sehr ähnlich ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T101601Z" creationid="PC" creationdate="20210227T101601Z">
+        <seg>Спочатку ж потрібно захистити магістерську проєктну роботу, яка за своєю структурою схожа на дисертацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man muss manche Veranstaltungen nicht besuchen.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T110935Z" creationid="krps" creationdate="20210225T110935Z">
