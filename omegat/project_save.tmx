@@ -1874,8 +1874,8 @@
       <tuv lang="de-DE">
         <seg>Den Rundfunkbeitrag finde ich seltsam. Man bezahlt für etwas, das man nicht benutzt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T134641Z" creationid="Lenovo" creationdate="20210214T134641Z">
-        <seg>Я думаю, що плата за ліцензію на радіо дивна. Ви платите за те, чим не користуєтесь.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T112854Z" creationid="Lenovo" creationdate="20210214T134641Z">
+        <seg>Я думаю, що передплата за радіо. Ви платите за те, чим не користуєтесь.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2340,6 +2340,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T115229Z" creationid="PC" creationdate="20210225T115229Z">
         <seg>Там були керівники команд з різних департаментів, які шукали нових співробітників.Я добре себе зарекомендувала і мене прийняли до команди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du hast u&lt;t0/&gt;nter Corona studiert&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T112728Z" creationid="Lenovo" creationdate="20210225T112728Z">
+        <seg>Ти навчався&lt;t0/&gt;під час коронавірусу&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3722,8 +3730,8 @@
       <tuv lang="de-DE">
         <seg>Ich hatte mich für eine Hiwi-Stelle angemeldet, die hat dann im Mai begonnen, deswegen musste ich zurück.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T134216Z" creationid="Lenovo" creationdate="20210214T134216Z">
-        <seg>Я зареєструвався на посадуHiwi , яка розпочалась у травні, тому мені довелося повернутися назад.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T112752Z" creationid="Lenovo" creationdate="20210214T134216Z">
+        <seg>Я зареєструвався на посаду Hiwi , яка розпочалась у травні, тому мені довелося повернутися назад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3746,8 +3754,8 @@
       <tuv lang="de-DE">
         <seg>Ich höre auch kein Radio, aber man muss den Rundfunkbeitrag bezahlen, denn man bezahlt pro Haushalt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T134751Z" creationid="Lenovo" creationdate="20210214T134751Z">
-        <seg>Я також не слухаю радіо, але ви повинні платити ліцензію на радіо, тому що платите за домогосподарство.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210227T055150Z" creationid="Lenovo" creationdate="20210214T134751Z">
+        <seg>Я також не слухаю радіо, але ви повинні платити податок на радіо, тому що платите за домогосподарство.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,8 +3946,8 @@
       <tuv lang="de-DE">
         <seg>Ich war am Anfang der Corona Krise in der Ukraine und konnte von dort aus einfach &lt;t0/&gt;studieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T134120Z" creationid="Lenovo" creationdate="20210214T134120Z">
-        <seg>Я був на початку коронної кризи в Україні і міг звідти &lt; t0/&gt;вчитися.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T112740Z" creationid="Lenovo" creationdate="20210214T134120Z">
+        <seg>Я був на початку карантинної кризи в Україні і міг звідти &lt; t0/&gt;вчитися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4050,8 +4058,8 @@
       <tuv lang="de-DE">
         <seg>Ich wohne direkt an der Straße, da höre ich das.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T134528Z" creationid="Lenovo" creationdate="20210214T134528Z">
-        <seg>Я живу прямо на вулиці, там я це чую.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210225T112836Z" creationid="Lenovo" creationdate="20210214T134528Z">
+        <seg>Я живу прямо на вулиці, де їх дуже чутно.</seg>
       </tuv>
     </tu>
     <tu>
