@@ -4520,6 +4520,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In der Ukraine haben wir ein kurzes Zeitfenster, um unsere Master-Arbeiten zu verteidigen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T104008Z" creationid="PC" creationdate="20210227T104008Z">
+        <seg>В Україні нам дають не так багато часу для захист магістерської.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In der Ukraine hat man als Student &lt;t0/&gt;nicht so viel freie &lt;t1/&gt;Zeit.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T164216Z" creationid="PC" creationdate="20210213T164216Z">
@@ -5428,6 +5436,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T124418Z" creationid="Lenovo" creationdate="20210214T124418Z">
         <seg>Я роблю магістерський проект у співпраці з професором у Києві, який сам побудував машину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Meist ist das Ende Mai bzw. Anfang Juni.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T104146Z" creationid="PC" creationdate="20210227T104146Z">
+        <seg>Зазвичай це кінець травня або початок червня.</seg>
       </tuv>
     </tu>
     <tu>
