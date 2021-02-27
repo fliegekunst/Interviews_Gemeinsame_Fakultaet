@@ -1496,6 +1496,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das hätten wir nicht geschafft.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T104243Z" creationid="PC" creationdate="20210227T104243Z">
+        <seg>Ми не могли встигнути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das ist aber eher &lt;t32/&gt;eine&lt;t33/&gt; Folge des ersten Punktes.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T105747Z" creationid="ADMIN" creationdate="20210210T194150Z">
@@ -6860,6 +6868,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T103144Z" creationid="PC" creationdate="20210227T103144Z">
         <seg>Але нам довелося захищати і німецьку магістерську, і українську.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir sind auch erst ein paar Tage vor der Verteidigung in die Ukraine gefahren, das war sehr stressig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T104423Z" creationid="PC" creationdate="20210227T104423Z">
+        <seg>Ми приїхали в Україну за кілька днів до захисту,.</seg>
       </tuv>
     </tu>
     <tu>
