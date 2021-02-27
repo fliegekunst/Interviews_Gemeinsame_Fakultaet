@@ -2168,6 +2168,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Planung ist ja sehr straff, man muss sich immer gut organisieren, wann wo welche Arbeit präsentiert und verteidigt werden soll.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T101328Z" creationid="PC" creationdate="20210227T101328Z">
+        <seg>Усе треба чітко планувати і знати, коли, де і яку роботу треба презентувати або ж захистити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Prüfung sollte dann keine Probleme mehr bereiten.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210204T124911Z" creationid="hp" creationdate="20210204T124911Z">
