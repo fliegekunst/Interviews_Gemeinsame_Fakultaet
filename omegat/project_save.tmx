@@ -1288,6 +1288,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das Studium in Magdeburg habe ich als gute Erfahrung in Erinnerung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T111909Z" creationid="PC" creationdate="20210227T111909Z">
+        <seg>Навчання в Магдебурзі було для мене чудовим досвідом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das Thema ist noch nicht final, aber ich überlege gerade, welcher Betreuer in Frage kommt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T105559Z" creationid="hp" creationdate="20210211T105559Z">
