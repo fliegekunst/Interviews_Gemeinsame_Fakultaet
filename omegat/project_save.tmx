@@ -6152,6 +6152,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Unser Jahrgang war eine gute Gruppe, Tetiana Pittsyk, Rostyslav Nizinkovskyi, Serhii &lt;t0/&gt;Tetiora und ich.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T114258Z" creationid="PC" creationdate="20210227T114258Z">
+        <seg>Але наш випуск був класним - Тетяна Пітцик, Ростислав Нізінковський, Сергій &lt;t0/&gt;Тетьора та я.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Unsere gute Vorbereitung im Vergleich zu den anderen ausländischen Studenten ist auffällig.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T115708Z" creationid="krps" creationdate="20210210T095922Z">
