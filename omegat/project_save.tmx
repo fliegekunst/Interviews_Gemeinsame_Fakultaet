@@ -2192,6 +2192,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die SUNF macht ganz schön Stress, das muss man schon sagen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T100302Z" creationid="PC" creationdate="20210227T100302Z">
+        <seg>Варто сказати, що не без труднощів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Selbstständigkeit find ich toll, man hat ein Thema und macht eine wissenschaftliche Studie darüber.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T201500Z" creationid="Kate" creationdate="20210210T201500Z">
@@ -6676,6 +6684,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T115347Z" creationid="Диана" creationdate="20210204T122746Z">
         <seg>Як тобі було навчатися &lt;t0/&gt; в  університеті Отто фон Геріке?&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie war das Studium an der OVGU?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T095937Z" creationid="PC" creationdate="20210227T095923Z">
+        <seg>Як пройшло твоє навчання в університеті Отто фон Ґеріке?</seg>
       </tuv>
     </tu>
     <tu>
