@@ -3816,6 +3816,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich hatte vorher von einigen Studierenden gehört, die das Studium nicht beendet haben, aus den unterschiedlichsten Gründen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T113751Z" creationid="PC" creationdate="20210227T113751Z">
+        <seg>Я чула раніше про студентів, які через різні причини припинили навчання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich höre auch kein Radio, aber man muss den Rundfunkbeitrag bezahlen, denn man bezahlt pro Haushalt.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210227T055150Z" creationid="Lenovo" creationdate="20210214T134751Z">
