@@ -1824,6 +1824,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das war uns aber nicht möglich.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210227T103858Z" creationid="PC" creationdate="20210227T103858Z">
+        <seg>Це було неможливим для нас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das war witzig, der Doktorand wurde auf einem kleinen Wagen gezogen und wir sind durch die Uni gelaufen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104002Z" creationid="hp" creationdate="20210204T131517Z">
