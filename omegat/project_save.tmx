@@ -1834,8 +1834,8 @@
       <tuv lang="de-DE">
         <seg>Das war uns aber nicht möglich.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T103858Z" creationid="PC" creationdate="20210227T103858Z">
-        <seg>Це було неможливим для нас.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210227T104439Z" creationid="PC" creationdate="20210227T103858Z">
+        <seg>Нам здавалося це неможливим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4530,8 +4530,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine haben wir ein kurzes Zeitfenster, um unsere Master-Arbeiten zu verteidigen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T104008Z" creationid="PC" creationdate="20210227T104008Z">
-        <seg>В Україні нам дають не так багато часу для захист магістерської.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210227T104453Z" creationid="PC" creationdate="20210227T104008Z">
+        <seg>В Україні нам дають не так багато часу для захисту магістерської.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6874,8 +6874,8 @@
       <tuv lang="de-DE">
         <seg>Wir sind auch erst ein paar Tage vor der Verteidigung in die Ukraine gefahren, das war sehr stressig.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T104423Z" creationid="PC" creationdate="20210227T104423Z">
-        <seg>Ми приїхали в Україну за кілька днів до захисту,.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210227T105452Z" creationid="PC" creationdate="20210227T104423Z">
+        <seg>Ми приїхали в Україну лише за кілька днів до захисту, ми дуже переживали.</seg>
       </tuv>
     </tu>
     <tu>
