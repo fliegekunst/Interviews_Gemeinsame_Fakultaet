@@ -992,6 +992,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Berichte unserer AbsolventInnen über ihr Studium an der Otto-von-Guericke-Universität Magdeburg</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210204T114449Z" creationid="Kate" creationdate="20210204T114449Z">
+        <seg>Berichte unserer AbsolventInnen über ihr Studium an der Otto-von-Guericke-Universität Magdeburg0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Besonders das &lt;t0/&gt;IKUS bietet viel an, man kann Partys besuchen und neue Leute kennen lernen.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T131145Z" creationid="nasty" creationdate="20210218T131145Z">
@@ -6946,8 +6954,8 @@
       <tuv lang="de-DE">
         <seg>„&lt;t0/&gt;Von Jahr zu Jahr fühle ich mich i&lt;t1/&gt;n Deutschland &lt;t2/&gt;sicherer und wohler&lt;t3/&gt;!“</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T093520Z" creationid="PC" creationdate="20210204T121840Z">
-        <seg>„&lt;t0/&gt;З кожним роком, я&lt;t1/&gt; почуваюся &lt;t2/&gt;впевненіше та комфортніше у Німеччині&lt;t3/&gt;!</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210227T092130Z" creationid="PC" creationdate="20210204T121840Z">
+        <seg>„&lt;t0/&gt;У Німеччині, я&lt;t1/&gt; з кожним роком &lt;t2/&gt; почуваюся впевненіше та комфортніше&lt;t3/&gt;!</seg>
       </tuv>
     </tu>
     <tu>
