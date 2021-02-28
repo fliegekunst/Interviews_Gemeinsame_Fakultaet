@@ -6928,6 +6928,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wir hatten keine Probleme an der Uni, auch wenn wir Deutsch nicht so gut konnten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T174620Z" creationid="PC" creationdate="20210228T174620Z">
+        <seg>У нас не було проблем в університеті, навіть попри те, що ми не дуже добре "шпрехали".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wir mussten aber erst unsere deutsche Master-Arbeit verteidigen und dann die ukrainisch Master-Arbeit.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T103144Z" creationid="PC" creationdate="20210227T103144Z">
