@@ -5240,6 +5240,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man muss sich auf jeden Fall intensiver vorbereiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T175031Z" creationid="PC" creationdate="20210228T175031Z">
+        <seg>Тут без належної підготовки їх не скласти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man muss sich gut vorbereiten.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T111235Z" creationid="krps" creationdate="20210225T111235Z">
@@ -5796,6 +5804,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T162129Z" creationid="ADMIN" creationdate="20210210T162129Z">
         <seg>Ти захищаєш дисертацію німецькою мовою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Prüfungen in Deutschland sind schwieriger als in der Ukraine.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T174820Z" creationid="PC" creationdate="20210228T174820Z">
+        <seg>От іспити в Німеччині складніші ніж у нас.</seg>
       </tuv>
     </tu>
     <tu>
