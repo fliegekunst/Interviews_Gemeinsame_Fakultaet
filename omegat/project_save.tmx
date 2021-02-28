@@ -3384,6 +3384,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich finde nicht, dass es schwer ist, in Deutschland im Studium eine gute Note zu bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T180513Z" creationid="PC" creationdate="20210228T180513Z">
+        <seg>Я не думаю, що в Німеччині складно заробляти високі бали під час навчання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich finde, da gibt es viele Vorteile, zum Beispiel mehr Einblick in die deutsche Industrie.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210212T202227Z" creationid="hp" creationdate="20210211T184850Z">
