@@ -6752,6 +6752,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wie ist es, auf Deutsch zu studieren?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T174228Z" creationid="PC" creationdate="20210228T174228Z">
+        <seg>Як це - вчитися німецькою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wie nimmst du zwischenmenschliche Beziehungen und Freundschaften in Deutschland wahr?</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T122008Z" creationid="ADMIN" creationdate="20210212T122008Z">
