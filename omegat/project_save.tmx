@@ -2152,6 +2152,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Dozierenden helfen einem auch, wenn man mal etwas nicht weiß, und stellen die Frage nochmal anders oder sagen, worauf sie hinauswollen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T175624Z" creationid="PC" creationdate="20210228T175624Z">
+        <seg>Викладачі допоможуть, якщо ви раптом чогось не знаєте і переформулюють питання відштовхуючись від ваших відповідей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Feuerwehr-Sirenen sind echt laut!</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T134410Z" creationid="Lenovo" creationdate="20210214T134410Z">
