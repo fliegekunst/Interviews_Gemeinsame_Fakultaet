@@ -1920,6 +1920,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dementsprechend muss man seine Prioritäten setzen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T181300Z" creationid="PC" creationdate="20210228T181300Z">
+        <seg>І відповідно до цього варто розставити свої пріоритети.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Den Rundfunkbeitrag finde ich seltsam. Man bezahlt für etwas, das man nicht benutzt.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T112854Z" creationid="Lenovo" creationdate="20210214T134641Z">
@@ -5218,8 +5226,8 @@
       <tuv lang="de-DE">
         <seg>Man muss ehrlich mit sich selbst sein und sich frage: Was möchte ich erreichen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210228T180821Z" creationid="PC" creationdate="20210228T180821Z">
-        <seg>Будьте чесними самі з собою та запитайте себе: Чого я хочу досягти?</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210228T181126Z" creationid="PC" creationdate="20210228T180821Z">
+        <seg>Будьте відверті самі з собою та запитайте себе: Чого я хочу досягти?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6868,6 +6876,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T164007Z" creationid="PC" creationdate="20210213T164007Z">
         <seg>Ти сказала, що важливо працювати над собою. Що саме ти робиш для цього?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie viel Zeit nehme ich mir für ein Fach?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T181155Z" creationid="PC" creationdate="20210228T181155Z">
+        <seg>Скільки часу я присвячую навчанню?</seg>
       </tuv>
     </tu>
     <tu>
