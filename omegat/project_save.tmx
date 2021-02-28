@@ -5216,6 +5216,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man muss ehrlich mit sich selbst sein und sich frage: Was möchte ich erreichen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T180821Z" creationid="PC" creationdate="20210228T180821Z">
+        <seg>Будьте чесними самі з собою та запитайте себе: Чого я хочу досягти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man muss ja erst die Masterprojektarbeit verteidigen, die einer Masterarbeit in der Struktur sehr ähnlich ist.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T101601Z" creationid="PC" creationdate="20210227T101601Z">
@@ -6716,6 +6724,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104838Z" creationid="hp" creationdate="20210211T184540Z">
         <seg>Якщо порівняти навчання в обох країнах, то можна сказати, що в Німеччині існує кілька загальних предметів стосовно машинобудування, наприклад, планування виробництва, управління виробничими системами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wichtig ist aber, dass man das Studium ernst nimmt und dafür Zeit investiert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T180726Z" creationid="PC" creationdate="20210228T180726Z">
+        <seg>Але важливо поставитися до цього серйозно та вкласти в нього час.</seg>
       </tuv>
     </tu>
     <tu>
