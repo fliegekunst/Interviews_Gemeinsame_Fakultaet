@@ -5408,6 +5408,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Manchmal kann es sogar passieren, dass man durch eine Prüfung fällt, das ist aber nicht schlimm, weil eine Prüfung auch ein zweites Mal abgelegt werden kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T180327Z" creationid="PC" creationdate="20210228T180327Z">
+        <seg>Звичайно, може статися так, що ви не складете іспит, але це не так критично, адже його можна перескласти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Manchmal kann ich auch Dinge nicht aussprechen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T170252Z" creationid="Kate" creationdate="20210210T202539Z">
