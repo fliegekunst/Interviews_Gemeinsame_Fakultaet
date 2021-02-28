@@ -2736,6 +2736,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es ist natürlich auch kompliziert, gleichzeitig in Kiew zu studieren, da man mobil sein muss und viele Deadlines und Bedingungen in beiden Ländern im Auge behalten muss.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T173534Z" creationid="PC" creationdate="20210228T173534Z">
+        <seg>Важко також навчатися одночасно тут і в Києві, так як треба бути мобільним і зважати на дедлайни та інші умови в обох університетах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es ist schwierig, das miteinander zu vergleichen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T184146Z" creationid="hp" creationdate="20210211T184146Z">
