@@ -2744,6 +2744,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es ist schwierig, sich für einen Betreuer für die Master-Projektarbeit zu entscheiden, man muss die Fakultät gut kennen und wissen, wer wofür verantwortlich ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T173057Z" creationid="PC" creationdate="20210228T173057Z">
+        <seg>Було важко вибрати наукового керівника для роботи над магістерським проєктом. Треба добре знати факультет і хто за що в ньому відповідає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es könnte immer besser sein.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T081733Z" creationid="ADMIN" creationdate="20210210T170410Z">
@@ -6308,6 +6316,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T092537Z" creationid="PC" creationdate="20210213T154234Z">
         <seg>А от що мені справді не подобається, так це ситуації, коли відповідають "Перепрошую?"&lt;t0/&gt; навіть тоді, коли &lt;t1/&gt;я впевнена,&lt;t2/&gt; що мене зрозуміли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was ist &lt;t0/&gt;dir&lt;t1/&gt; besonders schwergefallen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T172728Z" creationid="PC" creationdate="20210228T172728Z">
+        <seg>Що &lt;t0/&gt;тобі&lt;t1/&gt; давалося найтяжче?</seg>
       </tuv>
     </tu>
     <tu>
