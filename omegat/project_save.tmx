@@ -5352,6 +5352,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Manche Prüfungen sind komplex und schließen mehrere Fachbereiche ab.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T180146Z" creationid="PC" creationdate="20210228T180146Z">
+        <seg>Деякі іспити взагалі охоплюють одразу декілька дисциплін.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Manche Übungen muss man zusammen machen, so findet man schnell Anschluss und Freunde.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T112326Z" creationid="Lenovo" creationdate="20210214T132929Z">
