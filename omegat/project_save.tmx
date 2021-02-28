@@ -6208,6 +6208,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Viele Dozierende hatten dafür Verständnis.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210228T174712Z" creationid="PC" creationdate="20210228T174712Z">
+        <seg>Більшість викладачів ставилися до цього з розумінням.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Viele Studierende &lt;t0/&gt;in der Ukraine &lt;t1/&gt;haben &lt;t2/&gt;wenig&lt;t3/&gt; Motivation&lt;t4/&gt;, das ärgert mich sehr.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210224T163830Z" creationid="Kate" creationdate="20210210T212233Z">
