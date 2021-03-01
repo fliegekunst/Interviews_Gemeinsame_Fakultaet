@@ -4608,6 +4608,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In der &lt;t28/&gt;Ukraine&lt;t29/&gt; lernt man nicht, wie man effektiv lernt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T094614Z" creationid="hp" creationdate="20210301T094614Z">
+        <seg>А в Україні нас не навчають, як саме навчатися ефективно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In der U&lt;t0/&gt;kraine&lt;t1/&gt; sind &lt;t2/&gt;Universitäten&lt;t3/&gt; &lt;t4/&gt;A&lt;t5/&gt;usbildungszentren, sie sind aber abgekoppelt von der realen &lt;t6/&gt;W&lt;t7/&gt;irtschaft und den realen &lt;t8/&gt;P&lt;t9/&gt;roblemen in &lt;t10/&gt;G&lt;t11/&gt;esellschaft und &lt;t12/&gt;T&lt;t13/&gt;echnik.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T105634Z" creationid="ADMIN" creationdate="20210210T192542Z">
