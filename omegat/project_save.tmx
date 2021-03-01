@@ -984,6 +984,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Aus meiner Sicht ist das der klimaneutralste Antrieb, den die Welt braucht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T103500Z" creationid="hp" creationdate="20210301T103500Z">
+        <seg>На мою думку, нам цього не вистачає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Auslandssem&lt;t17/&gt;ester&lt;t18/&gt; sind in der &lt;t19/&gt;Ukraine&lt;t20/&gt; nicht unbeliebt, das können sich &lt;t21/&gt;aber &lt;t22/&gt;nur reiche Leute erlauben oder man bewirbt sich auf ein &lt;t23/&gt;S&lt;t24/&gt;tipendium.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T100014Z" creationid="hp" creationdate="20210301T100014Z">
@@ -1724,6 +1732,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210210T215917Z" creationid="krps" creationdate="20210210T215917Z">
         <seg>Це насправді кумедно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das ist mein Steckenpferd, darüber ist auch meine Diss&lt;t27/&gt;ertation&lt;t28/&gt; &lt;t29/&gt;indirekt &lt;t30/&gt;und das macht mir Spaß.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T103553Z" creationid="hp" creationdate="20210301T103553Z">
+        <seg>Це моя коронна тема, і саме тому я із задоволенням пишу про неї дисертацію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3004,6 +3020,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T171153Z" creationid="Kate" creationdate="20210210T201106Z">
         <seg>Якщо мені це не сподобається, я зможу просто повернутися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Fast keine Emissionen werden ausgestoßen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T103335Z" creationid="hp" creationdate="20210301T103335Z">
+        <seg>При цьому не буде ніяких викидів в атмосферу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4602,8 +4626,8 @@
       <tuv lang="de-DE">
         <seg>Im Idealfall wäre mein Herzenswunsch&lt;t18/&gt;,&lt;t19/&gt; Wasserstoff&lt;t20/&gt;verbrennungsmotoren &lt;t21/&gt;zu &lt;t22/&gt;entwickeln.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T103104Z" creationid="hp" creationdate="20210301T103104Z">
-        <seg>Моє найзаповітніше бажання - розвиватися в сфері про двигуни внутрішнього згорання.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210301T103427Z" creationid="hp" creationdate="20210301T103104Z">
+        <seg>Моє найзаповітніше бажання - розвиватися в сфері про водневі двигуни внутрішнього згорання.</seg>
       </tuv>
     </tu>
     <tu>
