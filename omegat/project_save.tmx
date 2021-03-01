@@ -1440,6 +1440,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das habe ich als &lt;t10/&gt;S&lt;t11/&gt;tud&lt;t12/&gt;ent&lt;t13/&gt; nicht immer gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T094258Z" creationid="hp" creationdate="20210301T094258Z">
+        <seg> А будучи студентом, я весь час працював.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das habe ich hier gelernt, wie man richtig eigene Zeit organisieren kann.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T095716Z" creationid="PC" creationdate="20210213T165421Z">
