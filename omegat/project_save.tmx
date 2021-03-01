@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t18/&gt;Mir hat es auch geholfen, &lt;t19/&gt;Bücher über &lt;t20/&gt;Kognitivistik&lt;t21/&gt; &lt;t22/&gt;zu &lt;t23/&gt;lesen und &lt;t24/&gt;zu &lt;t25/&gt;lernen, wie man richtig lernt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T094520Z" creationid="hp" creationdate="20210301T094520Z">
+        <seg>Мені дуже допомогли книжки про когнівістику, я читав про те, як правильно навчатися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t18/&gt;Um einen Job in der&lt;t19/&gt; IT &lt;t20/&gt;zu bekommen und gutes Geld zu verdienen, &lt;t21/&gt;muss man auch schon sehr spezialisiert sein, da steigt die Konkurrenz auch extrem an.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T201814Z" creationid="ADMIN" creationdate="20210210T201814Z">
@@ -2864,6 +2872,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es wäre besser gewesen, sich mehr auszuruhen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T094318Z" creationid="hp" creationdate="20210301T094318Z">
+        <seg>Треба було більше рослаблятися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Etwas Einzigartiges in Deutschland zu machen oder &lt;t12/&gt;zu &lt;t13/&gt;finden, ist schwer.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T123422Z" creationid="Kate" creationdate="20210210T212854Z">
@@ -3636,6 +3652,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210212T080632Z" creationid="krps" creationdate="20210204T130442Z">
         <seg>Адже на неї я витратив вдвічі більше часу, ніж запланував.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe einer &lt;t26/&gt;B&lt;t27/&gt;loggerin gefolgt, die sich viel damit beschäftigt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T094550Z" creationid="hp" creationdate="20210301T094550Z">
+        <seg>Також я був підписаний на одну блогерку, яка цьому навчала.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5700,6 +5724,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T170138Z" creationid="Kate" creationdate="20210210T200745Z">
         <seg>Поговорити з іншою людиною&lt;t0/&gt; для мене ніколи не було &lt;t1/&gt;проблемою, але коли декілька німців збираються разом, вони розмовляють швидко і не зважають на те, що я українка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit mehr &lt;t14/&gt;E&lt;t15/&gt;nergieaufwand kommt nicht immer ein besseres &lt;t16/&gt;E&lt;t17/&gt;rgebnis zustande.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T094406Z" creationid="hp" creationdate="20210301T094406Z">
+        <seg>Якщо весь час перепрацьовувати, то результат не завжди порадує.</seg>
       </tuv>
     </tu>
     <tu>
