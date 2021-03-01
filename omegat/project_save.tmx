@@ -712,6 +712,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Alle &lt;t33/&gt;Studierenden&lt;t34/&gt; &lt;t35/&gt;prokrastinieren&lt;t36/&gt;, dazu gibt es ja auch viele &lt;t37/&gt;S&lt;t38/&gt;tudien.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T091340Z" creationid="hp" creationdate="20210301T091340Z">
+        <seg>Студенти зазвичай зволікають, а потім потрібно багато чого вчити відразу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Alle Aufgaben und Ziele sind klar und alle Unterlagen sind verfügbar, das macht das Studium einfach.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T111037Z" creationid="krps" creationdate="20210225T111037Z">
@@ -1252,6 +1260,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T111623Z" creationid="hp" creationdate="20210225T111623Z">
         <seg>Закінчив свій сновний проєкт про D7/CFD моделювання (тобто моделювання потоків) у 2020 році</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das &lt;t19/&gt;S&lt;t20/&gt;tudium &lt;t21/&gt;zu &lt;t22/&gt;strukturieren ist wichtig, &lt;t23/&gt;einen K&lt;t24/&gt;alender &lt;t25/&gt;zu &lt;t26/&gt;führen und einen &lt;t27/&gt;P&lt;t28/&gt;lan für jeden &lt;t29/&gt;T&lt;t30/&gt;ag &lt;t31/&gt;zu &lt;t32/&gt;machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T091216Z" creationid="hp" creationdate="20210301T091216Z">
+        <seg>Важливо розробити свій план навчання, зробити його структурованим та розписати кожен день.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3250,8 +3266,8 @@
       <tuv lang="de-DE">
         <seg>Ich &lt;t11/&gt;zum Beispiel &lt;t12/&gt;lasse mich leicht beeinflussen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T132737Z" creationid="hp" creationdate="20210225T132737Z">
-        <seg>Наприклад, я, лекго піддаюсь впливу.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210301T091053Z" creationid="hp" creationdate="20210225T132737Z">
+        <seg>Наприклад, я, легко піддаюсь впливу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5506,8 +5522,8 @@
       <tuv lang="de-DE">
         <seg>Mein &lt;t12/&gt;Professor&lt;t13/&gt; ist aus &lt;t14/&gt;M&lt;t15/&gt;ünchen, seinen &lt;t16/&gt;D&lt;t17/&gt;ialekt verstehe ich viel schlechter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T132121Z" creationid="hp" creationdate="20210225T132121Z">
-        <seg>Один мій викладач з Мюнхена, то його я розумію гірше.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210301T091013Z" creationid="hp" creationdate="20210225T132121Z">
+        <seg>Але, наприклад, свого викладча з Мюнхена я розумію гірше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5612,6 +5628,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T125936Z" creationid="nasty" creationdate="20210218T125936Z">
         <seg>Мені дуже сподобалося навчання в Магдебурзі, адже ти можеш самостійно працювати з верстатами без чиєїсь допомоги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mir hat es geholfen, in der &lt;t15/&gt;Bibliothek&lt;t16/&gt; zu studieren, &lt;t17/&gt;weil ich mich zu Hause schlechter konzentrieren kann&lt;t18/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T091133Z" creationid="hp" creationdate="20210301T091126Z">
+        <seg>Вдома мені важко сконцетруватися, тому мені дуже допомогла навчатися в бібліотеці.</seg>
       </tuv>
     </tu>
     <tu>
