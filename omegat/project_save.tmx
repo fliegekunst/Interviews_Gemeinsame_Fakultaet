@@ -968,6 +968,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Außerdem ist es wichtig, eine &lt;t0/&gt;P&lt;t1/&gt;erson zu finden, die einen motiviert, und die einen in schwierigen &lt;t2/&gt;S&lt;t3/&gt;ituationen oder in &lt;t4/&gt;K&lt;t5/&gt;risen unterstützt, um einem &lt;t6/&gt;M&lt;t7/&gt;otiva&lt;t8/&gt;t&lt;t9/&gt;ion zu geben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T091516Z" creationid="hp" creationdate="20210301T091516Z">
+        <seg>Ще б не завадило знайти когось, хто допоможе у важких ситуаціях, захистить, та просто буде тебе мотивувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Außerdem kenne ich in anderen &lt;t25/&gt;S&lt;t26/&gt;tädten niemand.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T114849Z" creationid="hp" creationdate="20210225T114849Z">
@@ -3116,6 +3124,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T131738Z" creationid="nasty" creationdate="20210218T131738Z">
         <seg>Чи було у вас відчуття відчуженості?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Heute würde ich mir mehr Freizeit nehmen und mir mehr Urlaub erlauben, weil es auch schwierig ist, immer zu arbeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T091602Z" creationid="hp" creationdate="20210301T091602Z">
+        <seg>Зараз я б хотів більше відпочивати, проводити своє дозвілля, тому що весь час працювати - дуже важко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6276,6 +6292,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T160431Z" creationid="Диана" creationdate="20210204T133016Z">
         <seg>Ми з українськими та німецькими студенти жили разом у квартирі та влаштовували вечірки. &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Um das minimieren zu können, muss man planen, um nicht alles auf den letzten &lt;t39/&gt;D&lt;t40/&gt;rücker zu machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T091413Z" creationid="hp" creationdate="20210301T091413Z">
+        <seg>Щоб уникнути цього, не потрібно відкладати на потім те, що можна зробити зараз.</seg>
       </tuv>
     </tu>
     <tu>
