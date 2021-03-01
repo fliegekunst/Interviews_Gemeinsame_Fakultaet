@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t17/&gt;Warum wählen die Leute rechts-konservative Parteien?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102023Z" creationid="hp" creationdate="20210301T102023Z">
+        <seg>Чому люди голосують за консервативні партії?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t18/&gt;Es ist extrem wichtig, andere Studierende zu treffen und kennen zu lernen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T124527Z" creationid="Диана" creationdate="20210204T124527Z">
@@ -2416,6 +2424,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die große Sympathie für die &lt;t15/&gt;AfD&lt;t16/&gt; hat mich sehr gewundert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T101907Z" creationid="hp" creationdate="20210301T101907Z">
+        <seg>Я отримав велику підтримку з боку університету.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die haben andere &lt;t2/&gt;Z&lt;t3/&gt;iele.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T132339Z" creationid="hp" creationdate="20210225T132339Z">
@@ -3788,6 +3804,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T124750Z" creationid="nasty" creationdate="20210218T124703Z">
         <seg>У мене є фото, під назвою "час підготовки, коли тобі потрібно скласти вісім іспитів":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe hier selten das &lt;t12/&gt;G&lt;t13/&gt;efühl, dass man mich offensiv als Ausländer wahrnimmt und mir zeigt, dass ich nicht hierher &lt;t14/&gt;gehöre.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T101809Z" creationid="hp" creationdate="20210301T101809Z">
+        <seg>Але таке було рідко, що мене якось ображали за те, що я не місцевий.</seg>
       </tuv>
     </tu>
     <tu>
