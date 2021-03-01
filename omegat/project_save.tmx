@@ -3688,6 +3688,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe damals gedacht, dass die &lt;t6/&gt;L&lt;t7/&gt;eute &lt;t8/&gt;nur &lt;t9/&gt;frech &lt;t10/&gt;zu mir &lt;t11/&gt;sind.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T101736Z" creationid="hp" creationdate="20210301T101736Z">
+        <seg>Інколи мені здавалося, що до мене нахабно ставляться. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe dann meine Freunde gefragt, was fühlen sie in solchen Situationen und habe mich danach entschieden, &lt;t6/&gt;keine Gedanken&lt;t7/&gt; mehr&lt;t8/&gt; darüber&lt;t9/&gt; zu machen&lt;t10/&gt;.&lt;t11/&gt; Es lohnt sich einfach nicht.&lt;t12/&gt; &lt;t13/&gt;Ja, ich muss hier&lt;t14/&gt; meine Sprache vereinfachen.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T095554Z" creationid="PC" creationdate="20210213T161319Z">
@@ -4452,6 +4460,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T205839Z" creationid="Kate" creationdate="20210210T205839Z">
         <seg>Я&lt;t0/&gt; могла б&lt;t1/&gt; отримати науковий ступінь і в Україні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im &lt;t2/&gt;S&lt;t3/&gt;tudium habe ich das &lt;t4/&gt;aber &lt;t5/&gt;nicht sehr bemerkt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T101637Z" creationid="hp" creationdate="20210301T101637Z">
+        <seg>Проте під час навчання я цього не помітив.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5676,6 +5692,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T073246Z" creationid="krps" creationdate="20210211T073246Z">
         <seg>Інколи трапляються ситуації, коли я не можу нічого сказати без словника.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manchmal&lt;t0/&gt; habe ich das Gefühl, hier fremd zu sein&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T101602Z" creationid="hp" creationdate="20210301T101602Z">
+        <seg>Інколи було таке відчуття.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6924,6 +6948,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210213T142408Z" creationid="krps" creationdate="20210210T215759Z">
         <seg>Якщо знайду щось цікаве, то можливо навіть повернуся додому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ja, wie äußert sich das?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T101549Z" creationid="hp" creationdate="20210301T101549Z">
+        <seg>Якщо так, то в чому це проявлялося?</seg>
       </tuv>
     </tu>
     <tu>
