@@ -2184,6 +2184,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die &lt;t3/&gt;ukrainischen&lt;t4/&gt; &lt;t5/&gt;Studierenden&lt;t6/&gt; sind sehr jung und haben wenig &lt;t7/&gt;E&lt;t8/&gt;rfahrung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095801Z" creationid="hp" creationdate="20210301T095801Z">
+        <seg>Українські студенти дуже молоді і недосвідчені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die &lt;t8/&gt;deutschen &lt;t9/&gt;Artikel sind problematisch&lt;t10/&gt;, da mache ich oft Fehler&lt;t11/&gt; und nur wenige Menschen korrigieren mich, vielleicht, weil sie mich nicht andauernd unterbrechen wollen und höflich &lt;t12/&gt;bleiben&lt;t13/&gt; wollen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T110728Z" creationid="Диана" creationdate="20210225T110728Z">
@@ -2844,6 +2852,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210228T173057Z" creationid="PC" creationdate="20210228T173057Z">
         <seg>Було важко вибрати наукового керівника для роботи над магістерським проєктом. Треба добре знати факультет і хто за що в ньому відповідає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es kommt darauf an, welche &lt;t9/&gt;E&lt;t10/&gt;rfahrungen man sammelt und wie viel man lernt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095832Z" creationid="hp" creationdate="20210301T095832Z">
+        <seg>А при навчанні потрібно набувати досвід.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6160,6 +6176,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Sie wissen nicht, was sie wirklich wollen und können keine Prioritäten setzen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095744Z" creationid="hp" creationdate="20210301T095744Z">
+        <seg>Вони не знають, що вони хочуть і як розтавити приорітети.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Siehst du&lt;t0/&gt; deine Zukunft in Deutschland?</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T100517Z" creationid="PC" creationdate="20210218T112626Z">
@@ -6412,6 +6436,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T114258Z" creationid="PC" creationdate="20210227T114258Z">
         <seg>Але наш випуск був класним - Тетяна Пітцик, Ростислав Нізінковський, Сергій &lt;t0/&gt;Тетьора та я.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Unsere Studierenden&lt;t0/&gt; haben sehr viel im Kopf&lt;t1/&gt; und haben sehr viele Stunden an der Universität&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095717Z" creationid="hp" creationdate="20210301T095717Z">
+        <seg>Наші студента забагато часу проводять в універі, при цьому не реалізують свої ідеї.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6724,6 +6756,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T205812Z" creationid="Kate" creationdate="20210210T205812Z">
         <seg>Які відмінності ти бачиш між українським та німецьким академічним життям?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welchen &lt;t0/&gt;Unterschied &lt;t1/&gt;zwischen ukrainischen und deutschen Studierenden hast du bemerkt?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095642Z" creationid="hp" creationdate="20210301T095642Z">
+        <seg>А яка, на твою думку, різниця між українськими та німецькими студентами?</seg>
       </tuv>
     </tu>
     <tu>
