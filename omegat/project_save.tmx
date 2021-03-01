@@ -337,8 +337,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t18/&gt;Ich dachte zuerst, dass die &lt;t19/&gt;hohen &lt;t20/&gt;Zustimmung&lt;t21/&gt;swerte&lt;t22/&gt; ein Witz &lt;t23/&gt;sind&lt;t24/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T102156Z" creationid="hp" creationdate="20210301T102156Z">
-        <seg>&lt;t18/&gt;Ich dachte zuerst, dass die &lt;t19/&gt;hohen &lt;t20/&gt;ZuЯ спочатку думав, що це був жарт.stimmung&lt;t21/&gt;swerte&lt;t22/&gt; ein Witz &lt;t23/&gt;sind&lt;t24/&gt;.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102302Z" creationid="hp" creationdate="20210301T102156Z">
+        <seg>Я спочатку думав, що це був жарт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,6 +816,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Am Anfang habe ich &lt;t2/&gt;beim Sprechen &lt;t3/&gt;viele Fehler gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102416Z" creationid="hp" creationdate="20210301T102416Z">
+        <seg>Спочатку я робив багато помилок під час свого мовлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Am Anfang hatte ich einen Minderwertigkeitskomplex als Ausländer.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T085232Z" creationid="ADMIN" creationdate="20210212T121306Z">
@@ -1276,6 +1284,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T143751Z" creationid="krps" creationdate="20210204T124953Z">
         <seg>Потім почалася сесія, яка була для всіх справжнім кошмаром!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann war ich beleidigt und habe gebeten, dass wir weiter &lt;t6/&gt;D&lt;t7/&gt;eutsch reden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102520Z" creationid="hp" creationdate="20210301T102520Z">
+        <seg>Я вибачався і просив продовжувати розмовляти німецькою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5152,6 +5168,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Jetzt ist es aber schon viel besser.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102606Z" creationid="hp" creationdate="20210301T102606Z">
+        <seg>Зараз з моїм мовленням все набагато краще.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Jetzt kann ich mein Leben ohne Termine nicht vorstellen.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T181758Z" creationid="PC" creationdate="20210222T181758Z">
@@ -5648,6 +5672,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Manche haben dann &lt;t8/&gt;einfach &lt;t9/&gt;weiter &lt;t10/&gt;E&lt;t11/&gt;nglisch geredet&lt;t12/&gt;, was natürlich nicht so schön war.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102542Z" creationid="hp" creationdate="20210301T102542Z">
+        <seg>Але багато хто всеодно продовжував говорити англійською.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Manche sind erst mit 26 oder 27 mit dem &lt;t43/&gt;M&lt;t44/&gt;aster fertig, das könnte man schneller machen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T100806Z" creationid="hp" creationdate="20210301T100806Z">
@@ -6132,6 +6164,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T114427Z" creationid="Lenovo" creationdate="20210214T114427Z">
         <seg>Часто бувають презентації та відео, все дуже мультимедійно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Oft haben die Leute dann angefangen, &lt;t4/&gt;E&lt;t5/&gt;nglisch mit mir zu sprechen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102436Z" creationid="hp" creationdate="20210301T102436Z">
+        <seg>Тому люди часто переходили зі мною на англійську.</seg>
       </tuv>
     </tu>
     <tu>
