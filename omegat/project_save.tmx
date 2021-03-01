@@ -3792,6 +3792,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe mich entschieden, dass in &lt;t8/&gt;Deutschland&lt;t9/&gt; zu machen, ich wollte das nicht in der &lt;t10/&gt;Ukraine&lt;t11/&gt; machen, viele &lt;t12/&gt;Le&lt;t13/&gt;ute kaufen &lt;t14/&gt;den &lt;t15/&gt;dort, ich will das aber echt können.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095603Z" creationid="hp" creationdate="20210301T095603Z">
+        <seg>Те що я собі надумав, я зроблю в Німеччині, адже в Україні мені доведеться весь час давати хабарі..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe mich nie direkt benachteiligt gefühlt.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T115212Z" creationid="ADMIN" creationdate="20210212T115212Z">
@@ -3868,6 +3876,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123513Z" creationid="nasty" creationdate="20210218T123513Z">
         <seg>Я багато спілкувався німецькою мовою з клієнтами та замовниками. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe vor kurzem einen Führerschein gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095428Z" creationid="hp" creationdate="20210301T095428Z">
+        <seg>А нещодавно я здав на права.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5264,6 +5280,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man kann hier das &lt;t4/&gt;R&lt;t5/&gt;ichtige&lt;t6/&gt; ohne Verurteilung&lt;t7/&gt; tun.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095354Z" creationid="hp" creationdate="20210301T095354Z">
+        <seg>Тут можна робити, що ти хочеш, і тебе не будуть засуджувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man kann nicht neue Sprache sofort fühlen und zwischen den Zeilen lesen.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T093800Z" creationid="PC" creationdate="20210204T124853Z">
@@ -5676,6 +5700,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210210T201319Z" creationid="PC" creationdate="20210210T201319Z">
         <seg>Принаймні вони так кажуть (сміється).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mir gefällt es hier viel besser als in der &lt;t2/&gt;Ukraine&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095250Z" creationid="hp" creationdate="20210301T095250Z">
+        <seg>Тут мені подобається більше ніж в Україні.</seg>
       </tuv>
     </tu>
     <tu>
