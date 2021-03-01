@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>(nickt) &lt;t0/&gt; &lt;t1/&gt;Wenn du an diese Zukunft denkst, hast du Angst?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095105Z" creationid="hp" creationdate="20210301T095105Z">
+        <seg>(киває) Тобі страшно, коли ти думаєш про своє майбутнє?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>(nickt) Wenn du an diese Zukunft denkst, hast du Angst?</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T084201Z" creationid="krps" creationdate="20210211T085833Z">
@@ -2500,6 +2508,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210217T200247Z" creationid="ADMIN" creationdate="20210210T175541Z">
         <seg>Ймовірніше, ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eigentlich sehe ich hier &lt;t0/&gt;kaum&lt;t1/&gt; Schwierigkeiten mit der Integration.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095231Z" creationid="hp" creationdate="20210301T095231Z">
+        <seg>Взагалі я не бачу якихось труднощів у цьому.</seg>
       </tuv>
     </tu>
     <tu>
