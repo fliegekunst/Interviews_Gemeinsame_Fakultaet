@@ -4584,6 +4584,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In &lt;t45/&gt;Deutschland&lt;t46/&gt; hat man &lt;t47/&gt;Z&lt;t48/&gt;eit, nebenbei &lt;t49/&gt;et&lt;t50/&gt;was zu machen oder zu arbeiten, in der &lt;t51/&gt;Ukraine&lt;t52/&gt; studiert man intensiver, aber ich merke trotzdem&lt;t53/&gt;,&lt;t54/&gt; dass die &lt;t55/&gt;Ukrainer&lt;t56/&gt; viel mehr &lt;t57/&gt;S&lt;t58/&gt;port machen oder auch &lt;t59/&gt;H&lt;t60/&gt;obbys haben, obwohl sie so wenig &lt;t61/&gt;Z&lt;t62/&gt;eit haben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T101121Z" creationid="hp" creationdate="20210301T101121Z">
+        <seg>В Німеччині в тебе є час подумати, чим зайнятися або почати працювати. Проте, не дивлячись на те, що в українських студентів менше вільного часу, я помітив, що вони більше займаються спортом та мають якесь хоббі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In Deutschland eine Prüfung zu bestehen ist kein Zufall.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T103849Z" creationid="hp" creationdate="20210204T125223Z">
@@ -5564,6 +5572,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210228T180146Z" creationid="PC" creationdate="20210228T180146Z">
         <seg>Деякі іспити взагалі охоплюють одразу декілька дисциплін.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manche sind erst mit 26 oder 27 mit dem &lt;t43/&gt;M&lt;t44/&gt;aster fertig, das könnte man schneller machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T100806Z" creationid="hp" creationdate="20210301T100806Z">
+        <seg>Деякі студенти тут закінчують магістратуру навіть 26-27 років. </seg>
       </tuv>
     </tu>
     <tu>
