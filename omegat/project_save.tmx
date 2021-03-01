@@ -3176,6 +3176,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T101419Z" creationid="hp" creationdate="20210301T101419Z">
+        <seg>Чи відчував ти себе чужим?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T122437Z" creationid="krps" creationdate="20210211T082909Z">
@@ -4700,6 +4708,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T094614Z" creationid="hp" creationdate="20210301T094614Z">
         <seg>А в Україні нас не навчають, як саме навчатися ефективно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der &lt;t63/&gt;Ukraine&lt;t64/&gt; arbeiten viele neben dem &lt;t65/&gt;M&lt;t66/&gt;aster, auch, weil sie sich das &lt;t67/&gt;S&lt;t68/&gt;tudium finanzieren müssen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T101148Z" creationid="hp" creationdate="20210301T101148Z">
+        <seg>В Україні студенти на магістратурі вже працюють, тому що їм потрібно оплачувати навчання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6524,6 +6540,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T130936Z" creationid="hp" creationdate="20210225T130936Z">
         <seg>Багато українців тут дивляться фільми англійською.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Viele &lt;t69/&gt;Studierende&lt;t70/&gt; hier in &lt;t71/&gt;Deutschland&lt;t72/&gt; arbeiten bei &lt;t73/&gt;„K&lt;t74/&gt;aufland&lt;t75/&gt;“&lt;t76/&gt; oder &lt;t77/&gt;woanders &lt;t78/&gt;als &lt;t79/&gt;V&lt;t80/&gt;erkäufer, das finde ich toll, da lernt man, was &lt;t81/&gt;Geld wirklich wert ist und das&lt;t82/&gt; &lt;t83/&gt;f&lt;t84/&gt;inanzielle &lt;t85/&gt;V&lt;t86/&gt;erständnis wächst.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T101255Z" creationid="hp" creationdate="20210301T101255Z">
+        <seg>В Німеччині більшість студентів працює продавцями в магазинах та супермаркетах, це круто, адже люди починають розуміти цінність грошей.</seg>
       </tuv>
     </tu>
     <tu>
