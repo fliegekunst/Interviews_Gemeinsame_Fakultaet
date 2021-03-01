@@ -1312,6 +1312,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das &lt;t35/&gt;Stu&lt;t36/&gt;d&lt;t37/&gt;i&lt;t38/&gt;um ist intensiver.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T100300Z" creationid="hp" creationdate="20210301T100300Z">
+        <seg>Навчання інтенсивне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das Leben der anderen Ukrainer, d.h. meiner Kommilitonen, die schon länger hier leben und arbeiten, zeigt mir, dass sie wenige Freunde &lt;t2/&gt;haben und eher unter sich bleiben.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T125357Z" creationid="Диана" creationdate="20210225T125357Z">
@@ -3244,6 +3252,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T115045Z" creationid="hp" creationdate="20210225T115045Z">
         <seg>А в Магдебурзі я вже адаптувався, зміг себе показати та знав багатьох людей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier in &lt;t39/&gt;Deutschland&lt;t40/&gt; ist das &lt;t41/&gt;Studium&lt;t42/&gt; relativ entspannt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T100717Z" creationid="hp" creationdate="20210301T100717Z">
+        <seg>В Німеччині атмосфера більш рослаблена.</seg>
       </tuv>
     </tu>
     <tu>
