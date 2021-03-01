@@ -960,6 +960,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Auslandssem&lt;t17/&gt;ester&lt;t18/&gt; sind in der &lt;t19/&gt;Ukraine&lt;t20/&gt; nicht unbeliebt, das können sich &lt;t21/&gt;aber &lt;t22/&gt;nur reiche Leute erlauben oder man bewirbt sich auf ein &lt;t23/&gt;S&lt;t24/&gt;tipendium.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T100014Z" creationid="hp" creationdate="20210301T100014Z">
+        <seg>Семестр закордоном в Україні річ не популярна, бо її можуть собі дозволити лише багаті..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Außerdem habe ich viele Redewendungen gelernt, die Muttersprachler im Alltag sagen.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210218T111116Z" creationid="krps" creationdate="20210210T223738Z">
@@ -1012,6 +1020,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T133929Z" creationid="Lenovo" creationdate="20210214T133929Z">
         <seg>На Zoom-зустрічах ви також можете задавати питання та спілкуватися, як при звичайному навчанні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Beide &lt;t25/&gt;S&lt;t26/&gt;tudiensysteme haben &lt;t27/&gt;V&lt;t28/&gt;or&lt;t29/&gt;-&lt;t30/&gt; und &lt;t31/&gt;N&lt;t32/&gt;achteile.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T100037Z" creationid="hp" creationdate="20210301T100037Z">
+        <seg>Але обидві сстеми освіти мають і переваги і недоліки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,8 +2874,8 @@
       <tuv lang="de-DE">
         <seg>Es kommt darauf an, welche &lt;t9/&gt;E&lt;t10/&gt;rfahrungen man sammelt und wie viel man lernt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T095832Z" creationid="hp" creationdate="20210301T095832Z">
-        <seg>А при навчанні потрібно набувати досвід.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095842Z" creationid="hp" creationdate="20210301T095832Z">
+        <seg>А під час навчання потрібно набувати досвід.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6560,6 +6576,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Vorteilhaft finde ich, dass die &lt;t33/&gt;Studierenden&lt;t34/&gt; sehr früh beginnen, mit 17 oder 18 und deswegen auch früher fertig werden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T100229Z" creationid="hp" creationdate="20210301T100229Z">
+        <seg>Перевагою можна назвати те, що наші студенти починають навчання в 17-18 років, тому вони раніше можуть закінчити навчання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>W&lt;t0/&gt;as ich empfehlen würde, sind soziale Aktivitäten, &lt;t1/&gt;z.B. &lt;t2/&gt;Sportkurse &lt;t3/&gt;zu besuchen&lt;t4/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T130020Z" creationid="Диана" creationdate="20210225T125940Z">
@@ -6852,6 +6876,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T084837Z" creationid="krps" creationdate="20210210T100729Z">
         <seg>Якщо студент вивчив 80% питань, то він отримує відповідний бал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man &lt;t11/&gt;P&lt;t12/&gt;raktika macht oder ins &lt;t13/&gt;A&lt;t14/&gt;usland geht, sammelt man mehr &lt;t15/&gt;E&lt;t16/&gt;rfahrungen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T095906Z" creationid="hp" creationdate="20210301T095906Z">
+        <seg>Це можна зробитиЮ поїхавши на практику закордон.</seg>
       </tuv>
     </tu>
     <tu>
