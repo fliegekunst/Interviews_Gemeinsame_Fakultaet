@@ -335,6 +335,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t18/&gt;Ich dachte zuerst, dass die &lt;t19/&gt;hohen &lt;t20/&gt;Zustimmung&lt;t21/&gt;swerte&lt;t22/&gt; ein Witz &lt;t23/&gt;sind&lt;t24/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102156Z" creationid="hp" creationdate="20210301T102156Z">
+        <seg>&lt;t18/&gt;Ich dachte zuerst, dass die &lt;t19/&gt;hohen &lt;t20/&gt;ZuЯ спочатку думав, що це був жарт.stimmung&lt;t21/&gt;swerte&lt;t22/&gt; ein Witz &lt;t23/&gt;sind&lt;t24/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t18/&gt;Mir hat es auch geholfen, &lt;t19/&gt;Bücher über &lt;t20/&gt;Kognitivistik&lt;t21/&gt; &lt;t22/&gt;zu &lt;t23/&gt;lesen und &lt;t24/&gt;zu &lt;t25/&gt;lernen, wie man richtig lernt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T094520Z" creationid="hp" creationdate="20210301T094520Z">
@@ -3612,6 +3620,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T084409Z" creationid="krps" creationdate="20210211T084409Z">
         <seg>Я щасливий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich fühle mich hier &lt;t0/&gt;aber trotzdem wohl&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102216Z" creationid="hp" creationdate="20210301T102216Z">
+        <seg>Тому що тут я почуваюся добре та вільно.</seg>
       </tuv>
     </tu>
     <tu>
