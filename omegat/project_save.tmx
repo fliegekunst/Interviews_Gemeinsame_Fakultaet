@@ -2080,6 +2080,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Deswegen war es extrem wichtig, dass ich mich mit den richtigen &lt;t13/&gt;Leuten umgebe&lt;t14/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T132756Z" creationid="hp" creationdate="20210225T132756Z">
+        <seg>Тому було дуже важливо оточувати себе правильними людьми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Deswegen wollte ich nach dem Master &lt;t1/&gt;auch &lt;t2/&gt;eigentlich zurückgehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210217T200112Z" creationid="Kate" creationdate="20210210T204718Z">
@@ -2664,6 +2672,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es gibt unterschiedliche &lt;t9/&gt;T&lt;t10/&gt;ypen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T132713Z" creationid="hp" creationdate="20210225T132713Z">
+        <seg>Існують різні типи людей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gibt unterschiedliche Möglichkeiten, eine solche Stelle zu kriegen.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T124548Z" creationid="krps" creationdate="20210211T081500Z">
@@ -3228,6 +3244,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T200315Z" creationid="ADMIN" creationdate="20210210T200315Z">
         <seg>Сьогодні &lt;t10/&gt;ІТ &lt;t11/&gt;має великий попит, &lt;t12/&gt;особливо &lt;t13/&gt;розробники програмного забезпечення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich &lt;t11/&gt;zum Beispiel &lt;t12/&gt;lasse mich leicht beeinflussen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210225T132737Z" creationid="hp" creationdate="20210225T132737Z">
+        <seg>Наприклад, я, лекго піддаюсь впливу.</seg>
       </tuv>
     </tu>
     <tu>
