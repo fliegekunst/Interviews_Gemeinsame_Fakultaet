@@ -3160,6 +3160,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hamburg gefällt mir auch sehr, da gibt es aber leider auch nicht so viel in meinem Bereich.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102814Z" creationid="hp" creationdate="20210301T102814Z">
+        <seg>Також мені дуже подобається Гамбург, але там немає можливості працювати за моїм фахом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hanna Tsybenko</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T104243Z" creationid="PC" creationdate="20210225T104243Z">
@@ -4168,6 +4176,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich könnte mir &lt;t12/&gt;auch gut &lt;t13/&gt;vorstellen, &lt;t14/&gt;i&lt;t15/&gt;n &lt;t16/&gt;Österreich&lt;t17/&gt; zu arbeiten, in Graz oder Wien.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102846Z" creationid="hp" creationdate="20210301T102846Z">
+        <seg>Також можна було б поїхати в Австрію, у Відень чи Грац.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich mache Experimente mit Proben mit einer Maschine (einem so genannten Nanoindenter) und schaue mir das Deformationsverhalten und die chemischen Veränderungen an.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T114555Z" creationid="PC" creationdate="20210225T114555Z">
@@ -4384,6 +4400,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich werde wahrscheinlich nicht in &lt;t0/&gt;Magdeburg&lt;t1/&gt; bleiben, &lt;t2/&gt;denn &lt;t3/&gt;hier gibt es kein Unternehmen, das sich damit beschäftigt, was ich mache.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102706Z" creationid="hp" creationdate="20210301T102706Z">
+        <seg>Я б не залишався в Магдебурзі, тому що тут небагато підприємств на які б я міг працювати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich will an den Campus gehen, mit Kommilitonen sprechen und meine Freunde sehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210212T202559Z" creationid="hp" creationdate="20210211T185547Z">
@@ -4488,6 +4512,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich würde gerne in eine &lt;t4/&gt;süddeutsche&lt;t5/&gt; &lt;t6/&gt;S&lt;t7/&gt;tadt, entweder &lt;t8/&gt;nach&lt;t9/&gt; Bayern oder Baden-Württemberg&lt;t10/&gt;, gehen&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102745Z" creationid="hp" creationdate="20210301T102745Z">
+        <seg>Я б хотів поїати на південь, в Баварію або Баден-Вюртемберг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich würde nicht empfehlen, das zu machen, was ich gemacht habe&lt;t0/&gt;:&lt;t1/&gt; Ich bin &lt;t2/&gt;im&lt;t3/&gt; Masterprojekt durchgefallen und hatte ries&lt;t4/&gt;ige&lt;t5/&gt; Schwierigkeiten.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T155933Z" creationid="Диана" creationdate="20210204T131802Z">
@@ -4556,6 +4588,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T212819Z" creationid="Kate" creationdate="20210210T212803Z">
         <seg>Порівняно з Німеччиною український ринок ще не настільки переповнений, і це відкриває величезні можливості&lt;t10/&gt;&lt;t11/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im Idealfall wäre mein Herzenswunsch&lt;t18/&gt;,&lt;t19/&gt; Wasserstoff&lt;t20/&gt;verbrennungsmotoren &lt;t21/&gt;zu &lt;t22/&gt;entwickeln.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T103104Z" creationid="hp" creationdate="20210301T103104Z">
+        <seg>Моє найзаповітніше бажання - розвиватися в сфері про двигуни внутрішнього згорання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7372,6 +7412,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T103400Z" creationid="ADMIN" creationdate="20210204T131835Z">
         <seg>Чому саме університет Отто фон Ґеріке?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Willst du in Magdeburg bleiben oder woanders hingehen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210301T102638Z" creationid="hp" creationdate="20210301T102638Z">
+        <seg>Ти б хотів залишитися в Магдебурзі чи переїхати в інше місто?</seg>
       </tuv>
     </tu>
     <tu>
