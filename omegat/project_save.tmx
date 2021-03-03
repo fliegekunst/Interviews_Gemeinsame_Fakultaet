@@ -4680,6 +4680,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe sowieso wenige Freunde und vertraute Menschen, das liegt eher an mir als Person als an der Sprache.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T212746Z" creationid="ADMIN" creationdate="20210303T212746Z">
+        <seg>У мене і так мало друзів та людей, яким я довіряю, тому це більше залежить від людини, аніж від мови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe super viele Leute auf Partys kennen gelernt, mit denen &lt;t22/&gt;ich&lt;t23/&gt; super quatschen&lt;t24/&gt; konnte&lt;t25/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T153953Z" creationid="Диана" creationdate="20210204T124734Z">
@@ -5004,6 +5012,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T113032Z" creationid="hp" creationdate="20210225T113023Z">
         <seg>Я навчаюся в Німеччині також і з моральних принципів, адже тут я почуваю себе вільним та можу прожити своє життя як захочеться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich studiere, arbeite als Hiwi und möchte promovieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T213216Z" creationid="ADMIN" creationdate="20210303T213216Z">
+        <seg>Я навчаюсь, працюю асистентом і хочу захищати докторську.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5460,6 +5476,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T095339Z" creationid="PC" creationdate="20210213T151150Z">
         <seg>Це не так важливо в навчанні, &lt;t0/&gt;особливо для тих&lt;t1/&gt;, хто не вивчає &lt;t2/&gt;гуманітарні науки&lt;t3/&gt; або щось подібне, де потрібно багато спілкуватися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im ersten Semester wollte ich unbedingt dazu gehören, danach habe ich aber gemerkt, dass ich auch so durchkomme.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T213435Z" creationid="ADMIN" creationdate="20210303T213115Z">
+        <seg>У першому семестрі я дуже хотів почувати себе як вдома, але потім зрозумів, що мені цього не потрібно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6490,8 +6514,8 @@
       <tuv lang="de-DE">
         <seg>Man muss ja nicht unbedingt dazugehören.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T212256Z" creationid="ADMIN" creationdate="20210303T212256Z">
-        <seg>Не обов'язково бути членом певного суспільства.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T213347Z" creationid="ADMIN" creationdate="20210303T212256Z">
+        <seg>Не обов'язково бути членом німецького суспільства.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6516,6 +6540,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T144646Z" creationid="ADMIN" creationdate="20210225T125410Z">
         <seg>В Україні нам потрібно було щотижня щось презентувати. В Магдебурзі такого немає, тому інколи важко самоорганізуватися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man muss nicht unbedingt zu dem Land gehören, um klarzukommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T213618Z" creationid="ADMIN" creationdate="20210303T213618Z">
+        <seg>Не обов'язково належати до тієї країни, в якій ти наразі проживаєш.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9100,6 +9132,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T103932Z" creationid="krps" creationdate="20210225T103932Z">
         <seg>„Всі люди розуміють, що ти майже не маєш досвіду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„Deutsch werden“ ist für mich aber nicht das Ziel.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T213315Z" creationid="ADMIN" creationdate="20210303T213315Z">
+        <seg>Але "стати німцем" — це не моя мета.</seg>
       </tuv>
     </tu>
     <tu>
