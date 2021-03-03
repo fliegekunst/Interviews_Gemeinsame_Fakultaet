@@ -1224,6 +1224,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dabei sehe ich zwei Probleme.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T154455Z" creationid="ADMIN" creationdate="20210303T154455Z">
+        <seg>Я бачу в цьому дві проблеми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Damals konnte ich ihn gar nicht verstehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T203435Z" creationid="Kate" creationdate="20210210T203429Z">
@@ -5016,6 +5024,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In der Ukraine haben alle Studierenden andere Aufgaben, man muss Prüfungsfragen ziehen und dann die jeweilige Aufgabe bearbeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T154417Z" creationid="ADMIN" creationdate="20210303T154417Z">
+        <seg>В Україні ж студенти мають різні завдання. Витягнувши один із декількох екзаменаційних білетів, студент має трохи часу, щоб опрацювати питання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In der Ukraine haben wir ein kurzes Zeitfenster, um unsere Master-Arbeiten zu verteidigen.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T104453Z" creationid="PC" creationdate="20210227T104008Z">
@@ -7026,8 +7042,8 @@
       <tuv lang="de-DE">
         <seg>Was mir in Magdeburg ganz gut gefällt ist die Art und Weise, wie Prüfungen durchgeführt werden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T152448Z" creationid="ADMIN" creationdate="20210303T152448Z">
-        <seg>Особисто мені дуже подобається спосіб проведення іспитів у Магдебурзі.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T152903Z" creationid="ADMIN" creationdate="20210303T152448Z">
+        <seg>Особисто мені надзвичайно подобається спосіб проведення іспитів у Магдебурзі.</seg>
       </tuv>
     </tu>
     <tu>
