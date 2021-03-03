@@ -4144,6 +4144,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich finde, ich mache noch ganz viele Fehler, besonders mit den Artikeln.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211949Z" creationid="Kate" creationdate="20210303T211949Z">
+        <seg>Думаю, я роблю все ще багато помилок, особливо в артиклях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich forsche gerade über Prothesen, die eine spanende Bearbeitung brauchen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T124305Z" creationid="Lenovo" creationdate="20210214T124305Z">
@@ -4428,6 +4436,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T160546Z" creationid="ADMIN" creationdate="20210204T132423Z">
         <seg>Тут я навчався та згодом захистив магістерську дисертацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe immer viel geredet und habe viel Umgangssprach&lt;t4/&gt;e mitgenommen, aber wenig verstanden, weil &lt;t5/&gt;einige &lt;t6/&gt;Menschen&lt;t7/&gt; nicht deutlich gesprochen&lt;t8/&gt; haben&lt;t9/&gt;, das war schwierig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211816Z" creationid="Kate" creationdate="20210303T211816Z">
+        <seg>Я завжди багато говорила і часто саме розмовною мовою, але мало розуміла, бо деякі люди говорили нечітко, і тоді було важко.&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8951,6 +8967,17 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Titel.docx</prop>
+      <prop type="prev">Ich habe immer viel geredet und habe viel Umgangssprach&lt;t4/&gt;e mitgenommen, aber wenig verstanden, weil &lt;t5/&gt;einige &lt;t6/&gt;Menschen&lt;t7/&gt; nicht deutlich gesprochen&lt;t8/&gt; haben&lt;t9/&gt;, das war schwierig.</prop>
+      <prop type="next">Nein.</prop>
+      <tuv lang="de-DE">
+        <seg>Bist du mit deinem Deutsch zufrieden?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211858Z" creationid="Kate" creationdate="20210303T211858Z">
+        <seg>Ти задоволений своїм рівнем німецької?</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">Titel.docx</prop>
       <prop type="prev">&lt;t5/&gt;Hier erwarten die &lt;t6/&gt;Dozierenden&lt;t7/&gt; deine Gedanken&lt;t8/&gt; und&lt;t9/&gt; deine Meinung&lt;t10/&gt; zu einem bestimmten Thema&lt;t11/&gt;.</prop>
