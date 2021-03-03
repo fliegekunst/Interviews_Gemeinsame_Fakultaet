@@ -2696,6 +2696,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Leute sind &lt;t19/&gt;f&lt;t20/&gt;reundlich und wenn du Fehler machst ist das nicht schlimm.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213222Z" creationid="Kate" creationdate="20210303T213222Z">
+        <seg>Люди доброзичливі, і якщо ви робите помилки, це взагалі не має значення.&lt;t19/&gt;&lt;t20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Master-Arbeit ist eine gute Chance zu zeigen, was man kann, deswegen ist die Master-Arbeit wichtig.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T162128Z" creationid="PC" creationdate="20210303T162128Z">
@@ -3172,6 +3180,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T093529Z" creationid="ADMIN" creationdate="20210210T191409Z">
         <seg>Тут досить тяжко почати з кимось співпрацювати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gibt den Stereotyp, dass &lt;t0/&gt;Deutsche distanziert seien.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213419Z" creationid="Kate" creationdate="20210303T213419Z">
+        <seg>Існує стереотип, що німці віддалені.&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5104,6 +5120,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich weiß nicht, ob das stimmt, Menschen sind immer unterschiedlich.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213432Z" creationid="Kate" creationdate="20210303T213432Z">
+        <seg>Не знаю, чи це правда, люди завжди різні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich weiß noch, wir sind einmal auf eine Exkursion ins BMW-Werk selbst gefahren.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T130629Z" creationid="nasty" creationdate="20210218T130629Z">
@@ -6924,6 +6948,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T133252Z" creationid="Диана" creationdate="20210225T133252Z">
         <seg>В основному ми розмовляємо англійською.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Menschen sind überall gleich.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213357Z" creationid="Kate" creationdate="20210303T213357Z">
+        <seg>Люди скрізь однакові.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9171,6 +9203,17 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T211439Z" creationid="Kate" creationdate="20210303T211402Z">
         <seg>Як у тебе справи з німецькою мовою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Titel.docx</prop>
+      <prop type="prev">Die Leute sind &lt;t19/&gt;f&lt;t20/&gt;reundlich und wenn du Fehler machst ist das nicht schlimm.</prop>
+      <prop type="next">Menschen sind überall gleich.</prop>
+      <tuv lang="de-DE">
+        <seg>Wie nimmst du zwischenmenschliche Beziehungen und Freundschaften &lt;t0/&gt;in Deutschland &lt;t1/&gt;wahr?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213345Z" creationid="Kate" creationdate="20210303T213345Z">
+        <seg>Що ти можешь сказати про взаємозв'язки та дружбу у Німеччині?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
