@@ -1170,8 +1170,8 @@
       <tuv lang="de-DE">
         <seg>Außerdem haben wir einen Mitarbeiter aus Bayern, den ich 2014 kennen gelernt habe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210224T162525Z" creationid="Kate" creationdate="20210210T203357Z">
-        <seg>До того ж у нас також є працівник з Баварії, з яким я познайомилась у 2014 році.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223520Z" creationid="Kate" creationdate="20210210T203357Z">
+        <seg>До речі, у нас є також працівник з Баварії, з яким я познайомилась у 2014 році.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3706,8 +3706,8 @@
       <tuv lang="de-DE">
         <seg>Für mich ist eher Sächsisch ein Problem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210224T162437Z" creationid="Kate" creationdate="20210210T203313Z">
-        <seg>Для мене, ймовірніше, сам по собі саксонський діалект – проблема.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223458Z" creationid="Kate" creationdate="20210210T203313Z">
+        <seg>Для мене і сам по собі саксонський діалект – проблема.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,8 +3858,8 @@
       <tuv lang="de-DE">
         <seg>Hast du Probleme mit dem Dialekt in Sachsen Anhalt?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T202924Z" creationid="Kate" creationdate="20210210T202924Z">
-        <seg>Чи є у тебе проблеми з діалектом у Саксонії-Ангальт?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223442Z" creationid="Kate" creationdate="20210210T202924Z">
+        <seg>У тебе виникають проблеми з розумінням діалекту у Саксонії-Ангальт?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7074,8 +7074,8 @@
       <tuv lang="de-DE">
         <seg>Mein Englisch muss ich aber verbessern, bis zur siebten Klasse hatte ich die Vertiefungsrichtung Englisch, danach Mathe&lt;t0/&gt;matik&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T170235Z" creationid="Kate" creationdate="20210210T202212Z">
-        <seg>Але мені потрібно вдосконалювати свою англійську, адже поглиблене її вивчення у мене було тільки до сьомого класу, потім математика&lt;t0/&gt;&lt;t1/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223348Z" creationid="Kate" creationdate="20210210T202212Z">
+        <seg>Але мені потрібно вдосконалювати свою англійську, адже поглиблене її вивчення у мене було тільки до сьомого класу, потім основним предметом стала математика&lt;t0/&gt;&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7442,8 +7442,8 @@
       <tuv lang="de-DE">
         <seg>Nein, ich promoviere auf Englisch, auch die Konferenzen, an denen ich teilnehme, sind auf Englisch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T201603Z" creationid="Kate" creationdate="20210210T201603Z">
-        <seg>Ні, я пишу дисертацію англійською мовою, і конференції, в яких беру участь, також англійською.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223412Z" creationid="Kate" creationdate="20210210T201603Z">
+        <seg>Ні, я пишу дисертацію англійською мовою, і конференції, в яких я беру участь, також англійською.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8802,8 +8802,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache, du promovierst auf Deutsch?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T171248Z" creationid="Kate" creationdate="20210210T201538Z">
-        <seg>Як у тебе зараз із німецькою, чи захищаєш ти дисертацію німецькою мовою?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223336Z" creationid="Kate" creationdate="20210210T201538Z">
+        <seg>Як у тебе зараз із німецькою мовою, чи захищаєш ти дисертацію німецькою?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9499,6 +9499,17 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T213943Z" creationid="Kate" creationdate="20210303T213943Z">
         <seg>Чи є у тебе відчуття відчуженності&lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Titel.docx</prop>
+      <prop type="prev">Nun geht das viel besser.</prop>
+      <prop type="next">Auf jeden Fall würde ich Deutschkurse an der Uni machen, die sind relativ günstig und haben eine gute Qualität.</prop>
+      <tuv lang="de-DE">
+        <seg>Was würdest du anderen ukrainischen Studierenden raten, die neu nach Deutschland kommen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223540Z" creationid="Kate" creationdate="20210303T223540Z">
+        <seg>Що б ти порадила іншим українським студентам, які вперше приїжджають в Німеччину?</seg>
       </tuv>
     </tu>
     <tu>
