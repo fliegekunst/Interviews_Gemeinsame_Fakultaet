@@ -2,3 +2,4 @@ aufstehen	прокидатися
 OVGU	Університет Отто фон Ґеріке
 Masterprojektarbeit	Магістерський проєкт
 Hiwi-Stelle	добровільна діяльність
+Hiwi-Stelle	добровільна, наукова діяльність
