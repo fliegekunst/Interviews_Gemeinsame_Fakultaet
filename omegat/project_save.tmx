@@ -2730,8 +2730,8 @@
       <tuv lang="de-DE">
         <seg>Es geht mir gut.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T104645Z" creationid="ADMIN" creationdate="20210210T164201Z">
-        <seg>Досить добре, але хотілось би позбутися свого акценту.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T091742Z" creationid="ADMIN" creationdate="20210210T164201Z">
+        <seg>Досить добре, але хотілось би позбутися акценту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3434,8 +3434,8 @@
       <tuv lang="de-DE">
         <seg>Hier&lt;t0/&gt; (in Magdeburg)&lt;t1/&gt; gibt es keine Akzentabbaukurse, nur in Berlin gibt es das oder auf Youtube.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T081438Z" creationid="ADMIN" creationdate="20210210T165842Z">
-        <seg>Це можливо лише в Берліні або в YouTube.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T092252Z" creationid="ADMIN" creationdate="20210210T165842Z">
+        <seg>Це можливо лише в Берліні. Ще, як варіант, можна самостійно працювати з ресурсами в YouTube.</seg>
       </tuv>
     </tu>
     <tu>
