@@ -3738,8 +3738,8 @@
       <tuv lang="de-DE">
         <seg>Ich bin nicht zufrieden mit meinem Deutsch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T171656Z" creationid="ADMIN" creationdate="20210303T171656Z">
-        <seg>Я не задоволений своїм рівнем володіння німецькою.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T171805Z" creationid="ADMIN" creationdate="20210303T171656Z">
+        <seg>Я не задоволений тим, як я володію німецькою мовою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7730,8 +7730,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T091727Z" creationid="Lenovo" creationdate="20210214T130017Z">
-        <seg>Як ти вважаєш, ти добре знаєш німецьку мову?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T171835Z" creationid="Lenovo" creationdate="20210214T130017Z">
+        <seg>Як ти вважаєш, ти добре знаєш німецьку?</seg>
       </tuv>
     </tu>
     <tu>
