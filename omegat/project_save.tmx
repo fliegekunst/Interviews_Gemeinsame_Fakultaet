@@ -2096,6 +2096,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das, was ich auf Ukrainisch in 2 Tagen machen kann, mache ich hier auf Deutsch in einer Woche.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T171230Z" creationid="ADMIN" creationdate="20210303T171230Z">
+        <seg>Те, що українською я б зробив за 2 дні, німецькою я роблю за тиждень.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das, was ich hier studiert habe&lt;t32/&gt; (Automotive Systems)&lt;t33/&gt;, gibt es in der &lt;t34/&gt;Ukraine&lt;t35/&gt; nicht.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T113856Z" creationid="hp" creationdate="20210225T113834Z">
