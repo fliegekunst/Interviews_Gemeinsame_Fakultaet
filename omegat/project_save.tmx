@@ -7456,6 +7456,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn man ein Praktikum in einer Firma ableistet oder eine Master-Arbeit dort schreibt, hat man schon erste Kontakte zu der Firma.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T163134Z" creationid="PC" creationdate="20210303T163134Z">
+        <seg>Коли ви проходите практику у якійсь компанії або пишете там магістерську, то ви вже налагаджуєте певний початковий контакт з цією компанією.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn man fünf Fragen aus 120 gut gelernt hat, bekommst du dann eine davon in der Aufgabe, in der es insgesamt zwei Fragen gibt und man könnte nur 50% der Punkte bekommen.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T084933Z" creationid="krps" creationdate="20210210T101642Z">
