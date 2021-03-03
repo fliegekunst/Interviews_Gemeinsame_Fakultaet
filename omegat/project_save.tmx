@@ -5400,6 +5400,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In erster Linie: Studieren!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T191253Z" creationid="ADMIN" creationdate="20210303T191253Z">
+        <seg>Насамперед: навчатись!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In meiner Fachrichtung war das okay und machbar.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T211408Z" creationid="ADMIN" creationdate="20210210T211245Z">
@@ -7498,8 +7506,8 @@
       <tuv lang="de-DE">
         <seg>Was würdest du anderen ukrainischen Studierenden raten, die neu nach Deutschland kommen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T085304Z" creationid="krps" creationdate="20210211T075504Z">
-        <seg>Щоб б ти порадив іншим українським студентам, які вперше приїжджають в Німеччину?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T191108Z" creationid="krps" creationdate="20210211T075504Z">
+        <seg>Що б ти порадив іншим українським студентам, які вперше приїжджають в Німеччину?</seg>
       </tuv>
     </tu>
     <tu>
