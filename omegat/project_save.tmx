@@ -1272,6 +1272,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>D&lt;t7/&gt;anach geht &lt;t8/&gt;es an &lt;t9/&gt;die Konstruktion mit &lt;t10/&gt;einer &lt;t11/&gt;Fertigungszeichnung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T202821Z" creationid="Kate" creationdate="20210303T202821Z">
+        <seg>&lt;t7/&gt;Після цього можна переходити до проектування з робочим кресленням&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Da du promovierst, hast du Einblicke in die Wissenschaftslandschaft.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210224T163054Z" creationid="Kate" creationdate="20210210T205758Z">
@@ -2826,8 +2834,8 @@
       <tuv lang="de-DE">
         <seg>Dort werden Maschinen für Tagebau und Schüttgut entwickelt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T201828Z" creationid="Kate" creationdate="20210303T200417Z">
-        <seg>На фірмі розробляються гірничі машини для відкритої розробки та сипучого вантажу.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T201950Z" creationid="Kate" creationdate="20210303T200417Z">
+        <seg>У компанії розробляються гірничі машини для відкритої розробки та сипучого вантажу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5370,8 +5378,8 @@
       <tuv lang="de-DE">
         <seg>In der Firma fängt man als Konstrukteurin unterschiedlicher &lt;t0/&gt;B&lt;t1/&gt;augruppen an, macht &lt;t2/&gt;3D-Modelle&lt;t3/&gt; und Zeichnungen, danach kann man auch &lt;t4/&gt;die &lt;t5/&gt;Projektierung machen und arbeitet an der Erstellung eines Basis-Gerätes&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T201942Z" creationid="Kate" creationdate="20210303T201819Z">
-        <seg>У компанії ви починаєте з конструктор різних блоків, робите 3D-моделі та креслення, потім ви також можете планувати проекти та працювати над створенням базового пристрою&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T202342Z" creationid="Kate" creationdate="20210303T201819Z">
+        <seg>Тут ти починаєш з конструювання різних блоків, створюєте 3D-моделі та креслення, потім вже також можна планувати проєкти та працювати над створенням базового приладу&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6604,6 +6612,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T104146Z" creationid="PC" creationdate="20210227T104146Z">
         <seg>Зазвичай це кінець травня або початок червня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Meist mache ich &lt;t12/&gt;die &lt;t13/&gt;Projektierung, das ist interessant, da jedes &lt;t14/&gt;der &lt;t15/&gt;Geräte unikal ist und man &lt;t16/&gt;mit Statikern &lt;t17/&gt;und mit Elektrotechnikern&lt;t18/&gt; zusammen arbeitet&lt;t19/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T203323Z" creationid="Kate" creationdate="20210303T203323Z">
+        <seg>Зазвичай я займаюся проєктуванням, це цікаво, оскільки кожен пристрій унікальний, і ти працюєш разом з інженерами-будівельниками та електротехніками.&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
