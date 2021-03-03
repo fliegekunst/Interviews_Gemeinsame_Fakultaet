@@ -8208,6 +8208,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Zusätzliche Informationen auf Englisch zu lesen ist auch immer hilfreich.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T180717Z" creationid="ADMIN" creationdate="20210303T180717Z">
+        <seg>Це досить корисно почитати додаткову інформацію англійською.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Zweitens ist das Lernen des Stoffes schwierig.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T155724Z" creationid="krps" creationdate="20210210T100932Z">
