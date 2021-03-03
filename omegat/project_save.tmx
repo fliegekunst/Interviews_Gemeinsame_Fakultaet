@@ -538,8 +538,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t4/&gt;In der Ukraine hemmt viele der Respekt vor Älteren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T211040Z" creationid="Kate" creationdate="20210303T211040Z">
-        <seg>&lt;t4/&gt;В Україні повага до людей похилого віку багатьох стримує.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211129Z" creationid="Kate" creationdate="20210303T211040Z">
+        <seg>&lt;t4/&gt;В Україні повага до людей похилого віку все ж багатьох стримує.</seg>
       </tuv>
     </tu>
     <tu>
@@ -548,6 +548,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T160518Z" creationid="PC" creationdate="20210213T160518Z">
         <seg>&lt;t5/&gt;Спочатку мене це ображало.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t5/&gt;Hier erwarten die &lt;t6/&gt;Dozierenden&lt;t7/&gt; deine Gedanken&lt;t8/&gt; und&lt;t9/&gt; deine Meinung&lt;t10/&gt; zu einem bestimmten Thema&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211259Z" creationid="Kate" creationdate="20210303T211259Z">
+        <seg>&lt;t5/&gt;Тут лектори чекають ваших роздумів та вашої точки зору щодо певної теми.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6770,8 +6778,8 @@
       <tuv lang="de-DE">
         <seg>Mir gefällt &lt;t0/&gt;es &lt;t1/&gt;hier sehr, dass man keine Angst haben muss, Fragen zu stellen oder mit dem &lt;t2/&gt;Dozierenden&lt;t3/&gt; gut diskutieren kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T211007Z" creationid="Kate" creationdate="20210303T211007Z">
-        <seg>Мені дуже подобається тут, що не можна не боятися задавати запитання чи вести дискусії з лектором.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211104Z" creationid="Kate" creationdate="20210303T211007Z">
+        <seg>Мені дуже подобається тут, що можна не боятися задавати запитання чи дискутувати з лектором.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8927,6 +8935,17 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Titel.docx</prop>
+      <prop type="prev">&lt;t5/&gt;Hier erwarten die &lt;t6/&gt;Dozierenden&lt;t7/&gt; deine Gedanken&lt;t8/&gt; und&lt;t9/&gt; deine Meinung&lt;t10/&gt; zu einem bestimmten Thema&lt;t11/&gt;.</prop>
+      <prop type="next">Für mich &lt;t0/&gt;ist Deutsch easy, &lt;t1/&gt;ich hatte nie ein Problem&lt;t2/&gt;, Deutsch zu lernen oder zu sprechen&lt;t3/&gt;.</prop>
+      <tuv lang="de-DE">
+        <seg>Wie geht es dir mit der deutschen Sprache?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211402Z" creationid="Kate" creationdate="20210303T211402Z">
+        <seg>Як у тебе справи з німецькою?</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">Titel.docx</prop>
       <prop type="prev">Interview am 27.05.2020</prop>
