@@ -6360,6 +6360,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Meistens gab es jedoch wenige Schwierigkeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T183530Z" creationid="ADMIN" creationdate="20210303T183530Z">
+        <seg>Але загалом труднощів було не багато.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Meistens geht es darum, dass jemand 5 von 100 Vorbereitungsfragen vorbereitet hat und die Prüfung mit „Sehr gut“ bestanden hat.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T155537Z" creationid="ADMIN" creationdate="20210303T155537Z">
