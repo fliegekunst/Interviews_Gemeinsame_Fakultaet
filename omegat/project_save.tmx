@@ -1808,6 +1808,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das ist für mich kein Problem, ich kann vergleichsweise gut lesen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T180530Z" creationid="ADMIN" creationdate="20210303T180530Z">
+        <seg>Завдяки цьому я можу читати трішки швидше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das ist hilfreich für Menschen, die sich im Ausland befinden.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T134015Z" creationid="Lenovo" creationdate="20210214T134015Z">
