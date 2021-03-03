@@ -7816,6 +7816,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Zuerst haben wir eine möblierte Wohnung bezogen, dann haben wir uns eine unmöblierte Wohnung genommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T153949Z" creationid="PC" creationdate="20210303T153949Z">
+        <seg>Спочатку ми взяли мебльовану квартиру, а потім переїхали в квартиру без меблів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Zuerst war ich an der IFQ tätig.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T110028Z" creationid="Lenovo" creationdate="20210214T124046Z">
