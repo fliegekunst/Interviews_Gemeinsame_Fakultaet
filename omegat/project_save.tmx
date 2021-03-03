@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t16/&gt;Auch auf&lt;t17/&gt; der Arbeit stehen &lt;t18/&gt;dir alle&lt;t19/&gt; Türen offen, aber &lt;t20/&gt;du&lt;t21/&gt; muss&lt;t22/&gt;t&lt;t23/&gt; &lt;t24/&gt;d&lt;t25/&gt;ich beweisen&lt;t26/&gt; und zeigen was du kannst.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214939Z" creationid="Kate" creationdate="20210303T214939Z">
+        <seg>&lt;t16/&gt;На роботі всі двері також завжди відкриті, але потрібно себе проявляти та показувати, на що ти здатен.&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t16/&gt;In der Prüfung wird nur &lt;t17/&gt;das behandelt, was in der Vorlesung dran war.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T115958Z" creationid="Диана" creationdate="20210225T115958Z">
@@ -1324,6 +1332,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T171145Z" creationid="Kate" creationdate="20210210T201200Z">
         <seg>Проте&lt;t2/&gt; захист докторської&lt;t3/&gt; &lt;t4/&gt;мені дуже подобається&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>D&lt;t27/&gt;ann ist es egal, woher du kommst.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214956Z" creationid="Kate" creationdate="20210303T214956Z">
+        <seg>Тоді байдуже, звідки ти&lt;t27/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3920,6 +3936,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hier gehöre ich dazu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214809Z" creationid="Kate" creationdate="20210303T214809Z">
+        <seg>Це моє.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hier gibt es oft Drittmittel- oder EU-Projekte.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T205933Z" creationid="Kate" creationdate="20210210T205933Z">
@@ -4352,6 +4376,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich gehe &lt;t14/&gt;sehr gerne&lt;t15/&gt; zum Flugplatz, hier fühle ich mich wohl.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214754Z" creationid="Kate" creationdate="20210303T214754Z">
+        <seg>Люблю їздити на аеродром, мені тут добре.&lt;t14/&gt;&lt;t15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich glaube, dass ich in der Zukunft mehr mit den Muttersprachlern sprechen werde, damit ich sprachlich wieder in Hochform komme.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T164850Z" creationid="krps" creationdate="20210211T074757Z">
@@ -4724,6 +4756,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T154339Z" creationid="Диана" creationdate="20210204T125455Z">
         <seg>&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;“&lt;t9/&gt; Я вивчив багато слів на ерцгебіргському діалекті , наприклад "Glück auf!“ Тепер, коли я приїжджаю в Магдебург, я дивуюся, що всі говорять для мене звично і я всіх розумію.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe schon die praktische Prüfung &lt;t12/&gt;im &lt;t13/&gt;Segelflug bestanden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214724Z" creationid="Kate" creationdate="20210303T214724Z">
+        <seg>І вже склала практичний екзамен.&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
