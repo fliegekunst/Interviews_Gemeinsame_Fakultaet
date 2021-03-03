@@ -311,6 +311,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t15/&gt;Außerdem sollte man versuchen, s&lt;t16/&gt;ich &lt;t17/&gt;zu integrieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213123Z" creationid="Kate" creationdate="20210303T213123Z">
+        <seg>&lt;t15/&gt;До того ж потрібно намагатися адаптуватися.&lt;t16/&gt;&lt;t17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t16/&gt;In der Prüfung wird nur &lt;t17/&gt;das behandelt, was in der Vorlesung dran war.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T115958Z" creationid="Диана" creationdate="20210225T115958Z">
@@ -3904,6 +3912,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hier in Ostdeu&lt;t18/&gt;tschland ist es leicht, neue Freundschaften zu schließen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213141Z" creationid="Kate" creationdate="20210303T213141Z">
+        <seg>Тут, у Східній Німеччині, легко знайти нових друзів.&lt;t18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hier ist das Studiensystem transparenter als in der Ukraine.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T110757Z" creationid="krps" creationdate="20210225T110757Z">
@@ -5024,6 +5040,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich w&lt;t10/&gt;ollte immer &lt;t11/&gt;neue L&lt;t12/&gt;eute kennen lernen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213011Z" creationid="Kate" creationdate="20210303T213011Z">
+        <seg>Я завжди хотіла знайомитися з новими людьми&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich war am Anfang der Corona Krise in der Ukraine und konnte von dort aus einfach &lt;t0/&gt;studieren.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T112740Z" creationid="Lenovo" creationdate="20210214T134120Z">
@@ -5268,6 +5292,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T205839Z" creationid="Kate" creationdate="20210210T205839Z">
         <seg>Я&lt;t0/&gt; могла б&lt;t1/&gt; отримати науковий ступінь і в Україні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Igelt euch nicht ein!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T212941Z" creationid="Kate" creationdate="20210303T212941Z">
+        <seg>Не ховайтеся!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5944,6 +5976,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Jemand schlägt vor, &lt;t13/&gt;irgendwohin&lt;t14/&gt; zu gehen und du gehst mit und lernst neue Leute kennen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213100Z" creationid="Kate" creationdate="20210303T213100Z">
+        <seg>Хтось пропонує кудись піти, ти йдеш, так і знайомишся.&lt;t13/&gt;&lt;t14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Jetzt &lt;t3/&gt;ist das &lt;t4/&gt;weniger&lt;t5/&gt; der Fall&lt;t6/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T122254Z" creationid="Kate" creationdate="20210210T204747Z">
@@ -6524,6 +6564,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104506Z" creationid="hp" creationdate="20210211T111341Z">
         <seg>Вам треба більше звертати увагу на важливу інформацію, щоб нічого не пропустити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man sollte offen für Neues sein!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T212920Z" creationid="Kate" creationdate="20210303T212920Z">
+        <seg>Потрібно бути відкритим до всього нового!</seg>
       </tuv>
     </tu>
     <tu>
