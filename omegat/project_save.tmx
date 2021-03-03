@@ -610,8 +610,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t9/&gt;Dort ist d&lt;t10/&gt;ie erste Einladung &lt;t11/&gt;wichtig, da wird dann gekocht und so.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T124916Z" creationid="ADMIN" creationdate="20210212T124916Z">
-        <seg>&lt;t9/&gt;Там важливе перше запрошення, потім приготування їжі тощо&lt;t10/&gt;&lt;t11/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T094532Z" creationid="ADMIN" creationdate="20210212T124916Z">
+        <seg>&lt;t9/&gt;Там важливе перше запрошення, приготування їжі тощо&lt;t10/&gt;&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,8 +826,8 @@
       <tuv lang="de-DE">
         <seg>Am Anfang hatte ich einen Minderwertigkeitskomplex als Ausländer.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T085232Z" creationid="ADMIN" creationdate="20210212T121306Z">
-        <seg> На початку навчання я мав комплекс неповноцінності.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T094417Z" creationid="ADMIN" creationdate="20210212T121306Z">
+        <seg>На початку навчання я почувався невпевнено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,8 +2010,8 @@
       <tuv lang="de-DE">
         <seg>Das wäre unmöglich in der &lt;t8/&gt;Ukraine!</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T124745Z" creationid="ADMIN" creationdate="20210212T124745Z">
-        <seg>В Україні це було б неможливо&lt;t8/&gt;!</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T094508Z" creationid="ADMIN" creationdate="20210212T124745Z">
+        <seg>В Україні це неможливо&lt;t8/&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,8 +2298,8 @@
       <tuv lang="de-DE">
         <seg>Die Beziehungen sind anders als bei uns.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T123757Z" creationid="ADMIN" creationdate="20210212T123757Z">
-        <seg>Їхні відносини не схожі на наші.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T094450Z" creationid="ADMIN" creationdate="20210212T123757Z">
+        <seg>Їхні стосунки не схожі на наші.</seg>
       </tuv>
     </tu>
     <tu>
