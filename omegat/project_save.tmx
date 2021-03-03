@@ -656,6 +656,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t8/&gt;Man sollte sich Hobbys suchen, da lernt man immer neue Leute kennen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214414Z" creationid="Kate" creationdate="20210303T214414Z">
+        <seg>&lt;t8/&gt;Потрібно шукати хобі, там можна завжди з кимось познайомитись.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t8/&gt;Meiner Meinung nach ist es aber schwerer, mit Maschinenbau einen Job zu finden, &lt;t9/&gt;als ein Elektrotechniker oder Mechatroniker.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T195949Z" creationid="ADMIN" creationdate="20210210T195949Z">
@@ -8260,6 +8268,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T112814Z" creationid="Диана" creationdate="20210225T112814Z">
         <seg>Коли розмовляєш іншою мовою, перестаєш бути собою, бо ти говориш не все, що хочеш, а лише те, що можеш.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn &lt;t2/&gt;du&lt;t3/&gt; viel &lt;t4/&gt;mit anderen Menschen &lt;t5/&gt;zusammen mach&lt;t6/&gt;s&lt;t7/&gt;t, dann hast du das nicht mehr.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214152Z" creationid="Kate" creationdate="20210303T214152Z">
+        <seg>Якщо ти багато спілкуєшся з людьми, то його давно вже немає&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
