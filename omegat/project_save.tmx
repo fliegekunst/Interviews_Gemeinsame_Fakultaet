@@ -3760,6 +3760,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe aber keine richtigen Freunde gefunden, das liegt sicher auch an den individuellen Personen, ich bin introvertierter, mir fällt es schwer, neue Kontakte zu finden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T150414Z" creationid="PC" creationdate="20210303T150414Z">
+        <seg>Але справжніх друзів я таки не знайшла. Просто я інтроверт і мені важко заводити нові знайомства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe aber noch Zeit dafür.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T120824Z" creationid="krps" creationdate="20210210T215425Z">
