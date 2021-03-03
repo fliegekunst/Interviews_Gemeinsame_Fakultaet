@@ -2178,8 +2178,8 @@
       <tuv lang="de-DE">
         <seg>Deswegen finde ich das komplizierter, sich selbst zu organisieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T132344Z" creationid="ADMIN" creationdate="20210225T132344Z">
-        <seg>Тому мені важче самоорганізуватися.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T100430Z" creationid="ADMIN" creationdate="20210225T132344Z">
+        <seg>Через це мені інколи важко самоорганізуватися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,8 +4234,8 @@
       <tuv lang="de-DE">
         <seg>Ich mache jetzt gleichzeitig meine Master-Arbeit und meine Masterprojektarbeit, weil mir ein sehr interessantes Projekt vorgeschlagen wurde.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T095738Z" creationid="ADMIN" creationdate="20210303T095738Z">
-        <seg>Зараз я пишу магістерську дисертацію. Крім того, мені запропонували дуже цікавий проєкт, тому тепер мені потрібно працювати вдвічі більше.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T100105Z" creationid="ADMIN" creationdate="20210303T095738Z">
+        <seg>Зараз я пишу магістерську дисертацію. Крім того, мені запропонували дуже цікавий проєкт, тому тепер потрібно працювати вдвічі більше.</seg>
       </tuv>
     </tu>
     <tu>
