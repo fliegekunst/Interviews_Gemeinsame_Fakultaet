@@ -1336,6 +1336,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dadurch hatten wir natürlich weniger Sprachpraktikum, als wir hätten haben können.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T210005Z" creationid="ADMIN" creationdate="20210303T210005Z">
+        <seg>Звичайно, зараз у нас менше мовної практики, ніж могло би бути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Dafür muss die oder der Interessierende Stellenausschreibungen lesen und sich bewerben.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T194555Z" creationid="ADMIN" creationdate="20210303T193818Z">
@@ -8412,6 +8420,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T153828Z" creationid="PC" creationdate="20210303T153828Z">
         <seg>Ми разом заповнювали документи, але завжди перепитували, &lt;t0/&gt;якщо виникали якісь непорозуміння.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir haben diese WG selbst gegründet, das war nicht schwierig, denn Viktor Artiushenko hat die meisten organisatorischen Fragen gelöst.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T210312Z" creationid="ADMIN" creationdate="20210303T210312Z">
+        <seg>Ми самостійно організувати таке спільне проживання. Це було не складно, оскільки більшість організаційних питань вирішив Віктор Артюшенко.</seg>
       </tuv>
     </tu>
     <tu>
