@@ -1128,6 +1128,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Beispielsweise gibt es bei den Fächern, die sich an Wirtschaftsingenieure richten, das Fach Betriebsorganisation zum Beispiel, das hatten wir in Kiew nicht im Bachelor.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T184510Z" creationid="ADMIN" creationdate="20210303T184510Z">
+        <seg>Тут студенти мають предмети, орієнтовані на промислових інженерів, наприклад, організація підприємства. Такого в Києві на бакалавраті вам не запропонують.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Beispielsweise im Geschäft oder in der Bank sind die Leute alle &lt;t10/&gt;freundlich&lt;t11/&gt; und hilfsbereit&lt;t12/&gt;.&lt;t13/&gt; &lt;t14/&gt;Ob sie wirklich so sind, ist ganz andere Frage.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T102112Z" creationid="PC" creationdate="20210222T180509Z">
