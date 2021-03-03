@@ -666,8 +666,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t8/&gt;Es reicht nicht aus, nur in der ukrainischsprachigen und russischsprachigen Community unterwegs zu sein, &lt;t9/&gt;ich hätte einfach rausgehen und &lt;t10/&gt;andere &lt;t11/&gt;Leute kennen lernen sollen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T171110Z" creationid="Kate" creationdate="20210210T200534Z">
-        <seg>&lt;t8/&gt;Тепер же було недостатньо просто знаходитись в україномовній та російськомовній спільнотах, &lt;t9/&gt;мені потрібно було кудись піти &lt;t10/&gt;та &lt;t11/&gt;познайомитися з іншими людьми.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T222749Z" creationid="Kate" creationdate="20210210T200534Z">
+        <seg>&lt;t8/&gt;А тут вже було недостатньо просто перебувати в україномовній та російськомовній спільнотах, &lt;t9/&gt;мені потрібно було кудись іти &lt;t10/&gt;та &lt;t11/&gt;знайомитися з іншими людьми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2866,8 +2866,8 @@
       <tuv lang="de-DE">
         <seg>Die Semesterwochenstundenzahl &lt;t6/&gt;in Deutschland &lt;t7/&gt;ist kleiner als in der Ukraine, wo wir noch nebenbei am Nachmittag Deutsch gelernt haben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T195151Z" creationid="Kate" creationdate="20210210T195151Z">
-        <seg>Кількість академічних годин &lt;t6/&gt;у Німеччині &lt;t7/&gt;менша, ніж в Україні, де ми вивчали німецьку мову ще в другій половині дня.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T222514Z" creationid="Kate" creationdate="20210210T195151Z">
+        <seg>Кількість академічних годин &lt;t6/&gt;у Німеччині &lt;t7/&gt;менша, ніж в Україні, де ми вивчали німецьку мову ще й в другій половині дня.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,8 +4026,8 @@
       <tuv lang="de-DE">
         <seg>Hier in Magdeburg wird mehr Selbstständigkeit gefordert&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;M&lt;t3/&gt;ir persönlich ist die Sprache schwer gefallen, dabei hatte schon gute Deutschkenntnisse und war bei den Prüfungen nicht die schlechteste.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210211T122846Z" creationid="Kate" creationdate="20210210T194900Z">
-        <seg>Тут, у Магдебурзі, потрібно бути більш самостійним&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;Особисто мені важко давалася мова, хоча я вже добре знала німецьку і була далеко не найгіршою на іспитах.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T222459Z" creationid="Kate" creationdate="20210210T194900Z">
+        <seg>Тут, у Магдебурзі, потрібно бути більш самостійною&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;Особисто мені важко давалася мова, хоча я вже добре знала німецьку і була далеко не найгіршою на іспитах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4722,8 +4722,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe mich &lt;t8/&gt;aber &lt;t9/&gt;nicht so schnell integriert und Freunde gefunden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T195712Z" creationid="Kate" creationdate="20210210T195712Z">
-        <seg>Наприклад, &lt;t8/&gt;я &lt;t9/&gt;не так швидко адаптувалась і знайшла друзів.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T222547Z" creationid="Kate" creationdate="20210210T195712Z">
+        <seg>Наприклад, &lt;t8/&gt;я &lt;t9/&gt;не так швидко адаптувалась і знайшла друзів, як мені б того хотілося.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4922,8 +4922,8 @@
       <tuv lang="de-DE">
         <seg>Ich hatte in meinem Leben nie die Erfahrung, Freunde suchen zu müssen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T200301Z" creationid="Kate" creationdate="20210210T200301Z">
-        <seg>Ніколи в житті мені ще не доводилось шукати друзів.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T222621Z" creationid="Kate" creationdate="20210210T200301Z">
+        <seg>Ніколи в житті мені ще не доводилося навмисно шукати друзів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8082,8 +8082,8 @@
       <tuv lang="de-DE">
         <seg>Verglichen mit der Ukraine, wie war das Studium &lt;t0/&gt;in Deutschland &lt;t1/&gt;für dich?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210224T162126Z" creationid="Kate" creationdate="20210204T125008Z">
-        <seg>Якщо порівнювати з Україною, яким для тебе &lt;t0/&gt; було&lt;t1/&gt; навчання в Німеччині?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T222431Z" creationid="Kate" creationdate="20210204T125008Z">
+        <seg>Якщо порівнювати з Україною, яким для тебе&lt;t0/&gt; було&lt;t1/&gt; навчання в Німеччині?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8242,8 +8242,8 @@
       <tuv lang="de-DE">
         <seg>Warum hast du dich nicht so schnell integriert und Freunde gefunden?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T195742Z" creationid="Kate" creationdate="20210210T195742Z">
-        <seg>Чому так сталось?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T222551Z" creationid="Kate" creationdate="20210210T195742Z">
+        <seg>Чому ж так сталось?</seg>
       </tuv>
     </tu>
     <tu>
