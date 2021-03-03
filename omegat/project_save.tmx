@@ -7752,6 +7752,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn man die richtigen Aufgaben im Hiwi bekommt, entwickelt man sich weiter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T193242Z" creationid="ADMIN" creationdate="20210303T193242Z">
+        <seg>Якщо під час цього вам дають правильні завдання —  Wenn man die richtigen Aufgaben im Hiwi bekommt, entwickelt man sich weiter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn man ein Praktikum in einer Firma ableistet oder eine Master-Arbeit dort schreibt, hat man schon erste Kontakte zu der Firma.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T163134Z" creationid="PC" creationdate="20210303T163134Z">
@@ -7842,8 +7850,8 @@
       <tuv lang="de-DE">
         <seg>Wichtig ist auch eine Hiwi-Stelle.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T192303Z" creationid="ADMIN" creationdate="20210303T192303Z">
-        <seg>Будь-яка добровільна діяльність також дуже важлива.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T192543Z" creationid="ADMIN" creationdate="20210303T192303Z">
+        <seg>Будь-яка добровільна наукова діяльність також дуже важлива.</seg>
       </tuv>
     </tu>
     <tu>
