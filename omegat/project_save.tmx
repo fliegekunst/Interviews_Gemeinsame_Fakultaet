@@ -874,8 +874,8 @@
       <tuv lang="de-DE">
         <seg>An der Universität sprechen viele hochdeutsch&lt;t10/&gt;.&lt;t11/&gt; Die bayrische &lt;t12/&gt;Mundart&lt;t13/&gt; verstehe ich ab und zu deutlicher und besser, das ist näher am &lt;t14/&gt;U&lt;t15/&gt;krainischen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T082227Z" creationid="ADMIN" creationdate="20210210T183801Z">
-        <seg>В університеті багато хто розмовляє верхньонімецькою&lt;t10/&gt;.&lt;t11/&gt; Інколи я краще розумію баварський діалект, який схожий на український&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T092812Z" creationid="ADMIN" creationdate="20210210T183801Z">
+        <seg>В університеті багато хто розмовляє літературною мовою&lt;t10/&gt;.&lt;t11/&gt; Інколи я краще розумію баварський діалект, тому що він схожий на український&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6466,8 +6466,8 @@
       <tuv lang="de-DE">
         <seg>Sobald man aber drin ist und sich eingehört hat, ist der &lt;t0/&gt;„&lt;t1/&gt;Machdeburjer Dialekt&lt;t2/&gt;“&lt;t3/&gt; doch nichts anderes als &lt;t4/&gt;h&lt;t5/&gt;ochdeutsch, &lt;t6/&gt;man hört &lt;t7/&gt;nicht viele Unterschiede und &lt;t8/&gt;diese stören&lt;t9/&gt; nicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210218T104614Z" creationid="ADMIN" creationdate="20210210T182300Z">
-        <seg>Але щойно опиняєшся в цій місцевості, то розумієш, що &lt;t0/&gt;„&lt;t1/&gt;магдебурзький діалект&lt;t2/&gt;“&lt;t3/&gt; — це не що інше, як &lt;t4/&gt;&lt;t5/&gt;верхньонімецька мова, &lt;t6/&gt;саме тому ти &lt;t7/&gt;не помічаєш особливих відмінностей&lt;t8/&gt;&lt;t9/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T092530Z" creationid="ADMIN" creationdate="20210210T182300Z">
+        <seg>Але щойно опиняєшся в цій місцевості, то розумієш, що &lt;t0/&gt;„&lt;t1/&gt;магдебурзький діалект&lt;t2/&gt;“&lt;t3/&gt; — це не що інше, як &lt;t4/&gt;&lt;t5/&gt;літературна німецька, &lt;t6/&gt;саме тому ти &lt;t7/&gt;не помічаєш особливих відмінностей&lt;t8/&gt;&lt;t9/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
