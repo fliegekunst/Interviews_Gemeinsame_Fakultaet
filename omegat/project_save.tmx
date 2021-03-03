@@ -1112,6 +1112,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Bei mir hat das nicht geklappt, &lt;t0/&gt;weiter &lt;t1/&gt;an der Uni&lt;t2/&gt;versität&lt;t3/&gt; zu bleiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T181842Z" creationid="Kate" creationdate="20210303T181842Z">
+        <seg>Мені не вдалося залишитися в університеті&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Bei mir war das einmal umgekehrt.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T160544Z" creationid="ADMIN" creationdate="20210303T160544Z">
@@ -4880,6 +4888,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich wollte &lt;t4/&gt;aber &lt;t5/&gt;in &lt;t6/&gt;die R&lt;t7/&gt;ichtu&lt;t8/&gt;n&lt;t9/&gt;g &lt;t10/&gt;Konstruktion gehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T193521Z" creationid="Kate" creationdate="20210303T193521Z">
+        <seg>Але я хотіла більше займатися проектуванням&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich wäre mit meinem Deutsch zufrieden, wenn ich keine Fehler mehr machen würde.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T113838Z" creationid="Диана" creationdate="20210225T113838Z">
@@ -5420,6 +5436,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T191253Z" creationid="ADMIN" creationdate="20210303T191253Z">
         <seg>Насамперед: навчатись!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In meinem Studium haben wir meist Berechnungen gemacht und Werkstoffe untersucht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T181916Z" creationid="Kate" creationdate="20210303T181916Z">
+        <seg>Під час мого навчання ми в основному проводили розрахунки та досліджували матеріали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6384,6 +6408,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mein Prof&lt;t22/&gt;essor&lt;t23/&gt; ging&lt;t24/&gt; aber schon in Rente und mir wu&lt;t25/&gt;rde empfohlen, lieber etwas &lt;t26/&gt;A&lt;t27/&gt;nderes zu suchen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T194118Z" creationid="Kate" creationdate="20210303T194118Z">
+        <seg>Але мій професор вже збирався на пенсію, і мені порекомендували краще пошукати щось інше.&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mein Projekt fokussiert sich auf die mikro&lt;t0/&gt;- &lt;t1/&gt;und nanotribologisches Verhalten von Stahl.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T114006Z" creationid="PC" creationdate="20210225T114006Z">
@@ -6524,6 +6556,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T091133Z" creationid="hp" creationdate="20210301T091126Z">
         <seg>Вдома мені важко сконцетруватися, тому мені дуже допомогла навчатися в бібліотеці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mir wurde gera&lt;t11/&gt;ten, zum Lehrstuhl &lt;t12/&gt;der M&lt;t13/&gt;aschinenbau&lt;t14/&gt;-I&lt;t15/&gt;nformatik &lt;t16/&gt;zu&lt;t17/&gt; gehen, das war interessant, dann habe ich da &lt;t18/&gt;das M&lt;t19/&gt;asterprojekt geschrieben und dann wollte ich dort auch die &lt;t20/&gt;Masterarbeit schreiben und do&lt;t21/&gt;rt bleiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T193924Z" creationid="Kate" creationdate="20210303T193924Z">
+        <seg>Мені порадили піти на кафедру машинобудування&lt;t11/&gt;та інформатики, &lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;це було цікаво, там я написала&lt;t18/&gt; магістерський проєкт&lt;t19/&gt; а потім хотіла написати і магістерську роботу &lt;t20/&gt;і залишитися там&lt;t21/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
