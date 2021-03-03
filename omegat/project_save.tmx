@@ -2456,6 +2456,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Der Winter ist schrecklich, kein Schnee und ein &lt;t6/&gt;halbes Jahr ist es einfach grau!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T215519Z" creationid="Kate" creationdate="20210303T215519Z">
+        <seg>Зима жахлива, снігу немає і півроку просто сіро&lt;t6/&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Der größte Unterscheid bei den Prüfungen besteht darin, dass in Deutschland wesentlich mehr Fragen gestellt werden.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T103826Z" creationid="hp" creationdate="20210204T125024Z">
@@ -5120,6 +5128,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich sehe hier viele Vorteile, besonders jetzt, solange ich jung bin und ich mich beruflich entwickeln will, &lt;t4/&gt;habe ich hier viele Chancen&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T215414Z" creationid="Kate" creationdate="20210303T215414Z">
+        <seg>Я бачу тут багато переваг, особливо зараз, поки я молода і хочу професійно розвиватися, тут у мене багато можливостей&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich spreche den ganzen Tag Englisch, da das ein internationales Projekt ist&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T093833Z" creationid="PC" creationdate="20210225T114646Z">
@@ -7100,6 +7116,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T124418Z" creationid="Lenovo" creationdate="20210214T124418Z">
         <seg>Я роблю магістерський проект у співпраці з професором у Києві, який сам побудував машину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Meine Rente will ich aber hier nicht verbringen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T215441Z" creationid="Kate" creationdate="20210303T215441Z">
+        <seg>Але свою пенсію я тут проводити не хочу.</seg>
       </tuv>
     </tu>
     <tu>
