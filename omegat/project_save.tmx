@@ -3056,6 +3056,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es gibt viele interessante Projekte an der OVGU, zum Beispiel das Projekt, an dem ich während der Masterarbeit arbeite.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T185707Z" creationid="ADMIN" creationdate="20210303T185707Z">
+        <seg>Університет пропонує багато цікавих проєктів. Наприклад, над одним із них я зараз працюю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gibt viele witzige Geschichten bei uns zu diesem Thema.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T155036Z" creationid="ADMIN" creationdate="20210303T154921Z">
