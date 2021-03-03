@@ -7120,6 +7120,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Welche Empfehlungen ha&lt;t0/&gt;st du&lt;t1/&gt; für ukrainische Stud&lt;t2/&gt;ierende, die jetzt in Magdeburg anfangen zu studieren&lt;t3/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T154112Z" creationid="PC" creationdate="20210303T154112Z">
+        <seg>Що б ти порадила&lt;t0/&gt;українським&lt;t1/&gt; студентам,&lt;t2/&gt;які тільки починають тут навчатися&lt;t3/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Welche Pläne hast du für die Zukunft?</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210212T201437Z" creationid="hp" creationdate="20210204T132626Z">
@@ -7380,6 +7388,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T151530Z" creationid="PC" creationdate="20210303T151530Z">
         <seg>Також важливо, які іспити вам доведеться складати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wichtig ist, dass man eine Wohnung hat, das ist schon mal die halbe Miete.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T154339Z" creationid="PC" creationdate="20210303T154339Z">
+        <seg>Найголовныше це житло, якщо ви його знайшли, то вважайте що пів справи зроблено.</seg>
       </tuv>
     </tu>
     <tu>
