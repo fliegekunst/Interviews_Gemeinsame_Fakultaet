@@ -19,3 +19,5 @@ Maschinenbau	Машинобудування
 Maschinenbauer	інженери-машинобудівники
 promovieren	захищати докторську дисертацію
 Mechatroniker	інженер з мехатроніки
+Hochdeutsch	літературна німецька
+Karosseriebau	конструювання кузовів
