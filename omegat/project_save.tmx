@@ -5416,6 +5416,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Interview am 27.05.2020</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T181628Z" creationid="Kate" creationdate="20210303T181628Z">
+        <seg>Інтерв'ю 27.05.2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Interview am 28.01.2020</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210217T195416Z" creationid="Kate" creationdate="20210204T125118Z">
@@ -5684,6 +5692,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T105953Z" creationid="PC" creationdate="20210225T105953Z">
         <seg>Родом з Києва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kommt aus Kyiw&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T181614Z" creationid="Kate" creationdate="20210303T181614Z">
+        <seg>Родом з Києва&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7040,6 +7056,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Studierte in Magdeburg zwischen 2016-2018</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T181554Z" creationid="Kate" creationdate="20210303T181554Z">
+        <seg>Вивчала розвиток вирбництва в Магдебурзі в 2016-2018 роках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Studierte in Magdeburg zwischen 2018-2020 Zerspantechnik</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T113144Z" creationid="ADMIN" creationdate="20210225T113144Z">
@@ -7060,6 +7084,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T103551Z" creationid="hp" creationdate="20210204T123208Z">
         <seg>на факультеті технології машинобудування.&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tetiana Pittsyk</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T181308Z" creationid="Kate" creationdate="20210303T181308Z">
+        <seg>Тетяна Пітцик</seg>
       </tuv>
     </tu>
     <tu>
@@ -8368,6 +8400,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>„Wenn man will, kann man hier in Magdeburg alles machen!“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T181359Z" creationid="Kate" creationdate="20210303T181359Z">
+        <seg>„Якщо ти захочеш, то зможеш зробити абсолютно все саме тут, у Магдебурзі!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>„Wie findest du es, dass es so viele Ausländer in Magdeburg gibt?“, &lt;t8/&gt;habe ich mal&lt;t9/&gt; meine deutschen Kommilitonen&lt;t10/&gt; gefragt&lt;t11/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T100853Z" creationid="PC" creationdate="20210218T122852Z">
@@ -8375,5 +8415,16 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Titel.docx</prop>
+      <prop type="prev">Interview am 27.05.2020</prop>
+      <prop type="next">Bei mir hat das nicht geklappt, &lt;t0/&gt;weiter &lt;t1/&gt;an der Uni&lt;t2/&gt;versität&lt;t3/&gt; zu bleiben.</prop>
+      <tuv lang="de-DE">
+        <seg>Wo arbeitest du jetzt?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T181756Z" creationid="Kate" creationdate="20210303T181756Z">
+        <seg>Де ти зараз працюєш?</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
