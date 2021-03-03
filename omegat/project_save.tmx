@@ -2162,8 +2162,8 @@
       <tuv lang="de-DE">
         <seg>Das war neu für mich, weil ich am Institut für Maschinenelemente angestellt bin, davon hatte ich wenige Fächer in meinem Studium.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T201934Z" creationid="ADMIN" creationdate="20210303T201934Z">
-        <seg>Це було новизною для мене, тому що я працюю в Інституті машинних елементів, а під час навчання ми такого не вивчали.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T205619Z" creationid="ADMIN" creationdate="20210303T201934Z">
+        <seg>Це було новизною для мене, тому що зараз я працюю в Інституті машинних елементів, а під час навчання ми такого не вивчали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6770,8 +6770,8 @@
       <tuv lang="de-DE">
         <seg>Mir wurde sogar ein Master-Projekt von meinem Betreuer vorgeschlagen, aber ich habe mich dann für ein anderes Thema entscheiden, weil es mit meinem Studiengang am KPI zusammenpassen musste.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T202204Z" creationid="ADMIN" creationdate="20210303T202204Z">
-        <seg>Один із керівників навіть запропонував мені магістерський проєкт, але тоді я вибрав іншу тему, оскільки вона мала відповідати моєму курсу в КПІ.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T205649Z" creationid="ADMIN" creationdate="20210303T202204Z">
+        <seg>Один із керівників навіть запропонував мені магістерський проєкт, але я тоді вибрав іншу тему, оскільки вона мала відповідати моєму курсу в КПІ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8424,6 +8424,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wir haben eine ukrainische WG gegründet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T205841Z" creationid="ADMIN" creationdate="20210303T205841Z">
+        <seg>Я проживаю разом з українцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wir haben gute Deutschkenntnisse, wir waren schon zweimal in Magdeburg und die Struktur der Uni war uns bekannt.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T113155Z" creationid="krps" creationdate="20210210T095518Z">
@@ -8604,6 +8612,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T131034Z" creationid="hp" creationdate="20210225T131034Z">
         <seg>Перегляд Ютуба та Нетфлікса дуже допомагає у вивченні мови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zu Hochzeiten habe ich aber auch bis zu 60 Stunden gearbeitet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T202714Z" creationid="ADMIN" creationdate="20210303T202714Z">
+        <seg>Раніше я працював до 60 годин.</seg>
       </tuv>
     </tu>
     <tu>
