@@ -712,6 +712,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Aber immer, wenn ich etwas nicht verstanden habe, habe ich nachgefragt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T150843Z" creationid="PC" creationdate="20210303T150843Z">
+        <seg>Але щоразу, коли мені було щось незрозумілим, я запитувала людей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Aber in Deutschland bereitet man sich zu Hause vor, überarbeitet das und besteht dann die Prüfung.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T105357Z" creationid="hp" creationdate="20210204T125658Z">
@@ -5520,6 +5528,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man hat schon Angst vor etwas, das man nicht kennt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T150722Z" creationid="PC" creationdate="20210303T150722Z">
+        <seg>Ти боїшся чогось, чого і сам не знаєш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man hat uns toll unterstützt an der Universität!</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T190324Z" creationid="hp" creationdate="20210211T190324Z">
@@ -6036,6 +6052,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T105527Z" creationid="hp" creationdate="20210211T190118Z">
         <seg>Я ніколи не почувався зайвим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit den Dozierenden ist die Kommunikation sehr einfach, die erklären dir immer alles.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T150939Z" creationid="PC" creationdate="20210303T150939Z">
+        <seg>От з викладачами спілкуватися легко, вони завжди тобі все пояснять.</seg>
       </tuv>
     </tu>
     <tu>
