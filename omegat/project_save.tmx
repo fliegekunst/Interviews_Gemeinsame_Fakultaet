@@ -1944,6 +1944,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das ist ein großer, in erster Linie inhaltlicher Unterschied.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T214324Z" creationid="ADMIN" creationdate="20210303T214324Z">
+        <seg>Це велика різниця, насамперед, з точки зору змісту та наповнення матеріалу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das ist eine große Arbeit, aber für uns ist das eine wichtige Arbeit.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T190639Z" creationid="hp" creationdate="20210211T190639Z">
@@ -3404,6 +3412,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210228T173534Z" creationid="PC" creationdate="20210228T173534Z">
         <seg>Важко також навчатися одночасно тут і в Києві, так як треба бути мобільним і зважати на дедлайни та інші умови в обох університетах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es ist natürlich schwierig, das miteinander zu vergleichen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T214036Z" creationid="ADMIN" creationdate="20210303T214036Z">
+        <seg>Насправді, порівнювати важко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5424,6 +5440,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Im Bachelor geht es um Grundwissen, im Master um tiefere und spezifischere Kenntnisse.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T214424Z" creationid="ADMIN" creationdate="20210303T214424Z">
+        <seg>Бакалаврат — це базові знання, магістратура — глибші та більш конкретні знання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Im Gegensatz zu Deutschland ist der ukrainische Markt untersättigt&lt;t10/&gt;, das ist eine riesengroße Chance&lt;t11/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T212819Z" creationid="Kate" creationdate="20210210T212803Z">
@@ -5452,6 +5476,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T121253Z" creationid="krps" creationdate="20210210T220934Z">
         <seg>У січні я проводив півторагодинну лекцію німецькою і не можна сказати, що це було складно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im Master kann man sich viele Fächer aussuchen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T214625Z" creationid="ADMIN" creationdate="20210303T214625Z">
+        <seg>На магістратурі ви можете вибирати предмети.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5640,6 +5672,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In Kiew haben wir eine gute fachliche Basis im Bachelor bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T214713Z" creationid="ADMIN" creationdate="20210303T214713Z">
+        <seg>У Києві ми отримали хорошу професійну базу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In Kiew ist das natürlich etwas schwierig, ein Auslandssemester zu beantragen und einen individuellen Plan zu machen und 1000 Papiere nach&lt;t4/&gt;zu&lt;t5/&gt;reichen.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T110505Z" creationid="ADMIN" creationdate="20210210T202823Z">
@@ -5764,6 +5804,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T180454Z" creationid="Диана" creationdate="20210204T133947Z">
         <seg> В Україні такого немає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der Ukraine habe ich im Bachelor studiert, in Deutschland im Master.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T214151Z" creationid="ADMIN" creationdate="20210303T214151Z">
+        <seg>В Україні я навчався на бакалавраті, в Німеччині — на магістратурі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7048,6 +7096,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mich freut es, dass in Deutschland alle höflicher und freundlicher sind.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T213711Z" creationid="ADMIN" creationdate="20210303T213711Z">
+        <seg>Мене радує те, що в Німеччині всі ввічливі та привітні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mindestens sagen alle so (lacht).</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210210T201319Z" creationid="PC" creationdate="20210210T201319Z">
@@ -7668,6 +7724,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T162244Z" creationid="PC" creationdate="20210213T162244Z">
         <seg>Але чи варто мені працювати &lt;t16/&gt;над &lt;t17/&gt;собою &lt;t18/&gt;та вдосконалювати мовні навички?&lt;t19/&gt; Авжеж.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sonst ist mir nichts aufgefallen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T213843Z" creationid="ADMIN" creationdate="20210303T213843Z">
+        <seg>Я більше нічого не помітив.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8772,6 +8836,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T152026Z" creationid="PC" creationdate="20210303T152026Z">
         <seg>Як вам жилося в Німеччині під час навчання?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie würdest du Studieren in der Ukraine und in Deutschland miteinander vergleichen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T213924Z" creationid="ADMIN" creationdate="20210303T213924Z">
+        <seg>Як би ти порівняв навчання в Україні та Німеччині??</seg>
       </tuv>
     </tu>
     <tu>
