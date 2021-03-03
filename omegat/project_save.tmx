@@ -2818,8 +2818,8 @@
       <tuv lang="de-DE">
         <seg>Dort werden Maschinen für Tagebau und Schüttgut entwickelt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T200417Z" creationid="Kate" creationdate="20210303T200417Z">
-        <seg>На підприємстві розробляються гірничі машини для відкритої розробки та сипучого вантажу.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T201828Z" creationid="Kate" creationdate="20210303T200417Z">
+        <seg>На фірмі розробляються гірничі машини для відкритої розробки та сипучого вантажу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5348,6 +5348,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T101148Z" creationid="hp" creationdate="20210301T101148Z">
         <seg>В Україні студенти на магістратурі вже працюють, тому що їм потрібно оплачувати навчання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der Firma fängt man als Konstrukteurin unterschiedlicher &lt;t0/&gt;B&lt;t1/&gt;augruppen an, macht &lt;t2/&gt;3D-Modelle&lt;t3/&gt; und Zeichnungen, danach kann man auch &lt;t4/&gt;die &lt;t5/&gt;Projektierung machen und arbeitet an der Erstellung eines Basis-Gerätes&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T201942Z" creationid="Kate" creationdate="20210303T201819Z">
+        <seg>У компанії ви починаєте з конструктор різних блоків, робите 3D-моделі та креслення, потім ви також можете планувати проекти та працювати над створенням базового пристрою&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
