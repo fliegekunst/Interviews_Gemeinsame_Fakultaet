@@ -536,6 +536,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t4/&gt;In der Ukraine hemmt viele der Respekt vor Älteren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211040Z" creationid="Kate" creationdate="20210303T211040Z">
+        <seg>&lt;t4/&gt;В Україні повага до людей похилого віку багатьох стримує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t5/&gt;Am Anfang ja, ich fühlte mich sogar verletzt.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T160518Z" creationid="PC" creationdate="20210213T160518Z">
@@ -6336,6 +6344,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man muss nur seine Prioritäten&lt;t20/&gt; gut setzen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T210910Z" creationid="Kate" creationdate="20210303T210910Z">
+        <seg>Просто потрібно правильно розставити свої пріоритети.&lt;t20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man muss sich aber auch mehr organisieren, niemand sagt einem, was man wann machen muss, man muss selbst die Termine planen, um rechtzeitig all die notwendigen Aufgaben zu erledigen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T103741Z" creationid="hp" creationdate="20210204T124416Z">
@@ -6748,6 +6764,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210210T201319Z" creationid="PC" creationdate="20210210T201319Z">
         <seg>Принаймні вони так кажуть (сміється).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mir gefällt &lt;t0/&gt;es &lt;t1/&gt;hier sehr, dass man keine Angst haben muss, Fragen zu stellen oder mit dem &lt;t2/&gt;Dozierenden&lt;t3/&gt; gut diskutieren kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211007Z" creationid="Kate" creationdate="20210303T211007Z">
+        <seg>Мені дуже подобається тут, що не можна не боятися задавати запитання чи вести дискусії з лектором.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
