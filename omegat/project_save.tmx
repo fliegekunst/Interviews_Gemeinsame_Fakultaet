@@ -2938,8 +2938,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt viele witzige Geschichten bei uns zu diesem Thema.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T154921Z" creationid="ADMIN" creationdate="20210303T154921Z">
-        <seg>Ми маємо багато кумедних історій на цю тему.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T155036Z" creationid="ADMIN" creationdate="20210303T154921Z">
+        <seg>Ми маємо багато цікавих історій на цю тему.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6068,6 +6068,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T104146Z" creationid="PC" creationdate="20210227T104146Z">
         <seg>Зазвичай це кінець травня або початок червня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Meistens geht es darum, dass jemand 5 von 100 Vorbereitungsfragen vorbereitet hat und die Prüfung mit „Sehr gut“ bestanden hat.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T155537Z" creationid="ADMIN" creationdate="20210303T155537Z">
+        <seg>Здебільшого мова йде про те, що хтось підготував лише 5 із 100 питань та склав іспит на "дуже добре".</seg>
       </tuv>
     </tu>
     <tu>
