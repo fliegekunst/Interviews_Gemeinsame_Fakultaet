@@ -7832,6 +7832,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wichtig ist auch eine Hiwi-Stelle.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T192303Z" creationid="ADMIN" creationdate="20210303T192303Z">
+        <seg>Будь-яка добровільна діяльність також дуже важлива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wichtig ist auch, welche Prüfungsleistungen man ablegen muss.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T151530Z" creationid="PC" creationdate="20210303T151530Z">
