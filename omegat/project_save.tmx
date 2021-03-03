@@ -3840,6 +3840,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich betreue Versuche &lt;t0/&gt;an drei tribologischen Prüfstände.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T200933Z" creationid="ADMIN" creationdate="20210303T200933Z">
+        <seg>Я контролюю &lt;t0/&gt;експерименти на трьох трибологічних випробувальних стендах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich bin &lt;t0/&gt;CEO bei Kobzarenko sp.z o.o.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123323Z" creationid="nasty" creationdate="20210218T123323Z">
@@ -6322,8 +6330,8 @@
       <tuv lang="de-DE">
         <seg>Manche Absolventen der GUDF arbeiten bzw. promovieren sich an der OVGU und ihre Kollegen oder sogar sie brauchen manchmal HiWi-Kräfte.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T195210Z" creationid="ADMIN" creationdate="20210303T194541Z">
-        <seg>Деякі випускники, які захищають докторську ступінь в цьому університеті інколи потребують допомоги асистента.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T200531Z" creationid="ADMIN" creationdate="20210303T194541Z">
+        <seg>Деякі випускники, які в цьому університеті захищають докторську ступінь інколи потребують допомоги асистента.</seg>
       </tuv>
     </tu>
     <tu>
