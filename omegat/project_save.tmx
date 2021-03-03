@@ -2920,6 +2920,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es geht um ein Hybridwerkzeug Das kommt aus der Industrie, deswegen darf ich nicht mehr sagen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T190250Z" creationid="ADMIN" creationdate="20210303T190250Z">
+        <seg>Йдеться про гібридний інструмент. Він походить з промисловості, тому я не можу більше нічого сказати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gibt aber auch Nachteile.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T181811Z" creationid="PC" creationdate="20210222T181811Z">
@@ -4540,6 +4548,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T102846Z" creationid="hp" creationdate="20210301T102846Z">
         <seg>Також можна було б поїхати в Австрію, у Відень чи Грац.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich könnte mir auch vorstellen, in die Ukraine zurück zu kehren, und wenn ich ein gutes Angebot aus der Industrie habe, dann würde ich auch gerne in der Ukraine arbeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T190924Z" creationid="ADMIN" creationdate="20210303T190924Z">
+        <seg>Я також припускаю, що міг би працювати в Україні, якби мені зробили хорошу пропозицію в промисловій діяльності.</seg>
       </tuv>
     </tu>
     <tu>
