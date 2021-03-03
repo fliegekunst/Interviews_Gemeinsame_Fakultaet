@@ -505,8 +505,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t3/&gt;Ich &lt;t4/&gt;will auch&lt;t5/&gt; nicht immer nachfragen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T200847Z" creationid="Kate" creationdate="20210210T200847Z">
-        <seg>&lt;t3/&gt;Я &lt;t4/&gt;натомість&lt;t5/&gt; не завжди хочу перепитувати.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T222910Z" creationid="Kate" creationdate="20210210T200847Z">
+        <seg>&lt;t3/&gt;А перепитувати мені теж не завжди хочеться.&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2610,8 +2610,8 @@
       <tuv lang="de-DE">
         <seg>Deutsch fiel mir immer schwer.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T200549Z" creationid="Kate" creationdate="20210210T200549Z">
-        <seg>Німецька завжди давалася мені важко.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T222803Z" creationid="Kate" creationdate="20210210T200549Z">
+        <seg>Німецька постійно ускладнювала справу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7338,8 +7338,8 @@
       <tuv lang="de-DE">
         <seg>Mit einem anderen Menschen zu sprechen&lt;t0/&gt;, war für mich nie ein &lt;t1/&gt; Problem, aber wenn mehrere Deutsche zusammen sind, sprechen sie schnell und achten nicht darauf, dass ich eine Ausländerin bin.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T170138Z" creationid="Kate" creationdate="20210210T200745Z">
-        <seg>Поговорити з іншою людиною&lt;t0/&gt; для мене ніколи не було &lt;t1/&gt;проблемою, але коли декілька німців збираються разом, вони розмовляють швидко і не зважають на те, що я українка.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T222832Z" creationid="Kate" creationdate="20210210T200745Z">
+        <seg>Поговорити з іншою людиною&lt;t0/&gt; для мене ніколи не було &lt;t1/&gt;проблемою, але коли збираються декілька німців разом, вони розмовляють швидко і не зважають на те, що я українка.</seg>
       </tuv>
     </tu>
     <tu>
