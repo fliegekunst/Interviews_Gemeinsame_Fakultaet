@@ -4608,6 +4608,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich versuche, zusätzlich etwas zu lesen und zu hören und wollte eigentlich einen Sprachkurs machen, aber das hat wegen Corona nicht geklappt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T175907Z" creationid="ADMIN" creationdate="20210303T175907Z">
+        <seg>Зараз я намагаюся додатково щось читати й слухати. Крім того, до початку пандемії я планував записатися на мовні курси.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich war am Anfang der Corona Krise in der Ukraine und konnte von dort aus einfach &lt;t0/&gt;studieren.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T112740Z" creationid="Lenovo" creationdate="20210214T134120Z">
