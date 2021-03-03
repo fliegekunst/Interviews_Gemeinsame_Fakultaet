@@ -1992,6 +1992,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das war nicht so schwer, eine Wohnung zusammen zu finden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T153448Z" creationid="PC" creationdate="20210303T153448Z">
+        <seg>Знайти житло виявилося не так вже й складно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das war schwieriger als in Deutschland, hat aber das Semester gut strukturiert.&lt;t0/&gt; &lt;t1/&gt;Darüber hinaus gab es viele Alltagsprobleme und -fragen, die wir in der Freizeit beseitigen und lösen musste.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T112843Z" creationid="krps" creationdate="20210204T124659Z">
@@ -2372,6 +2380,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T144237Z" creationid="krps" creationdate="20210204T130221Z">
         <seg>Думаю, що це все через поганенький тайм-менеджмент та неправильну підготовку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Jungs haben zusammengewohnt und Tanja und ich haben zusammen gelebt in einer Wohnung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T153318Z" creationid="PC" creationdate="20210303T153318Z">
+        <seg>Ми з Танею жили у квартирі окремо від хлопців, які також жили разом.</seg>
       </tuv>
     </tu>
     <tu>
