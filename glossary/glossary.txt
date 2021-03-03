@@ -13,3 +13,7 @@ HiWi-Aufgaben	наукові завдання
 Soft-Skills	м'які(гнучкі)навички
 HiWi-Tätigkeiten	додаткова наукова робота
 WG	спільна квартира
+HiWi-Tätigkeiten	робота науковим асистентом
+Stellenausschreibungen	оголошення про роботу
+Maschinenbau	Машинобудування
+Maschinenbauer	інженери-машинобудівники
