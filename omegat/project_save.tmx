@@ -4736,6 +4736,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Im Gästehaus darf man nicht ewig leben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T155358Z" creationid="PC" creationdate="20210303T155358Z">
+        <seg>Не можна ж вічно жити в гостьовому домі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Im Idealfall wäre mein Herzenswunsch&lt;t18/&gt;,&lt;t19/&gt; Wasserstoff&lt;t20/&gt;verbrennungsmotoren &lt;t21/&gt;zu &lt;t22/&gt;entwickeln.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T103427Z" creationid="hp" creationdate="20210301T103104Z">
@@ -7802,8 +7810,8 @@
       <tuv lang="de-DE">
         <seg>Wir wollten uns ein Zimmer in einer WG suchen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T153130Z" creationid="PC" creationdate="20210303T153130Z">
-        <seg>Ми хотіли знайти кімнату на всіх у гуртожитку..</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210303T155457Z" creationid="PC" creationdate="20210303T153130Z">
+        <seg>Ми хотіли знайти кімнату на всіх у комунальній квартирі.</seg>
       </tuv>
     </tu>
     <tu>
