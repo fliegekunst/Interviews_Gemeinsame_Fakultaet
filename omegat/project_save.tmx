@@ -3712,6 +3712,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hiwi kann man einfach werden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T193728Z" creationid="ADMIN" creationdate="20210303T193728Z">
+        <seg>Стати таким добровольцем можна легко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Höchstwahrscheinlich ja, viel&lt;t0/&gt; aber auch auf &lt;t1/&gt;Englisch, d&lt;t2/&gt;amit da&lt;t3/&gt;s&lt;t4/&gt; international ane&lt;t5/&gt;rkannt ist.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T120943Z" creationid="hp" creationdate="20210225T120926Z">
@@ -7754,8 +7762,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man die richtigen Aufgaben im Hiwi bekommt, entwickelt man sich weiter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T193242Z" creationid="ADMIN" creationdate="20210303T193242Z">
-        <seg>Якщо під час цього вам дають правильні завдання —  Wenn man die richtigen Aufgaben im Hiwi bekommt, entwickelt man sich weiter.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T193529Z" creationid="ADMIN" creationdate="20210303T193242Z">
+        <seg>Якщо під час цього вам дають правильні завдання — ви зможете розвиватися далі.</seg>
       </tuv>
     </tu>
     <tu>
