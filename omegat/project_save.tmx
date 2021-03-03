@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Am Anfang, d.h. in den ersten Monaten haben wir in der Gästeetage gewohnt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T153015Z" creationid="PC" creationdate="20210303T153015Z">
+        <seg>Спочатку, тобто в перші декілька місяців, ми жили гостьовому домі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Am Ende kommen die Studierenden, die geeignet sind und das machen wollen, nach Deutschland.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T110307Z" creationid="hp" creationdate="20210211T190520Z">
@@ -7708,6 +7716,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123401Z" creationid="nasty" creationdate="20210218T123401Z">
         <seg>Ми продаємо зернозбиральні та інші машиини, також маємо філіали в понад 30 країнах..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir wollten uns ein Zimmer in einer WG suchen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T153130Z" creationid="PC" creationdate="20210303T153130Z">
+        <seg>Ми хотіли знайти кімнату на всіх у гуртожитку..</seg>
       </tuv>
     </tu>
     <tu>
