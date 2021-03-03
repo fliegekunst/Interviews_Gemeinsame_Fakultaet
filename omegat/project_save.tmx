@@ -3304,6 +3304,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hattest du&lt;t0/&gt; Kontakt mit deutschen Studierenden?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T145700Z" creationid="PC" creationdate="20210303T145700Z">
+        <seg>Доводилося контактувати&lt;t0/&gt; зі студентами з Німеччини?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Heute würde ich mir mehr Freizeit nehmen und mir mehr Urlaub erlauben, weil es auch schwierig ist, immer zu arbeiten.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T091602Z" creationid="hp" creationdate="20210301T091602Z">
@@ -7468,6 +7476,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T102638Z" creationid="hp" creationdate="20210301T102638Z">
         <seg>Ти б хотів залишитися в Магдебурзі чи переїхати в інше місто?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir Ukrainer waren immer als Gruppe zusammen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T145743Z" creationid="PC" creationdate="20210303T145743Z">
+        <seg>Ми, українці були завжди разом у группі.</seg>
       </tuv>
     </tu>
     <tu>
