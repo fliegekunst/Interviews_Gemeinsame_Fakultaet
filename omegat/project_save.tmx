@@ -658,8 +658,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t8/&gt;Man sollte sich Hobbys suchen, da lernt man immer neue Leute kennen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T214414Z" creationid="Kate" creationdate="20210303T214414Z">
-        <seg>&lt;t8/&gt;Потрібно шукати хобі, там можна завжди з кимось познайомитись.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214422Z" creationid="Kate" creationdate="20210303T214414Z">
+        <seg>&lt;t8/&gt;Потрібно шукати хобі, так можна завжди з кимось познайомитись.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4484,6 +4484,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T112104Z" creationid="Lenovo" creationdate="20210214T132817Z">
         <seg>Я пізнав німецьких однокурсників як доброзичливих, відкритих і чуйних людей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe die letzten zweieinhalb&lt;t9/&gt; Jahre &lt;t10/&gt;eine &lt;t11/&gt;Segelfluglizenz gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214651Z" creationid="Kate" creationdate="20210303T214651Z">
+        <seg>Я отримала ліцензію на планеризм протягом останніх двох з половиною років.&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
