@@ -6040,6 +6040,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man kann auch älteren Kommilitonen fragen, ob die wissen, wo man eine Hiwi-Stelle bekommen kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T195929Z" creationid="ADMIN" creationdate="20210303T195654Z">
+        <seg>Допомогти знайти таку посаду можуть і старшокурсники.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man kann eine gut bezahlte Stelle bekommen, aber viele glauben nicht, dass das möglich ist.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T170920Z" creationid="Kate" creationdate="20210210T212544Z">
