@@ -3504,6 +3504,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hattest du in den Vorlesungen Probleme oder hast du alles gut verstanden?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T181740Z" creationid="ADMIN" creationdate="20210303T181740Z">
+        <seg>Ти все розумів на лекціях?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hattest du&lt;t0/&gt; Kontakt mit deutschen Studierenden?</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T145700Z" creationid="PC" creationdate="20210303T145700Z">
