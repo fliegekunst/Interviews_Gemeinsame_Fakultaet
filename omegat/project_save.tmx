@@ -888,6 +888,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>An der OVGU ist es anders.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T162402Z" creationid="ADMIN" creationdate="20210303T162305Z">
+        <seg>В університеті Отто фон Ґеріке все трішки інакше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>An der Uni zu bleiben, wäre auch eine Option.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104132Z" creationid="hp" creationdate="20210211T110045Z">
@@ -1092,6 +1100,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T133929Z" creationid="Lenovo" creationdate="20210214T133929Z">
         <seg>На Zoom-зустрічах ви також можете задавати питання та спілкуватися, як при звичайному навчанні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bei mir war das einmal umgekehrt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T160544Z" creationid="ADMIN" creationdate="20210303T160544Z">
+        <seg>У мене все було з точністю до навпаки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3040,6 +3056,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es ist schwierig, das Studium in der Ukraine und in Deutschland miteinander zu vergleichen, denn ich habe natürlich auf Deutsch einige Sprachschwierigkeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T164721Z" creationid="ADMIN" creationdate="20210303T164721Z">
+        <seg>Важко порівнювати навчання в Україні та Німеччині, оскільки зараз я маю деякі мовні труднощі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es ist schwierig, das miteinander zu vergleichen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T184146Z" creationid="hp" creationdate="20210211T184146Z">
@@ -3100,6 +3124,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T194934Z" creationid="Kate" creationdate="20210210T194934Z">
         <seg>Однак все ще було досить &lt;t4/&gt;складно&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es werden quasi alle Schwerpunkte der Lehrveranstaltung abgefragt, man muss aber meistens nicht sehr tief ins Detail gehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T164448Z" creationid="ADMIN" creationdate="20210303T164448Z">
+        <seg>Зазвичай студентам не потрібно удаватися в подробиці, оскільки викладачу насамперед важливо те, чи розуміються вони на новому матеріалі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3908,6 +3940,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T112932Z" creationid="krps" creationdate="20210204T131919Z">
         <seg>Потім я вже зрозумів як використовувати час та</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe ca. 5 von 120 Fragen nicht gut genug vorbereitet und habe 3 davon als Prüfungsaufgabe bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T162314Z" creationid="ADMIN" creationdate="20210303T161424Z">
+        <seg>Я не дуже добре підготував приблизно 5 питань із 120 і, як на зло, на іспиті я отримав 3 із них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8076,6 +8116,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T155724Z" creationid="krps" creationdate="20210210T100932Z">
         <seg>По-друге, вивчити матеріал справді складно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zweitens muss man oft jede Frage so gut wie der Professor beherrschen um eine gute Note zu bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T161900Z" creationid="ADMIN" creationdate="20210303T161900Z">
+        <seg>По-друге, щоб отримати хороші бали, часто потрібно відповідати на запитання, як професор.</seg>
       </tuv>
     </tu>
     <tu>
