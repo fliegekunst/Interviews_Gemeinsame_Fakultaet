@@ -752,6 +752,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Aber es gibt Unterschiede im Studien-Programm und im Aufbau des Studiums.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T214810Z" creationid="ADMIN" creationdate="20210303T214810Z">
+        <seg>Але є відмінності в навчальній програмі та в структурі дослідження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Aber es gibt auch Prüfungen aus den vorherigen Semestern zum Üben.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T110010Z" creationid="Lenovo" creationdate="20210214T123257Z">
@@ -5760,6 +5768,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In Kiew hat man keine Wirtschaftswissenschaften, dafür hat man „Ökonomie“, dort hatten wir jedoch nur elementare Kenntnisse.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T215203Z" creationid="ADMIN" creationdate="20210303T215124Z">
+        <seg>На бакалавраті в нас була економіка, але ми там отримали тільки базові знання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In Kiew ist das natürlich etwas schwierig, ein Auslandssemester zu beantragen und einen individuellen Plan zu machen und 1000 Papiere nach&lt;t4/&gt;zu&lt;t5/&gt;reichen.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T110505Z" creationid="ADMIN" creationdate="20210210T202823Z">
@@ -6780,6 +6796,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T121837Z" creationid="ADMIN" creationdate="20210212T121837Z">
         <seg>Багато чого потрібно сприймати з гумором.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man schafft es aber, sich das selbst zu erarbeiten, wenn man das möchte.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T215437Z" creationid="ADMIN" creationdate="20210303T215437Z">
+        <seg>Але якщо дуже захотіти, то можна самостійно розширити свої знання.</seg>
       </tuv>
     </tu>
     <tu>
