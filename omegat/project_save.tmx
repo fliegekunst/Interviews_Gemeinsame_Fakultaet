@@ -2016,6 +2016,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das war die erste Vorlesung in einem wirtschaftsingenieurwissenschaftlichen Fach, für den ich weder fachlich noch sprachlich Kompetenzen hatte.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T183138Z" creationid="ADMIN" creationdate="20210303T183138Z">
+        <seg>Це була перша лекція з індустріального машинобудування. Тоді я не мав ні технічних, ні мовних навичок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das war ein Fiasko.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T074048Z" creationid="krps" creationdate="20210211T074048Z">
