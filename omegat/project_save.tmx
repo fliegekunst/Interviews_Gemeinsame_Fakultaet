@@ -2408,6 +2408,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Master-Arbeit ist eine gute Chance zu zeigen, was man kann, deswegen ist die Master-Arbeit wichtig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T162128Z" creationid="PC" creationdate="20210303T162128Z">
+        <seg>Магістерська робота це чудова нагода показати все, на що ти здатен, саме тому вона така важлива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Master-Arbeit ist wichtig für die zukünftige Arbeit, ich denke, sie ist sogar wichtiger, als die Noten.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T161605Z" creationid="PC" creationdate="20210303T161605Z">
@@ -5936,6 +5944,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man zeigt, woran man sich interessiert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T162004Z" creationid="PC" creationdate="20210303T162004Z">
+        <seg>Ви одразу даєте зрозуміти що вас цікавить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Manche Dozierende schicken Listen mit Fragen und man hat inhaltlich dann eine Vorstellung, was in der Prüfung drankommt und kann sich darauf vorbereiten.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T111418Z" creationid="krps" creationdate="20210225T111418Z">
@@ -6196,6 +6212,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T125936Z" creationid="nasty" creationdate="20210218T125936Z">
         <seg>Мені дуже сподобалося навчання в Магдебурзі, адже ти можеш самостійно працювати з верстатами без чиєїсь допомоги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mir hat die Master-Arbeit bei der Bewerbung zur PhD geholfen, ich wurde beim Max-Planck-Institut explizit danach gefragt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T162654Z" creationid="PC" creationdate="20210303T162654Z">
+        <seg>Вона допомогла мені, коли я подавала заявку на ступінь кандидата наук. В Інституті Товариства Макса Планка було важливо її побачити.</seg>
       </tuv>
     </tu>
     <tu>
