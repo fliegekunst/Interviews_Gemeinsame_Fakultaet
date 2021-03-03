@@ -5592,6 +5592,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man darf sich nicht auf die faule Haut legen, dann kann man was erreichen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T155840Z" creationid="PC" creationdate="20210303T155840Z">
+        <seg>Якщо не будете байдикувати, то зможете чогось досягти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man hat aber auch die Zeit dafür.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T124636Z" creationid="nasty" creationdate="20210218T124636Z">
@@ -5628,6 +5636,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T121958Z" creationid="Kate" creationdate="20210210T211430Z">
         <seg>Можна також подавати заявку на проєкти.&lt;t0/&gt; &lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man kann auch im Wohnheim wohnen, das kann aber teurer sein, als ein Zimmer in einer WG oder zusammen eine Wohnung zu mieten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T155603Z" creationid="PC" creationdate="20210303T155603Z">
+        <seg>Можна також поселитися в гуртожиток, але це обійдеться вам дорожче, ніж спільна кімната у комуналці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6476,6 +6492,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T120324Z" creationid="hp" creationdate="20210225T120324Z">
         <seg>А свою дисертацію ти пишеш німецькою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Seid fleißig!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T155616Z" creationid="PC" creationdate="20210303T155616Z">
+        <seg>Старайтеся!</seg>
       </tuv>
     </tu>
     <tu>
