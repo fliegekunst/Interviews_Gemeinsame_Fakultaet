@@ -752,6 +752,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Abgeleistete Praktika spielen auch eine große Rolle, wenn man einen Job sucht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T162914Z" creationid="PC" creationdate="20210303T162914Z">
+        <seg>Пройдена практика також відіграє важливу роль під час пошуку роботи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Alle &lt;t33/&gt;Studierenden&lt;t34/&gt; &lt;t35/&gt;prokrastinieren&lt;t36/&gt;, dazu gibt es ja auch viele &lt;t37/&gt;S&lt;t38/&gt;tudien.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T091340Z" creationid="hp" creationdate="20210301T091340Z">
