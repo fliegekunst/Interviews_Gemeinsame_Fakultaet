@@ -1408,6 +1408,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das Thema muss ich aber bis Ende Oktober bearbeitet haben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T100059Z" creationid="ADMIN" creationdate="20210303T100059Z">
+        <seg>Але тему магістерського проєкту я повинен опрацювати до кінця жовтня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das Wörterbuch hat mir auch nicht geholfen.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T164645Z" creationid="krps" creationdate="20210211T074030Z">
