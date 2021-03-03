@@ -2136,6 +2136,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das war neu für mich, weil ich am Institut für Maschinenelemente angestellt bin, davon hatte ich wenige Fächer in meinem Studium.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T201934Z" creationid="ADMIN" creationdate="20210303T201934Z">
+        <seg>Це було новизною для мене, тому що я працюю в Інституті машинних елементів, а під час навчання ми такого не вивчали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das war nicht so schwer, eine Wohnung zusammen zu finden.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T153448Z" creationid="PC" creationdate="20210303T153448Z">
@@ -6692,6 +6700,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T105527Z" creationid="hp" creationdate="20210211T190118Z">
         <seg>Я ніколи не почувався зайвим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mir wurde sogar ein Master-Projekt von meinem Betreuer vorgeschlagen, aber ich habe mich dann für ein anderes Thema entscheiden, weil es mit meinem Studiengang am KPI zusammenpassen musste.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T202204Z" creationid="ADMIN" creationdate="20210303T202204Z">
+        <seg>Один із керівників навіть запропонував мені магістерський проєкт, але тоді я вибрав іншу тему, оскільки вона мала відповідати моєму курсу в КПІ.</seg>
       </tuv>
     </tu>
     <tu>
