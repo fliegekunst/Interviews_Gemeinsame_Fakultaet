@@ -17,3 +17,5 @@ HiWi-Tätigkeiten	робота науковим асистентом
 Stellenausschreibungen	оголошення про роботу
 Maschinenbau	Машинобудування
 Maschinenbauer	інженери-машинобудівники
+promovieren	захищати докторську дисертацію
+Mechatroniker	інженер з мехатроніки
