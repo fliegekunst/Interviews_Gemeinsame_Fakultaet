@@ -6544,6 +6544,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Manchmal war es kompliziert, einige Dozierende zu verstehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T210426Z" creationid="ADMIN" creationdate="20210303T210426Z">
+        <seg>Інколи були тяжко зрозуміти деяких лекторів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Manchmal&lt;t0/&gt; habe ich das Gefühl, hier fremd zu sein&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T101602Z" creationid="hp" creationdate="20210301T101602Z">
