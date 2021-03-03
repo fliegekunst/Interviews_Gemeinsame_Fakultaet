@@ -3856,6 +3856,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich fühle mich einerseits sicher, aber ich bemerke immer mehr meine Fehler.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T174722Z" creationid="ADMIN" creationdate="20210303T174722Z">
+        <seg>З одного боку, я почуваюся впевнено. Але, з іншого боку, я все частіше помічаю свої помилки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich fühle mich glücklich.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T084409Z" creationid="krps" creationdate="20210211T084409Z">
