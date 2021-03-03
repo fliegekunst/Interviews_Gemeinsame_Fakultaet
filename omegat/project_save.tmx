@@ -7464,6 +7464,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn man sich zum Beispiel um eine Promotion bewerben möchte, braucht man eine gute Master-Arbeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T161858Z" creationid="PC" creationdate="20210303T161858Z">
+        <seg>Наприклад, якщо вам потрібно подати документи на ступінь доктора, вам потрібна буде хороша магістерська робота.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn man spontan Leute zu sich einlädt, zum Beispiel &lt;t16/&gt;„K&lt;t17/&gt;ommt morgen Abend zu mir &lt;t18/&gt;B&lt;t19/&gt;ier trinken&lt;t20/&gt;!“&lt;t21/&gt;, dann würden viele nicht kommen, weil sie schon was vorhaben.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T094929Z" creationid="ADMIN" creationdate="20210213T090033Z">
