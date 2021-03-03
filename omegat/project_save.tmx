@@ -2248,6 +2248,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das war vor allem im ersten Semester so, wir haben sogar auf zwei Fächer aus den Wirtschaftswissenschaften verzichtet, weil wir nichts verstanden haben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T210611Z" creationid="ADMIN" creationdate="20210303T210611Z">
+        <seg>Особливо важко було в першому семестрі. Ми навіть пропустили два заняття з економіки, бо нічого не розуміли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das war witzig, der Doktorand wurde auf einem kleinen Wagen gezogen und wir sind durch die Uni gelaufen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104002Z" creationid="hp" creationdate="20210204T131517Z">
@@ -2660,6 +2668,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T200411Z" creationid="ADMIN" creationdate="20210303T200411Z">
         <seg>Асистент займається науковою діяльністю разом із професором, але я працюю з науковим співробітником.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Inhalte waren neu für uns und dann kam auch noch die Sprache dazu, das war zu viel.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T210948Z" creationid="ADMIN" creationdate="20210303T210948Z">
+        <seg>Матеріал був новим для нас, до того ж все викладалося німецькою. Це було занадто.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3512,6 +3528,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Fühlst du dich gut integriert?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T211823Z" creationid="ADMIN" creationdate="20210303T211718Z">
+        <seg>Чи знайшов ти спільну мову з оточуючими?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Fühlst du dich integriert?</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T170551Z" creationid="krps" creationdate="20210211T082456Z">
@@ -3764,6 +3788,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T123550Z" creationid="Диана" creationdate="20210225T123315Z">
         <seg>В тебе ще почуття відчуженсті?&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hattest du ein Fremdheitsgefühl in Magdeburg?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T211732Z" creationid="ADMIN" creationdate="20210303T211547Z">
+        <seg>Ти відчував себе чужим в Магдебурзі?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5328,6 +5360,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Im Nachhinein waren wir froh, dass wir die Fächer belegt haben, denn sie erwiesen sich als sehr interessant.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T211519Z" creationid="ADMIN" creationdate="20210303T211519Z">
+        <seg>В результаті ми були раді, що мали такі предмети, тому що вони виявилися дуже цікавими.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Im Prinzip, ja, weil zu diesem Zeitpunkt mein Deutsch ausreichend ist, damit ich mich wohl in Deutschland fühle.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T121409Z" creationid="krps" creationdate="20210211T075019Z">
@@ -6380,6 +6420,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T101601Z" creationid="PC" creationdate="20210227T101601Z">
         <seg>Спочатку ж потрібно захистити магістерську проєктну роботу, яка за своєю структурою схожа на дисертацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man muss ja nicht unbedingt dazugehören.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T212256Z" creationid="ADMIN" creationdate="20210303T212256Z">
+        <seg>Не обов'язково бути членом певного суспільства.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8088,6 +8136,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn ich ein Fremdheitsgefühl habe, finde ich das nicht problematisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T212618Z" creationid="ADMIN" creationdate="20210303T212618Z">
+        <seg>Я не вважаю проблематичним те, що інколи я можу почуватися відчуженим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn ich ein techn&lt;t5/&gt;isches&lt;t6/&gt; &lt;t7/&gt;P&lt;t8/&gt;aper auf &lt;t9/&gt;R&lt;t10/&gt;uss&lt;t11/&gt;isch schreiben müsste, wäre das&lt;t12/&gt; extrem schwierig, weil es diese &lt;t13/&gt;B&lt;t14/&gt;egriffe&lt;t15/&gt;, die ich brauche,&lt;t16/&gt; nicht gib&lt;t17/&gt;t oder ich sie nicht kenne, weil&lt;t18/&gt; ich das &lt;t19/&gt;F&lt;t20/&gt;ach komplett in &lt;t21/&gt;D&lt;t22/&gt;eutschland von vorne gelernt habe.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T130044Z" creationid="hp" creationdate="20210225T130013Z">
@@ -8628,6 +8684,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T113523Z" creationid="krps" creationdate="20210210T095950Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir haben uns dann abgemeldet, das war kein Problem, und haben die Module später bestanden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T211210Z" creationid="ADMIN" creationdate="20210303T211210Z">
+        <seg>Потім ми вирішили, що складемо модуль пізніше. Це не було великою проблемою.</seg>
       </tuv>
     </tu>
     <tu>
