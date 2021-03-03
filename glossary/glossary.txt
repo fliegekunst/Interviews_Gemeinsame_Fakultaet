@@ -1,2 +1,3 @@
 aufstehen	прокидатися
 OVGU	Університет Отто фон Ґеріке
+Masterprojektarbeit	Магістерський проєкт
