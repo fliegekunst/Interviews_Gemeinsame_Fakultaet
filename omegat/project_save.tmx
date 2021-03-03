@@ -4384,6 +4384,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich hatte jedoch einmal die Situation, dass ich gar nichts verstanden habe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T182320Z" creationid="ADMIN" creationdate="20210303T182320Z">
+        <seg>Однак колись у мене була ситуація, коли я абсолютно нічого не зрозумів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich hatte mich für eine Hiwi-Stelle angemeldet, die hat dann im Mai begonnen, deswegen musste ich zurück.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T112752Z" creationid="Lenovo" creationdate="20210214T134216Z">
