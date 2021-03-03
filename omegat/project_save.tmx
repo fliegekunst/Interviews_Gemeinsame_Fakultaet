@@ -1536,6 +1536,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das Spannendste ist, dass man viele Dienstreisen machen kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T203723Z" creationid="Kate" creationdate="20210303T203723Z">
+        <seg>Найбільше мене захоплює можливість їздити у відрядження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das Studium hat mir sehr gut gefallen&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T115412Z" creationid="Диана" creationdate="20210225T115412Z">
