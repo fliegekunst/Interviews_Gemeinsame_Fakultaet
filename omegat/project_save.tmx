@@ -2848,6 +2848,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Durch die Arbeit habe ich eine Niederlassungserlaubnis nach 21 Monaten bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T201706Z" creationid="Kate" creationdate="20210303T201437Z">
+        <seg>Завдяки роботі через 21 місяць я отримала посвідку на проживання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Eher nicht.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210217T200247Z" creationid="ADMIN" creationdate="20210210T175541Z">
@@ -6522,8 +6530,8 @@
       <tuv lang="de-DE">
         <seg>Meine Abteilung ist &lt;t50/&gt;die &lt;t51/&gt;Gerätetechnik, die machen die Lagerplatztechnik und entwickeln Kombigeräte, also Schaufelradbagger und &lt;t52/&gt;ähnliches&lt;t53/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T201245Z" creationid="Kate" creationdate="20210303T201245Z">
-        <seg>Мій відділ - це машинне обладнання, яке займаються технологією складування та розробляють комбіновані пристрої, тобто роторні екскаватори тощо&lt;t50/&gt;&lt;t51/&gt;&lt;t52/&gt;&lt;t53/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T201334Z" creationid="Kate" creationdate="20210303T201245Z">
+        <seg>Мій відділ - це машинне обладнання, яке займається технологією складування та розробляють комбіновані пристрої, тобто роторні екскаватори тощо&lt;t50/&gt;&lt;t51/&gt;&lt;t52/&gt;&lt;t53/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
