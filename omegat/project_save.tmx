@@ -2098,8 +2098,8 @@
       <tuv lang="de-DE">
         <seg>Das, was ich auf Ukrainisch in 2 Tagen machen kann, mache ich hier auf Deutsch in einer Woche.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T171230Z" creationid="ADMIN" creationdate="20210303T171230Z">
-        <seg>Те, що українською я б зробив за 2 дні, німецькою я роблю за тиждень.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T171510Z" creationid="ADMIN" creationdate="20210303T171230Z">
+        <seg>Те, що українською я б зробив 2 дні, німецькою я роблю тиждень.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3732,6 +3732,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T123416Z" creationid="Диана" creationdate="20210225T123416Z">
         <seg>Я не виріс у Німеччині, маю акцент і походжу з іншої культури - звичайно, іноді у мене є це відчуття.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich bin nicht zufrieden mit meinem Deutsch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T171656Z" creationid="ADMIN" creationdate="20210303T171656Z">
+        <seg>Я не задоволений своїм рівнем володіння німецькою.</seg>
       </tuv>
     </tu>
     <tu>
