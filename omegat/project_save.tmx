@@ -1112,6 +1112,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Bei mir ginge es noch einfacher.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T194400Z" creationid="ADMIN" creationdate="20210303T194400Z">
+        <seg>Мені було б ще простіше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Bei mir hat das nicht geklappt, &lt;t0/&gt;weiter &lt;t1/&gt;an der Uni&lt;t2/&gt;versität&lt;t3/&gt; zu bleiben.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T181842Z" creationid="Kate" creationdate="20210303T181842Z">
@@ -6252,6 +6260,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T162004Z" creationid="PC" creationdate="20210303T162004Z">
         <seg>Ви одразу даєте зрозуміти що вас цікавить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manche Absolventen der GUDF arbeiten bzw. promovieren sich an der OVGU und ihre Kollegen oder sogar sie brauchen manchmal HiWi-Kräfte.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T194541Z" creationid="ADMIN" creationdate="20210303T194541Z">
+        <seg>Деякі випускники захищають докторську ступінь в цьому університеті  та своїх колег, або навіть іноді їм потрібен персонал HiWiManche Absolventen der GUDF arbeiten bzw. promovieren sich an der OVGU und ihre Kollegen oder sogar sie brauchen manchmal HiWi-Kräfte.</seg>
       </tuv>
     </tu>
     <tu>
