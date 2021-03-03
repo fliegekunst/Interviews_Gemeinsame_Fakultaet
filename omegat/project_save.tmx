@@ -568,6 +568,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t5/&gt;Verantwortung hei&lt;t6/&gt;ß&lt;t7/&gt;t &lt;t8/&gt;auch, das T&lt;t9/&gt;hema &lt;t10/&gt;des Masterprojekts oder der Masterarbeit selbst festzulegen und&lt;t11/&gt; Fächer aus&lt;t12/&gt;zu&lt;t13/&gt;wählen&lt;t14/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T205413Z" creationid="Kate" creationdate="20210303T205029Z">
+        <seg>&lt;t5/&gt;Відповідальність також у значенні, що ти самостійно визначаєш тему магістерського проєкту або магістерської дисертації та обираєш предмети&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t6/&gt;Also nehmt das Masterprojekt ernst und strengt euch an!</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T160028Z" creationid="Диана" creationdate="20210204T131922Z">
@@ -4042,8 +4050,8 @@
       <tuv lang="de-DE">
         <seg>Ich finde hier &lt;t0/&gt;in Deutschland &lt;t1/&gt;trägst du mehr &lt;t2/&gt;V&lt;t3/&gt;erantwortung&lt;t4/&gt; als in der Ukraine, hast aber auch größere Wahlmöglichkeiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T204928Z" creationid="Kate" creationdate="20210303T204928Z">
-        <seg>Я думаю, тут ти несеш на собі більшу відповідальність, ніж в Україні, але натомість також більше можливостей.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T205148Z" creationid="Kate" creationdate="20210303T204928Z">
+        <seg>Я думаю, тут ти несеш на собі більшу відповідальність, ніж в Україні, однак маєш і більше можливостей.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
