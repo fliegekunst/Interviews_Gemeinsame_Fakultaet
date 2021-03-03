@@ -1410,8 +1410,8 @@
       <tuv lang="de-DE">
         <seg>Da hat sich vieles geändert in den letzten Jahren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210211T114021Z" creationid="Kate" creationdate="20210211T114021Z">
-        <seg>Адже за останні роки багато що змінилося.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T224556Z" creationid="Kate" creationdate="20210211T114021Z">
+        <seg>Там за останні роки багато що змінилося.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,8 +1426,8 @@
       <tuv lang="de-DE">
         <seg>Da konnte man in Kiew überall, selbst im kleinsten Kiosk, mit &lt;t0/&gt;EC-&lt;t1/&gt;Karte bezahlen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T171024Z" creationid="Kate" creationdate="20210211T114338Z">
-        <seg>У Києві можна розрахуватися дебетовою карткою в будь-якій точці Києва, навіть у найменшому кіоску.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T224657Z" creationid="Kate" creationdate="20210211T114338Z">
+        <seg>У Києві можна розрахуватися дебетовою карткою де завгодно, навіть у найменшому кіоску.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3210,8 +3210,8 @@
       <tuv lang="de-DE">
         <seg>Es fällt mir schwer, die schlechte Digitalisierung zu akzeptieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210224T163846Z" creationid="Kate" creationdate="20210211T111342Z">
-        <seg>Мені важко змиритися з поганим оцифруванням.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T224507Z" creationid="Kate" creationdate="20210211T111342Z">
+        <seg>Мені важко змиритися з невисоким рівнем інформатизації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4050,16 +4050,16 @@
       <tuv lang="de-DE">
         <seg>Hier kann man nicht überall mit Karte bezahlen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210211T120354Z" creationid="Kate" creationdate="20210211T114043Z">
-        <seg>Тут не скрізь можна платити карткою.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T224647Z" creationid="Kate" creationdate="20210211T114043Z">
+        <seg>А тут навіть не скрізь можна платити карткою!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Hier kann man oft erst ab 10 Euro mit &lt;t4/&gt;der EC-&lt;t5/&gt;Karte &lt;t6/&gt;be&lt;t7/&gt;zahlen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T171056Z" creationid="Kate" creationdate="20210211T120045Z">
-        <seg>А тут часто можна розплатитися картою, лише якщо сума починається від 10 євро. &lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T224800Z" creationid="Kate" creationdate="20210211T120045Z">
+        <seg>А тут часто можна розплатитися картою, лише якщо сума більша від 10 євро. &lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4786,8 +4786,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe oft kaum Bargeld&lt;t2/&gt; dabei&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210211T123542Z" creationid="Kate" creationdate="20210211T114956Z">
-        <seg>З собою я рідко коли ношу готівку.&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T224726Z" creationid="Kate" creationdate="20210211T114956Z">
+        <seg>Готівку з собою я рідко коли ношу.&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6970,8 +6970,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal hat man unterwegs überhaupt kein &lt;t0/&gt;Handynetz&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210211T122046Z" creationid="Kate" creationdate="20210211T113732Z">
-        <seg>Інколи в дорозі взагалі немає стільникового зв'язку. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T224523Z" creationid="Kate" creationdate="20210211T113732Z">
+        <seg>Інколи в дорозі взагалі немає ніякого стільникового зв'язку. &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
