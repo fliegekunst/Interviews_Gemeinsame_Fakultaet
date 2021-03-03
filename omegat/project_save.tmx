@@ -4040,6 +4040,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich finde hier &lt;t0/&gt;in Deutschland &lt;t1/&gt;trägst du mehr &lt;t2/&gt;V&lt;t3/&gt;erantwortung&lt;t4/&gt; als in der Ukraine, hast aber auch größere Wahlmöglichkeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T204928Z" creationid="Kate" creationdate="20210303T204928Z">
+        <seg>Я думаю, тут ти несеш на собі більшу відповідальність, ніж в Україні, але натомість також більше можливостей.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich finde nicht, dass es schwer ist, in Deutschland im Studium eine gute Note zu bekommen.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210228T180513Z" creationid="PC" creationdate="20210228T180513Z">
@@ -7530,8 +7538,8 @@
       <tuv lang="de-DE">
         <seg>Viele Frauen arbeiten als Technische Zeichnerin, da muss man sich &lt;t24/&gt;als Konstrukteurin &lt;t25/&gt;manchmal ganz schön beweisen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T204436Z" creationid="Kate" creationdate="20210303T204059Z">
-        <seg>Більшість працює креслярками, тож іноді доводиться досить добре проявляти себе в ролі проектувальниці.&lt;t24/&gt;&lt;t25/&gt;manchmal ganz schön beweisen.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T204445Z" creationid="Kate" creationdate="20210303T204059Z">
+        <seg>Більшість працює креслярками, тож іноді доводиться досить добре проявляти себе в ролі проектувальниці.&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8260,6 +8268,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T115347Z" creationid="Диана" creationdate="20210204T122746Z">
         <seg>Як тобі було навчатися &lt;t0/&gt; в  університеті Отто фон Геріке?&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie war das Studium &lt;t0/&gt;in Magdeburg &lt;t1/&gt;für &lt;t2/&gt;dich&lt;t3/&gt;?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T204556Z" creationid="Kate" creationdate="20210303T204556Z">
+        <seg>Яким для тебе було навчання в Магдебурзі?&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
