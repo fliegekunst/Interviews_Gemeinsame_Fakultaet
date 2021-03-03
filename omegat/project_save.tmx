@@ -5608,6 +5608,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man darf sich nicht von der Sprachbarriere einschüchtern lassen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T160440Z" creationid="PC" creationdate="20210303T160440Z">
+        <seg>Не бійтеся мовного бар'єра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man hat aber auch die Zeit dafür.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T124636Z" creationid="nasty" creationdate="20210218T124636Z">
