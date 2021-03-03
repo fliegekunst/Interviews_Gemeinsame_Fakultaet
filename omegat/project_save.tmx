@@ -658,8 +658,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t8/&gt;Es ist wichtig, die Aufgaben und sich selbst gut zu strukturieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T204522Z" creationid="Kate" creationdate="20210210T204240Z">
-        <seg>&lt;t8/&gt;Тому важливо правильно структурувати завдання та зібрати себе в купу.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223624Z" creationid="Kate" creationdate="20210210T204240Z">
+        <seg>&lt;t8/&gt;Тому важливо правильно структурувати завдання та "зібрати себе в купу".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,8 +2602,8 @@
       <tuv lang="de-DE">
         <seg>Deswegen wollte ich nach dem Master &lt;t1/&gt;auch &lt;t2/&gt;eigentlich zurückgehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210217T200112Z" creationid="Kate" creationdate="20210210T204718Z">
-        <seg>Ось чому я і хотіла повернутися &lt;t1/&gt;&lt;t2/&gt;після закінчення магістратури.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223639Z" creationid="Kate" creationdate="20210210T204718Z">
+        <seg>Тому я і хотіла повернутися &lt;t1/&gt;&lt;t2/&gt;після закінчення магістратури.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,8 +3082,8 @@
       <tuv lang="de-DE">
         <seg>Eher nicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210217T200247Z" creationid="ADMIN" creationdate="20210210T175541Z">
-        <seg>Ймовірніше, ні.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223807Z" creationid="ADMIN" creationdate="20210210T175541Z">
+        <seg>Думаю, ні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3626,8 +3626,8 @@
       <tuv lang="de-DE">
         <seg>Früher habe ich immer gedacht: „Wenn ich besser Deutsch &lt;t9/&gt;könnte&lt;t10/&gt;, &lt;t11/&gt;dann wird es besser&lt;t12/&gt;.“ Es gibt Menschen, die dir das Gefühl geben, hier fremd oder sogar unerwünscht zu sein, und Menschen, die dir das nicht geben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T170530Z" creationid="Kate" creationdate="20210210T204911Z">
-        <seg>Раніше я думала: "Якби я могла краще розмовляти німецькою&lt;t9/&gt;&lt;t10/&gt;, &lt;t11/&gt;було б легше&lt;t12/&gt;.“ Є люди, які змушують тебе почуватися тут незнайомцем або навіть небажаним гостем, а є ті, які ставляться зовсім по-іншому.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223705Z" creationid="Kate" creationdate="20210210T204911Z">
+        <seg>Раніше я думала: "Якби я могла краще розмовляти німецькою&lt;t9/&gt;&lt;t10/&gt;, &lt;t11/&gt;було б легше&lt;t12/&gt;.“ Є люди, які змушують тебе почуватися тут незнайомкою або навіть небажаною гостею, а є ті, які ставляться зовсім по-іншому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,8 +3666,8 @@
       <tuv lang="de-DE">
         <seg>Für Deutschland sprechen jedoch eine Reihe von Gründen: In Deutschland gibt es viel mehr Geld.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T205925Z" creationid="Kate" creationdate="20210210T205902Z">
-        <seg>Однак є ряд причин на користь Німеччини: у Німеччині набагато більше грошей.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223927Z" creationid="Kate" creationdate="20210210T205902Z">
+        <seg>Однак є ряд причин на користь Німеччини: насамперед у Німеччині набагато більше грошей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4010,8 +4010,8 @@
       <tuv lang="de-DE">
         <seg>Hier in Deutschland rennt einem niemand hinterher, dann &lt;t2/&gt;kann es passieren, dass &lt;t3/&gt;man vor einer großen Aufgabe &lt;t4/&gt;steht &lt;t5/&gt;und &lt;t6/&gt;diese dann nicht schafft&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210224T162910Z" creationid="Kate" creationdate="20210210T204220Z">
-        <seg>У Німеччині взагалі за вами ніхто не наглядає, тому &lt;t2/&gt;може статися так, що &lt;t3/&gt;перед вами стоятиме велике завдання&lt;t4/&gt;&lt;t5/&gt;, а &lt;t6/&gt;потім ви не зможете з ним впоратись&lt;t7/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223605Z" creationid="Kate" creationdate="20210210T204220Z">
+        <seg>У Німеччині взагалі за вами ніхто не наглядає, тому &lt;t2/&gt;може статися так, що &lt;t3/&gt;перед вами стоятиме велике завдання&lt;t4/&gt;&lt;t5/&gt;, а &lt;t6/&gt;потім раптово ви не зможете з ним впоратись&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,8 +4866,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe überlegt, in die Wirtschaft zu gehen, aber dann war ich bereits relativ weit mit der Dissertation und wollte diese nicht aufhören.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T205209Z" creationid="Kate" creationdate="20210210T205209Z">
-        <seg>Я думала про бізнес, але до того часу я вже була відносно далеко зі своєю дисертацією і не хотіла зупинятися.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223747Z" creationid="Kate" creationdate="20210210T205209Z">
+        <seg>Я думала про бізнес, але до того часу я вже досить далеко просунулася зі своєю дисертацією і не хотіла зупинятися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4898,8 +4898,8 @@
       <tuv lang="de-DE">
         <seg>Ich hatte eigentlich den Plan, auch Drittmittelprojekte nebenbei zu machen, aber das hat nicht geklappt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210224T162950Z" creationid="Kate" creationdate="20210210T205144Z">
-        <seg>Я насправді планувала зайнятися проєктами, що фінансуються сторонніми фондами, але не склалося.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223731Z" creationid="Kate" creationdate="20210210T205144Z">
+        <seg>Я планувала зайнятися проєктами, що фінансуються сторонніми фондами, але не склалося.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,8 +5002,8 @@
       <tuv lang="de-DE">
         <seg>Ich kann hier eine Förderung von Sachsen Anhalt bekommen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T205522Z" creationid="Kate" creationdate="20210210T205522Z">
-        <seg>Тут, у Сансонії-Ангальт, я зможу отримати фінансування.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223830Z" creationid="Kate" creationdate="20210210T205522Z">
+        <seg>Тут, у Саксонії-Ангальт, я зможу отримати фінансування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8970,8 +8970,8 @@
       <tuv lang="de-DE">
         <seg>Wieso bist du nicht in die Wirtschaft gegangen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T205117Z" creationid="Kate" creationdate="20210210T205117Z">
-        <seg>Чому ти не зайнялась бізнесом?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223709Z" creationid="Kate" creationdate="20210210T205117Z">
+        <seg>Чому ти не зайнялася бізнесом?</seg>
       </tuv>
     </tu>
     <tu>
