@@ -5632,6 +5632,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man muss auch daran denken, was das eigene Leben einfacher machen könnte.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T151647Z" creationid="PC" creationdate="20210303T151545Z">
+        <seg>Треба подумати про те, як можна полегшити собі життя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man muss das sowieso immer alles nachholen, also Prüfungen und verpasste Vorlesungen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T132039Z" creationid="Lenovo" creationdate="20210214T132039Z">
@@ -6220,6 +6228,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T113924Z" creationid="Диана" creationdate="20210225T113924Z">
         <seg>Днями я дивився шоу стендап коміка німецькою мовою і нічого не розумів.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nicht alle Fächer haben wir zusammen gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T151747Z" creationid="PC" creationdate="20210303T151747Z">
+        <seg>Ми не всі дисципліни вивчали разом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7492,6 +7508,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T185119Z" creationid="hp" creationdate="20210211T185119Z">
         <seg>А як проходило дистанційне навчання під час пандемії?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie waren das Leben und Wohnen in Deutschland während des Studiums?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T152026Z" creationid="PC" creationdate="20210303T152026Z">
+        <seg>Як вам жилося в Німеччині під час навчання?</seg>
       </tuv>
     </tu>
     <tu>
