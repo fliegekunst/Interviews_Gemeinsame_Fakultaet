@@ -3512,6 +3512,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Für mich &lt;t0/&gt;ist Deutsch easy, &lt;t1/&gt;ich hatte nie ein Problem&lt;t2/&gt;, Deutsch zu lernen oder zu sprechen&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211609Z" creationid="Kate" creationdate="20210303T211434Z">
+        <seg>Мені німецька дається легко, для мене ніколи не було проблемою її вивчати або нею розмовляти.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Für mich hat der &lt;t0/&gt;Übergang von Kyiw nach Magdeburg&lt;t1/&gt; gut geklappt.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T205609Z" creationid="Kate" creationdate="20210303T205609Z">
@@ -8704,6 +8712,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Während des Studiums hatte ich noch Problem mit dem Hörverstehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211716Z" creationid="Kate" creationdate="20210303T211716Z">
+        <seg>Під час навчання у мене все ще були труднощі зі слуханням..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Während des Studiums waren wir eine gute Gruppe&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T132812Z" creationid="Диана" creationdate="20210204T132812Z">
@@ -8942,8 +8958,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T211402Z" creationid="Kate" creationdate="20210303T211402Z">
-        <seg>Як у тебе справи з німецькою?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T211439Z" creationid="Kate" creationdate="20210303T211402Z">
+        <seg>Як у тебе справи з німецькою мовою?</seg>
       </tuv>
     </tu>
     <tu>
