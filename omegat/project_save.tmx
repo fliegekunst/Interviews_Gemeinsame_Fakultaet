@@ -4352,6 +4352,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich kann auf Russisch oder Ukrainisch 100 Seiten pro Tag lesen, auf Deutsch aber nicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T165247Z" creationid="ADMIN" creationdate="20210303T165247Z">
+        <seg>Українською чи російською я можу читати близько 100 сторінок на день, але німецькою це вдається не так легко і швидко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich kann hier eine Förderung von Sachsen Anhalt bekommen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T205522Z" creationid="Kate" creationdate="20210210T205522Z">
