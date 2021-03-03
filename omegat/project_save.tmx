@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Am Anfang war es so, dass sich einfach geredet habe und nicht an die Grammatik gedacht habe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T174811Z" creationid="ADMIN" creationdate="20210303T174811Z">
+        <seg>Спочатку я просто розмовляв і не звертав увагу на граматику.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Am Anfang war es überhaupt erst mal schwierig, deutsch zu verstehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T180617Z" creationid="ADMIN" creationdate="20210210T175638Z">
@@ -2428,6 +2436,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T144237Z" creationid="krps" creationdate="20210204T130221Z">
         <seg>Думаю, що це все через поганенький тайм-менеджмент та неправильну підготовку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Hauptsache war, dass mein Gesprächspartner mich versteht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T175027Z" creationid="ADMIN" creationdate="20210303T175027Z">
+        <seg>Тоді найголовнішим було те, щоб мене правильно зрозуміли.</seg>
       </tuv>
     </tu>
     <tu>
