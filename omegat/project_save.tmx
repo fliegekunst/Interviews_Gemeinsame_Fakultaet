@@ -2752,6 +2752,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Erstens finde ich das nicht fair, dass alle Studierende unterschiedlichen Aufgaben bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T154708Z" creationid="ADMIN" creationdate="20210303T154708Z">
+        <seg>По-перше, це не дуже справедливо, що студентам дають різні завдання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Erstens fü&lt;t2/&gt;h&lt;t3/&gt;le ich mich hier viel sicherer, mir ist bewusst wie viel man in der &lt;t4/&gt;Ukraine&lt;t5/&gt; verdient, ich kann mir nicht vorstellen, wie man &lt;t6/&gt;damit das Leben &lt;t7/&gt;bewältigen kann.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T104015Z" creationid="hp" creationdate="20210225T112236Z">
@@ -2924,6 +2932,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T170754Z" creationid="Kate" creationdate="20210210T210508Z">
         <seg>У галузі машинобудування багато компаній.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gibt viele witzige Geschichten bei uns zu diesem Thema.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T154921Z" creationid="ADMIN" creationdate="20210303T154921Z">
+        <seg>Ми маємо багато кумедних історій на цю тему.</seg>
       </tuv>
     </tu>
     <tu>
