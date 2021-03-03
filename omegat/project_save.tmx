@@ -3264,6 +3264,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Für mein Masterprojekt geben in einigen Fächern die Dozierenden Informationen auf Englisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T180110Z" creationid="ADMIN" creationdate="20210303T180110Z">
+        <seg>Для мого проєкту лектори надають інформацію англійською мовою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Für meine Masterprojektarbeit würde ich aber gerne schneller lesen &lt;t0/&gt;können.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T171018Z" creationid="ADMIN" creationdate="20210303T170834Z">
