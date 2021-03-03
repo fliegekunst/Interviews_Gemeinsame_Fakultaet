@@ -592,6 +592,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t6/&gt;Von einigen&lt;t7/&gt; Pflichtfächer&lt;t8/&gt;n&lt;t9/&gt; hatten wir oft schon in K&lt;t10/&gt;yiw etwas gehört&lt;t11/&gt;, &lt;t12/&gt;das hat uns sehr geholfen&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T210047Z" creationid="Kate" creationdate="20210303T210047Z">
+        <seg>&lt;t6/&gt;Про деякі обов’язкові предмети ми часто чули ще в Києві, і це нам дуже допомогло.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t67/&gt;(lacht)</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T131416Z" creationid="hp" creationdate="20210225T131416Z">
@@ -1132,6 +1140,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T133929Z" creationid="Lenovo" creationdate="20210214T133929Z">
         <seg>На Zoom-зустрічах ви також можете задавати питання та спілкуватися, як при звичайному навчанні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bei mir gab es eher Probleme damit, eine&lt;t0/&gt; Wohnung &lt;t1/&gt;zu&lt;t2/&gt; finden und ein&lt;t3/&gt;zu&lt;t4/&gt;richten, &lt;t5/&gt;einen &lt;t6/&gt;Nebenjob &lt;t7/&gt;zu &lt;t8/&gt;finden und das Leben&lt;t9/&gt; in Magdeburg zu&lt;t10/&gt; gestalten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T210610Z" creationid="Kate" creationdate="20210303T210610Z">
+        <seg>У мене було більше проблем із пошуком квартири та її облаштуванням, пошуком підробітку та влаштуванням життя в Магдебурзі.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3480,6 +3496,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Für mich hat der &lt;t0/&gt;Übergang von Kyiw nach Magdeburg&lt;t1/&gt; gut geklappt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T205609Z" creationid="Kate" creationdate="20210303T205609Z">
+        <seg>Для мене переїзд з Києва до Магдебурга пройшов добре&lt;t0/&gt;&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Für mich ist eher Sächsisch ein Problem.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210224T162437Z" creationid="Kate" creationdate="20210210T203313Z">
@@ -4380,6 +4404,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T160546Z" creationid="ADMIN" creationdate="20210204T132423Z">
         <seg>Тут я навчався та згодом захистив магістерську дисертацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe in K&lt;t11/&gt;yiw&lt;t12/&gt; mit &lt;t13/&gt;meinen&lt;t14/&gt; Eltern gewohnt, das war natürlich eine große &lt;t15/&gt;U&lt;t16/&gt;mstellung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T210706Z" creationid="Kate" creationdate="20210303T210706Z">
+        <seg>У Києві я жила з батьками, тому було нелегко.&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8112,6 +8144,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn man will, kann man hier in &lt;t17/&gt;Magdeburg&lt;t18/&gt; alles&lt;t19/&gt; machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T210843Z" creationid="Kate" creationdate="20210303T210843Z">
+        <seg>Якщо ти захочеш, то зможеш зробити що завгодно саме тут, у Магдебурзі&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn wir das Studium in Deutschland und in der Ukraine miteinander vergleichen, dann finde ich, dass es in Deutschland in Bezug auf Maschinenbau mehrere allgemeine Fächer gibt, beispielsweise zur Planung der Produktion, zum Management der Produktionssysteme.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104838Z" creationid="hp" creationdate="20210211T184540Z">
@@ -8516,6 +8556,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210218T110822Z" creationid="krps" creationdate="20210210T095554Z">
         <seg>Також знаємо трохи про культуру та мову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir hatten in K&lt;t2/&gt;yiw&lt;t3/&gt; einen guten theoretischen Hintergrund&lt;t4/&gt;, auf den wir in Magdeburg aufbauen konnten&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T205912Z" creationid="Kate" creationdate="20210303T205912Z">
+        <seg>У нас була гарна теоретична підготовка в Києві, яку ми могли продовжити в Магдебурзі.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
