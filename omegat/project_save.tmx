@@ -784,6 +784,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Alles ist sehr streng, alles wird kontrolliert und alle haben die gleichen Aufgaben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T152726Z" creationid="ADMIN" creationdate="20210303T152726Z">
+        <seg>Все дуже суворо контролюється, всі студенти мають однакові завдання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Alles kommt mit der Zeit.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210204T124628Z" creationid="PC" creationdate="20210204T124628Z">
@@ -2186,8 +2194,8 @@
       <tuv lang="de-DE">
         <seg>Deswegen finde ich das komplizierter, sich selbst zu organisieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T100430Z" creationid="ADMIN" creationdate="20210225T132344Z">
-        <seg>Через це мені інколи важко самоорганізуватися.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T144546Z" creationid="ADMIN" creationdate="20210225T132344Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3828,6 +3836,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T120804Z" creationid="krps" creationdate="20210210T215405Z">
         <seg>Я не замислювався над цим, бо зараз багато працюю над магістерською роботою та науковими завданнями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe das geschafft, aber es war kompliziert für mich.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T152010Z" creationid="ADMIN" creationdate="20210303T151134Z">
+        <seg>Мені вдавалося це робити, хоч і було досить тяжко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5682,8 +5698,8 @@
       <tuv lang="de-DE">
         <seg>Man muss nicht jede Woche etwas vorstellen und präsentieren, wie es in der Ukraine der Fall ist.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T125410Z" creationid="ADMIN" creationdate="20210225T125410Z">
-        <seg>В Україні нам потрібно було щотижня щось презентувати. В Магдебурзі такого немає.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T144646Z" creationid="ADMIN" creationdate="20210225T125410Z">
+        <seg>В Україні нам потрібно було щотижня щось презентувати. В Магдебурзі такого немає, тому інколи важко самоорганізуватися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6984,6 +7000,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Was mir in Magdeburg ganz gut gefällt ist die Art und Weise, wie Prüfungen durchgeführt werden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T152448Z" creationid="ADMIN" creationdate="20210303T152448Z">
+        <seg>Особисто мені дуже подобається спосіб проведення іспитів у Магдебурзі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Was noch anders ist, dass hier viel mehr Ausländer gibt, als in der Ukraine.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T182132Z" creationid="PC" creationdate="20210222T182132Z">
@@ -7244,6 +7268,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T084933Z" creationid="krps" creationdate="20210210T101642Z">
         <seg>Якщо вивчити якісно п’ять питань зі 120, тоді отримаєш одне з них у завданні, в якому міститься два питання, тобто можна отримати лише половину балів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man jede Woche eine Deadline hat und Aufgaben abgeben muss, ist man am Ende des Semesters schon auf die Prüfungen vorbereitet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T151934Z" creationid="ADMIN" creationdate="20210303T150243Z">
+        <seg>Якщо ти кожного тижня виконуєш завдання до закінчення дедлайнів, то можна впевнено сказати, що ти вже підготовлений до екзаменів в кінці семестру.</seg>
       </tuv>
     </tu>
     <tu>
