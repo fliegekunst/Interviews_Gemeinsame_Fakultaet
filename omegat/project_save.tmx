@@ -2544,6 +2544,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Hiwi-Stelle ist theoretisch bei einem Professor angesiedelt, ich arbeite aber z.B. bei einem wissenschaftlichen Mitarbeiter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T200411Z" creationid="ADMIN" creationdate="20210303T200411Z">
+        <seg>Асистент займається науковою діяльністю разом із професором, але я працюю з науковим співробітником.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Jungs haben zusammengewohnt und Tanja und ich haben zusammen gelebt in einer Wohnung.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T153318Z" creationid="PC" creationdate="20210303T153318Z">
