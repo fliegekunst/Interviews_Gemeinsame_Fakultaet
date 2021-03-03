@@ -5688,6 +5688,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man kann sich vorher auch als Hiwi bewerben und daraus dann eine Master-Projektarbeit machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T161024Z" creationid="PC" creationdate="20210303T161024Z">
+        <seg>Ви можете також податися в наукові асистенти і там працювати над магістерським проєктом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man kann viel selbst lernen.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T110957Z" creationid="krps" creationdate="20210225T110957Z">
