@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Allgemein finde ich Deutsche &lt;t0/&gt;nicht so expressiv&lt;t1/&gt; wie Ukrainer&lt;t2/&gt;, &lt;t3/&gt;sie sind weniger&lt;t4/&gt; neugierig und stecken ihre Nase nicht in deine &lt;t5/&gt;A&lt;t6/&gt;ngelegenheiten, das mag ich sehr.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213754Z" creationid="Kate" creationdate="20210303T213754Z">
+        <seg>Взагалі, для мене німці не такі емоційні, як українці, вони менш допитливі і не сують свого носа у ваші справи, і мені це дуже подобається.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Allgemein ist das aber &lt;t5/&gt;eher weniger&lt;t6/&gt; so.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210224T163145Z" creationid="Kate" creationdate="20210210T210404Z">
@@ -4336,6 +4344,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe &lt;t4/&gt;einen&lt;t5/&gt; Unterschied innerhalb &lt;t6/&gt;D&lt;t7/&gt;eutschlands &lt;t8/&gt;bemerkt und Menschen aus dem Westen Deutschlands eher als &lt;t9/&gt;distanzierter wahrgenommen&lt;t10/&gt; als im Osten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213614Z" creationid="Kate" creationdate="20210303T213614Z">
+        <seg>Я помітила одну різницю в Німеччині, наприклад, для мене люди із заходу Німеччини більш закриті, ніж зі сходу.&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe Kontakte zu anderen Doktoranden und kann sagen, dass das eher die Ausnahme ist.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210217T200350Z" creationid="Kate" creationdate="20210210T210432Z">
@@ -4460,6 +4476,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210212T080632Z" creationid="krps" creationdate="20210204T130442Z">
         <seg>Адже на неї я витратив вдвічі більше часу, ніж запланував.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe ein viermonatiges Praktikum in Stuttgart gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213635Z" creationid="Kate" creationdate="20210303T213635Z">
+        <seg>Я проходила чотиримісячну практику в Штутгарті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9076,6 +9100,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T161900Z" creationid="ADMIN" creationdate="20210303T161900Z">
         <seg>По-друге, щоб отримати хороші бали, часто потрібно відповідати на запитання, як професор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ü&lt;t1/&gt;ber uns &lt;t2/&gt;Ukrainer &lt;t3/&gt;kann man auch vieles sagen, manche sind verschlossen, manche sind offener.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213508Z" creationid="Kate" creationdate="20210303T213508Z">
+        <seg>Можна багато чого сказати про нас, українців, хтось закритий, хтось більш відкритий.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
