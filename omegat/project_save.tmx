@@ -3232,6 +3232,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Für meine Masterprojektarbeit würde ich aber gerne schneller lesen &lt;t0/&gt;können.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T170834Z" creationid="ADMIN" creationdate="20210303T170834Z">
+        <seg>Однак зараз, коли я роблю магістерський проєкт, я б хотів вміти читати швидше&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Für mich ist eher Sächsisch ein Problem.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210224T162437Z" creationid="Kate" creationdate="20210210T203313Z">
@@ -6162,8 +6170,8 @@
       <tuv lang="de-DE">
         <seg>Mein Deutsch ist gut, die Sprache hat mich nicht beeinträchtigt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T170236Z" creationid="ADMIN" creationdate="20210303T170236Z">
-        <seg>Мій рівень володіння німецькою досить хороший. Нова мова добре на мене вплинула.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T170407Z" creationid="ADMIN" creationdate="20210303T170236Z">
+        <seg>Мій рівень володіння німецькою досить хороший.</seg>
       </tuv>
     </tu>
     <tu>
