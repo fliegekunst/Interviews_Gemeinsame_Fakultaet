@@ -7624,6 +7624,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wir haben die Dokumente zusammen ausgefüllt und konnten aber immer fragen, wenn &lt;t0/&gt;wir nichts verstanden haben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T153828Z" creationid="PC" creationdate="20210303T153828Z">
+        <seg>Ми разом заповнювали документи, але завжди перепитували, &lt;t0/&gt;якщо виникали якісь непорозуміння.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wir haben drei Zimmer im Wohnkomplex und zwei sind gerade frei.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T110648Z" creationid="Lenovo" creationdate="20210214T131408Z">
