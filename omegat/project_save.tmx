@@ -6152,6 +6152,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man sollte sich so früh wie möglich ein Thema für das Masterprojekt und für die Masterarbeit überlegen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T191507Z" creationid="ADMIN" creationdate="20210303T191427Z">
+        <seg>Варто якомога раніше подумати над темою магістерської роботи та проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man sollte versuchen, statt schriftlichen Prüfungen mündliche abzulegen, weil man sich dann besser ausdrücken kann.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210228T175314Z" creationid="PC" creationdate="20210228T175314Z">
