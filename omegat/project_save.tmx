@@ -3128,6 +3128,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Eventuell wird man dann später übernommen und bekommt einen Arbeitsvertrag von der Firma.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T163507Z" creationid="PC" creationdate="20210303T163250Z">
+        <seg>Вреші-решт ця фірма може запросити вас пізніше до себе і заключити з вами трудовий контракт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Falls mir das nicht gefällt, kann ich ja zurück gehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T171153Z" creationid="Kate" creationdate="20210210T201106Z">
