@@ -2576,6 +2576,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Deutsche sind ernster, sie arbeiten fleißig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213808Z" creationid="Kate" creationdate="20210303T213808Z">
+        <seg>Німці більш серйозні та працелюбні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Deutsche sind sehr nett zu Ausländern.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T132101Z" creationid="nasty" creationdate="20210218T132043Z">
@@ -6856,6 +6864,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Manchmal&lt;t0/&gt; schon&lt;t1/&gt;, aber selten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214046Z" creationid="Kate" creationdate="20210303T214046Z">
+        <seg>Іноді так, але рідко.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Maryna Bosiaha</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210211T104207Z" creationid="PC" creationdate="20210211T104207Z">
@@ -8738,8 +8754,8 @@
       <tuv lang="de-DE">
         <seg>Wie äußert sich das?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T122454Z" creationid="krps" creationdate="20210211T082935Z">
-        <seg></seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T214026Z" creationid="krps" creationdate="20210211T082935Z">
+        <seg>У чому воно проявляється?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9264,6 +9280,17 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T211858Z" creationid="Kate" creationdate="20210303T211858Z">
         <seg>Ти задоволений своїм рівнем німецької?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Titel.docx</prop>
+      <prop type="prev">Deutsche sind ernster, sie arbeiten fleißig.</prop>
+      <prop type="next">Wie äußert sich das?</prop>
+      <tuv lang="de-DE">
+        <seg>Hast du immer noch ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T213943Z" creationid="Kate" creationdate="20210303T213943Z">
+        <seg>Чи є у тебе відчуття відчуженності&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
