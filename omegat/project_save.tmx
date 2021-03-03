@@ -4224,6 +4224,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich mache jetzt gleichzeitig meine Master-Arbeit und meine Masterprojektarbeit, weil mir ein sehr interessantes Projekt vorgeschlagen wurde.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T095738Z" creationid="ADMIN" creationdate="20210303T095738Z">
+        <seg>Зараз я пишу магістерську дисертацію. Крім того, мені запропонували дуже цікавий проєкт, тому тепер мені потрібно працювати вдвічі більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich muss mehr üben und Bücher lesen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T130131Z" creationid="Lenovo" creationdate="20210214T130131Z">
