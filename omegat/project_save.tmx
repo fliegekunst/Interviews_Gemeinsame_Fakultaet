@@ -2384,6 +2384,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dessen muss man sich bewusst sein&lt;t15/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T205456Z" creationid="Kate" creationdate="20210303T205456Z">
+        <seg>Тому потрібно це усвідомлювати&lt;t15/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Deswegen bekommt man die Note, die man verdient hat.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210210T100627Z" creationid="krps" creationdate="20210210T100627Z">
@@ -3388,6 +3396,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T103335Z" creationid="hp" creationdate="20210301T103335Z">
         <seg>При цьому не буде ніяких викидів в атмосферу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Freiheit hat viele Vorteile, man lernt selbstständiger zu sein.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T205513Z" creationid="Kate" creationdate="20210303T205513Z">
+        <seg>Свобода має багато переваг, ти вчишся бути більш незалежним.</seg>
       </tuv>
     </tu>
     <tu>
