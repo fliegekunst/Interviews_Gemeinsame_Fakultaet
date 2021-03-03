@@ -1354,8 +1354,8 @@
       <tuv lang="de-DE">
         <seg>D&lt;t2/&gt;ie Promotion&lt;t3/&gt; &lt;t4/&gt;gefällt mir sehr gur&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T171145Z" creationid="Kate" creationdate="20210210T201200Z">
-        <seg>Проте&lt;t2/&gt; захист докторської&lt;t3/&gt; &lt;t4/&gt;мені дуже подобається&lt;t5/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223158Z" creationid="Kate" creationdate="20210210T201200Z">
+        <seg>Робота над докторською тут&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;мені дуже подобається&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,8 +2858,8 @@
       <tuv lang="de-DE">
         <seg>Die Selbstständigkeit find ich toll, man hat ein Thema und macht eine wissenschaftliche Studie darüber.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T201500Z" creationid="Kate" creationdate="20210210T201500Z">
-        <seg>Самостійність теж, у тебе є тема і ти проводиш наукове дослідження щодо неї.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223318Z" creationid="Kate" creationdate="20210210T201500Z">
+        <seg>Самостійність теж, у тебе є тема і ти її досліджуєш.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,8 +3594,8 @@
       <tuv lang="de-DE">
         <seg>Falls mir das nicht gefällt, kann ich ja zurück gehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T171153Z" creationid="Kate" creationdate="20210210T201106Z">
-        <seg>Якщо мені це не сподобається, я зможу просто повернутися.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223129Z" creationid="Kate" creationdate="20210210T201106Z">
+        <seg>Якщо ж мені це не сподобається, я зможу просто повернутися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4626,8 +4626,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe gedacht „&lt;t0/&gt;D&lt;t1/&gt;as mache ich“, weil ich immer wieder in die Ukraine zurückkehren kann, aber ein zweites Mal wird mir das nicht angeboten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210213T171126Z" creationid="Kate" creationdate="20210210T201045Z">
-        <seg>І я подумала: „&lt;t0/&gt;Я &lt;t1/&gt;зроблю це“, адже в Україну я зможу повернутися в будь-який момент, а от вдруге таку можливість мені навряд чи вже нададуть.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T223105Z" creationid="Kate" creationdate="20210210T201045Z">
+        <seg>І я подумала: „&lt;t0/&gt;Я &lt;t1/&gt;зроблю це“, адже поїхати назад в Україну я зможу в будь-який момент, а от вдруге такої можливості може й не бути.</seg>
       </tuv>
     </tu>
     <tu>
