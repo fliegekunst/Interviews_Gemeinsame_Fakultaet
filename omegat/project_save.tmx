@@ -1304,6 +1304,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dann bin ich sicherer geworden, und jetzt bemerke ich, dass ich viele Fehler mache.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T175355Z" creationid="ADMIN" creationdate="20210303T175355Z">
+        <seg>Потім я став більш впевненим у собі і почав усвідомлювати, що роблю багато помилок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Dann brauche ich ein paar Sekunden um &lt;t0/&gt;von einer Sprache in eine andere zu wechseln.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T095210Z" creationid="PC" creationdate="20210210T203808Z">
