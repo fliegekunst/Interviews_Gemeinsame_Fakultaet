@@ -1298,8 +1298,8 @@
       <tuv lang="de-DE">
         <seg>Dafür muss die oder der Interessierende Stellenausschreibungen lesen und sich bewerben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T194239Z" creationid="ADMIN" creationdate="20210303T193818Z">
-        <seg>Для цього зацікавлена ​​особа повинна прочитати оголошення про посаду та подати заявку.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T194555Z" creationid="ADMIN" creationdate="20210303T193818Z">
+        <seg>Для цього зацікавлена ​​особа повинна прочитати оголошення про вакансію та подати заявку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,8 +3738,8 @@
       <tuv lang="de-DE">
         <seg>Hiwi kann man einfach werden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T193835Z" creationid="ADMIN" creationdate="20210303T193728Z">
-        <seg>Таким добровольцем легко можна стати.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T194906Z" creationid="ADMIN" creationdate="20210303T193728Z">
+        <seg>Таким науковим асистентом легко можна стати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6266,8 +6266,8 @@
       <tuv lang="de-DE">
         <seg>Manche Absolventen der GUDF arbeiten bzw. promovieren sich an der OVGU und ihre Kollegen oder sogar sie brauchen manchmal HiWi-Kräfte.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T194541Z" creationid="ADMIN" creationdate="20210303T194541Z">
-        <seg>Деякі випускники захищають докторську ступінь в цьому університеті  та своїх колег, або навіть іноді їм потрібен персонал HiWiManche Absolventen der GUDF arbeiten bzw. promovieren sich an der OVGU und ihre Kollegen oder sogar sie brauchen manchmal HiWi-Kräfte.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T194747Z" creationid="ADMIN" creationdate="20210303T194541Z">
+        <seg>Деякі випускники захищають докторську ступінь в цьому університеті та навіть колеги інколи потребують таких асистентів  та своїх колег, або навіть іноді їм потрібен персонал.</seg>
       </tuv>
     </tu>
     <tu>
