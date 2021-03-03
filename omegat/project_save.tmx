@@ -1288,6 +1288,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dafür muss die oder der Interessierende Stellenausschreibungen lesen und sich bewerben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T194239Z" creationid="ADMIN" creationdate="20210303T193818Z">
+        <seg>Для цього зацікавлена ​​особа повинна прочитати оголошення про посаду та подати заявку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Damals konnte ich ihn gar nicht verstehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T203435Z" creationid="Kate" creationdate="20210210T203429Z">
@@ -3722,8 +3730,8 @@
       <tuv lang="de-DE">
         <seg>Hiwi kann man einfach werden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T193728Z" creationid="ADMIN" creationdate="20210303T193728Z">
-        <seg>Стати таким добровольцем можна легко.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T193835Z" creationid="ADMIN" creationdate="20210303T193728Z">
+        <seg>Таким добровольцем легко можна стати.</seg>
       </tuv>
     </tu>
     <tu>
