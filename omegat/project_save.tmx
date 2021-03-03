@@ -6160,6 +6160,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mein Deutsch ist gut, die Sprache hat mich nicht beeinträchtigt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T170236Z" creationid="ADMIN" creationdate="20210303T170236Z">
+        <seg>Мій рівень володіння німецькою досить хороший. Нова мова добре на мене вплинула.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mein Englisch muss ich aber verbessern, bis zur siebten Klasse hatte ich die Vertiefungsrichtung Englisch, danach Mathe&lt;t0/&gt;matik&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T170235Z" creationid="Kate" creationdate="20210210T202212Z">
