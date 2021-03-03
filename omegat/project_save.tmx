@@ -714,8 +714,8 @@
       <tuv lang="de-DE">
         <seg>Aber immer, wenn ich etwas nicht verstanden habe, habe ich nachgefragt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T150843Z" creationid="PC" creationdate="20210303T150843Z">
-        <seg>Але щоразу, коли мені було щось незрозумілим, я запитувала людей.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210303T150958Z" creationid="PC" creationdate="20210303T150843Z">
+        <seg>Але щоразу, коли я чогось не розуміла, я запитувала людей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6058,8 +6058,8 @@
       <tuv lang="de-DE">
         <seg>Mit den Dozierenden ist die Kommunikation sehr einfach, die erklären dir immer alles.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T150939Z" creationid="PC" creationdate="20210303T150939Z">
-        <seg>От з викладачами спілкуватися легко, вони завжди тобі все пояснять.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210303T151011Z" creationid="PC" creationdate="20210303T150939Z">
+        <seg>От із викладачами спілкуватися легко, вони завжди тобі все пояснять.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7580,6 +7580,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T120503Z" creationid="PC" creationdate="20210227T120503Z">
         <seg>Ми завжди підтримували одне одного. Наприклад, ділилися новою інформацією. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir haben unsere Fächer selbst gesucht und immer daran gedacht, worauf wir aufbauen können und was uns interessiert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T151422Z" creationid="PC" creationdate="20210303T151422Z">
+        <seg>Ми самостійно вибирали свої дисципліни, думали від чого відштовхуватися і що нас найбільше цікавить.</seg>
       </tuv>
     </tu>
     <tu>
