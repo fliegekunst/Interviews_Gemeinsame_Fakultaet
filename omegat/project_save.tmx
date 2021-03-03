@@ -2746,8 +2746,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt dafür keine Kooperationsform.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105518Z" creationid="ADMIN" creationdate="20210210T191409Z">
-        <seg>Тут досить тяжко знайти якусь із форм співпраці.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T093529Z" creationid="ADMIN" creationdate="20210210T191409Z">
+        <seg>Тут досить тяжко почати з кимось співпрацювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,8 +4866,8 @@
       <tuv lang="de-DE">
         <seg>In der U&lt;t0/&gt;kraine&lt;t1/&gt; sind &lt;t2/&gt;Universitäten&lt;t3/&gt; &lt;t4/&gt;A&lt;t5/&gt;usbildungszentren, sie sind aber abgekoppelt von der realen &lt;t6/&gt;W&lt;t7/&gt;irtschaft und den realen &lt;t8/&gt;P&lt;t9/&gt;roblemen in &lt;t10/&gt;G&lt;t11/&gt;esellschaft und &lt;t12/&gt;T&lt;t13/&gt;echnik.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105634Z" creationid="ADMIN" creationdate="20210210T192542Z">
-        <seg>В Україні&lt;t0/&gt;&lt;t1/&gt; університети &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;від'єднані від реальної економіки і реальних проблем у суспільстві та технологіях&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T093618Z" creationid="ADMIN" creationdate="20210210T192542Z">
+        <seg>В Україні&lt;t0/&gt;&lt;t1/&gt; університети &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;відсторонені від реальної економіки і реальних проблем у суспільстві та технологіях&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
