@@ -4000,6 +4000,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe natürlich die Sprachbarriere gefühlt, man kennt die Kultur nicht und es ist ein bisschen komisch, Leute einfach anzusprechen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T150626Z" creationid="PC" creationdate="20210303T150626Z">
+        <seg>Відчувається мовний бар'єр, ти не знаєш культуру і розмовляти з людьми стає трохи дивно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe nicht verstanden, was für Beschwerden die Ärztin nennt.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T084141Z" creationid="krps" creationdate="20210211T074013Z">
