@@ -2818,8 +2818,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt sogar Software, die einem das Skript i&lt;t5/&gt;n eine&lt;t6/&gt; &lt;t7/&gt;PDF&lt;t8/&gt; übersetzt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T084949Z" creationid="ADMIN" creationdate="20210211T100019Z">
-        <seg>Можна навіть знайти програму, яка перекладає конспекти лекцій у&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;PDF-формат&lt;t8/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T094121Z" creationid="ADMIN" creationdate="20210211T100019Z">
+        <seg>Можна навіть знайти програму, яка трансформує конспекти лекцій у&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;PDF-формат&lt;t8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3266,8 +3266,8 @@
       <tuv lang="de-DE">
         <seg>Hast du ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T122437Z" creationid="krps" creationdate="20210211T082909Z">
-        <seg>Чи все ж почуваєшся чужим&lt;t0/&gt;?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T094249Z" creationid="krps" creationdate="20210211T082909Z">
+        <seg>Чи немає відчуття, що ти чужий&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
