@@ -439,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t28/&gt;Für &lt;t29/&gt;mich war klar, ich brauche einen Job und will hier&lt;t30/&gt; in Magdeburg&lt;t31/&gt; bleiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T194156Z" creationid="Kate" creationdate="20210303T194156Z">
+        <seg>&lt;t28/&gt;Я розуміла, що мені потрібна робота і що хочу залишитися тут, у Магдебурзі.&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t3/&gt;Als ich mich beworben habe, wurde ich eingeladen und habe meine Master-Arbeit präsentiert.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T115024Z" creationid="PC" creationdate="20210225T114913Z">
@@ -475,6 +483,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T101708Z" creationid="PC" creationdate="20210222T180047Z">
         <seg>&lt;t3/&gt;Українці, на мою думку, більш розкуті&lt;t4/&gt; і не скупі на емоції&lt;t5/&gt;.&lt;t6/&gt; &lt;t7/&gt;З іншого боку, &lt;t8/&gt;тут усі&lt;t9/&gt; завжди люб'язні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;t36/&gt;Ich arbeite bei „&lt;t37/&gt;FAM&lt;t38/&gt;“&lt;t39/&gt; Feinförderanlagen und &lt;t40/&gt;Baumasc&lt;t41/&gt;hinen, habe mich dort für eine &lt;t42/&gt;M&lt;t43/&gt;asterarbeit beworben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T195337Z" creationid="Kate" creationdate="20210303T195337Z">
+        <seg>&lt;t36/&gt;Я працюю у "FAM" Fein Förderanlagen und Baumaschinen і там подала заявку на кандидатську дисертацію.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1248,6 +1264,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>D&lt;t32/&gt;a ich mich nicht entscheiden ko&lt;t33/&gt;nnte, zu welchem Lehrstuhl ich gehe, habe ich mir ein &lt;t34/&gt;U&lt;t35/&gt;nternehmen gesucht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T194343Z" creationid="Kate" creationdate="20210303T194343Z">
+        <seg>&lt;t32/&gt;Оскільки я не могла вирішити, на яку кафедру піти, я шукала якусь компанію.&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Da du promovierst, hast du Einblicke in die Wissenschaftslandschaft.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210224T163054Z" creationid="Kate" creationdate="20210210T205758Z">
@@ -1428,6 +1452,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T211816Z" creationid="ADMIN" creationdate="20210210T211816Z">
         <seg>Але з часом ситуація покращилася.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann wurde ich &lt;t44/&gt;zu einem Gespräch &lt;t45/&gt;eingeladen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T195433Z" creationid="Kate" creationdate="20210303T195433Z">
+        <seg>Потім мене запросили на співбесіду&lt;t44/&gt;&lt;t45/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1844,6 +1876,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T180530Z" creationid="ADMIN" creationdate="20210303T180530Z">
         <seg>Завдяки цьому я можу читати трішки швидше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das ist gut gelaufen und ich habe&lt;t46/&gt; dort meine Masterarbeit geschr&lt;t47/&gt;ieben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T195511Z" creationid="Kate" creationdate="20210303T195511Z">
+        <seg>Все пройшло добре, і я написала там магістерську дисертацію.&lt;t46/&gt;&lt;t47/&gt;</seg>
       </tuv>
     </tu>
     <tu>
