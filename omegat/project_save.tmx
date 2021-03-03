@@ -6274,8 +6274,8 @@
       <tuv lang="de-DE">
         <seg>Promovierst du auf Deutsch?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210210T162129Z" creationid="ADMIN" creationdate="20210210T162129Z">
-        <seg>Ти захищаєш дисертацію німецькою мовою?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T091143Z" creationid="ADMIN" creationdate="20210210T162129Z">
+        <seg>Ти захищаєш дисертацію німецькою?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7298,8 +7298,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T120922Z" creationid="Lenovo" creationdate="20210214T130017Z">
-        <seg>Як справи з німецькою?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210303T091727Z" creationid="Lenovo" creationdate="20210214T130017Z">
+        <seg>Як ти вважаєш, ти добре знаєш німецьку мову?</seg>
       </tuv>
     </tu>
     <tu>
