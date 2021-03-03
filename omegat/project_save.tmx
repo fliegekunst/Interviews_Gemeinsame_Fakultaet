@@ -1072,6 +1072,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Auf&lt;t0/&gt; jeden Fall Deutsch&lt;t1/&gt; lernen!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T212132Z" creationid="Kate" creationdate="20210303T212132Z">
+        <seg>В будь якому разі вивчати німецьку!&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Aus dem Gebiet Winnitsja</seg>
       </tuv>
       <tuv lang="uk" changeid="lesia" changedate="20210216T070221Z" creationid="lesia" creationdate="20210216T070221Z">
@@ -2236,6 +2244,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104002Z" creationid="hp" creationdate="20210204T131517Z">
         <seg>Було смішно, як один аспірант привіз маленький візок і ми всі каталися на території університету.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das weiß ich bis jetz&lt;t1/&gt;t nicht&lt;t2/&gt; so richtig&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T212056Z" creationid="Kate" creationdate="20210303T212056Z">
+        <seg>Я не знаю цього й досі&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6432,6 +6448,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man sollte außerdem schon zu&lt;t2/&gt; Hause &lt;t3/&gt;in der Ukraine versuchen, sich vorzustellen, wie es in Deutschland sein wird, um sich später besser zu integrieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T212241Z" creationid="Kate" creationdate="20210303T212241Z">
+        <seg>Потрібно спробувати ще вдома в Україні уявити, як буде в Німеччині, щоб пізніше було легше адаптуватися.&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man sollte mehr über wichtige Termine nachdenken und sich selbst kümmern, sonst verpasst man etwas.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104506Z" creationid="hp" creationdate="20210211T111341Z">
@@ -7772,6 +7796,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T102205Z" creationid="PC" creationdate="20210222T181651Z">
         <seg>Що&lt;t0/&gt;мене спочатку вразило, так це&lt;t1/&gt; строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wann kommt der defini&lt;t0/&gt;te Artikel, wann der indefinite Artikel?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210303T212026Z" creationid="Kate" creationdate="20210303T212026Z">
+        <seg>Коли має бути визначений, а коли ні?&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
