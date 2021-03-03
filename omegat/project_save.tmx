@@ -5584,6 +5584,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man darf keine Angst haben, den Dozierenden oder andre Studierende zu fragen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T155952Z" creationid="PC" creationdate="20210303T155952Z">
+        <seg>Ні в якому разі не бійтеся питати у викладачів або інших колег щось, чого ви не знаєте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man darf nicht auf die anderen &lt;t0/&gt;K&lt;t1/&gt;ommilitonen schauen, mit denen man studiert.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T132329Z" creationid="hp" creationdate="20210225T132329Z">
@@ -6940,6 +6948,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T123447Z" creationid="Kate" creationdate="20210211T110305Z">
         <seg>Багато хто думає&lt;t2/&gt;, що це &lt;t3/&gt;&lt;t4/&gt;неможливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Viele sind super nett und freuen sich, wenn sie gefragt werden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210303T160048Z" creationid="PC" creationdate="20210303T160048Z">
+        <seg>Більшість з них дуже приємні й самі будуть раді допомогти.</seg>
       </tuv>
     </tu>
     <tu>
