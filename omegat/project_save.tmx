@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2568,6 +2568,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Der Vorteil eins Studentenwohnheims ist, dass es in der Nähe vom Campus gelegen ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T120049Z" creationid="krps" creationdate="20210304T120049Z">
+        <seg>Перевагою гуртожитку є те, що він знаходиться недалеко від студмістечка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Der Winter ist schrecklich, kein Schnee und ein &lt;t6/&gt;halbes Jahr ist es einfach grau!</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T215519Z" creationid="Kate" creationdate="20210303T215519Z">
@@ -3240,6 +3248,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Du wohnst im Moment im Wohnheim?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T115909Z" creationid="krps" creationdate="20210304T115909Z">
+        <seg>Ти живеш в гуртожитку?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Durch die Arbeit habe ich eine Niederlassungserlaubnis nach 21 Monaten bekommen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T201706Z" creationid="Kate" creationdate="20210303T201437Z">
@@ -3800,6 +3816,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es wäre besser, wenn man auch Englisch kann, es gibt hier viele internationale Studierende, die hier auf Englisch studieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T114714Z" creationid="krps" creationdate="20210304T114714Z">
+        <seg>Було б краще, якби ви також могли розмовляти англійською, тут є багато іноземних студентів, які на ній навчаються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Etwas Einzigartiges in Deutschland zu machen oder &lt;t12/&gt;zu &lt;t13/&gt;finden, ist schwer.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T123422Z" creationid="Kate" creationdate="20210210T212854Z">
@@ -3908,6 +3932,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T223927Z" creationid="Kate" creationdate="20210210T205902Z">
         <seg>Однак є ряд причин на користь Німеччини: насамперед у Німеччині набагато більше грошей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Für das Studium brauchte ich bisher noch kein Englisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T115721Z" creationid="krps" creationdate="20210304T115721Z">
+        <seg>Для навчання мені ще не треба була англійська.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6457,6 +6489,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In manchen Fächern ist die Literatur auf Englisch, darauf sollte man vorbereitet sein.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T115851Z" creationid="krps" creationdate="20210304T115851Z">
+        <seg>Треба бути готовим до того, що на більшості спеціальностей література англійською мовою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In meinem Studium haben wir meist Berechnungen gemacht und Werkstoffe untersucht.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210304T113133Z" creationid="Kate" creationdate="20210303T181916Z">
@@ -6621,6 +6661,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210218T111434Z" creationid="krps" creationdate="20210211T083021Z">
         <seg>Іноді справді почуваюся чужим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ja, mir gefällt es da.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T115939Z" creationid="krps" creationdate="20210304T115939Z">
+        <seg>Так, мені подобається там.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9029,6 +9077,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T153726Z" creationid="Диана" creationdate="20210204T124328Z">
         <seg>Якщо професор каже: "Увага, це пов'язано з іспитом!" &lt;t1/&gt;&lt;t2/&gt;І ви&lt;t3/&gt; &lt;t4/&gt;цього не зрозуміли, то вам просто не пощастило&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt; &lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn du auf eine Party gehst und Menschen aus anderen Ländern triffst, dann wäre es besser, Englisch zu können.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T115655Z" creationid="krps" creationdate="20210304T115655Z">
+        <seg>Коли йдеш на вечірку або зустрічаєш людей з інших країн, то краще вміти розмовляти англійською.</seg>
       </tuv>
     </tu>
     <tu>
