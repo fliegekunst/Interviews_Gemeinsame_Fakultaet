@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3864,6 +3864,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Fühlst du dich&lt;t0/&gt; integriert in Deutschland an der Uni&lt;t1/&gt;versität&lt;t2/&gt; oder auf der Arbeit?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T113343Z" creationid="PC" creationdate="20210304T113343Z">
+        <seg>Як ти вважаєш,&lt;t0/&gt; ти освоїлася вже &lt;t1/&gt;у&lt;t2/&gt; Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Für Deutschland sprechen jedoch eine Reihe von Gründen: In Deutschland gibt es viel mehr Geld.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T223927Z" creationid="Kate" creationdate="20210210T205902Z">
@@ -4669,6 +4677,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T115311Z" creationid="hp" creationdate="20210225T115311Z">
         <seg>Ой, ну це залежить від ситуації. В більшості випадках все добре, але є слова, які використовуються рідше, та з якими виникають проблеми. До того ж я говорю російською зі своїми друзями у повсякденному житті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich fühle mich nicht 100%ig integriert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T113528Z" creationid="PC" creationdate="20210304T113528Z">
+        <seg>Не можу скзати, що я повныстю освоїлася.</seg>
       </tuv>
     </tu>
     <tu>
