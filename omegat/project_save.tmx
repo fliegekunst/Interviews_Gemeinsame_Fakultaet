@@ -594,8 +594,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t5/&gt;In der Prüfung zu schummeln führt in Deutschland dazu, dass man die Prüfung nicht bestanden hat.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113533Z" creationid="Диана" creationdate="20210225T123114Z">
-        <seg>&lt;t5/&gt;Обман на іспиті закінчується тим, що ви не складаєте його.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T130014Z" creationid="Диана" creationdate="20210225T123114Z">
+        <seg>&lt;t5/&gt;Обман під час іспиту закінчується тим, що ви не складаєте його.</seg>
       </tuv>
     </tu>
     <tu>
@@ -794,8 +794,8 @@
       <tuv lang="de-DE">
         <seg>Aber ich finde, man sollte sich nicht einbilden, dass man irgendwann ein Deutscher wird – wir sind Ukrainer, und das ist gut so.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T123630Z" creationid="Диана" creationdate="20210225T123510Z">
-        <seg>Але я думаю, що ви не повинні уявляти, що з часом станете німцями - ми українці, і це добре.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T130146Z" creationid="Диана" creationdate="20210225T123510Z">
+        <seg>Але я думаю, що не треба уявляти, що ви з часом станете німцями - ми українці, і це добре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4619,8 +4619,8 @@
       <tuv lang="de-DE">
         <seg>Ich bin nicht in Deutschland aufgewachsen, habe einen Akzent und komme aus einer anderen Kultur – klar habe ich manchmal ein Fremdheitsgefühl.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T123416Z" creationid="Диана" creationdate="20210225T123416Z">
-        <seg>Я не виріс у Німеччині, маю акцент і походжу з іншої культури - звичайно, іноді у мене є це відчуття.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T130047Z" creationid="Диана" creationdate="20210225T123416Z">
+        <seg>Я не виріс у Німеччині, маю акцент і походжу з іншої культури - звичайно, іноді у мене є це почуття.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6459,8 +6459,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine ist es in manchen Studiengängen Usus, voneinander abzuschreiben, hier nicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113443Z" creationid="Диана" creationdate="20210225T122920Z">
-        <seg>В Україні заведено списувати один в одного, але тут такого немає.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T125940Z" creationid="Диана" creationdate="20210225T122920Z">
+        <seg>В Україні нормально списувати один в одного, але тут такого немає.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9723,8 +9723,8 @@
       <tuv lang="de-DE">
         <seg>Wie äußert sich das?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T214026Z" creationid="krps" creationdate="20210211T082935Z">
-        <seg>У чому воно проявляється?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T130024Z" creationid="krps" creationdate="20210211T082935Z">
+        <seg>Як воно проявляється?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9995,8 +9995,8 @@
       <tuv lang="de-DE">
         <seg>Während des Bachelors wird hier in Magdeburg viel gesiebt, &lt;t1/&gt;viele fallen durch die Prüfungen, das ist &lt;t2/&gt;in der Ukraine &lt;t3/&gt;anders&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113417Z" creationid="Диана" creationdate="20210225T122614Z">
-        <seg> &lt;t1/&gt;Під час навчання на бакалавраті тут, у Магдебурзі, багато контролю, багато хто провалюють іспити, в Україні все навпаки&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T125924Z" creationid="Диана" creationdate="20210225T122614Z">
+        <seg> &lt;t1/&gt;Під час навчання на бакалавраті тут, у Магдебурзі, дуже контролюють, багато хто провалює іспити, в Україні все навпаки&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
