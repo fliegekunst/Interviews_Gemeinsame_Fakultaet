@@ -6344,6 +6344,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In Deutschland hat man wohl viele Praktika im Bachelor, man muss ein Pflichtpraktikum machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T135854Z" creationid="krps" creationdate="20210304T135854Z">
+        <seg>У Німеччині є багато стажувань за ступенем бакалавра, також треба пройти обов’язкове стажування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In Deutschland ist es leicht, neue Freunde zu finden und Anschluss in der Uni zu finden.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210204T131606Z" creationid="hp" creationdate="20210204T131606Z">
@@ -9108,6 +9116,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210304T092813Z" creationid="Диана" creationdate="20210304T092813Z">
         <seg>А що таке, власне, дружба?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was ist geblieben von der Konferenz in Bischkek?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T135949Z" creationid="krps" creationdate="20210304T135949Z">
+        <seg>Як тобі конференція в Бішкеку?</seg>
       </tuv>
     </tu>
     <tu>
