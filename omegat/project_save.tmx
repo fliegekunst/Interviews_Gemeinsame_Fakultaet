@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1004,6 +1004,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T110307Z" creationid="hp" creationdate="20210211T190520Z">
         <seg>Зрештою ті, хто хочуть це зробити і приїжджають туди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Am Ende wird alles zusammengerechnet und daraus ergibt sich die Note.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T111945Z" creationid="krps" creationdate="20210304T111945Z">
+        <seg>Наприкінці все додається і з'являється оцінка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4236,6 +4244,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210204T125521Z" creationid="hp" creationdate="20210204T125521Z">
         <seg>А тут перевірять значно більше знань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier zählt nur die Klausur oder die mündliche Prüfung am Ende des Semesters.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T112052Z" creationid="krps" creationdate="20210304T112052Z">
+        <seg>Враховується лише письмовий або усний іспит наприкінці семестру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9109,6 +9125,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T105235Z" creationid="hp" creationdate="20210204T123321Z">
         <seg>Як тобі навчатися німецькою мовою? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie ist es für dich, auf Deutsch zu studieren?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T112148Z" creationid="krps" creationdate="20210304T112148Z">
+        <seg>Як тобі навчатися німецькою?</seg>
       </tuv>
     </tu>
     <tu>
