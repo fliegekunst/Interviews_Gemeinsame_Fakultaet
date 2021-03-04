@@ -1,22 +1,16 @@
-aufstehen	прокидатися
 OVGU	Університет Отто фон Ґеріке
 Masterprojektarbeit	Магістерський проєкт
 Zerspantechnik	технологія обробки
 Zeitmanagement	тайм-менеджмент
-GUDFM	Спільний Українсько-Німецький факультет машинобудування
 GUDFM	Спільний Українсько-Німецький Факультет Машинобудування
 Masterarbeit	магістерська робота
-HiWi-Aufgaben	наукові завдання
 Soft-Skills	м'які(гнучкі)навички
-HiWi-Tätigkeiten	додаткова наукова робота
 WG	спільна квартира
-HiWi-Tätigkeiten	робота науковим асистентом
 Stellenausschreibungen	оголошення про роботу
 Maschinenbau	Машинобудування
 Maschinenbauer	інженери-машинобудівники
 promovieren	захищати докторську дисертацію
 Mechatroniker	інженер з мехатроніки
-Hochdeutsch	літературна німецька
 Karosseriebau	конструювання кузовів
 Fachlabor	лабораторна робота
 Förderanlagen	конвеєр, транспортер
@@ -25,3 +19,6 @@ IKUS	студенти різних культур
 Wälzlager	вальниця
 Hiwi	лаборант
 Hiwi-Stelle	посада в лабораторії
+HiWi-Aufgaben	завдання лаборанта
+HiWi-Tätigkeiten	діяльність лаборанта
+Hochdeutsch	літературна німецька мова
