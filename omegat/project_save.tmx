@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4801,6 +4801,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe gehört, dass es keine Möglichkeiten gibt, abzuschreiben oder zu spicken.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T111639Z" creationid="krps" creationdate="20210304T111639Z">
+        <seg>Чув, що тут неможливо списати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe hier auch mehr Zeit fürs Lesen und Hobbies.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T095809Z" creationid="PC" creationdate="20210213T165641Z">
@@ -6201,6 +6209,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In der Ukraine waren die Prüfungen anders: Es gibt ein anderes System.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T111738Z" creationid="krps" creationdate="20210304T111738Z">
+        <seg>В Україні іспити ж виглядали інакше: Там завсім інша система.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In einem Monat verteidige ich mein Masterprojekt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210204T132752Z" creationid="hp" creationdate="20210204T132706Z">
@@ -6693,6 +6709,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T163019Z" creationid="krps" creationdate="20210210T215215Z">
         <seg>Побачимо, як все складеться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man bekommt Punkte während des Semesters indem man Übungen abgibt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T111837Z" creationid="krps" creationdate="20210304T111837Z">
+        <seg>Протягом семестру студент здає завдання та отримує бали.</seg>
       </tuv>
     </tu>
     <tu>
