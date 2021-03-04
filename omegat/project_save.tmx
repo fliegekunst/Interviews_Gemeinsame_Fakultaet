@@ -5731,8 +5731,8 @@
       <tuv lang="de-DE">
         <seg>Ich weiß aber nicht, ob das realistisch ist.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T114853Z" creationid="Диана" creationdate="20210225T114853Z">
-        <seg>Але я не знаю, чи це реально.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T125554Z" creationid="Диана" creationdate="20210225T114853Z">
+        <seg>Але не знаю, чи це реально.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9229,6 +9229,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210304T122912Z" creationid="Диана" creationdate="20210225T105138Z">
         <seg>Якщо я створю сім’ю у Німеччині, то я залишусь тут, якщо ні, то переїду кудись. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich in einem Kreis mit Muttersprachlern mithalten kann, etwas schnell einwerfen kann, dann wäre ich mit meinem Deutsch zufrieden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T125538Z" creationid="Диана" creationdate="20210304T125538Z">
+        <seg>Якби я міг в колі носіїв мови швидко викидати якісь фрази, я був би задоволениий.</seg>
       </tuv>
     </tu>
     <tu>
