@@ -936,6 +936,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Als ich im Labor gearbeitet habe, habe ich einige Fehler gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T132605Z" creationid="krps" creationdate="20210304T132605Z">
+        <seg>Коли я працював у лабораторії, то допускав деякі помилки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Als ich zum ersten Mal in die Wohnung kam, war ich überrascht, dass alle Mitbewohner Ukrainer sind.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210304T131200Z" creationid="krps" creationdate="20210304T131200Z">
@@ -3504,6 +3512,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es gab eine Belehrung und ich habe ganz banale Fragen gestellt, z.B. wie etwas funktioniert, und das wurde sehr nett beantwortet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T132918Z" creationid="krps" creationdate="20210304T132918Z">
+        <seg>Одного разу був інструктаж, і я задавава дуже банальні питання, наприклад, як щось працює, і мені з радістю відповідали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es geht mir gut.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T091742Z" creationid="ADMIN" creationdate="20210210T164201Z">
@@ -4140,6 +4156,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T104813Z" creationid="hp" creationdate="20210211T184343Z">
         <seg>А в Україні майже ніхто з нас не проходив магістратуру . </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Grundsätzlich fühle ich mich sehr wohl hier.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T132537Z" creationid="krps" creationdate="20210304T132537Z">
+        <seg>В основному, мені тут дуже комфортно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7653,6 +7677,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T113430Z" creationid="hp" creationdate="20210225T113430Z">
         <seg>Частіше в Україні не можна зробити все, що ти задумав, адже це може перечити якимось моральним переконанням, до цього всього тут існує корупція.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manchmal kommt mir etwas komisch vor und es gibt Sachen, die wohl nur Deutsche verstehen, das kann ich nicht erklären.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T132509Z" creationid="krps" creationdate="20210304T132509Z">
+        <seg>Іноді мені здається щось дивним, і є речі, які розуміють лише німці, я не можу це пояснити.</seg>
       </tuv>
     </tu>
     <tu>
