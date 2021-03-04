@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3672,6 +3672,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es ist schwer zu sagen, wohin ich gehe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T114153Z" creationid="krps" creationdate="20210304T114153Z">
+        <seg>Складно сказати куди я рухаюся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es ist schwierig, das Studium in der Ukraine und in Deutschland miteinander zu vergleichen, denn ich habe natürlich auf Deutsch einige Sprachschwierigkeiten.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T164721Z" creationid="ADMIN" creationdate="20210303T164721Z">
@@ -4020,6 +4028,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T110007Z" creationid="hp" creationdate="20210211T185222Z">
         <seg>Ходити на пари мені подобалося більше, тому що якщо виникають якісь питання, їх можна відразу поставити викладачу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Grundsätzlich ist es mir egal, wo ich lebe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T114243Z" creationid="krps" creationdate="20210304T114243Z">
+        <seg>Загалом, мені все одно де жити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5393,6 +5409,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich möchte eher nicht hierbleiben, d.h. nicht an der Universität bleiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T113912Z" creationid="krps" creationdate="20210304T113818Z">
+        <seg>Я не хочу залишатися в університеті, а планую працювати в індустрії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich möchte mich gerne bei der GUDF bedanken, bei allen Leuten, die dieses Programm möglich gemacht haben und sich damit so intensiv beschäftigt haben und sich damit immer noch beschäftigen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T105656Z" creationid="hp" creationdate="20210211T190407Z">
@@ -5413,6 +5437,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T130215Z" creationid="hp" creationdate="20210225T130215Z">
         <seg>Мені треба було менше говорити російською.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich plane in der Industrie zu arbeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T113836Z" creationid="krps" creationdate="20210304T113836Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -5897,6 +5929,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Im Moment suche ich ein Praktikum in einem Unternehmen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T114108Z" creationid="krps" creationdate="20210304T114108Z">
+        <seg>Зараз я шукаю практику на підприємстві.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Im Moment wohne ich alleine im Wohnheim.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T131335Z" creationid="Lenovo" creationdate="20210214T131335Z">
@@ -5957,6 +5997,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T213435Z" creationid="ADMIN" creationdate="20210303T213115Z">
         <seg>У першому семестрі я дуже хотів почувати себе як вдома, але потім зрозумів, що мені цього не потрібно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im nächsten Wintersemester will ich alle Fächer ablegen und die Projektarbeit machen, dann kommt die Masterarbeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T114044Z" creationid="krps" creationdate="20210304T114044Z">
+        <seg>У наступному зимовому семестрі я хочу скласти всі предмети і виконати проєктну роботу, а тоді вже візьмуся за магістерську.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8713,6 +8761,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Was kommt nach dem Studium?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T113727Z" creationid="krps" creationdate="20210304T113727Z">
+        <seg>Що робитимеш після навчання?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Was machst du jetzt?</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T152944Z" creationid="Диана" creationdate="20210204T122231Z">
@@ -8837,6 +8893,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T083709Z" creationid="ADMIN" creationdate="20210210T211849Z">
         <seg>Що плануєш робити після дисертації&lt;t0/&gt;&lt;t1/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Pläne hast du?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T113710Z" creationid="krps" creationdate="20210304T113710Z">
+        <seg>Які в тебе плани?</seg>
       </tuv>
     </tu>
     <tu>
