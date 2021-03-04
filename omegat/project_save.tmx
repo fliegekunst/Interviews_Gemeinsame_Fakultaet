@@ -3784,6 +3784,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Geburtstagseinladungen, das ist mir aufgefallen, heißt, dass man schon ein engerer Freund ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T093346Z" creationid="Диана" creationdate="20210304T093346Z">
+        <seg>Ч помітив, що запрошення на день народження, означають, що ти вже близький друг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Geht raus, redet mit den Menschen!</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T130806Z" creationid="Диана" creationdate="20210225T130806Z">
