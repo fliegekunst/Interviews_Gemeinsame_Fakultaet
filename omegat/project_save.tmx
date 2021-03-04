@@ -4168,6 +4168,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hier versteht man das anders.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T093653Z" creationid="Диана" creationdate="20210304T093653Z">
+        <seg>Тут це розуміють по-різному.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hier wird breiteres Wissen abgefragt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210204T125521Z" creationid="hp" creationdate="20210204T125521Z">
@@ -5269,6 +5277,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T213216Z" creationid="ADMIN" creationdate="20210303T213216Z">
         <seg>Я навчаюсь, працюю асистентом і хочу захищати докторську.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich verstehe die Denkweise der Ukrainer und ihre Lebensweise und verstehe die Hintergründe, da ich da aufgewachsen bin.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T093900Z" creationid="Диана" creationdate="20210304T093900Z">
+        <seg>Я розумію менталітет українців і їх спосіб життя, тому що виріс там.</seg>
       </tuv>
     </tu>
     <tu>
