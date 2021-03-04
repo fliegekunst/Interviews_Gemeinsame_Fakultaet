@@ -3248,6 +3248,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Diese Formate wurden oft verwendet, abhängig vom Dozierenden mal mehr mal weniger.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T141005Z" creationid="krps" creationdate="20210304T141005Z">
+        <seg>Ці формати часто використовувались, залежно від викладача, часом більше, часом менше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Diese Fragen beziehen sich fast auf das gesamte Material der Vorlesungen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210204T125129Z" creationid="hp" creationdate="20210204T125129Z">
@@ -3928,6 +3936,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es musste ja auch schnell organisiert werden, als man sich im Frühjahr entschieden hat, ein Online-Semester zu machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T141127Z" creationid="krps" creationdate="20210304T141127Z">
+        <seg>Все треба було швидко організувати, коли навесні вирішили проводити онлайн-семестр.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es war aber sehr hilfreich, jemanden &lt;t10/&gt;zu kennen&lt;t11/&gt; und &lt;t12/&gt;von dieser Person &lt;t13/&gt;die Mitschrift &lt;t14/&gt;zu &lt;t15/&gt;bekomm&lt;t16/&gt;en&lt;t17/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210224T153826Z" creationid="Диана" creationdate="20210204T124423Z">
@@ -4148,6 +4164,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T223458Z" creationid="Kate" creationdate="20210210T203313Z">
         <seg>Для мене і сам по собі саксонський діалект – проблема.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Für mich war es gut, weil ich mich alleine organisieren konnte, ich hatte jederzeit Zugriff auf Lernvideos und konnte selbst entscheiden, wann ich was mache.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T141238Z" creationid="krps" creationdate="20210304T141238Z">
+        <seg>Мені було добре, тому що я зміг самоорганізуватися, мав доступ до навчальних відео в будь-який час і міг сам вирішувати, коли що робити.</seg>
       </tuv>
     </tu>
     <tu>
