@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1896,6 +1896,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das hat auf jeden Fall meine Chancen in Magdeburg verstärkt, denn ein Praktikum gemacht zu haben, war wichtig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T111754Z" creationid="PC" creationdate="20210304T111754Z">
+        <seg>І ця пройдена пракитика, безумовно, допомогла мені в Магдебурзі. Вона дійсно важлива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das hat sich so ergeben.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210204T133056Z" creationid="ADMIN" creationdate="20210204T133056Z">
@@ -2284,6 +2292,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T171909Z" creationid="krps" creationdate="20210211T090840Z">
         <seg>Можливо, це занадто суворі правила захисту даних.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das war 2015. Ich war für drei Monate da.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T111121Z" creationid="PC" creationdate="20210304T111121Z">
+        <seg>Це було в 2015 році. Я провела там три місяці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2792,6 +2808,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Firma hieß Nukem Technologies, die haben sich mit Dekompositionen von Atomkraftwerken beschäftigt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T110958Z" creationid="PC" creationdate="20210304T110958Z">
+        <seg>Компанія називалася Nukem Technologies і займалася ?розкладом (декомпозицією) атомних електростанцій?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die GUDF hat mir sehr geholfen, das Studium in Deutschland anzufangen und das System des Studiums in Deutschland besser zu verstehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T080730Z" creationid="hp" creationdate="20210204T123715Z">
@@ -3140,6 +3164,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T112728Z" creationid="Lenovo" creationdate="20210225T112728Z">
         <seg>Ти навчався&lt;t0/&gt;під час коронавірусу&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du hast&lt;t0/&gt; ein Praktikum der Deutschen Wirtschaft abgeleistet?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T110136Z" creationid="PC" creationdate="20210304T110114Z">
+        <seg>Ти проходила&lt;t0/&gt; практику на німецькому приватному підприємстві, чи не так?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3868,6 +3900,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T130806Z" creationid="Диана" creationdate="20210225T130806Z">
         <seg>Виходьте та спілкуйтесь з людьми!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Genau, ich habe das Stipendium in Alzenau, östlich von Frankfurt bei Hanau, gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T110706Z" creationid="PC" creationdate="20210304T110706Z">
+        <seg>Так, я проходила її в Альценау. Це місто на сході від Франкфурта біля Ханау. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6457,6 +6497,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Jetzt arbeite ich zwar in einem komplett anderen Feld.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T111914Z" creationid="PC" creationdate="20210304T111816Z">
+        <seg>Зараз я вже працюю зовсім в іншій галузі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Jetzt denke ich, dass es schön wäre, zu promovieren, wahrscheinlich auch in Magdeburg.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T185415Z" creationid="ADMIN" creationdate="20210303T185415Z">
@@ -8781,6 +8829,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T130131Z" creationid="hp" creationdate="20210225T130131Z">
         <seg>Цікаво й те, що коли я розмовляю російсько, то дуже часто вживаю німецькі слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich aber einen Arbeitsplatz in der Industrie bekommen hätte, dann hätte mir das sicher geholfen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T112101Z" creationid="PC" creationdate="20210304T111901Z">
+        <seg>Але якби я влаштовувалася на роботу в промисловість, оті 3 місяці мені б точно стали в пригоді.</seg>
       </tuv>
     </tu>
     <tu>
