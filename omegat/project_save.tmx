@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2976,6 +2976,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Leute verstehen, dass man kaum Erfahrung hat und haben Verständnis.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T133328Z" creationid="krps" creationdate="20210304T133328Z">
+        <seg>Люди розуміють, що ти майже не маєш досвіду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Master-Arbeit ist eine gute Chance zu zeigen, was man kann, deswegen ist die Master-Arbeit wichtig.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T162128Z" creationid="PC" creationdate="20210303T162128Z">
@@ -5677,6 +5685,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T113032Z" creationid="hp" creationdate="20210225T113023Z">
         <seg>Я навчаюся в Німеччині також і з моральних принципів, адже тут я почуваю себе вільним та можу прожити своє життя як захочеться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich studiere jetzt im Master und es gibt bestimmte Inhalte, die ich schon in Kiew gelernt habe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T133534Z" creationid="krps" creationdate="20210304T133534Z">
+        <seg>Зараз я навчаюся в магістратурі, і є щось, що я вже вивчив у Києві.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9701,6 +9717,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210304T132248Z" creationid="krps" creationdate="20210304T132248Z">
         <seg>Наскільки залученим у життя ти почуваєшся?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie ist das Studium Maschinenbau in Deutschland und in der Ukraine?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T133440Z" creationid="krps" creationdate="20210304T133440Z">
+        <seg>Яка різниця в навчанні на факультеті машинобудування в Україні та Німеччині?</seg>
       </tuv>
     </tu>
     <tu>
