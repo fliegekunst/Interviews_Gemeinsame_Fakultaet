@@ -249,8 +249,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t1/&gt;Ich würde das g&lt;t2/&gt;erne als eigene Sprache kennen und das von der hochdeutschen Sprache trennen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T155156Z" creationid="Диана" creationdate="20210204T130424Z">
-        <seg>&lt;t1/&gt;Я хотів би знати діалект як свою власну мову та відокремити його від літературної.&lt;t2/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T085940Z" creationid="Диана" creationdate="20210204T130424Z">
+        <seg>&lt;t1/&gt;Я хотів би знати діалект як свою власну мову та відокремити його від літературної.&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -553,8 +553,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t4/&gt;Es gibt so viele Sachen zu erledigen, wie die Organisation der WG, r&lt;t5/&gt;echtliche Sachen, &lt;t6/&gt;das Visum, usw&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T085355Z" creationid="Диана" creationdate="20210204T123500Z">
-        <seg>&lt;t4/&gt;Так багато проблем, які треба вирішити, наприклад, такі, як організація спільного житла&lt;t5/&gt;
+      <tuv lang="uk" changeid="Диана" changedate="20210304T085630Z" creationid="Диана" creationdate="20210204T123500Z">
+        <seg>&lt;t4/&gt;Так багато проблем, які треба вирішити, наприклад, такі, як організація спільного житла,&lt;t5/&gt;
 юридичні питання, &lt;t6/&gt;віза тощо.&lt;t7/&gt;</seg>
       </tuv>
     </tu>
@@ -4834,8 +4834,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe super viele Leute auf Partys kennen gelernt, mit denen &lt;t22/&gt;ich&lt;t23/&gt; super quatschen&lt;t24/&gt; konnte&lt;t25/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T153953Z" creationid="Диана" creationdate="20210204T124734Z">
-        <seg>Саме так у мене з’явилося багато знайомих, з якими на вечірках з якими міг дуже добре поспілкуватися.&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T085740Z" creationid="Диана" creationdate="20210204T124734Z">
+        <seg>Саме так у мене з’явилося багато знайомих з якими я міг дуже добре поспілкуватися.&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5666,8 +5666,8 @@
       <tuv lang="de-DE">
         <seg>In 10 Jahren sprichst du vielleicht auch so.&lt;t0/&gt; &lt;t1/&gt;(Nickt)</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210218T111230Z" creationid="Диана" creationdate="20210204T130048Z">
-        <seg>Можливо, через 10 років ви теж будете так говорити.&lt;t0/&gt; &lt;t1/&gt;(Киває)</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T085759Z" creationid="Диана" creationdate="20210204T130048Z">
+        <seg>Можливо, через 10 років ти теж будете так говорити.&lt;t0/&gt; &lt;t1/&gt;(Киває)</seg>
       </tuv>
     </tu>
     <tu>
