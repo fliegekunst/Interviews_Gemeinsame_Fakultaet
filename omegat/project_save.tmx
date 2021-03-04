@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7419,8 +7419,8 @@
       <tuv lang="de-DE">
         <seg>Manche Absolventen der GUDF arbeiten bzw. promovieren sich an der OVGU und ihre Kollegen oder sogar sie brauchen manchmal HiWi-Kräfte.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T200531Z" creationid="ADMIN" creationdate="20210303T194541Z">
-        <seg>Деякі випускники, які в цьому університеті захищають докторську ступінь інколи потребують допомоги асистента.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210304T120323Z" creationid="ADMIN" creationdate="20210303T194541Z">
+        <seg>Деякі випускники СУНФ захищають докторську в університеті Отто фон Ґеріке, тому інколи вони потребують допомоги асистента.</seg>
       </tuv>
     </tu>
     <tu>
