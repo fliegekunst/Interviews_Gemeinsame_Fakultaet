@@ -9273,6 +9273,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn du etwas falsch gemacht hast, schimpft keiner mit dir.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T133251Z" creationid="krps" creationdate="20210304T133251Z">
+        <seg>Якщо ти щось неправильно робиш, то ніхто тебе за це не сварить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn du etwas werden willst, musst du früh aufstehen und viel arbeiten.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T125912Z" creationid="nasty" creationdate="20210218T125912Z">
