@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2824,6 +2824,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Atmosphäre ist sehr offen und man hieß mich gut willkommen und man fühlt sich sehr wohl.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T115541Z" creationid="PC" creationdate="20210304T115503Z">
+        <seg>Атмосфера тут приємна, тебе завжди раді бачити і взагалі тут просто комфортно знаходитись.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Beziehungen sind anders als bei uns.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T094450Z" creationid="ADMIN" creationdate="20210212T123757Z">
@@ -3284,6 +3292,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T223807Z" creationid="ADMIN" creationdate="20210210T175541Z">
         <seg>Думаю, ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ehrlich gesagt: Keine Ahnung.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T115706Z" creationid="PC" creationdate="20210304T115706Z">
+        <seg>Відверто кажучи, сама ще не знаю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5785,6 +5801,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich wohne erst einmal hier in Düsseldorf mit meinem Freund und wir suchen eine Beschäftigung zusammen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T115846Z" creationid="PC" creationdate="20210304T115846Z">
+        <seg>Поки що я живу в Дюссельдорфі, зі своїм хлопцем і ми шукаємо роботу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich wohne in einer WG mit Artur Koval und Artem Mai&lt;t0/&gt;d&lt;t1/&gt;anovich.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210210T220401Z" creationid="krps" creationdate="20210210T220352Z">
@@ -6029,6 +6053,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T211519Z" creationid="ADMIN" creationdate="20210303T211519Z">
         <seg>В результаті ми були раді, що мали такі предмети, тому що вони виявилися дуже цікавими.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im Prinzip bin ich aber offen für viele Möglichkeiten und versuche, vieles für mich offen zu halten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T120334Z" creationid="PC" creationdate="20210304T120334Z">
+        <seg>Але я відкрита для багатьох можливостей, і з раздістю б спробувала щось нове.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6733,6 +6765,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210304T111914Z" creationid="PC" creationdate="20210304T111816Z">
         <seg>Зараз я вже працюю зовсім в іншій галузі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Jetzt bin ich am Max-Planck-Institut, das ist sehr international, da habe ich das Gefühl nicht mehr.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T115511Z" creationid="PC" creationdate="20210304T115319Z">
+        <seg>Зараз я в Інституті Товариства Макса Планка, де навчаються і працюють люди з різних куточків світу, тому тут таких  неприємних ситуацій поменше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7921,6 +7961,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mittlerweile fällt es mir auch nicht mehr so schwer, Witz zu verstehen oder zu erzählen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T115621Z" creationid="PC" creationdate="20210304T115621Z">
+        <seg>Ну і жарти я вже розумію і розповідаю краще.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mittlerweile gibt es so viele &lt;t6/&gt;andere &lt;t7/&gt;ausländische Studierende.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T120909Z" creationid="ADMIN" creationdate="20210212T120909Z">
@@ -9001,6 +9049,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Welche Pläne &lt;t0/&gt;hast du&lt;t1/&gt; für die Zukunft?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T115649Z" creationid="PC" creationdate="20210304T115649Z">
+        <seg>Які в тебе &lt;t0/&gt;плани&lt;t1/&gt; на майбутнє?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Welche Pläne hast du für die Zukunft?</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210212T201437Z" creationid="hp" creationdate="20210204T132626Z">
@@ -9853,6 +9909,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123401Z" creationid="nasty" creationdate="20210218T123401Z">
         <seg>Ми продаємо зернозбиральні та інші машиини, також маємо філіали в понад 30 країнах..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir wollen zusammen bleiben und suchen etwas in geographischer Nähe zueinander.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T120125Z" creationid="PC" creationdate="20210304T120125Z">
+        <seg>Ми плануємо залишитися разом і шукаємо місце, яке підійде нам обом.</seg>
       </tuv>
     </tu>
     <tu>
