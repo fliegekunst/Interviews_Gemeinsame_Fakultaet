@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2168,6 +2168,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das ist schade, denn Magdeburg gefällt mir sehr, ich wohne schon ein Jahr hier.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T114425Z" creationid="krps" creationdate="20210304T114425Z">
+        <seg>Шкода, оскільки Магдебург мені дуже подобається, і я живу тут вже цілий рік.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das ist selbstverständlich, weil die Zukunft immer unbekannt ist.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210212T155421Z" creationid="krps" creationdate="20210211T090258Z">
@@ -2516,6 +2524,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T185517Z" creationid="hp" creationdate="20210211T185517Z">
         <seg>І сидіти цілими днями вдома теж не круто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Den größten Anteil der Zeit für Deutsch widmen!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T114602Z" creationid="krps" creationdate="20210304T114602Z">
+        <seg>Віддавати найбільше часу німецькій!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6153,6 +6169,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In Magdeburg gibt es aber fast keine Praktikumsmöglichkeiten in meinem Schwerpunkt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T114312Z" creationid="krps" creationdate="20210304T114312Z">
+        <seg>Однак у Магдебурзі у мене майже немає можливостей для стажування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In Magdeburg spreche ich meistens im Rahmen der HiWi-Tätigkeiten oder Lehrveranstaltungen Deutsch.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T085100Z" creationid="krps" creationdate="20210210T220130Z">
@@ -8845,6 +8869,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T110728Z" creationid="Lenovo" creationdate="20210214T131947Z">
         <seg>Що б ти порадив іншим українським студентам, які приїжджають до Німеччини?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was würdest du ukrainischen Studierenden raten, die anfangen zu studieren?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T114523Z" creationid="krps" creationdate="20210304T114513Z">
+        <seg>Що б ти порадив українським студентам, які тільки починають вчитися?</seg>
       </tuv>
     </tu>
     <tu>
