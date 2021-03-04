@@ -2824,6 +2824,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Musik und die Kleidung in Deutschland sind manchmal für mich gewöhnungsbedürftig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T092049Z" creationid="Диана" creationdate="20210304T092049Z">
+        <seg>Мені знадобився час, щоб звикнути до музики і одягу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die OVGU Magdeburg war sehr präsent während unseres Studiums in Kiew, sie haben Präsentationen gemacht und die Konferenzen waren gut organisiert.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T105737Z" creationid="hp" creationdate="20210213T173237Z">
@@ -4188,6 +4196,15 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T122404Z" creationid="Диана" creationdate="20210204T122404Z">
         <seg>Я працюю в Цвоніці в аналітичному відділі та на фабричному машинобудуванні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich beobachte sehr genau das Verhalten und das Aussehen der Menschen in Deutschland, dabei fällt mir natürlich vieles auf.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T091858Z" creationid="Диана" creationdate="20210304T091858Z">
+        <seg>Я дуже уважно спостерігаю за поведінкою і зовнішністю людей в Німеччині, при цьому, звичайно, багато кидається в очі
+.</seg>
       </tuv>
     </tu>
     <tu>
