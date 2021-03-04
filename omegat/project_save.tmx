@@ -167,6 +167,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t0/&gt;Insgesamt war das okay.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T141730Z" creationid="krps" creationdate="20210304T141730Z">
+        <seg>&lt;t0/&gt;Але загалом це було класно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Manchmal &lt;t1/&gt;verstehe &lt;t2/&gt;ich &lt;t3/&gt;spezifische Wörter oder Redewendungen nicht, &lt;t4/&gt;besonders, &lt;t5/&gt;wenn sie sich auf Lieder oder Filme beziehen, die ich nicht kenne.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210304T123134Z" creationid="Диана" creationdate="20210225T105911Z">
@@ -1644,6 +1652,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210304T134000Z" creationid="krps" creationdate="20210304T134000Z">
         <seg>Можна попрацювати лаборантом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann sitzt man alleine zu Hause und wurstelt sich durchs Buch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T141637Z" creationid="krps" creationdate="20210304T141637Z">
+        <seg>Тоді ти сидиш вдома один і лазиш по книзі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7868,6 +7884,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T210426Z" creationid="ADMIN" creationdate="20210303T210426Z">
         <seg>Інколи були тяжко зрозуміти деяких лекторів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manchmal wird einem ein großes Dokument oder ein Buch geschickt und man soll die Inhalte bearbeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T141551Z" creationid="krps" creationdate="20210304T141551Z">
+        <seg>А іноді надсилали великий документ чи книгу, і потрібно було все самостіно опрацювати.</seg>
       </tuv>
     </tu>
     <tu>
