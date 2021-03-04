@@ -521,8 +521,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t36/&gt;Ich arbeite bei „&lt;t37/&gt;FAM&lt;t38/&gt;“&lt;t39/&gt; Feinförderanlagen und &lt;t40/&gt;Baumasc&lt;t41/&gt;hinen, habe mich dort für eine &lt;t42/&gt;M&lt;t43/&gt;asterarbeit beworben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T195337Z" creationid="Kate" creationdate="20210303T195337Z">
-        <seg>&lt;t36/&gt;Я працюю у "FAM" Fein Förderanlagen und Baumaschinen і там подала заявку на кандидатську дисертацію.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T115544Z" creationid="Kate" creationdate="20210303T195337Z">
+        <seg>&lt;t36/&gt;Я працюю у "FAM" - компанії з виробництва конвеєрних систем та будівельної техніки і там же я подала заявку на магістерську дисертацію.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2106,8 +2106,8 @@
       <tuv lang="de-DE">
         <seg>Das ist gut gelaufen und ich habe&lt;t46/&gt; dort meine Masterarbeit geschr&lt;t47/&gt;ieben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T195511Z" creationid="Kate" creationdate="20210303T195511Z">
-        <seg>Все пройшло добре, і я написала там магістерську дисертацію.&lt;t46/&gt;&lt;t47/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T115605Z" creationid="Kate" creationdate="20210303T195511Z">
+        <seg>Все пройшло добре, і я написала там магістерську.&lt;t46/&gt;&lt;t47/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3626,8 +3626,8 @@
       <tuv lang="de-DE">
         <seg>Es ist aber vieles möglich, man kann auch in der Ukraine Projekte schreiben und mit einem Maschinenbau Studium gut verdienen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T224357Z" creationid="Kate" creationdate="20210210T212112Z">
-        <seg>Але багато що насправді можливо, ви також можете засновувати проєкти в Україні та заробляти непогані гроші, здобувши освіту в галузі машинобудування.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T112808Z" creationid="Kate" creationdate="20210210T212112Z">
+        <seg>Але багато що насправді можливо, ви також можете ініціювати проєкти в Україні та заробляти непогані гроші, здобувши освіту в галузі машинобудування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5779,8 +5779,8 @@
       <tuv lang="de-DE">
         <seg>Ich wollte &lt;t4/&gt;aber &lt;t5/&gt;in &lt;t6/&gt;die R&lt;t7/&gt;ichtu&lt;t8/&gt;n&lt;t9/&gt;g &lt;t10/&gt;Konstruktion gehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T193521Z" creationid="Kate" creationdate="20210303T193521Z">
-        <seg>Але я хотіла більше займатися проектуванням&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T114556Z" creationid="Kate" creationdate="20210303T193521Z">
+        <seg>Але я хотіла більше займатися проєктуванням&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6459,8 +6459,8 @@
       <tuv lang="de-DE">
         <seg>In meinem Studium haben wir meist Berechnungen gemacht und Werkstoffe untersucht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T181916Z" creationid="Kate" creationdate="20210303T181916Z">
-        <seg>Під час мого навчання ми в основному проводили розрахунки та досліджували матеріали.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T113133Z" creationid="Kate" creationdate="20210303T181916Z">
+        <seg>Під час навчання ми в основному проводили розрахунки та досліджували матеріали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7771,8 +7771,8 @@
       <tuv lang="de-DE">
         <seg>Mir wurde gera&lt;t11/&gt;ten, zum Lehrstuhl &lt;t12/&gt;der M&lt;t13/&gt;aschinenbau&lt;t14/&gt;-I&lt;t15/&gt;nformatik &lt;t16/&gt;zu&lt;t17/&gt; gehen, das war interessant, dann habe ich da &lt;t18/&gt;das M&lt;t19/&gt;asterprojekt geschrieben und dann wollte ich dort auch die &lt;t20/&gt;Masterarbeit schreiben und do&lt;t21/&gt;rt bleiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T193924Z" creationid="Kate" creationdate="20210303T193924Z">
-        <seg>Мені порадили піти на кафедру машинобудування&lt;t11/&gt;та інформатики, &lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;це було цікаво, там я написала&lt;t18/&gt; магістерський проєкт&lt;t19/&gt; а потім хотіла написати і магістерську роботу &lt;t20/&gt;і залишитися там&lt;t21/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T114612Z" creationid="Kate" creationdate="20210303T193924Z">
+        <seg>Мені порадили піти на кафедру машинобудування&lt;t11/&gt;та інформатики, &lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;це було цікаво, там я написала&lt;t18/&gt; магістерський проєкт&lt;t19/&gt;, а потім хотіла написати і магістерську дисертацію &lt;t20/&gt;і залишитися там&lt;t21/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8093,6 +8093,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T124555Z" creationid="krps" creationdate="20210211T081729Z">
         <seg>Але це може тривати вічність.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Produktionsentwicklung&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T112832Z" creationid="Kate" creationdate="20210304T112832Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -8475,8 +8483,8 @@
       <tuv lang="de-DE">
         <seg>Studierte in Magdeburg zwischen 2016-2018</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T181554Z" creationid="Kate" creationdate="20210303T181554Z">
-        <seg>Вивчала розвиток вирбництва в Магдебурзі в 2016-2018 роках</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T112845Z" creationid="Kate" creationdate="20210303T181554Z">
+        <seg>Вивчала розвиток вирбництва в Магдебурзі в 2016-2018 роках.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8547,8 +8555,8 @@
       <tuv lang="de-DE">
         <seg>Und danach bin ich dort geblieben&lt;t48/&gt; und arbeite seitdem dort a&lt;t49/&gt;ls Konstrukteurin in Projekten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T195702Z" creationid="Kate" creationdate="20210303T195702Z">
-        <seg>А потім я залишилася там і з тих пір працюю інженером-конструктором над проєктами&lt;t48/&gt;&lt;t49/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T115746Z" creationid="Kate" creationdate="20210303T195702Z">
+        <seg>А згодом залишилася там і з тих пір працюю інженером-конструктором над проєктами&lt;t48/&gt;&lt;t49/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10075,8 +10083,8 @@
       <tuv lang="de-DE">
         <seg>„Wenn man will, kann man hier in Magdeburg alles machen!“</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T181359Z" creationid="Kate" creationdate="20210303T181359Z">
-        <seg>„Якщо ти захочеш, то зможеш зробити абсолютно все саме тут, у Магдебурзі!“</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T113123Z" creationid="Kate" creationdate="20210303T181359Z">
+        <seg>„Якщо ти захочеш, то зможеш зробити у Магдебурзі абсолютно все!“</seg>
       </tuv>
     </tu>
     <tu>
