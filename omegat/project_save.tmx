@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1620,6 +1620,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210304T113506Z" creationid="krps" creationdate="20210304T113506Z">
         <seg>Потім роботу оцінить керівник.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann wollte ich &lt;t0/&gt;einen Witz erzählen, habe aber die richtigen Worte nicht gefunden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T114954Z" creationid="PC" creationdate="20210304T114954Z">
+        <seg>Я ще хотіла &lt;t0/&gt;розповісти їм анекдота, але не змогла підібрати правильні слова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4715,8 +4723,8 @@
       <tuv lang="de-DE">
         <seg>Ich fühle mich nicht 100%ig integriert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210304T113528Z" creationid="PC" creationdate="20210304T113528Z">
-        <seg>Не можу скзати, що я повныстю освоїлася.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210304T113646Z" creationid="PC" creationdate="20210304T113528Z">
+        <seg>Не можу скзати, що я повністю освоїлася.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4741,6 +4749,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T105344Z" creationid="hp" creationdate="20210211T185452Z">
         <seg>Я думаю, що я зміг би добре себе організувати, але процес навчання вже не подобався мені так як раніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich glaube, man ist sehr gut integriert, wenn man dieselben Witze kennt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T114224Z" creationid="PC" creationdate="20210304T114224Z">
+        <seg>От коли людина починає жартувати як місцеві жителі, тоді можна сказати, що вона освоїлася.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4813,6 +4829,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T112145Z" creationid="Lenovo" creationdate="20210214T132841Z">
         <seg>Я просто спілкувався з людьми під час лекцій та семінарів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe bei meinem Praktikum immer mit den anderen Kollegen Mittag gegessen und ich konnte nicht über das lachen, was die anderen witzig fanden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T114855Z" creationid="PC" creationdate="20210304T114807Z">
+        <seg>Під час практики я обідала з колегами  і, чесно кажучи, не розуміла їхніх жартів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6869,6 +6893,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210210T194653Z" creationid="Kate" creationdate="20210204T123240Z">
         <seg>Родом із&lt;t0/&gt; м. Олександрія Кіровоградської області</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kommunikation läuft anders ab in Deutschland und auch die Werte, die Menschen haben, sind anders.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="PC" changedate="20210304T113746Z" creationid="PC" creationdate="20210304T113746Z">
+        <seg>Манера спілкування та цінності у людей тут інші.</seg>
       </tuv>
     </tu>
     <tu>
