@@ -24,8 +24,8 @@
       <tuv lang="de-DE">
         <seg>(nickt) &lt;t0/&gt; &lt;t1/&gt;Wenn du an diese Zukunft denkst, hast du Angst&lt;t2/&gt; davor, keinen Job zu finden oder Probleme zu bekommen, alleine in Deutschland zu leben&lt;t3/&gt;?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T125113Z" creationid="Диана" creationdate="20210225T125113Z">
-        <seg>&lt;t0/&gt; (киває) Коли думаєш про майбутнє, боїшся не знайти роботу або зіштовхнутися з проблемами, які пов'язані з самотністю в Німеччині.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T130440Z" creationid="Диана" creationdate="20210225T125113Z">
+        <seg>&lt;t0/&gt; (киває) Коли думаєш про майбутнє у тебе є страх не знайти роботу або зіштовхнутися з проблемами, які пов'язані з самотністю в Німеччині?&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,8 +1714,8 @@
       <tuv lang="de-DE">
         <seg>Das Leben der anderen Ukrainer, d.h. meiner Kommilitonen, die schon länger hier leben und arbeiten, zeigt mir, dass sie wenige Freunde &lt;t2/&gt;haben und eher unter sich bleiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113736Z" creationid="Диана" creationdate="20210225T125357Z">
-        <seg>Життя інших українців, тобто моїх однокурсників, які довгий час тут жили та працювали, показує, що у них мало друзів і вони, як правило, тримаються один одного&lt;t2/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T130506Z" creationid="Диана" creationdate="20210225T125357Z">
+        <seg>Життя інших українців, тобто моїх однокурсників, які довгий час тут жили та працювали, показує, що у них мало друзів і вони, як правило, тримаються один за одного&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,8 +2242,8 @@
       <tuv lang="de-DE">
         <seg>Das klappt meistens ganz gut, man kann viele verschiedene Kulturen kennenlernen und findet immer Menschen, die einen so, wie man ist, akzeptieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113704Z" creationid="Диана" creationdate="20210225T123848Z">
-        <seg>Це в основному функціонує дуже добре, ви можете познайомитися з багатьма різними культурами й завжди знайдете тих людей, які приймуть вас такими, якими ви є.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T130248Z" creationid="Диана" creationdate="20210225T123848Z">
+        <seg>В основному це функціонує дуже добре, ви можете познайомитися з багатьма різними культурами й завжди знайдете тих людей, які приймуть вас такими, якими ви є.</seg>
       </tuv>
     </tu>
     <tu>
