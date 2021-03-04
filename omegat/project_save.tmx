@@ -1248,6 +1248,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Bei mir in der Firma sind die ersten Kollegen schon um 6 Uhr auf Arbeit!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T091330Z" creationid="Диана" creationdate="20210304T091330Z">
+        <seg>В компанії де я працюю деякі колеги вже о 6 годині на роботі!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Bei mir war das einmal umgekehrt.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T160544Z" creationid="ADMIN" creationdate="20210303T160544Z">
@@ -3466,8 +3474,8 @@
       <tuv lang="de-DE">
         <seg>Es ist kein Klischee, dass Deutsch sehr früh aufstehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T091109Z" creationid="Диана" creationdate="20210304T091109Z">
-        <seg>Це не кліше, що німці встають дуже рано.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T091517Z" creationid="Диана" creationdate="20210304T091109Z">
+        <seg>Це не стереотип, що німці встають дуже рано.</seg>
       </tuv>
     </tu>
     <tu>
