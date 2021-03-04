@@ -3000,10 +3000,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Konferenz war sehr interessant, es gab viele progressive Themen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T140644Z" creationid="krps" creationdate="20210304T140644Z">
+        <seg>Конференція була дуже цікавою через те, що обговорювали прогресивні теми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Leute sind &lt;t19/&gt;f&lt;t20/&gt;reundlich und wenn du Fehler machst ist das nicht schlimm.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210304T124031Z" creationid="Kate" creationdate="20210303T213222Z">
         <seg>Люди доброзичливі, і якщо ви навіть робите помилки, це взагалі не має значення.&lt;t19/&gt;&lt;t20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Leute sind sehr nett in Kirgistan.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T140445Z" creationid="krps" creationdate="20210304T140445Z">
+        <seg>В Киргизстані люди ну дуже привітні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10116,6 +10132,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T151422Z" creationid="PC" creationdate="20210303T151422Z">
         <seg>Ми самостійно вибирали свої дисципліни, думали від чого відштовхуватися і що нас найбільше цікавить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir haben viele Leute kennen gelernt und mit manchen bin ich heute noch befreundet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T140400Z" creationid="krps" creationdate="20210304T140400Z">
+        <seg>Ми познайомилися з багатьма людьми, і з деякими я ще досі спілкуюся.</seg>
       </tuv>
     </tu>
     <tu>
