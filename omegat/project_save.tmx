@@ -1960,6 +1960,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das hat mir sehr geholfen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T133551Z" creationid="krps" creationdate="20210304T133551Z">
+        <seg>Це мені дуже допомогло.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das hat sich so ergeben.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210204T133056Z" creationid="ADMIN" creationdate="20210204T133056Z">
@@ -4412,6 +4420,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T100717Z" creationid="hp" creationdate="20210301T100717Z">
         <seg>В Німеччині атмосфера більш рослаблена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier in Deutschland gibt es im Studium mehr Praxis als in der Ukraine.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T133722Z" creationid="krps" creationdate="20210304T133722Z">
+        <seg>Тут у Німеччині більше практики, ніж в Україні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9309,6 +9325,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T125912Z" creationid="nasty" creationdate="20210218T125912Z">
         <seg>Якщо ви хочете досягти певних успіхів, вам потрібно рано прокидатися та плідно працювати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn du praktische Erfahrungen sammeln möchtest, kannst du hier die Dozierenden fragen, ob sie Arbeit für dich haben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T133839Z" creationid="krps" creationdate="20210304T133839Z">
+        <seg>Якщо ти хочеш отримати практичний досвід, то можна запитати у викладачів, чи є в них для вас робота.</seg>
       </tuv>
     </tu>
     <tu>
