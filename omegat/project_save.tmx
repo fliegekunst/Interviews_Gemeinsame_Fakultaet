@@ -3442,8 +3442,8 @@
       <tuv lang="de-DE">
         <seg>Es geht um ein Hybridwerkzeug Das kommt aus der Industrie, deswegen darf ich nicht mehr sagen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T190250Z" creationid="ADMIN" creationdate="20210303T190250Z">
-        <seg>Йдеться про гібридний інструмент. Він походить з промисловості, тому я не можу більше нічого сказати.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210304T115536Z" creationid="ADMIN" creationdate="20210303T190250Z">
+        <seg>Йдеться про гібридний інструмент. Це поняття походить з промисловості, тому це все, що я можу сказати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4402,8 +4402,8 @@
       <tuv lang="de-DE">
         <seg>Hiwi kann man einfach werden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T194906Z" creationid="ADMIN" creationdate="20210303T193728Z">
-        <seg>Таким науковим асистентом легко можна стати.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210304T115333Z" creationid="ADMIN" creationdate="20210303T193728Z">
+        <seg>Таким лаборантом легко можна стати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9291,8 +9291,8 @@
       <tuv lang="de-DE">
         <seg>Wichtig ist auch eine Hiwi-Stelle.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T193342Z" creationid="ADMIN" creationdate="20210303T192303Z">
-        <seg>До того ж будь-яка добровільна наукова діяльність також дуже важлива.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210304T114841Z" creationid="ADMIN" creationdate="20210303T192303Z">
+        <seg>Посада в лабораторії також дуже важлива.</seg>
       </tuv>
     </tu>
     <tu>
