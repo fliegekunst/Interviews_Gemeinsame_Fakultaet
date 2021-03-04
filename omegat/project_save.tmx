@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1812,6 +1812,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210304T090437Z" creationid="Диана" creationdate="20210204T133320Z">
         <seg>Я не думаю, що німецька банківська система настільки зручна, як українська&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das finde ich gut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T111306Z" creationid="krps" creationdate="20210304T111306Z">
+        <seg>Це справді класно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6649,6 +6657,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Lieber durchfallen als eine vier bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T111400Z" creationid="krps" creationdate="20210304T111400Z">
+        <seg>Краще провалитися, ніж отримати четвірку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Macht mich das dümmer?</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T162020Z" creationid="PC" creationdate="20210213T162020Z">
@@ -7805,6 +7821,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T091143Z" creationid="ADMIN" creationdate="20210210T162129Z">
         <seg>Ти захищаєш дисертацію німецькою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Prüfungen in Deutschland bereite ich sehr streng vor und nehme das sehr ernst.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T111517Z" creationid="krps" creationdate="20210304T111517Z">
+        <seg>До іспитів в Німеччині я готуюся дуже серйозно.</seg>
       </tuv>
     </tu>
     <tu>
