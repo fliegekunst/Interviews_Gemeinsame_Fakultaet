@@ -834,8 +834,8 @@
       <tuv lang="de-DE">
         <seg>Aber jeder versteht sowieso, dass ich Ausländer bin&lt;t14/&gt;, und gibt sich Mühe, mich zu verstehen und mir zu helfen&lt;t15/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T111247Z" creationid="Диана" creationdate="20210225T111247Z">
-        <seg>Але все одно всі розуміють, що я іноземець і докладають максимум зусиль, щоб зрозуміти і допомогти мені.&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T112429Z" creationid="Диана" creationdate="20210225T111247Z">
+        <seg>Але все одно всі розуміють, що я іноземець і докладають максимум зусиль, щоб зрозуміти й допомогти мені.&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2746,8 +2746,8 @@
       <tuv lang="de-DE">
         <seg>Die &lt;t8/&gt;deutschen &lt;t9/&gt;Artikel sind problematisch&lt;t10/&gt;, da mache ich oft Fehler&lt;t11/&gt; und nur wenige Menschen korrigieren mich, vielleicht, weil sie mich nicht andauernd unterbrechen wollen und höflich &lt;t12/&gt;bleiben&lt;t13/&gt; wollen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T110728Z" creationid="Диана" creationdate="20210225T110728Z">
-        <seg>Німецькі артиклі проблематичні, я часто роблю помилки і мало хто виправляє мене, можливо, тому, що вони не хочуть мене постійно перебивати і хочуть залишатися вічливими.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt; .</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T112407Z" creationid="Диана" creationdate="20210225T110728Z">
+        <seg>Німецькі артиклі проблематичні, я часто роблю помилки й мало хто виправляє мене, можливо, тому, що вони не хочуть мене постійно перебивати та хочуть залишатися ввічливими&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -5363,8 +5363,8 @@
       <tuv lang="de-DE">
         <seg>Ich rede &lt;t6/&gt;oft &lt;t7/&gt;nach Bauchgefühl und schäme mich nicht mehr, Fehler zu machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T110218Z" creationid="Диана" creationdate="20210225T110218Z">
-        <seg>Я часто прислуховуюсь до власної інтуіції й більше не соромлюся робити помилки&lt;t6/&gt;&lt;t7/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T105939Z" creationid="Диана" creationdate="20210225T110218Z">
+        <seg>Я часто прислуховуюсь до власної інтуїції й більше не соромлюся робити помилки&lt;t6/&gt;&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
