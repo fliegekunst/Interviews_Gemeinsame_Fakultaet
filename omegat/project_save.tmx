@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3794,8 +3794,8 @@
       <tuv lang="de-DE">
         <seg>Für meine Masterprojektarbeit würde ich aber gerne schneller lesen &lt;t0/&gt;können.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T171018Z" creationid="ADMIN" creationdate="20210303T170834Z">
-        <seg>Однак зараз, коли я роблю магістерський проєкт, я б хотів мати змогу читати швидше&lt;t0/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210304T111351Z" creationid="ADMIN" creationdate="20210303T170834Z">
+        <seg>Однак зараз, коли я роблю магістерський проєкт, я б хотів читати швидше&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6091,8 +6091,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine haben alle Studierenden andere Aufgaben, man muss Prüfungsfragen ziehen und dann die jeweilige Aufgabe bearbeiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T154417Z" creationid="ADMIN" creationdate="20210303T154417Z">
-        <seg>В Україні ж студенти мають різні завдання. Витягнувши один із декількох екзаменаційних білетів, студент має трохи часу, щоб опрацювати питання.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210304T111204Z" creationid="ADMIN" creationdate="20210303T154417Z">
+        <seg>В Україні ж студенти мають різні завдання. Витягнувши один із декількох екзаменаційних білетів, студент має трохи часу, щоб ознайомитися з питанням.</seg>
       </tuv>
     </tu>
     <tu>
