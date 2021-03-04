@@ -3312,6 +3312,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es gab auch die Entscheidung, dass man Freiversuche bei Prüfungen hat.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T111243Z" creationid="krps" creationdate="20210304T111243Z">
+        <seg>Взагалі то, іспити можна перескладати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gab bestimmt einen Moment, an dem ich gemerkt habe, dass ich frei reden kann.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210204T131112Z" creationid="Диана" creationdate="20210204T131112Z">
@@ -7189,6 +7197,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T073246Z" creationid="krps" creationdate="20210211T073246Z">
         <seg>Інколи трапляються ситуації, коли я не можу нічого сказати без словника.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manchmal schreibt man Prüfungen und merkt danach: „Oh, vielleicht war das nichts!“ Wegen Corona sollten wir alles selbst machen und selbst studieren, das ist bei Physik nicht so leicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T111046Z" creationid="krps" creationdate="20210304T111046Z">
+        <seg>Іноді ви складаєте іспити, а потім думаєте: „Ой, треба було не так написати!“ Через пандемію треба все самостійно робити та вчити, з фізикою це зробити нелегко.</seg>
       </tuv>
     </tu>
     <tu>
