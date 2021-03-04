@@ -2946,8 +2946,8 @@
       <tuv lang="de-DE">
         <seg>Die Leute sind &lt;t19/&gt;f&lt;t20/&gt;reundlich und wenn du Fehler machst ist das nicht schlimm.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213222Z" creationid="Kate" creationdate="20210303T213222Z">
-        <seg>Люди доброзичливі, і якщо ви робите помилки, це взагалі не має значення.&lt;t19/&gt;&lt;t20/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T124031Z" creationid="Kate" creationdate="20210303T213222Z">
+        <seg>Люди доброзичливі, і якщо ви навіть робите помилки, це взагалі не має значення.&lt;t19/&gt;&lt;t20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,8 +3522,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt den Stereotyp, dass &lt;t0/&gt;Deutsche distanziert seien.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213419Z" creationid="Kate" creationdate="20210303T213419Z">
-        <seg>Існує стереотип, що німці віддалені.&lt;t0/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T124107Z" creationid="Kate" creationdate="20210303T213419Z">
+        <seg>Існує стереотип, що німці стримані.&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5003,8 +5003,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe ein viermonatiges Praktikum in Stuttgart gemacht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213635Z" creationid="Kate" creationdate="20210303T213635Z">
-        <seg>Я проходила чотиримісячну практику в Штутгарті.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T124221Z" creationid="Kate" creationdate="20210303T213635Z">
+        <seg>Я просто проходила чотиримісячну практику в Штутгарті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6763,8 +6763,8 @@
       <tuv lang="de-DE">
         <seg>Jemand schlägt vor, &lt;t13/&gt;irgendwohin&lt;t14/&gt; zu gehen und du gehst mit und lernst neue Leute kennen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213100Z" creationid="Kate" creationdate="20210303T213100Z">
-        <seg>Хтось пропонує кудись піти, ти йдеш, так і знайомишся.&lt;t13/&gt;&lt;t14/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T123933Z" creationid="Kate" creationdate="20210303T213100Z">
+        <seg>Хтось пропонує кудись піти, я йду, так і знайомлюсь.&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10099,8 +10099,8 @@
       <tuv lang="de-DE">
         <seg>Ü&lt;t1/&gt;ber uns &lt;t2/&gt;Ukrainer &lt;t3/&gt;kann man auch vieles sagen, manche sind verschlossen, manche sind offener.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213508Z" creationid="Kate" creationdate="20210303T213508Z">
-        <seg>Можна багато чого сказати про нас, українців, хтось закритий, хтось більш відкритий.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T124122Z" creationid="Kate" creationdate="20210303T213508Z">
+        <seg>Можна багато чого сказати про нас, українців, хтось замкнутий, хтось більш відкритий.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
