@@ -21,3 +21,4 @@ promovieren	захищати докторську дисертацію
 Mechatroniker	інженер з мехатроніки
 Hochdeutsch	літературна німецька
 Karosseriebau	конструювання кузовів
+Fachlabor	лабораторна робота
