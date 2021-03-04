@@ -586,8 +586,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t5/&gt;Hier erwarten die &lt;t6/&gt;Dozierenden&lt;t7/&gt; deine Gedanken&lt;t8/&gt; und&lt;t9/&gt; deine Meinung&lt;t10/&gt; zu einem bestimmten Thema&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T211259Z" creationid="Kate" creationdate="20210303T211259Z">
-        <seg>&lt;t5/&gt;Тут лектори чекають ваших роздумів та вашої точки зору щодо певної теми.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T123044Z" creationid="Kate" creationdate="20210303T211259Z">
+        <seg>&lt;t5/&gt;Тут же лектори чекають ваших роздумів та вашої точки зору щодо певної теми.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,8 +4002,8 @@
       <tuv lang="de-DE">
         <seg>Für mich &lt;t0/&gt;ist Deutsch easy, &lt;t1/&gt;ich hatte nie ein Problem&lt;t2/&gt;, Deutsch zu lernen oder zu sprechen&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T211609Z" creationid="Kate" creationdate="20210303T211434Z">
-        <seg>Мені німецька дається легко, для мене ніколи не було проблемою її вивчати або нею розмовляти.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T123521Z" creationid="Kate" creationdate="20210303T211434Z">
+        <seg>Мені вона дається досить легко, її вивчення або дискусії німецькою ніколи не ставали для мене проблемою.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4723,8 +4723,8 @@
       <tuv lang="de-DE">
         <seg>Ich finde, ich mache noch ganz viele Fehler, besonders mit den Artikeln.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T211949Z" creationid="Kate" creationdate="20210303T211949Z">
-        <seg>Думаю, я роблю все ще багато помилок, особливо в артиклях</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T123553Z" creationid="Kate" creationdate="20210303T211949Z">
+        <seg>Думаю, я роблю все ще багато помилок, особливо в артиклях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9995,8 +9995,8 @@
       <tuv lang="de-DE">
         <seg>Während des Studiums hatte ich noch Problem mit dem Hörverstehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T211716Z" creationid="Kate" creationdate="20210303T211716Z">
-        <seg>Під час навчання у мене все ще були труднощі зі слуханням..</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T123536Z" creationid="Kate" creationdate="20210303T211716Z">
+        <seg>Хоча під час навчання у мене все ще були труднощі зі слуханням.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10268,6 +10268,17 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T213943Z" creationid="Kate" creationdate="20210303T213943Z">
         <seg>Чи є у тебе відчуття відчуженності&lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Titel.docx</prop>
+      <prop type="prev">Das weiß ich bis jetz&lt;t1/&gt;t nicht&lt;t2/&gt; so richtig&lt;t3/&gt;.</prop>
+      <prop type="next">Auf&lt;t0/&gt; jeden Fall Deutsch&lt;t1/&gt; lernen!</prop>
+      <tuv lang="de-DE">
+        <seg>Was würdes&lt;t0/&gt;t du anderen ukrainischen Studierenden&lt;t1/&gt; raten, die neu nach Deutschland kommen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T123641Z" creationid="Kate" creationdate="20210304T123641Z">
+        <seg>Що б ти порадила іншим українським студентам, які приїжджають навчатися до Німеччини?</seg>
       </tuv>
     </tu>
     <tu>
