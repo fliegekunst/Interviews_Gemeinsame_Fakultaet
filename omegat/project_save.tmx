@@ -537,8 +537,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t4/&gt;Beim eigentlichen Sprechen achte ich dann nicht mehr so darauf&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T111923Z" creationid="Диана" creationdate="20210225T111923Z">
-        <seg>&lt;t4/&gt;Насправді коли я розмовляю, я не надто звертаю на це увагу&lt;t5/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T125037Z" creationid="Диана" creationdate="20210225T111923Z">
+        <seg>&lt;t4/&gt;Але пыд час розмови, я не надто звертаю на це увагу&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,8 +1354,8 @@
       <tuv lang="de-DE">
         <seg>Bevor ich etwas sage, &lt;t2/&gt;versuche ich mir die Wörter im Kopf zurecht zu legen&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T112602Z" creationid="Диана" creationdate="20210225T111657Z">
-        <seg>Перш ніж щось сказати, я намагаюся розібрати слова в голові&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T124928Z" creationid="Диана" creationdate="20210225T111657Z">
+        <seg>Перш ніж щось сказати, я намагаюся розібрати всі слова в голові&lt;t2/&gt;&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
