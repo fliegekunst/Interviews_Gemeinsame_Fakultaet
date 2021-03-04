@@ -1928,6 +1928,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das gab viele Zoom-Veranstaltungen, Videos und Power Point-Folien.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T140918Z" creationid="krps" creationdate="20210304T140918Z">
+        <seg>Було багато Zoom-конференцій, відео та Power Point-презентацій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das ganze Bankensystem ist sehr veraltet.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T113757Z" creationid="Kate" creationdate="20210211T113757Z">
@@ -9964,6 +9972,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210204T124620Z" creationid="hp" creationdate="20210204T124510Z">
         <seg>І як тобі вдалося скласти іспити німецькою мовою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie war es, unter Corona online zu studieren?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T140741Z" creationid="krps" creationdate="20210304T140741Z">
+        <seg>Як це вчитися онлайн під час пандемії?</seg>
       </tuv>
     </tu>
     <tu>
