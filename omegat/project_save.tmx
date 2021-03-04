@@ -2392,6 +2392,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das würde ich als gute Bekannte definieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T093501Z" creationid="Диана" creationdate="20210304T093436Z">
+        <seg>Я б назвав це хороший знайомий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das, was ich auf Ukrainisch in 2 Tagen machen kann, mache ich hier auf Deutsch in einer Woche.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T171900Z" creationid="ADMIN" creationdate="20210303T171230Z">
@@ -3116,6 +3124,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T201706Z" creationid="Kate" creationdate="20210303T201437Z">
         <seg>Завдяки роботі через 21 місяць я отримала посвідку на проживання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Echte Freunde hat man &lt;t0/&gt;meiner Meinung nach nur zwei oder drei&lt;t1/&gt; für das ganze Leben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T093621Z" creationid="Диана" creationdate="20210304T093621Z">
+        <seg>Справжніх друзів у нас, по-моєму, всього двоє-троє за все життя. &lt;t0/&gt;&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
