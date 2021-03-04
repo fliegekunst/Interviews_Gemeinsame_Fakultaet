@@ -1160,6 +1160,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Außerdem habe ich bemerkt, dass viele Menschen in Deutschland gepierct oder tätowiert sind, was mir gar nicht gefällt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T091748Z" creationid="Диана" creationdate="20210304T091748Z">
+        <seg>Також я помітив, що багато людей в ​​Німеччині роблять собі пірсинг чи татуювання, мені це зовсім не подобається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Außerdem habe ich viele Redewendungen gelernt, die Muttersprachler im Alltag sagen.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210218T111116Z" creationid="krps" creationdate="20210210T223738Z">
@@ -2960,6 +2968,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die meisten beginnen um 7 Uhr ihre Arbeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T091603Z" creationid="Диана" creationdate="20210304T091603Z">
+        <seg>Більшість із них починають свою роботу о 7 ранку..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Diese Fragen beziehen sich fast auf das gesamte Material der Vorlesungen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210204T125129Z" creationid="hp" creationdate="20210204T125129Z">
@@ -3786,8 +3802,8 @@
       <tuv lang="de-DE">
         <seg>Gibt es Sachen, die di&lt;t0/&gt;r&lt;t1/&gt; &lt;t2/&gt;i&lt;t3/&gt;n Deutschland &lt;t4/&gt;auffallen&lt;t5/&gt;?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T133525Z" creationid="Диана" creationdate="20210225T133525Z">
-        <seg>Є речі, які кидаються тобі в очі в Німеччині?&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T091536Z" creationid="Диана" creationdate="20210225T133525Z">
+        <seg>Є речі, які тебе дивують в Німеччині?&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
