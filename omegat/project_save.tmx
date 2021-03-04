@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1616,6 +1616,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dann wird die Arbeit vom Betreuer bewertet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T113506Z" creationid="krps" creationdate="20210304T113506Z">
+        <seg>Потім роботу оцінить керівник.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Dann wurde das aber schnell besser.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T211816Z" creationid="ADMIN" creationdate="20210210T211816Z">
@@ -2728,6 +2736,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Deutsche sind verschiedenen, sie sprechen teilweise sehr schnell und dann versteht man nichts.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T112805Z" creationid="krps" creationdate="20210304T112805Z">
+        <seg>Німці різні, вони дуже швидко говорять, тому нічого не зрозуміло.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Deutschland ist ein wunderschönes &lt;t11/&gt;Land, in dem man sich sehr wohl fühlen kann.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T130558Z" creationid="Диана" creationdate="20210225T130427Z">
@@ -3004,6 +3020,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T125742Z" creationid="Lenovo" creationdate="20210214T125457Z">
         <seg>Заготовки спочатку знімали, а потім полірували на Україні, тепер вони приходять до мене на аналіз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Wörter, die man in den Vorlesungen hört, waren mir schon bekannt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T112529Z" creationid="krps" creationdate="20210304T112529Z">
+        <seg>Слова з лекцій я вже знав раніше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3592,6 +3616,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es ist eher schwer, Deutsch zu sprechen, wenn man etwas sagen will oder gefragt wird.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T112345Z" creationid="krps" creationdate="20210304T112345Z">
+        <seg>Складніше говорити німецькою, коли хочеш щось сказати або відповісти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es ist für mich l&lt;t0/&gt;eichter&lt;t1/&gt;, auf Deutsch,&lt;t2/&gt; als auf &lt;t3/&gt;Englisch&lt;t4/&gt; zu schreiben.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T123826Z" creationid="hp" creationdate="20210225T123826Z">
@@ -3628,6 +3660,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T214036Z" creationid="ADMIN" creationdate="20210303T214036Z">
         <seg>Насправді, порівнювати важко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es ist nicht kompliziert, die Veranstaltungen auf Deutsch zu hören.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T112241Z" creationid="krps" creationdate="20210304T112241Z">
+        <seg>Слухати навчання німецькою нескладно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4012,6 +4052,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210213T174836Z" creationid="hp" creationdate="20210204T125832Z">
         <seg>Чи ти спілкуєшся з німецькими одногрупниками? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hast du Kontakt zu den deutschen Studierenden?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T112930Z" creationid="krps" creationdate="20210304T112930Z">
+        <seg>Ти спілкуєшся з німецькими одногрупниками?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6273,6 +6321,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In diesem Semester mache ich mit einem deutschen Kommilitonen das Fachlabor zusammen, d.h. wir führen Untersuchungen zusammen durch und am Ende sammeln wir alle Ergebnisse und müssen einen Vortrag zusammen machen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T113444Z" creationid="krps" creationdate="20210304T113433Z">
+        <seg>У цьому семестрі я роблю спеціалізовану лабораторну роботу з німецьким студентом, тобто ми проводимо разом дослідження, а в кінці зберемо всі результати та складемо доповідь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In einem Monat verteidige ich mein Masterprojekt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210204T132752Z" creationid="hp" creationdate="20210204T132706Z">
@@ -6469,6 +6525,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T100103Z" creationid="PC" creationdate="20210218T104842Z">
         <seg>Так, звичайно, це не таке й важливе слово, але воно одне з багатьох, які я не знаю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ja, zum Beispiel in Werkstofftechnik gibt es allgemein nicht so viele Studierenden, da habe ich mit vielen KommilitonInnen Kontakt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T113221Z" creationid="krps" creationdate="20210304T113221Z">
+        <seg>Так, взагалі на матеріалознавстві студентів не так багато, тому я спілкуюся з багатьма одногрупниками.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7221,6 +7285,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T100806Z" creationid="hp" creationdate="20210301T100806Z">
         <seg>Деякі студенти тут закінчують магістратуру навіть 26-27 років. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manche sprechen nicht so schnell und man versteht mehr.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T112852Z" creationid="krps" creationdate="20210304T112840Z">
+        <seg>Деякі говорять повільніше, і тоді більше зрозуміло.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8385,6 +8457,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Unsere Zusammenarbeit funktioniert gut, letzte Woche haben wir die Proben geschliffen und poliert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T113652Z" creationid="krps" creationdate="20210304T113652Z">
+        <seg>Ми добре працюємо разом, зокрема минулого тижня відшліфували зразки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Unsere gute Vorbereitung im Vergleich zu den anderen ausländischen Studenten ist auffällig.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T115708Z" creationid="krps" creationdate="20210210T095922Z">
@@ -8861,6 +8941,22 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210225T105138Z" creationid="Диана" creationdate="20210225T105138Z">
         <seg>Якщо я створю сім’ю тут, у Німеччині, то я залишусь тут, якщо ні, то піду далі. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich lese oder höre, fällt mir das leichter als selbst zu sprechen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T112419Z" creationid="krps" creationdate="20210304T112419Z">
+        <seg>Слухати та читати мені легше, ніж говорити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich mit einem Dozierenden spreche, kann ich nicht alles verstehen, was er oder sie sagt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T112648Z" creationid="krps" creationdate="20210304T112648Z">
+        <seg>Під час розмови з викладачем я не все розумію, що він каже.</seg>
       </tuv>
     </tu>
     <tu>
