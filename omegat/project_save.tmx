@@ -3136,6 +3136,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Einige Dinge sind schon seltsam für mich.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T091040Z" creationid="Диана" creationdate="20210304T091040Z">
+        <seg>Деякі речі для мене дивні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Einige Fächer &lt;t0/&gt;hier in Magdeburg &lt;t1/&gt;waren schwer, einige Fächer waren &lt;t2/&gt;für mich eine &lt;t3/&gt;Wiederholung aus Kiew, da haben sich die Inhalte überschnitten&lt;t4/&gt;, das hat mir gut gefallen&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210210T211348Z" creationid="ADMIN" creationdate="20210210T210659Z">
@@ -3452,6 +3460,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T100926Z" creationid="PC" creationdate="20210222T173612Z">
         <seg>Завжди легше робити те, що приносить задоволення, а не навпаки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es ist kein Klischee, dass Deutsch sehr früh aufstehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T091109Z" creationid="Диана" creationdate="20210304T091109Z">
+        <seg>Це не кліше, що німці встають дуже рано.</seg>
       </tuv>
     </tu>
     <tu>
