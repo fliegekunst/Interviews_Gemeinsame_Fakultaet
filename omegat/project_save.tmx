@@ -5873,6 +5873,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich wohnte mit Maxim Spiridonow zusammen, der mittlerweile ausgezogen ist, und einem Studierenden aus Charkiw zusammen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T131308Z" creationid="krps" creationdate="20210304T131308Z">
+        <seg>Я жив разом з Максимом Спірідоновим, який вже з'їхав, та студентом з Харкова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich wollte &lt;t4/&gt;aber &lt;t5/&gt;in &lt;t6/&gt;die R&lt;t7/&gt;ichtu&lt;t8/&gt;n&lt;t9/&gt;g &lt;t10/&gt;Konstruktion gehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210304T114556Z" creationid="Kate" creationdate="20210303T193521Z">
@@ -6877,6 +6885,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T130256Z" creationid="nasty" creationdate="20210218T130256Z">
         <seg>Зараз я живу у Польщі та майже не розмовляю німецькою, і справді відчуваю як моя граматика погіршується і погіршується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Jetzt wohnt ein Albaner bei uns und wir unterhalten uns &lt;t0/&gt;auf Englisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T131435Z" creationid="krps" creationdate="20210304T131435Z">
+        <seg>Зараз з нами живе албанець, і ми спілкуємося &lt;t0/&gt;англійською.</seg>
       </tuv>
     </tu>
     <tu>
