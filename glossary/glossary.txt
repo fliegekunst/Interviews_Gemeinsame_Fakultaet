@@ -22,3 +22,4 @@ Mechatroniker	інженер з мехатроніки
 Hochdeutsch	літературна німецька
 Karosseriebau	конструювання кузовів
 Fachlabor	лабораторна робота
+Förderanlagen	конвеєр, транспортер
