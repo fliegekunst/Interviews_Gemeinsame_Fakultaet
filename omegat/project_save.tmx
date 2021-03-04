@@ -5633,6 +5633,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich spreche viel mit Mitarbeitern der Universität, sie sind immer freundlich und helfen mir gerne weiter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T132411Z" creationid="krps" creationdate="20210304T132411Z">
+        <seg>Я багато розмовляю з працівниками університету, вони завжди привітні та раді допомогти .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich studiere in Deutschland auch aus moralischen Gründen, hier fühle ich mich frei, kann mein L&lt;t15/&gt;eben leben wie ich will und wie ich erzo&lt;t16/&gt;gen wurde.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T113032Z" creationid="hp" creationdate="20210225T113023Z">
@@ -8677,6 +8685,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T103551Z" creationid="hp" creationdate="20210204T123208Z">
         <seg>на факультеті технології машинобудування.&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Teils teils.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T132316Z" creationid="krps" creationdate="20210304T132316Z">
+        <seg>Так собі.</seg>
       </tuv>
     </tu>
     <tu>
