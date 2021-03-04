@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1266,8 +1266,8 @@
       <tuv lang="de-DE">
         <seg>Bei mir ginge es noch einfacher.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T194400Z" creationid="ADMIN" creationdate="20210303T194400Z">
-        <seg>Мені було б ще простіше.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210304T120354Z" creationid="ADMIN" creationdate="20210303T194400Z">
+        <seg>Мені було ще простіше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,8 +2922,8 @@
       <tuv lang="de-DE">
         <seg>Die Hiwi-Stelle ist theoretisch bei einem Professor angesiedelt, ich arbeite aber z.B. bei einem wissenschaftlichen Mitarbeiter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T200411Z" creationid="ADMIN" creationdate="20210303T200411Z">
-        <seg>Асистент займається науковою діяльністю разом із професором, але я працюю з науковим співробітником.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210304T121052Z" creationid="ADMIN" creationdate="20210303T200411Z">
+        <seg>Місця лаборантів зазвичай виділяються під конкретних професорів, але я працюю з науковим співробітником.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7163,8 +7163,8 @@
       <tuv lang="de-DE">
         <seg>Man kann auch älteren Kommilitonen fragen, ob die wissen, wo man eine Hiwi-Stelle bekommen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T195929Z" creationid="ADMIN" creationdate="20210303T195654Z">
-        <seg>Допомогти знайти таку посаду можуть і старшокурсники.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210304T120909Z" creationid="ADMIN" creationdate="20210303T195654Z">
+        <seg>Також можна запитати в старшокурсників, як отримати цю посаду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7483,8 +7483,8 @@
       <tuv lang="de-DE">
         <seg>Manche Absolventen der GUDF arbeiten bzw. promovieren sich an der OVGU und ihre Kollegen oder sogar sie brauchen manchmal HiWi-Kräfte.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210304T120323Z" creationid="ADMIN" creationdate="20210303T194541Z">
-        <seg>Деякі випускники СУНФ захищають докторську в університеті Отто фон Ґеріке, тому інколи вони потребують допомоги асистента.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210304T120707Z" creationid="ADMIN" creationdate="20210303T194541Z">
+        <seg>Деякі випускники СУНФ захищають докторську в університеті Отто фон Ґеріке, тому інколи вони отримують допомогу лаборантів.</seg>
       </tuv>
     </tu>
     <tu>
