@@ -1,9 +1,6 @@
 aufstehen	прокидатися
 OVGU	Університет Отто фон Ґеріке
 Masterprojektarbeit	Магістерський проєкт
-Hiwi-Stelle	добровільна діяльність
-Hiwi-Stelle	добровільна, наукова діяльність
-Hiwi-Stelle	науковий асистент
 Zerspantechnik	технологія обробки
 Zeitmanagement	тайм-менеджмент
 GUDFM	Спільний Українсько-Німецький факультет машинобудування
@@ -26,3 +23,5 @@ Förderanlagen	конвеєр, транспортер
 Youtube	Youtube	так і залишаємо
 IKUS	студенти різних культур
 Wälzlager	вальниця
+Hiwi	лаборант
+Hiwi-Stelle	посада в лабораторії
