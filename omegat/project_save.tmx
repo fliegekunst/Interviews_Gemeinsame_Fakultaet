@@ -2816,6 +2816,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Menschen im Öffentlichen Personennahverkehr stehen zum Beispiel sehr viel eher vor der Haltstelle auf oder die Sirenen in Deutschland sind viel viel lauter als in der Ukraine.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T092237Z" creationid="Диана" creationdate="20210304T092237Z">
+        <seg>Наприклад, люди в громадському транспорті набагато частіше встають ще перед своєю зупинкою або сирени в Німеччині набагато голосніше, ніж в Україні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Mischung aus Medizin und Produktionstechnik gefällt mir.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T124157Z" creationid="Lenovo" creationdate="20210214T124157Z">
@@ -2978,8 +2986,8 @@
       <tuv lang="de-DE">
         <seg>Die meisten beginnen um 7 Uhr ihre Arbeit.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T091603Z" creationid="Диана" creationdate="20210304T091603Z">
-        <seg>Більшість із них починають свою роботу о 7 ранку..</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T092133Z" creationid="Диана" creationdate="20210304T091603Z">
+        <seg>Більшість із них починають свою роботу о 7 ранку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4202,8 +4210,8 @@
       <tuv lang="de-DE">
         <seg>Ich beobachte sehr genau das Verhalten und das Aussehen der Menschen in Deutschland, dabei fällt mir natürlich vieles auf.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T091858Z" creationid="Диана" creationdate="20210304T091858Z">
-        <seg>Я дуже уважно спостерігаю за поведінкою і зовнішністю людей в Німеччині, при цьому, звичайно, багато кидається в очі
+      <tuv lang="uk" changeid="Диана" changedate="20210304T092105Z" creationid="Диана" creationdate="20210304T091858Z">
+        <seg>Я дуже уважно спостерігаю за поведінкою і зовнішністю людей, при цьому, звичайно, багато кидається в очі
 .</seg>
       </tuv>
     </tu>
@@ -5805,6 +5813,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T162921Z" creationid="krps" creationdate="20210210T215041Z">
         <seg>В Німеччині я все ретельно вивчаю, пишу немов робот, але, незважаючи на це, іноді дуже важко вчасно виконувати всі завдання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In Deutschland läuft sehr viel per Brief und per Post ab, mehr, als in der Ukraine.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T092612Z" creationid="Диана" creationdate="20210304T092612Z">
+        <seg>Тут частіше використовують листування та пошту, ніж в Ураїні.</seg>
       </tuv>
     </tu>
     <tu>
