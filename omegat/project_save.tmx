@@ -626,8 +626,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t6/&gt;Also nehmt das Masterprojekt ernst und strengt euch an!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T160028Z" creationid="Диана" creationdate="20210204T131922Z">
-        <seg>&lt;t6/&gt;Тож відносьтесь до магістерського проєкту серйозно і докладайте зусилля!</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T090106Z" creationid="Диана" creationdate="20210204T131922Z">
+        <seg>&lt;t6/&gt;Тож ставтесь до магістерського проєкту серйозно і докладайте зусиль!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2882,8 +2882,8 @@
       <tuv lang="de-DE">
         <seg>Die Studierenden&lt;t7/&gt;, die schon &lt;t8/&gt;in Magdeburg sind&lt;t9/&gt;, können auf jeden Fall helfen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T160125Z" creationid="Диана" creationdate="20210204T132020Z">
-        <seg>Студенти, які вже перебувають у Магдебурзі у будь якому разі можуть допомогти.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T090230Z" creationid="Диана" creationdate="20210204T132020Z">
+        <seg>Інші студенти у Магдебурзі у завжди можуть допомогти.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8330,8 +8330,8 @@
       <tuv lang="de-DE">
         <seg>Was würdes&lt;t0/&gt;t du anderen ukrainischen Studierenden&lt;t1/&gt; raten, die neu nach Deutschland kommen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T132237Z" creationid="Диана" creationdate="20210204T131628Z">
-        <seg>Щоб ти порадив іншим українським студентам, які приїжджають навчатися до Німеччини?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T090005Z" creationid="Диана" creationdate="20210204T131628Z">
+        <seg>Що ти порадив би іншим українським студентам, які приїжджають навчатися до Німеччини?</seg>
       </tuv>
     </tu>
     <tu>
