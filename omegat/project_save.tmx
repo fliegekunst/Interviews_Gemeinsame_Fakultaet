@@ -3712,6 +3712,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es gibt viele Praktikumsangebote von Unternehmen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T134722Z" creationid="krps" creationdate="20210304T134722Z">
+        <seg>Є багато пропозицій стажування від компаній.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gibt viele interessante Projekte an der OVGU, zum Beispiel das Projekt, an dem ich während der Masterarbeit arbeite.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T185707Z" creationid="ADMIN" creationdate="20210303T185707Z">
@@ -9508,6 +9516,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T163134Z" creationid="PC" creationdate="20210303T163134Z">
         <seg>Коли ви проходите практику у якійсь компанії або пишете там магістерську, то ви вже налагаджуєте певний початковий контакт з цією компанією.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man ein Praktikum machen will, bewirbt man sich bei einem Unternehmen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T134959Z" creationid="krps" creationdate="20210304T134959Z">
+        <seg>Якщо ви хочете пройти стажування, то подаєте заявку в компанію.</seg>
       </tuv>
     </tu>
     <tu>
