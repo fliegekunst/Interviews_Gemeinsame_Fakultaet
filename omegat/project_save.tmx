@@ -4168,6 +4168,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hier verstehe ich nicht, warum ein Mensch &lt;t2/&gt;so&lt;t3/&gt; oder anders ist, ich nehme das einfach wahr.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T094046Z" creationid="Диана" creationdate="20210304T094046Z">
+        <seg>Тут я не розумію, чому людина чинить так чи інакше, я просто це приймаю.&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hier versteht man das anders.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210304T093653Z" creationid="Диана" creationdate="20210304T093653Z">
@@ -5005,6 +5013,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T223731Z" creationid="Kate" creationdate="20210210T205144Z">
         <seg>Я планувала зайнятися проєктами, що фінансуються сторонніми фондами, але не склалося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich hatte einen guten Bekannten, mit dem habe ich Volleyball gespielt, aber dann ist er nach China zum Auslandssemester geflogen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T094204Z" creationid="Диана" creationdate="20210304T094204Z">
+        <seg>У мене був хороший знайомий, з яким я грав у волейбол, але потім він полетів до Китаю на семестр.</seg>
       </tuv>
     </tu>
     <tu>
