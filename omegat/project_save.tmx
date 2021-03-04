@@ -3128,6 +3128,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Selbstorganisation war leicht, aber ich habe gemerkt, dass es bestimmte Fächer gab, bei denen ich mir Präsenz gewünscht hätte, z.B. Physik.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T141341Z" creationid="krps" creationdate="20210304T141341Z">
+        <seg>Самоорганізуватися було легко, але я помітив, що є певні предмети, на яких я хотів би бути присутніми, наприклад, фізика.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Selbstständigkeit find ich toll, man hat ein Thema und macht eine wissenschaftliche Studie darüber.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T223318Z" creationid="Kate" creationdate="20210210T201500Z">
@@ -7788,6 +7796,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T224523Z" creationid="Kate" creationdate="20210211T113732Z">
         <seg>Інколи в дорозі взагалі немає ніякого стільникового зв'язку. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manchmal ist es schwer, zu Hause zu sitzen und die Aufgaben alleine zu rechnen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T141449Z" creationid="krps" creationdate="20210304T141436Z">
+        <seg>Іноді складно сидіти вдома і самостійно вираховувати різні завдання.</seg>
       </tuv>
     </tu>
     <tu>
