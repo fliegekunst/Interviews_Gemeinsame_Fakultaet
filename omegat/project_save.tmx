@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2922,8 +2922,8 @@
       <tuv lang="de-DE">
         <seg>Die Musik und die Kleidung in Deutschland sind manchmal für mich gewöhnungsbedürftig.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T092049Z" creationid="Диана" creationdate="20210304T092049Z">
-        <seg>Мені знадобився час, щоб звикнути до музики і одягу.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T114250Z" creationid="Диана" creationdate="20210304T092049Z">
+        <seg>Мені знадобився час, щоб звикнути до музики та одягу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,8 +3226,8 @@
       <tuv lang="de-DE">
         <seg>Echte Freunde hat man &lt;t0/&gt;meiner Meinung nach nur zwei oder drei&lt;t1/&gt; für das ganze Leben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T093621Z" creationid="Диана" creationdate="20210304T093621Z">
-        <seg>Справжніх друзів у нас, по-моєму, всього двоє-троє за все життя. &lt;t0/&gt;&lt;t1/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T114353Z" creationid="Диана" creationdate="20210304T093621Z">
+        <seg>Справжніх друзів у нас, по-моєму, всього двоє-троє за все життя&lt;t0/&gt;&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3946,8 +3946,8 @@
       <tuv lang="de-DE">
         <seg>Geburtstagseinladungen, das ist mir aufgefallen, heißt, dass man schon ein engerer Freund ist.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T093346Z" creationid="Диана" creationdate="20210304T093346Z">
-        <seg>Ч помітив, що запрошення на день народження, означають, що ти вже близький друг.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T114326Z" creationid="Диана" creationdate="20210304T093346Z">
+        <seg>Я помітив, що запрошення на день народження, означають, що ти вже близький друг.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4010,8 +4010,8 @@
       <tuv lang="de-DE">
         <seg>Gibt es in Magdeburg eine &lt;t0/&gt;ukrainisch- und &lt;t1/&gt;russischsprachige Community?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T131750Z" creationid="Диана" creationdate="20210225T131750Z">
-        <seg>Існує в Магдебурзі українсько - російськомовна громада?&lt;t0/&gt; &lt;t1/&gt;?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T114152Z" creationid="Диана" creationdate="20210225T131750Z">
+        <seg>Існує в Магдебурзі україно - російськомовна громада?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4426,8 +4426,8 @@
       <tuv lang="de-DE">
         <seg>Ich beobachte sehr genau das Verhalten und das Aussehen der Menschen in Deutschland, dabei fällt mir natürlich vieles auf.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T092105Z" creationid="Диана" creationdate="20210304T091858Z">
-        <seg>Я дуже уважно спостерігаю за поведінкою і зовнішністю людей, при цьому, звичайно, багато кидається в очі
+      <tuv lang="uk" changeid="Диана" changedate="20210304T114236Z" creationid="Диана" creationdate="20210304T091858Z">
+        <seg>Я дуже уважно спостерігаю за поведінкою і зовнішністю людей, при цьому, звичайно, багато впадає в очі
 .</seg>
       </tuv>
     </tu>
@@ -6107,8 +6107,8 @@
       <tuv lang="de-DE">
         <seg>In Deutschland läuft sehr viel per Brief und per Post ab, mehr, als in der Ukraine.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T092612Z" creationid="Диана" creationdate="20210304T092612Z">
-        <seg>Тут частіше використовують листування та пошту, ніж в Ураїні.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T114310Z" creationid="Диана" creationdate="20210304T092612Z">
+        <seg>Тут частіше використовують листування та пошту, ніж в Україні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7739,8 +7739,8 @@
       <tuv lang="de-DE">
         <seg>Mit Menschen aus dem GUS-Raum habe ich einen ähnlichen kulturellen Hintergrund, wir kennen die gleichen Filme, die gleichen Bücher, hören und sehen dieselben Nachrichten und lachen über die gleichen W&lt;t4/&gt;itze.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T095040Z" creationid="Диана" creationdate="20210304T095040Z">
-        <seg>З людьми із СНД у мене схожа культура, ми знаємо одні й ті ж фільми, одні і ті ж книги, слухаємо і дивимося одні й ті ж новини і сміємося над одними і тими ж жартами.&lt;t4/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T114431Z" creationid="Диана" creationdate="20210304T095040Z">
+        <seg>З людьми із СНД у мене схожа культура, ми знаємо одні й ті ж фільми, одні й ті ж книги, слухаємо і дивимося одні й ті ж новини та сміємося над одними й тими ж жартами.&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8251,8 +8251,8 @@
       <tuv lang="de-DE">
         <seg>So lebt ihr in einer&lt;t8/&gt; Art Parallelgesellschaft&lt;t9/&gt; und w&lt;t10/&gt;enn man will, kann man in dieser Muttersprachen-Heimat-Blase immer bleiben und sich dort wohl fühlen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T131530Z" creationid="Диана" creationdate="20210225T131530Z">
-        <seg>Таким чином, ви живете в якомусь паралельному суспільстві, і при бажанні ви завжди можете залишитися в цьому міхурі рідної мови і батьківщини і відчувати себе там комфортно.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T114057Z" creationid="Диана" creationdate="20210225T131530Z">
+        <seg>Таким чином, ви живете в якомусь паралельному суспільстві, і якщо є бажання ви завжди можете залишитися в цьому міхурі рідної мови та батьківщини й відчувати себе там комфортно.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9699,8 +9699,8 @@
       <tuv lang="de-DE">
         <seg>Wir treffen uns im IKUS, im Internationalen Büro der O&lt;t4/&gt;V&lt;t5/&gt;GU. Jedes Semester bildet sich eine Kerngruppe mit &lt;t6/&gt;einer &lt;t7/&gt;W&lt;t8/&gt;hat&lt;t9/&gt;sapp Gruppe, jede Woche gibt es eine &lt;t10/&gt;„&lt;t11/&gt;Kitchen Party&lt;t12/&gt;“&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T133109Z" creationid="Диана" creationdate="20210225T133109Z">
-        <seg>Ми зустрічаємось в IKUS (interkulturelle Studenten- міжкультурні студенти), в міжнародному офісі університету Отто фон Геріке в Магдебурзі. Кожного семестру формується група з назвою Whatsapp, та щотижня проводиться "Кухонна вечірка"&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T114215Z" creationid="Диана" creationdate="20210225T133109Z">
+        <seg>Ми зустрічаємось в IKUS (interkulturelle Studenten- міжкультурні студенти), в міжнародному офісі університету Отто фон Геріке в Магдебурзі. Кожного семестру формується група з назвою Whatsapp, та щотижня проводиться "Кухонна вечірка"&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
