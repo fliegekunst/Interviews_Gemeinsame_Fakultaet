@@ -9625,6 +9625,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wie integriert fühlst du dich in Magdeburg?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T132248Z" creationid="krps" creationdate="20210304T132248Z">
+        <seg>Наскільки залученим у життя ти почуваєшся?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wie ist das für dich, auf Deutsch zu studieren?</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T105235Z" creationid="hp" creationdate="20210204T123321Z">
