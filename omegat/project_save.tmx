@@ -1778,8 +1778,8 @@
       <tuv lang="de-DE">
         <seg>Das deutsche&lt;t0/&gt; Banksystem&lt;t1/&gt; finde ich nicht so gut wie das ukrainische Banksystem&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T160542Z" creationid="Диана" creationdate="20210204T133320Z">
-        <seg>Я не думаю, що німецька банківська система настільки досконалала, як українська&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T090437Z" creationid="Диана" creationdate="20210204T133320Z">
+        <seg>Я не думаю, що німецька банківська система настільки зручна, як українська&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,8 +3618,8 @@
       <tuv lang="de-DE">
         <seg>Früher &lt;t11/&gt;hatte ich ein&lt;t12/&gt; stärker&lt;t13/&gt;es Fremdheitsgefühl&lt;t14/&gt; als jetzt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T132617Z" creationid="Диана" creationdate="20210204T132617Z">
-        <seg>Раніше відчуття відчуженості у мене було сильніше .&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T090337Z" creationid="Диана" creationdate="20210204T132617Z">
+        <seg>Раніше відчуття відчуженості у мене було сильніше .&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5674,8 +5674,8 @@
       <tuv lang="de-DE">
         <seg>In &lt;t3/&gt;der &lt;t4/&gt;Privatbank &lt;t5/&gt;kannst&lt;t6/&gt; du &lt;t7/&gt;eine &lt;t8/&gt;Überweisung in drei Sekunden &lt;t9/&gt;machen &lt;t10/&gt;– kostenlos!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T160627Z" creationid="Диана" creationdate="20210204T133442Z">
-        <seg>У ПриватБанку ти можешь здійснити переказ за три секунди - безкоштовно!&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T090614Z" creationid="Диана" creationdate="20210204T133442Z">
+        <seg>У ПриватБанку ти можеш здійснити переказ за три секунди - безкоштовно!&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7506,8 +7506,8 @@
       <tuv lang="de-DE">
         <seg>Niemand sagt mir ins Gesicht, &lt;t1/&gt;dass ich ein Ausländer bin oder irgendwo ausgeschlossen bin.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T160408Z" creationid="Диана" creationdate="20210204T132309Z">
-        <seg>Мені ніхто в обличчя не каже, що я іноземець або мене не видіяють десь. &lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T090318Z" creationid="Диана" creationdate="20210204T132309Z">
+        <seg>Мене не видіяють серед інших і мені ніхто в обличчя не каже, що я іноземець. &lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8018,8 +8018,8 @@
       <tuv lang="de-DE">
         <seg>Ukrainische und deutsche Studierende zusammen, wir haben in einer &lt;t1/&gt;WG&lt;t2/&gt; gewohnt &lt;t3/&gt;und &lt;t4/&gt;zusammen Party gemacht&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T160431Z" creationid="Диана" creationdate="20210204T133016Z">
-        <seg>Ми з українськими та німецькими студенти жили разом у квартирі та влаштовували вечірки. &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T090417Z" creationid="Диана" creationdate="20210204T133016Z">
+        <seg>Ми з українськими та німецькими студентами жили разом у квартирі та влаштовували вечірки. &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
