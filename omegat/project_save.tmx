@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -936,6 +936,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Als ich zum ersten Mal in die Wohnung kam, war ich überrascht, dass alle Mitbewohner Ukrainer sind.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T131200Z" creationid="krps" creationdate="20210304T131200Z">
+        <seg>Коли я вперше зайшов у квартиру, то був здивований тим, що всі співмешканці українці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Als wir Team-Projekte während des Studiums hatten, stellt das keine Herausforderung für mich da.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T103910Z" creationid="hp" creationdate="20210204T130249Z">
@@ -1498,8 +1506,8 @@
       <tuv lang="de-DE">
         <seg>Dafür kann die Miete in einer WG geringer sein, dafür muss man viel extra machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T120811Z" creationid="krps" creationdate="20210304T120811Z">
-        <seg>Через те що потрібно ще багато чого доро.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210304T130952Z" creationid="krps" creationdate="20210304T120811Z">
+        <seg>Через те, що потрібно ще багато чого дороблювати, оренда квартири є дешевшою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4997,6 +5005,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210212T080632Z" creationid="krps" creationdate="20210204T130442Z">
         <seg>Адже на неї я витратив вдвічі більше часу, ніж запланував.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe ein eigenes Zimmer und wir wohnen in einem Wohnkomplex zu dritt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T131047Z" creationid="krps" creationdate="20210304T131047Z">
+        <seg>У мене є своя кімната, і ми живемо втрьох в житловому комплексі.</seg>
       </tuv>
     </tu>
     <tu>
