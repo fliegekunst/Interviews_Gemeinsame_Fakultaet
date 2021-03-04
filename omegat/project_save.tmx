@@ -4617,6 +4617,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe das Gefühl, in Deutschland würde man darauf antworten: Das sind Leute, mit denen du für eine bestimmte Zeit rumhängst und die du kennst.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T093142Z" creationid="Диана" creationdate="20210304T093142Z">
+        <seg>У мене таке відчуття, що люди в Німеччині відповіли б на це: це люди, яких ви знаєте і з якими ви тусуєтесь певний час.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe das geschafft, aber es war kompliziert für mich.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T152010Z" creationid="ADMIN" creationdate="20210303T151134Z">
@@ -6077,6 +6085,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T122712Z" creationid="Lenovo" creationdate="20210214T122712Z">
         <seg>В Україні це, як правило, тільки два або чотири.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der Ukraine telefoniert man öfter und schreibt weniger Briefe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T092708Z" creationid="Диана" creationdate="20210304T092708Z">
+        <seg>В Україні частіше телефонують і менше пишуть листів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8349,6 +8365,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T174531Z" creationid="PC" creationdate="20210222T174531Z">
         <seg>Що в Німеччині не так,&lt;t0/&gt; як у тебе вдома&lt;t1/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was ist denn eigentlich Freundschaft?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T092813Z" creationid="Диана" creationdate="20210304T092813Z">
+        <seg>А що таке, власне, дружба?</seg>
       </tuv>
     </tu>
     <tu>
