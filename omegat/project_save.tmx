@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1628,6 +1628,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T143751Z" creationid="krps" creationdate="20210204T124953Z">
         <seg>Потім почалася сесія, яка була для всіх справжнім кошмаром!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann kann man sich als Hiwi damit beschäftigen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T134000Z" creationid="krps" creationdate="20210304T134000Z">
+        <seg>Можна попрацювати лаборантом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5580,6 +5588,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T114555Z" creationid="PC" creationdate="20210225T114555Z">
         <seg>Я проводжу експерименти зі зразками на спеціальному обладнанні (так званому наноінденторі) та дивлюся на деформацію та зміни в хімічному складі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich mache jetzt das Fachlabor und auch die Projektarbeit, da muss ich Proben vorbereiten, das wird auch sehr praktisch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T134605Z" creationid="krps" creationdate="20210304T134605Z">
+        <seg>Зараз я роблю лабораторну роботу та працюю над проєктом, тому я повинен підготувати зразки, які також будуть дуже практичними.</seg>
       </tuv>
     </tu>
     <tu>
