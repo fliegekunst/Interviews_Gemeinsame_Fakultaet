@@ -1272,6 +1272,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Bei den Fächern selbst gibt es nicht so viel Praktisches, du lernst und hörst Veranstaltungen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T135606Z" creationid="krps" creationdate="20210304T135606Z">
+        <seg>Практичних предметів не так багато, ти більше вчишся та слухаєш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Bei mir gab es eher Probleme damit, eine&lt;t0/&gt; Wohnung &lt;t1/&gt;zu&lt;t2/&gt; finden und ein&lt;t3/&gt;zu&lt;t4/&gt;richten, &lt;t5/&gt;einen &lt;t6/&gt;Nebenjob &lt;t7/&gt;zu &lt;t8/&gt;finden und das Leben&lt;t9/&gt; in Magdeburg zu&lt;t10/&gt; gestalten.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210304T122913Z" creationid="Kate" creationdate="20210303T210610Z">
