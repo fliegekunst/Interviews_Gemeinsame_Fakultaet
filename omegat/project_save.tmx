@@ -2472,6 +2472,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das war super!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T140003Z" creationid="krps" creationdate="20210304T140003Z">
+        <seg>Це було круто!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das war uns aber nicht möglich.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T104439Z" creationid="PC" creationdate="20210227T103858Z">
@@ -3916,6 +3924,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T124701Z" creationid="ADMIN" creationdate="20210225T124701Z">
         <seg>Було трохи незвично, що тут дуже мало лабораторних робіт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es war sehr gut organisiert und während der Reise hatten wir genug Freizeit, um uns das Land anzusehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T140248Z" creationid="krps" creationdate="20210304T140248Z">
+        <seg>Все було чудово організовано і протягом подорожі вистачило часу, щоб подивитися місто.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10172,6 +10188,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123401Z" creationid="nasty" creationdate="20210218T123401Z">
         <seg>Ми продаємо зернозбиральні та інші машиини, також маємо філіали в понад 30 країнах..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir waren zehn Tage in Kirgistan und ich habe vor allem gute Erinnerungen daran.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T140146Z" creationid="krps" creationdate="20210304T140146Z">
+        <seg>Ми були в Киргизстані десять днів, і я маю що згадати.</seg>
       </tuv>
     </tu>
     <tu>
