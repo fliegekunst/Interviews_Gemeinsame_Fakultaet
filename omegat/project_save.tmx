@@ -2144,6 +2144,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das ist gut, dann kann man gleich sein Englisch trainieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T131700Z" creationid="krps" creationdate="20210304T131700Z">
+        <seg>І це класно, тому що відразу можна тренувати англійську.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das ist hilfreich für Menschen, die sich im Ausland befinden.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T134015Z" creationid="Lenovo" creationdate="20210214T134015Z">
@@ -3800,6 +3808,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es kann sein, dass die Mitbewohner nur Englisch sprechen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T131618Z" creationid="krps" creationdate="20210304T131618Z">
+        <seg>Може статися так, що співпешканці розмовлятимуть тільки англійською.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es kommt darauf an, welche &lt;t9/&gt;E&lt;t10/&gt;rfahrungen man sammelt und wie viel man lernt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T095842Z" creationid="hp" creationdate="20210301T095832Z">
@@ -4250,8 +4266,8 @@
       <tuv lang="de-DE">
         <seg>Hast du ein Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210210T204543Z" creationid="Kate" creationdate="20210210T204543Z">
-        <seg>У тебе є відчуття відчуженості?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210304T131735Z" creationid="Kate" creationdate="20210210T204543Z">
+        <seg>Ти почуваєшся чужим?</seg>
       </tuv>
     </tu>
     <tu>
