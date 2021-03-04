@@ -914,8 +914,8 @@
       <tuv lang="de-DE">
         <seg>Allgemein finde ich Deutsche &lt;t0/&gt;nicht so expressiv&lt;t1/&gt; wie Ukrainer&lt;t2/&gt;, &lt;t3/&gt;sie sind weniger&lt;t4/&gt; neugierig und stecken ihre Nase nicht in deine &lt;t5/&gt;A&lt;t6/&gt;ngelegenheiten, das mag ich sehr.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213754Z" creationid="Kate" creationdate="20210303T213754Z">
-        <seg>Взагалі, для мене німці не такі емоційні, як українці, вони менш допитливі і не сують свого носа у ваші справи, і мені це дуже подобається.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T124323Z" creationid="Kate" creationdate="20210303T213754Z">
+        <seg>Взагалі, для мене німці не такі емоційні, як українці, вони менш допитливі і не сують свого носа у чужі справи, і мені це дуже подобається.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,8 +1402,8 @@
       <tuv lang="de-DE">
         <seg>D&lt;t27/&gt;ann ist es egal, woher du kommst.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T214956Z" creationid="Kate" creationdate="20210303T214956Z">
-        <seg>Тоді байдуже, звідки ти&lt;t27/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T124406Z" creationid="Kate" creationdate="20210303T214956Z">
+        <seg>Тоді всім байдуже, звідки ти&lt;t27/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9147,8 +9147,8 @@
       <tuv lang="de-DE">
         <seg>Wenn &lt;t2/&gt;du&lt;t3/&gt; viel &lt;t4/&gt;mit anderen Menschen &lt;t5/&gt;zusammen mach&lt;t6/&gt;s&lt;t7/&gt;t, dann hast du das nicht mehr.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T214152Z" creationid="Kate" creationdate="20210303T214152Z">
-        <seg>Якщо ти багато спілкуєшся з людьми, то його давно вже немає&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T124330Z" creationid="Kate" creationdate="20210303T214152Z">
+        <seg>Якщо ти багато спілкуєшся з людьми, то його вже давно немає&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
