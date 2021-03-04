@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2740,6 +2740,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T094450Z" creationid="ADMIN" creationdate="20210212T123757Z">
         <seg>Їхні стосунки не схожі на наші.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Dozierenden fragen nichts kompliziertes, sie wollen vor allem sehen, dass man mit dem Thema umgehen kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T110330Z" creationid="krps" creationdate="20210304T110330Z">
+        <seg>Викладачі не задають суперскладних питань, вони просто хочуть знати, наскільки добре студент орієнту.</seg>
       </tuv>
     </tu>
     <tu>
