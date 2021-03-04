@@ -4498,8 +4498,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe als Werksstudent angefangen und wurde dann übernommen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T153437Z" creationid="Диана" creationdate="20210207T174329Z">
-        <seg>Я починав підробляти ще студентом і згодом мене нарешті прийняли (на роботу).</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T085319Z" creationid="Диана" creationdate="20210207T174329Z">
+        <seg>Я починав підробляти ще студентом і згодом мене прийняли на роботу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7106,8 +7106,8 @@
       <tuv lang="de-DE">
         <seg>Meine Aufgabe ist es, alle Abläufe, wie z.B. Schweißen oder andere begleitende Prozesse, zu optimieren und zu verbessern.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T153135Z" creationid="Диана" creationdate="20210204T122458Z">
-        <seg>Моє задання полягає в оптимізації  та вдосконаленні всіх процесів, наприклад, таких, як зварювання та всіх інших, що з ним пов’язані. </seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T085024Z" creationid="Диана" creationdate="20210204T122458Z">
+        <seg>Моє завдання полягає в оптимізації  та вдосконаленні всіх процесів, наприклад, таких як зварювання та всіх інших, що з ним пов’язані. </seg>
       </tuv>
     </tu>
     <tu>
