@@ -642,8 +642,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t6/&gt;Von einigen&lt;t7/&gt; Pflichtfächer&lt;t8/&gt;n&lt;t9/&gt; hatten wir oft schon in K&lt;t10/&gt;yiw etwas gehört&lt;t11/&gt;, &lt;t12/&gt;das hat uns sehr geholfen&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T210047Z" creationid="Kate" creationdate="20210303T210047Z">
-        <seg>&lt;t6/&gt;Про деякі обов’язкові предмети ми часто чули ще в Києві, і це нам дуже допомогло.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T122855Z" creationid="Kate" creationdate="20210303T210047Z">
+        <seg>&lt;t6/&gt;Про деякі обов’язкові предмети ми часто чули ще в Києві, і саме це нам дуже допомогло.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,8 +1258,8 @@
       <tuv lang="de-DE">
         <seg>Bei mir gab es eher Probleme damit, eine&lt;t0/&gt; Wohnung &lt;t1/&gt;zu&lt;t2/&gt; finden und ein&lt;t3/&gt;zu&lt;t4/&gt;richten, &lt;t5/&gt;einen &lt;t6/&gt;Nebenjob &lt;t7/&gt;zu &lt;t8/&gt;finden und das Leben&lt;t9/&gt; in Magdeburg zu&lt;t10/&gt; gestalten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T210610Z" creationid="Kate" creationdate="20210303T210610Z">
-        <seg>У мене було більше проблем із пошуком квартири та її облаштуванням, пошуком підробітку та влаштуванням життя в Магдебурзі.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T122913Z" creationid="Kate" creationdate="20210303T210610Z">
+        <seg>У мене було більше проблем із пошуком квартири та її облаштуванням, пошуком підробітку та влаштуванням самого життя в Магдебурзі.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,8 +1738,8 @@
       <tuv lang="de-DE">
         <seg>Das Spannendste ist, dass man viele Dienstreisen machen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T203723Z" creationid="Kate" creationdate="20210303T203723Z">
-        <seg>Найбільше мене захоплює можливість їздити у відрядження.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T122752Z" creationid="Kate" creationdate="20210303T203723Z">
+        <seg>Найбільше мені подобається можливість їздити у відрядження.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2674,8 +2674,8 @@
       <tuv lang="de-DE">
         <seg>Dessen muss man sich bewusst sein&lt;t15/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T205456Z" creationid="Kate" creationdate="20210303T205456Z">
-        <seg>Тому потрібно це усвідомлювати&lt;t15/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T122840Z" creationid="Kate" creationdate="20210303T205456Z">
+        <seg>Тож потрібно це усвідомлювати&lt;t15/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4699,8 +4699,8 @@
       <tuv lang="de-DE">
         <seg>Ich finde hier &lt;t0/&gt;in Deutschland &lt;t1/&gt;trägst du mehr &lt;t2/&gt;V&lt;t3/&gt;erantwortung&lt;t4/&gt; als in der Ukraine, hast aber auch größere Wahlmöglichkeiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T205148Z" creationid="Kate" creationdate="20210303T204928Z">
-        <seg>Я думаю, тут ти несеш на собі більшу відповідальність, ніж в Україні, однак маєш і більше можливостей.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T122825Z" creationid="Kate" creationdate="20210303T204928Z">
+        <seg>Я думаю, тут ти несеш більшу відповідальність, ніж в Україні, однак маєш і більше можливостей.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7331,8 +7331,8 @@
       <tuv lang="de-DE">
         <seg>Man muss nur seine Prioritäten&lt;t20/&gt; gut setzen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T210910Z" creationid="Kate" creationdate="20210303T210910Z">
-        <seg>Просто потрібно правильно розставити свої пріоритети.&lt;t20/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T122952Z" creationid="Kate" creationdate="20210303T210910Z">
+        <seg>Просто потрібно правильно розставити пріоритети.&lt;t20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7827,8 +7827,8 @@
       <tuv lang="de-DE">
         <seg>Mir gefällt &lt;t0/&gt;es &lt;t1/&gt;hier sehr, dass man keine Angst haben muss, Fragen zu stellen oder mit dem &lt;t2/&gt;Dozierenden&lt;t3/&gt; gut diskutieren kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T211104Z" creationid="Kate" creationdate="20210303T211007Z">
-        <seg>Мені дуже подобається тут, що можна не боятися задавати запитання чи дискутувати з лектором.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T123036Z" creationid="Kate" creationdate="20210303T211007Z">
+        <seg>Мені тут дуже подобається те, що можна не боятися задавати запитання чи дискутувати з лектором.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8763,8 +8763,8 @@
       <tuv lang="de-DE">
         <seg>Viele Frauen arbeiten als Technische Zeichnerin, da muss man sich &lt;t24/&gt;als Konstrukteurin &lt;t25/&gt;manchmal ganz schön beweisen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T204445Z" creationid="Kate" creationdate="20210303T204059Z">
-        <seg>Більшість працює креслярками, тож іноді доводиться досить добре проявляти себе в ролі проектувальниці.&lt;t24/&gt;&lt;t25/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T122805Z" creationid="Kate" creationdate="20210303T204059Z">
+        <seg>Більшість працює креслярками, тож іноді доводиться досить добре проявляти себе в ролі проєктувальниці.&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9419,8 +9419,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man will, kann man hier in &lt;t17/&gt;Magdeburg&lt;t18/&gt; alles&lt;t19/&gt; machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T210843Z" creationid="Kate" creationdate="20210303T210843Z">
-        <seg>Якщо ти захочеш, то зможеш зробити що завгодно саме тут, у Магдебурзі&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210304T122945Z" creationid="Kate" creationdate="20210303T210843Z">
+        <seg>Якщо ти захочеш, то зможеш зробити у Магдебурзі абсолютно все.&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
