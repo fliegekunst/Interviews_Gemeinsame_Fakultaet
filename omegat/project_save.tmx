@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3170,8 +3170,16 @@
       <tuv lang="de-DE">
         <seg>Die meisten beginnen um 7 Uhr ihre Arbeit.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T092133Z" creationid="Диана" creationdate="20210304T091603Z">
-        <seg>Більшість із них починають свою роботу о 7 ранку.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T133517Z" creationid="Диана" creationdate="20210304T091603Z">
+        <seg>Більшість починають свою роботу о 7 ранку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese Alternative zu haben, &lt;t11/&gt;hat aber auch Vorteile&lt;t12/&gt;: Man kann sich in diese Blase zurückziehen, wenn man möchte, und kann dennoch in dem anderen Land leben &lt;t13/&gt;und dort arbeiten und studieren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T133431Z" creationid="Диана" creationdate="20210304T132849Z">
+        <seg>Але наявність цієї альтернативи також має свої переваги: ​​ви можете залишатися в культурній бульбашці, якщо хочете, і все одно жити, працювати і навчатися в іншій країні.&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3402,8 +3410,8 @@
       <tuv lang="de-DE">
         <seg>Einige Dinge sind schon seltsam für mich.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T091040Z" creationid="Диана" creationdate="20210304T091040Z">
-        <seg>Деякі речі для мене дивні.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T133459Z" creationid="Диана" creationdate="20210304T091040Z">
+        <seg>Так, деякі речі для мене дивні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6347,8 +6355,8 @@
       <tuv lang="de-DE">
         <seg>In Magdeburg braucht man keine Community, hier gibt es so viele Ukrainer und Russischsprecher&lt;t0/&gt;, dass sie sich in &lt;t1/&gt;mehrere kleine G&lt;t2/&gt;ruppen aufgeteilt haben&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T132022Z" creationid="Диана" creationdate="20210225T132022Z">
-        <seg>Вам не потрібна громада в Магдебурзі, тут стільки україно та російськомовних, що вони розділились на кілька невеликих груп.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T133057Z" creationid="Диана" creationdate="20210225T132022Z">
+        <seg>Вам і не потрібна громада, тут стільки україно та російськомовних, що вони розділились на кілька невеликих груп.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8531,8 +8539,8 @@
       <tuv lang="de-DE">
         <seg>So lebt ihr in einer&lt;t8/&gt; Art Parallelgesellschaft&lt;t9/&gt; und w&lt;t10/&gt;enn man will, kann man in dieser Muttersprachen-Heimat-Blase immer bleiben und sich dort wohl fühlen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T114057Z" creationid="Диана" creationdate="20210225T131530Z">
-        <seg>Таким чином, ви живете в якомусь паралельному суспільстві, і якщо є бажання ви завжди можете залишитися в цьому міхурі рідної мови та батьківщини й відчувати себе там комфортно.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T133136Z" creationid="Диана" creationdate="20210225T131530Z">
+        <seg>Таким чином, ви живете в якомусь паралельному суспільстві, і якщо є бажання ви завжди можете залишитися в цій бульбашці рідної мови та культур й відчувати себе там комфортно.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
