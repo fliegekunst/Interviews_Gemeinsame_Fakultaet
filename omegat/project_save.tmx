@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3010,8 +3010,8 @@
       <tuv lang="de-DE">
         <seg>Die Menschen im Öffentlichen Personennahverkehr stehen zum Beispiel sehr viel eher vor der Haltstelle auf oder die Sirenen in Deutschland sind viel viel lauter als in der Ukraine.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T092237Z" creationid="Диана" creationdate="20210304T092237Z">
-        <seg>Наприклад, люди в громадському транспорті набагато частіше встають ще перед своєю зупинкою або сирени в Німеччині набагато голосніше, ніж в Україні.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T133622Z" creationid="Диана" creationdate="20210304T092237Z">
+        <seg>А ще, наприклад, люди в громадському транспорті набагато частіше встають ще перед своєю зупинкою або сирени в Німеччині набагато голосніше, ніж в Україні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,8 +4522,8 @@
       <tuv lang="de-DE">
         <seg>Hier versteht man das anders.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T093653Z" creationid="Диана" creationdate="20210304T093653Z">
-        <seg>Тут це розуміють по-різному.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T133934Z" creationid="Диана" creationdate="20210304T093653Z">
+        <seg>Тут це розуміють по-іншому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4602,9 +4602,8 @@
       <tuv lang="de-DE">
         <seg>Ich beobachte sehr genau das Verhalten und das Aussehen der Menschen in Deutschland, dabei fällt mir natürlich vieles auf.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T114236Z" creationid="Диана" creationdate="20210304T091858Z">
-        <seg>Я дуже уважно спостерігаю за поведінкою і зовнішністю людей, при цьому, звичайно, багато впадає в очі
-.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T133545Z" creationid="Диана" creationdate="20210304T091858Z">
+        <seg>Я дуже уважно спостерігаю за поведінкою і зовнішністю людей, при цьому, звичайно, багато впадає в очі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5035,8 +5034,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe das Gefühl, in Deutschland würde man darauf antworten: Das sind Leute, mit denen du für eine bestimmte Zeit rumhängst und die du kennst.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T093142Z" creationid="Диана" creationdate="20210304T093142Z">
-        <seg>У мене таке відчуття, що люди в Німеччині відповіли б на це: це люди, яких ви знаєте і з якими ви тусуєтесь певний час.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T133851Z" creationid="Диана" creationdate="20210304T093142Z">
+        <seg>У мене таке відчуття, що люди в Німеччині відповіли б так: це люди, яких ви знаєте і з якими ви тусуєтесь певний час.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6347,8 +6346,8 @@
       <tuv lang="de-DE">
         <seg>In Deutschland läuft sehr viel per Brief und per Post ab, mehr, als in der Ukraine.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T114310Z" creationid="Диана" creationdate="20210304T092612Z">
-        <seg>Тут частіше використовують листування та пошту, ніж в Україні.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T133638Z" creationid="Диана" creationdate="20210304T092612Z">
+        <seg>Тут частіше використовують листування через пошту, ніж в Україні.</seg>
       </tuv>
     </tu>
     <tu>
