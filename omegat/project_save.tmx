@@ -2746,8 +2746,8 @@
       <tuv lang="de-DE">
         <seg>Die Dozierenden fragen nichts kompliziertes, sie wollen vor allem sehen, dass man mit dem Thema umgehen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T110330Z" creationid="krps" creationdate="20210304T110330Z">
-        <seg>Викладачі не задають суперскладних питань, вони просто хочуть знати, наскільки добре студент орієнту.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210304T110347Z" creationid="krps" creationdate="20210304T110330Z">
+        <seg>Викладачі не задають суперскладних питань, вони просто хочуть знати, наскільки добре студент орієнтується в темі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3196,6 +3196,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210211T095626Z" creationid="ADMIN" creationdate="20210211T095626Z">
         <seg>Порада: встановіть &lt;t0/&gt;додаток для перекладу та &lt;t1/&gt;поповнюйте &lt;t2/&gt;свій словниковий запас&lt;t3/&gt;!&lt;t4/&gt; За допомогою додатку ви зможете швидко перекласти незнайомі слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Vorteil einer mündlichen Prüfung ist, dass man die Note sofort erfährt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T110544Z" creationid="krps" creationdate="20210304T110544Z">
+        <seg>Перевагою усного іспиту є те, що відразу знаєш свою оцінку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8801,6 +8809,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn man eine Klausur schreibt, wartet man drei bis sechs Wochen auf das Ergebnis.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T110711Z" creationid="krps" creationdate="20210304T110711Z">
+        <seg>Результати контрольної можна чекати від трьох  до семи тижнів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn man fünf Fragen aus 120 gut gelernt hat, bekommst du dann eine davon in der Aufgabe, in der es insgesamt zwei Fragen gibt und man könnte nur 50% der Punkte bekommen.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T084933Z" creationid="krps" creationdate="20210210T101642Z">
@@ -8813,6 +8829,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T151934Z" creationid="ADMIN" creationdate="20210303T150243Z">
         <seg>Якщо ти кожного тижня виконуєш завдання до закінчення дедлайнів, то можна впевнено сказати, що ти вже підготовлений до екзаменів в кінці семестру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man keine Antwort geben kann, versucht der Dozierenden zu helfen oder stellt eine andere Frage.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="krps" changedate="20210304T110450Z" creationid="krps" creationdate="20210304T110450Z">
+        <seg>Якщо ти не можеш відповісти, то тобі допоможуть, або ж зададуть інше питання.</seg>
       </tuv>
     </tu>
     <tu>
