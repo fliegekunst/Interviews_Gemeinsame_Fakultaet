@@ -321,8 +321,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t14/&gt;Im Master kommt es eher darauf an&lt;t15/&gt;, Informationen zu strukturieren und zu verstehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T115839Z" creationid="Диана" creationdate="20210225T115839Z">
-        <seg>&lt;t14/&gt;На магістратурі важливіше структурувати та розуміти інформацію.&lt;t15/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T113204Z" creationid="Диана" creationdate="20210225T115839Z">
+        <seg>&lt;t14/&gt;На магістратурі важливіше структурувати та розуміти інформацію&lt;t15/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -345,8 +345,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t16/&gt;In der Prüfung wird nur &lt;t17/&gt;das behandelt, was in der Vorlesung dran war.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T115958Z" creationid="Диана" creationdate="20210225T115958Z">
-        <seg>&lt;t16/&gt;На іспиті розглядається тільки те, що було на лекціях.&lt;t17/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T113222Z" creationid="Диана" creationdate="20210225T115958Z">
+        <seg>&lt;t16/&gt;На іспиті розглядається тільки те, що було на лекціях&lt;t17/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -417,8 +417,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t2/&gt;Ein Mal mehr &lt;t3/&gt;Nachfragen ist besser, als nichts &lt;t4/&gt;zu &lt;t5/&gt;verstehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T115340Z" creationid="Диана" creationdate="20210225T115340Z">
-        <seg>&lt;t2/&gt;Перепитати ще раз краще, ніж нічого не розуміти&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T113142Z" creationid="Диана" creationdate="20210225T115340Z">
+        <seg>&lt;t2/&gt;Краще ще раз перепитати , ніж нічого не розуміти&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -449,8 +449,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t20/&gt;Ich finde es wichtig, die &lt;t21/&gt;Informationen zu verstehen&lt;t22/&gt; und zu strukturieren&lt;t23/&gt; und nicht einfach &lt;t24/&gt;nur &lt;t25/&gt;auswendig zu lernen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T120604Z" creationid="Диана" creationdate="20210225T120604Z">
-        <seg>&lt;t20/&gt;Я вважаю, що важливвіше розуміти і структурувати інформацію, а не просто запам'ятовувати її&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T113331Z" creationid="Диана" creationdate="20210225T120604Z">
+        <seg>&lt;t20/&gt;Я вважаю, що важливіше розуміти та вміти структурувати інформацію, а не просто запам'ятовувати її&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8099,8 +8099,8 @@
       <tuv lang="de-DE">
         <seg>Sind Prüfungen in Deutschland schwerer&lt;t0/&gt; als in der Ukraine&lt;t1/&gt;?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T120637Z" creationid="Диана" creationdate="20210225T120637Z">
-        <seg>Чи складніше іспити в Німеччині, а ніж в Україні?&lt;t0/&gt; &lt;t1/&gt;?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T113344Z" creationid="Диана" creationdate="20210225T120637Z">
+        <seg>Чи складніше іспити в Німеччині, а ніж в Україні?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8923,8 +8923,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man das lernt&lt;t18/&gt; und durchgeht&lt;t19/&gt;, kann man auch die Prüfung bestehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T120233Z" creationid="Диана" creationdate="20210225T120233Z">
-        <seg>Якщо ти вивчиш це, то зможешь скласти іспит&lt;t18/&gt; &lt;t19/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210304T113241Z" creationid="Диана" creationdate="20210225T120233Z">
+        <seg>Якщо ти вивчиш це, то зможеш скласти іспит.&lt;t18/&gt; &lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
