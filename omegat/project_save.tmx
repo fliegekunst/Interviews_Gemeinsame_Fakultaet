@@ -3146,8 +3146,8 @@
       <tuv lang="de-DE">
         <seg>Die Selbstorganisation war leicht, aber ich habe gemerkt, dass es bestimmte Fächer gab, bei denen ich mir Präsenz gewünscht hätte, z.B. Physik.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T141341Z" creationid="krps" creationdate="20210304T141341Z">
-        <seg>Самоорганізуватися було легко, але я помітив, що є певні предмети, на яких я хотів би бути присутніми, наприклад, фізика.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101710Z" creationid="krps" creationdate="20210304T141341Z">
+        <seg>Самоорганізуватися було легко, але я помітив, що є певні предмети, на яких я хотів би бути очно присутніми, наприклад, фізика.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,8 +3994,8 @@
       <tuv lang="de-DE">
         <seg>Es war sehr gut organisiert und während der Reise hatten wir genug Freizeit, um uns das Land anzusehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T140248Z" creationid="krps" creationdate="20210304T140248Z">
-        <seg>Все було чудово організовано і протягом подорожі вистачило часу, щоб подивитися місто.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101557Z" creationid="krps" creationdate="20210304T140248Z">
+        <seg>Все було чудово організовано, і протягом подорожі вистачило часу, щоб подивитися місто.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7890,8 +7890,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal wird einem ein großes Dokument oder ein Buch geschickt und man soll die Inhalte bearbeiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T141551Z" creationid="krps" creationdate="20210304T141551Z">
-        <seg>А іноді надсилали великий документ чи книгу, і потрібно було все самостіно опрацювати.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101728Z" creationid="krps" creationdate="20210304T141551Z">
+        <seg>А іноді нам надсилали великий документ чи книгу, і потрібно було все самостіно опрацювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10218,8 +10218,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben viele Leute kennen gelernt und mit manchen bin ich heute noch befreundet.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T140400Z" creationid="krps" creationdate="20210304T140400Z">
-        <seg>Ми познайомилися з багатьма людьми, і з деякими я ще досі спілкуюся.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101604Z" creationid="krps" creationdate="20210304T140400Z">
+        <seg>Ми познайомилися з багатьма людьми, а з деякими я ще досі спілкуюся.</seg>
       </tuv>
     </tu>
     <tu>
