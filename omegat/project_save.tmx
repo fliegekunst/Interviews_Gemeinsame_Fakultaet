@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -858,8 +858,8 @@
       <tuv lang="de-DE">
         <seg>Abgabe der Masterarbeit geplant für Mai 2020</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T104926Z" creationid="Диана" creationdate="20210225T104926Z">
-        <seg>Здача магістерської роботи запланована на травень 2020 року</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T195248Z" creationid="Диана" creationdate="20210225T104926Z">
+        <seg>Захист магістерської роботи запланована на травень 2020 року</seg>
       </tuv>
     </tu>
     <tu>
@@ -8778,8 +8778,8 @@
       <tuv lang="de-DE">
         <seg>Studiengang: Produktionstechnik</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T104744Z" creationid="Диана" creationdate="20210225T104744Z">
-        <seg>Факультет: виробниче машинобудування</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T195228Z" creationid="Диана" creationdate="20210225T104744Z">
+        <seg>Спеціальність: технології  виробництва? </seg>
       </tuv>
     </tu>
     <tu>
@@ -9538,8 +9538,8 @@
       <tuv lang="de-DE">
         <seg>Wenn ich eine Familie hier in Deutschland gründe, dann bleibe ich hier, wenn nicht, ziehe &lt;t0/&gt;ich &lt;t1/&gt;weiter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T122912Z" creationid="Диана" creationdate="20210225T105138Z">
-        <seg>Якщо я створю сім’ю у Німеччині, то я залишусь тут, якщо ні, то переїду кудись. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T195337Z" creationid="Диана" creationdate="20210225T105138Z">
+        <seg>Якщо я створю сім’ю в Німеччині, то залишусь тут, якщо ні, переїду кудись. &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
