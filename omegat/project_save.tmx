@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5242,8 +5242,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe gedacht, dass es schwierig wird, Prüfungen in Deutschland abzulegen, aber das war nicht so.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T095206Z" creationid="krps" creationdate="20210225T111221Z">
-        <seg>Думав, що складати іспити в Німеччині дуже складно, але це виявилося не так.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T173210Z" creationid="krps" creationdate="20210225T111221Z">
+        <seg>Раніше думав, що складати іспити в Німеччині дуже складно, але це виявилося не так.</seg>
       </tuv>
     </tu>
     <tu>
