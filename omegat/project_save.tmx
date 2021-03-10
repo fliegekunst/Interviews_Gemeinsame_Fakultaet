@@ -4130,8 +4130,8 @@
       <tuv lang="de-DE">
         <seg>Fühlst du dich&lt;t0/&gt; integriert in Deutschland an der Uni&lt;t1/&gt;versität&lt;t2/&gt; oder auf der Arbeit?</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210304T113343Z" creationid="PC" creationdate="20210304T113343Z">
-        <seg>Як ти вважаєш,&lt;t0/&gt; ти освоїлася вже &lt;t1/&gt;у&lt;t2/&gt; Німеччині?</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T150730Z" creationid="PC" creationdate="20210304T113343Z">
+        <seg>Як ти вважаєш,&lt;t0/&gt; ти вже освоїлася &lt;t1/&gt;у&lt;t2/&gt; Німеччині?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4986,8 +4986,8 @@
       <tuv lang="de-DE">
         <seg>Ich fühle mich nicht 100%ig integriert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210304T113646Z" creationid="PC" creationdate="20210304T113528Z">
-        <seg>Не можу скзати, що я повністю освоїлася.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T150736Z" creationid="PC" creationdate="20210304T113528Z">
+        <seg>Не можу сказати, що я повністю освоїлася.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5018,8 +5018,8 @@
       <tuv lang="de-DE">
         <seg>Ich glaube, man ist sehr gut integriert, wenn man dieselben Witze kennt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210304T114224Z" creationid="PC" creationdate="20210304T114224Z">
-        <seg>От коли людина починає жартувати як місцеві жителі, тоді можна сказати, що вона освоїлася.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T150829Z" creationid="PC" creationdate="20210304T114224Z">
+        <seg>Коли людина починає жартувати як місцеві жителі, тоді можна з впевненістю сказати, що вона освоїлася.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8138,8 +8138,8 @@
       <tuv lang="de-DE">
         <seg>Mir hat die Master-Arbeit bei der Bewerbung zur PhD geholfen, ich wurde beim Max-Planck-Institut explizit danach gefragt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T162654Z" creationid="PC" creationdate="20210303T162654Z">
-        <seg>Вона допомогла мені, коли я подавала заявку на ступінь кандидата наук. В Інституті Товариства Макса Планка було важливо її побачити.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T150714Z" creationid="PC" creationdate="20210303T162654Z">
+        <seg>Вона допомогла мені, коли я подавала заявку на ступінь кандидата наук. В Інституті Товариства Макса Планка, наприклад, мене просили її показати.</seg>
       </tuv>
     </tu>
     <tu>
