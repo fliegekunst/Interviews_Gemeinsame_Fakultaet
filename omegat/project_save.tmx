@@ -1202,8 +1202,8 @@
       <tuv lang="de-DE">
         <seg>Außerdem bezahlt man eine Pauschale für alles und man muss sich nicht um Internet, Wasser oder andere Nebenkosten kümmern.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T120226Z" creationid="krps" creationdate="20210304T120226Z">
-        <seg>Крім того, ви платите загальну суму за все, і вам не треба турбуватися про інтернет, воду чи інші витрати.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101059Z" creationid="krps" creationdate="20210304T120226Z">
+        <seg>Крім того, ви платите загальну суму за все, і вам не треба турбуватися про витрати на інтернет, воду тощо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,8 +1826,8 @@
       <tuv lang="de-DE">
         <seg>Das Wohnheimzimmer ist außerdem möbliert, das ist bei WGs nicht immer der Fall, dann muss man sich die Möbel selbst zusammensuchen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T120625Z" creationid="krps" creationdate="20210304T120625Z">
-        <seg>Кімната в гуртожитку мебльована, що не завжди буває у квартирах, де меблі доводиться знаходити самостійно.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101117Z" creationid="krps" creationdate="20210304T120625Z">
+        <seg>Кімната в гуртожитку мебльована, що не завжди буває у квартирах, де меблі доводиться знаходити самому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2674,8 +2674,8 @@
       <tuv lang="de-DE">
         <seg>Der Vorteil eins Studentenwohnheims ist, dass es in der Nähe vom Campus gelegen ist.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T120049Z" creationid="krps" creationdate="20210304T120049Z">
-        <seg>Перевагою гуртожитку є те, що він знаходиться недалеко від студмістечка.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101012Z" creationid="krps" creationdate="20210304T120049Z">
+        <seg>Перевагою гуртожитку є те, що він розташований недалеко від студмістечка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9906,8 +9906,8 @@
       <tuv lang="de-DE">
         <seg>Wie integriert fühlst du dich in Magdeburg?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T132248Z" creationid="krps" creationdate="20210304T132248Z">
-        <seg>Наскільки залученим у життя ти почуваєшся?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101228Z" creationid="krps" creationdate="20210304T132248Z">
+        <seg>Ти залучений в життя?</seg>
       </tuv>
     </tu>
     <tu>
