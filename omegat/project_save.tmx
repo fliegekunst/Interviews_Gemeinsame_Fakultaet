@@ -241,8 +241,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t1/&gt;Die Studienfächer &lt;t2/&gt;im Master &lt;t3/&gt;waren für mich einfacher als im Bachelor, da &lt;t4/&gt;wir&lt;t5/&gt; kein&lt;t6/&gt;e&lt;t7/&gt; Mathe&lt;t8/&gt;matik&lt;t9/&gt; oder &lt;t10/&gt;kein&lt;t11/&gt; Rechnen hatte&lt;t12/&gt;n und nicht so viel auswendig lernen mussten&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T202005Z" creationid="Диана" creationdate="20210225T115646Z">
-        <seg>&lt;t1/&gt;Предмети на магістратурі були легшими, ніж на бакалавраті, оскільки у нас не було математики та арифметики, тому нам не потрібно було так багато запам’ятовувати.&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T202220Z" creationid="Диана" creationdate="20210225T115646Z">
+        <seg>&lt;t1/&gt;Предмети на магістратурі були легшими, ніж на бакалавраті, оскільки у нас не було математики та арифметики, тому нам не потрібно було так багато запам’ятовувати.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -457,8 +457,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t20/&gt;Ich finde es wichtig, die &lt;t21/&gt;Informationen zu verstehen&lt;t22/&gt; und zu strukturieren&lt;t23/&gt; und nicht einfach &lt;t24/&gt;nur &lt;t25/&gt;auswendig zu lernen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113349Z" creationid="Диана" creationdate="20210225T120604Z">
-        <seg>&lt;t20/&gt;Я вважаю, що важливіше розуміти та вміти структурувати інформацію, а не просто запам'ятовувати її&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T202302Z" creationid="Диана" creationdate="20210225T120604Z">
+        <seg>&lt;t20/&gt;І мені здається таке навчання кориснішим, ніж просто зазубрювання інформації &lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8698,8 +8698,8 @@
       <tuv lang="de-DE">
         <seg>Sind Prüfungen in Deutschland schwerer&lt;t0/&gt; als in der Ukraine&lt;t1/&gt;?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T125815Z" creationid="Диана" creationdate="20210225T120637Z">
-        <seg>Чи складніше іспити в Німеччині, ніж в Україні?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T202402Z" creationid="Диана" creationdate="20210225T120637Z">
+        <seg>У Німеччині складніші іспити, ніж в Україні?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
