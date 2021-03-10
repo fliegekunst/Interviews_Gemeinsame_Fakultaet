@@ -882,8 +882,8 @@
       <tuv lang="de-DE">
         <seg>Alle Aufgaben und Ziele sind klar und alle Unterlagen sind verfügbar, das macht das Studium einfach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T111037Z" creationid="krps" creationdate="20210225T111037Z">
-        <seg>Всі завдання та цілі чіткі, а всі документи доступні, що суттєво полегшує навчання.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095132Z" creationid="krps" creationdate="20210225T111037Z">
+        <seg>Всі завдання чіткі, а документи доступні, це дуже полегшує навчання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3714,8 +3714,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt mehr freie Zeit.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T110816Z" creationid="krps" creationdate="20210225T110816Z">
-        <seg>Є більше вільного часу.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095029Z" creationid="krps" creationdate="20210225T110816Z">
+        <seg>Я маю більше вільного часу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7546,8 +7546,8 @@
       <tuv lang="de-DE">
         <seg>Man muss manche Veranstaltungen nicht besuchen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T110935Z" creationid="krps" creationdate="20210225T110935Z">
-        <seg>Не обов'язково відвідувати деякі заходи.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095044Z" creationid="krps" creationdate="20210225T110935Z">
+        <seg>Не обов'язково потрібно відвідувати деякі заходи.</seg>
       </tuv>
     </tu>
     <tu>
