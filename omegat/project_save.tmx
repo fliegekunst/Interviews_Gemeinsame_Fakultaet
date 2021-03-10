@@ -4042,8 +4042,8 @@
       <tuv lang="de-DE">
         <seg>Euch wird eine Integration in Deutschland schwer fallen, we&lt;t0/&gt;nn &lt;t1/&gt;ihr &lt;t2/&gt;immer Nachrichten und Lieder in &lt;t3/&gt;eurer&lt;t4/&gt; Muttersprache hör&lt;t5/&gt;t und nur den &lt;t6/&gt;Kontakt mit Freunden und Bekannten hab&lt;t7/&gt;t, die auch eure Muttersprache sprechen!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T114001Z" creationid="Диана" creationdate="20210225T131337Z">
-        <seg>Вам буде важко інтегруватися в Німеччині, якщо будете слухати новини та пісні на своїй рідній мові й мати контакт тільки з друзями і знайомими, які також говорять на вашій рідній мові.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T204219Z" creationid="Диана" creationdate="20210225T131337Z">
+        <seg>Вам буде важко адаптуватися в Німеччині, якщо будете слухати новини та пісні на своїй рідній мові й розмовляти тільки з друзями та знайомими, які також говорять вашою мовою.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4226,8 +4226,8 @@
       <tuv lang="de-DE">
         <seg>Geht raus, redet mit den Menschen!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T130806Z" creationid="Диана" creationdate="20210225T130806Z">
-        <seg>Виходьте та спілкуйтесь з людьми!</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T203954Z" creationid="Диана" creationdate="20210225T130806Z">
+        <seg>Виходьте та спілкуйтесь із людьми!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5050,8 +5050,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe Sportkurse gemacht und eine Sprachtandempartnerin für ein halbes Jahr gehabt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113933Z" creationid="Диана" creationdate="20210225T130447Z">
-        <seg>Я пів року займався в спортивній секції та мав партнера з мовного тандему.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T203940Z" creationid="Диана" creationdate="20210225T130447Z">
+        <seg>Я пів року займався в спортивній секції та знайшов собі партнера для мовного тандему.</seg>
       </tuv>
     </tu>
     <tu>
