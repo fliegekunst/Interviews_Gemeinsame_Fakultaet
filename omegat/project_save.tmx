@@ -2530,8 +2530,8 @@
       <tuv lang="de-DE">
         <seg>Das weiß ich bis jetz&lt;t1/&gt;t nicht&lt;t2/&gt; so richtig&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T212056Z" creationid="Kate" creationdate="20210303T212056Z">
-        <seg>Я не знаю цього й досі&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T205937Z" creationid="Kate" creationdate="20210303T212056Z">
+        <seg>Я й досі цього не знаю&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7658,8 +7658,8 @@
       <tuv lang="de-DE">
         <seg>Man sollte offen für Neues sein!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T212920Z" creationid="Kate" creationdate="20210303T212920Z">
-        <seg>Потрібно бути відкритим до всього нового!</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T210000Z" creationid="Kate" creationdate="20210303T212920Z">
+        <seg>Будьте відкритими до всього нового!</seg>
       </tuv>
     </tu>
     <tu>
