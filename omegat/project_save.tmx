@@ -842,8 +842,8 @@
       <tuv lang="de-DE">
         <seg>Aber jeder versteht sowieso, dass ich Ausländer bin&lt;t14/&gt;, und gibt sich Mühe, mich zu verstehen und mir zu helfen&lt;t15/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T112429Z" creationid="Диана" creationdate="20210225T111247Z">
-        <seg>Але все одно всі розуміють, що я іноземець і докладають максимум зусиль, щоб зрозуміти й допомогти мені.&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T200431Z" creationid="Диана" creationdate="20210225T111247Z">
+        <seg>Всі розуміють, що я іноземець, і тому намагаються максимально мені допомогти.&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8290,8 +8290,8 @@
       <tuv lang="de-DE">
         <seg>Nach jedem Satz, den ich sage, mache ich a&lt;t0/&gt;utomatisch eine kleine Analyse von dem, was &lt;t1/&gt;ich gesagt habe und ob das jetzt so richtig war.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T112845Z" creationid="Диана" creationdate="20210225T111519Z">
-        <seg>Після кожного сказаного мною речення, я автоматично роблю невеликий аналіз того, що сказав, і обдумую чи було це правильно&lt;t0/&gt;&lt;t1/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T200602Z" creationid="Диана" creationdate="20210225T111519Z">
+        <seg>Після кожного речення я вже автоматично аналізую все те, що щойно сказав, і наскільки це було правильним.&lt;t0/&gt;&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
