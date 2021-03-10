@@ -241,8 +241,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t1/&gt;Die Studienfächer &lt;t2/&gt;im Master &lt;t3/&gt;waren für mich einfacher als im Bachelor, da &lt;t4/&gt;wir&lt;t5/&gt; kein&lt;t6/&gt;e&lt;t7/&gt; Mathe&lt;t8/&gt;matik&lt;t9/&gt; oder &lt;t10/&gt;kein&lt;t11/&gt; Rechnen hatte&lt;t12/&gt;n und nicht so viel auswendig lernen mussten&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T115646Z" creationid="Диана" creationdate="20210225T115646Z">
-        <seg>&lt;t1/&gt;Предмети на магістратурі були простішими, ніж на бакалавраті, оскільки у нас не було математики та арифметики, і нам не потрібно було так багато запам’ятовувати.&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T202005Z" creationid="Диана" creationdate="20210225T115646Z">
+        <seg>&lt;t1/&gt;Предмети на магістратурі були легшими, ніж на бакалавраті, оскільки у нас не було математики та арифметики, тому нам не потрібно було так багато запам’ятовувати.&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,8 +329,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t14/&gt;Im Master kommt es eher darauf an&lt;t15/&gt;, Informationen zu strukturieren und zu verstehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113204Z" creationid="Диана" creationdate="20210225T115839Z">
-        <seg>&lt;t14/&gt;На магістратурі важливіше структурувати та розуміти інформацію&lt;t15/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T202050Z" creationid="Диана" creationdate="20210225T115839Z">
+        <seg>&lt;t14/&gt;На магістратурі важливіше вміти структурувати та розуміти інформацію&lt;t15/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -425,8 +425,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t2/&gt;Ein Mal mehr &lt;t3/&gt;Nachfragen ist besser, als nichts &lt;t4/&gt;zu &lt;t5/&gt;verstehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T125658Z" creationid="Диана" creationdate="20210225T115340Z">
-        <seg>&lt;t2/&gt;Краще ще раз перепитати, ніж нічого не розуміти&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T201612Z" creationid="Диана" creationdate="20210225T115340Z">
+        <seg>&lt;t2/&gt;Краще ще раз перепитати, ніж взагалі нічого не розуміти&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7666,8 +7666,8 @@
       <tuv lang="de-DE">
         <seg>Man sollte sich allerdings nicht schämen, Ausländer zu sein und nicht schüchtern sein.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113054Z" creationid="Диана" creationdate="20210225T115211Z">
-        <seg>Однак не слід соромитися того, що ти іноземець.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T201501Z" creationid="Диана" creationdate="20210225T115211Z">
+        <seg>Однак не треба соромитися того, що ти іноземець.</seg>
       </tuv>
     </tu>
     <tu>
