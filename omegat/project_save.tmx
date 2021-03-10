@@ -1386,8 +1386,8 @@
       <tuv lang="de-DE">
         <seg>Bevor ich etwas sage, &lt;t2/&gt;versuche ich mir die Wörter im Kopf zurecht zu legen&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T124928Z" creationid="Диана" creationdate="20210225T111657Z">
-        <seg>Перш ніж щось сказати, я намагаюся розібрати всі слова в голові&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T200648Z" creationid="Диана" creationdate="20210225T111657Z">
+        <seg>Перш ніж щось сказати, я намагаюся підібрати слова в голові&lt;t2/&gt;&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9434,8 +9434,8 @@
       <tuv lang="de-DE">
         <seg>Wenn &lt;t0/&gt;du&lt;t1/&gt; eine andere Sprache sprich&lt;t2/&gt;s&lt;t3/&gt;t, bist du nicht mehr du, das ist ein anderes du, weil &lt;t4/&gt;du&lt;t5/&gt; nicht &lt;t6/&gt;mehr &lt;t7/&gt;alles sagen kann&lt;t8/&gt;st&lt;t9/&gt;, was &lt;t10/&gt;du&lt;t11/&gt; möch&lt;t12/&gt;test&lt;t13/&gt;, sondern nur das, was &lt;t14/&gt;du&lt;t15/&gt; kann&lt;t16/&gt;st&lt;t17/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T112759Z" creationid="Диана" creationdate="20210225T112814Z">
-        <seg>Коли розмовляєш іншою мовою, перестаєш бути собою, бо ти говориш не все, що хочеш, а лише те, що можеш&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T200901Z" creationid="Диана" creationdate="20210225T112814Z">
+        <seg>Коли розмовляєш іншою мовою, перестаєш бути собою, бо ти говориш не все, що хочеш, а тільк те, що можеш&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
