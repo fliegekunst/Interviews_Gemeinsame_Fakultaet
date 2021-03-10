@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4802,8 +4802,8 @@
       <tuv lang="de-DE">
         <seg>Ich bin mittlerweile etwas über ein Jahr Hiwi, seit Mai 2019. Jetzt ist das Projekt zu Ende und ich erledige nur noch wenige Aufgaben und arbeite nur 20 Stunden pro Monat.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210304T122715Z" creationid="ADMIN" creationdate="20210303T202518Z">
-        <seg>Я був лаборантом трохи більше року, починаючи з травня 2019 року. Зараз проєкт закінчується, тому я виконую лише декілька завдань і працюю всього-на-всього 20 годин на місяць</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210310T141722Z" creationid="ADMIN" creationdate="20210303T202518Z">
+        <seg>Я був лаборантом трохи більше року, починаючи з травня 2019 року. Зараз проєкт закінчується, тому я виконую лише декілька завдань і працюю всього-на-всього 20 годин на місяць.</seg>
       </tuv>
     </tu>
     <tu>
