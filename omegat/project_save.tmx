@@ -1802,8 +1802,8 @@
       <tuv lang="de-DE">
         <seg>Das Studium in Magdeburg habe ich als gute Erfahrung in Erinnerung.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T111909Z" creationid="PC" creationdate="20210227T111909Z">
-        <seg>Навчання в Магдебурзі було для мене чудовим досвідом.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T150152Z" creationid="PC" creationdate="20210227T111909Z">
+        <seg>Навчання в Магдебурзі - це чудовий досвід для мене.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7530,8 +7530,8 @@
       <tuv lang="de-DE">
         <seg>Man muss ja erst die Masterprojektarbeit verteidigen, die einer Masterarbeit in der Struktur sehr ähnlich ist.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T101601Z" creationid="PC" creationdate="20210227T101601Z">
-        <seg>Спочатку ж потрібно захистити магістерську проєктну роботу, яка за своєю структурою схожа на дисертацію.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T145958Z" creationid="PC" creationdate="20210227T101601Z">
+        <seg>Спочатку потрібно захистити магістерську проєктну роботу, яка за своєю структурою схожа на дисертацію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10202,8 +10202,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben uns immer unterstützt, beispielsweise hat jemand eine Information bekommen und diese dann mit den anderen in der Gruppe geteilt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T120503Z" creationid="PC" creationdate="20210227T120503Z">
-        <seg>Ми завжди підтримували одне одного. Наприклад, ділилися новою інформацією. </seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T150229Z" creationid="PC" creationdate="20210227T120503Z">
+        <seg>Ми завжди підтримували одне одного та ділилися новою інформацією. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10258,8 +10258,8 @@
       <tuv lang="de-DE">
         <seg>Wir mussten aber erst unsere deutsche Master-Arbeit verteidigen und dann die ukrainisch Master-Arbeit.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T103144Z" creationid="PC" creationdate="20210227T103144Z">
-        <seg>Але нам довелося захищати і німецьку магістерську, і українську.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T150102Z" creationid="PC" creationdate="20210227T103144Z">
+        <seg>Але нам довелося захищати одну в Німеччині і ще одну в Україні.</seg>
       </tuv>
     </tu>
     <tu>
