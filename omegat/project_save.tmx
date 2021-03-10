@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2882,8 +2882,8 @@
       <tuv lang="de-DE">
         <seg>Deutschland ist ein wunderschönes &lt;t11/&gt;Land, in dem man sich sehr wohl fühlen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T130558Z" creationid="Диана" creationdate="20210225T130427Z">
-        <seg>Німеччина - прекрасна країна, де можна почуватися дуже комфортно. &lt;t11/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T203836Z" creationid="Диана" creationdate="20210225T130427Z">
+        <seg>Німеччина - прекрасна країна, в якій можна почуватися дуже комфортно. &lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9146,8 +9146,8 @@
       <tuv lang="de-DE">
         <seg>W&lt;t0/&gt;as ich empfehlen würde, sind soziale Aktivitäten, &lt;t1/&gt;z.B. &lt;t2/&gt;Sportkurse &lt;t3/&gt;zu besuchen&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T130543Z" creationid="Диана" creationdate="20210225T125940Z">
-        <seg>Я б порадив відвідувати соціальні активності, такі як, наприклад, спортивні секції&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T203713Z" creationid="Диана" creationdate="20210225T125940Z">
+        <seg>Я б порадив бути соціально активним, такі як, наприклад, спортивні секції&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9818,8 +9818,8 @@
       <tuv lang="de-DE">
         <seg>Wichtig ist, etwas mit den &lt;t5/&gt;anderen Studierenden&lt;t6/&gt; zusammen &lt;t7/&gt;zu &lt;t8/&gt;machen&lt;t9/&gt; und nicht immer mit den anderen internationalen Studierenden aus der GUS zusammen zu sein&lt;t10/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T130801Z" creationid="Диана" creationdate="20210225T130354Z">
-        <seg>Важливо робити щось разом з іншими студентами та не бути поряд лише зі студентами із СНД&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T203807Z" creationid="Диана" creationdate="20210225T130354Z">
+        <seg>Головне – робити щось разом не тільки зі студентами з СНД, а й з іншими.&lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt; &lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
