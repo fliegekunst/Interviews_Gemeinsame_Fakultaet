@@ -3618,8 +3618,8 @@
       <tuv lang="de-DE">
         <seg>Es gab eine Belehrung und ich habe ganz banale Fragen gestellt, z.B. wie etwas funktioniert, und das wurde sehr nett beantwortet.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T132918Z" creationid="krps" creationdate="20210304T132918Z">
-        <seg>Одного разу був інструктаж, і я задавава дуже банальні питання, наприклад, як щось працює, і мені з радістю відповідали.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101322Z" creationid="krps" creationdate="20210304T132918Z">
+        <seg>Одного разу був інструктаж, і я задавав дуже банальні питання, наприклад, як щось працює, і мені з радістю відповідали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9482,8 +9482,8 @@
       <tuv lang="de-DE">
         <seg>Wenn du praktische Erfahrungen sammeln möchtest, kannst du hier die Dozierenden fragen, ob sie Arbeit für dich haben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T133839Z" creationid="krps" creationdate="20210304T133839Z">
-        <seg>Якщо ти хочеш отримати практичний досвід, то можна запитати у викладачів, чи є в них для вас робота.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101423Z" creationid="krps" creationdate="20210304T133839Z">
+        <seg>Якщо хочеш отримати практичний досвід, то можна запитати у викладачів, чи є в них для тебе робота.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9642,8 +9642,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man echte praktische Erfahrungen sammeln will, sollte man sich einen Betreuer suchen und Hiwi werden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T135726Z" creationid="krps" creationdate="20210304T135726Z">
-        <seg>Якщо ви хочете отримати реальний практичний досвід, то треба шукати керівника та ставати лаборантом.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101527Z" creationid="krps" creationdate="20210304T135726Z">
+        <seg>Якщо ти хочеш отримати реальний практичний досвід, то треба шукати керівника та ставати лаборантом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9658,8 +9658,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man ein Praktikum machen will, bewirbt man sich bei einem Unternehmen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T134959Z" creationid="krps" creationdate="20210304T134959Z">
-        <seg>Якщо ви хочете пройти стажування, то подаєте заявку в компанію.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101504Z" creationid="krps" creationdate="20210304T134959Z">
+        <seg>Якщо ти хочеш пройти стажування, то треба подати заявку в компанію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9906,8 +9906,8 @@
       <tuv lang="de-DE">
         <seg>Wie integriert fühlst du dich in Magdeburg?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T101228Z" creationid="krps" creationdate="20210304T132248Z">
-        <seg>Ти залучений в життя?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T101240Z" creationid="krps" creationdate="20210304T132248Z">
+        <seg>Чи ти залучений в життя?</seg>
       </tuv>
     </tu>
     <tu>
