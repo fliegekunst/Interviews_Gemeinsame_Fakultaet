@@ -4026,8 +4026,8 @@
       <tuv lang="de-DE">
         <seg>Es wäre besser, wenn man auch Englisch kann, es gibt hier viele internationale Studierende, die hier auf Englisch studieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T114714Z" creationid="krps" creationdate="20210304T114714Z">
-        <seg>Було б краще, якби ви також могли розмовляти англійською, тут є багато іноземних студентів, які на ній навчаються.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T100714Z" creationid="krps" creationdate="20210304T114714Z">
+        <seg>Було б краще, якби ви також могли розмовляти англійською, бо тут є багато іноземних студентів, які на ній навчаються.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6786,8 +6786,8 @@
       <tuv lang="de-DE">
         <seg>In manchen Fächern ist die Literatur auf Englisch, darauf sollte man vorbereitet sein.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T115851Z" creationid="krps" creationdate="20210304T115851Z">
-        <seg>Треба бути готовим до того, що на більшості спеціальностей література англійською мовою.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T100926Z" creationid="krps" creationdate="20210304T115851Z">
+        <seg>Але варто бути готовим до того, що на більшості спеціальностей література англійською мовою.</seg>
       </tuv>
     </tu>
     <tu>
