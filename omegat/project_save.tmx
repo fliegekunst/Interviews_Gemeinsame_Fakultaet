@@ -922,8 +922,8 @@
       <tuv lang="de-DE">
         <seg>Allgemein finde ich Deutsche &lt;t0/&gt;nicht so expressiv&lt;t1/&gt; wie Ukrainer&lt;t2/&gt;, &lt;t3/&gt;sie sind weniger&lt;t4/&gt; neugierig und stecken ihre Nase nicht in deine &lt;t5/&gt;A&lt;t6/&gt;ngelegenheiten, das mag ich sehr.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210304T124323Z" creationid="Kate" creationdate="20210303T213754Z">
-        <seg>Взагалі, для мене німці не такі емоційні, як українці, вони менш допитливі і не сують свого носа у чужі справи, і мені це дуже подобається.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T202426Z" creationid="Kate" creationdate="20210303T213754Z">
+        <seg>Взагалі, для мене німці не такі емоційні, як українці, вони менш допитливі та не сують свого носа у чужі справи, і мені це дуже подобається.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5898,8 +5898,8 @@
       <tuv lang="de-DE">
         <seg>Ich w&lt;t10/&gt;ollte immer &lt;t11/&gt;neue L&lt;t12/&gt;eute kennen lernen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T202004Z" creationid="Kate" creationdate="20210303T213011Z">
-        <seg>Я завжи хотіла знайомитися з новими людьми&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T202346Z" creationid="Kate" creationdate="20210303T213011Z">
+        <seg>У мене завжди було бажання знайомитися з новими людьми&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10696,8 +10696,8 @@
       <tuv lang="de-DE">
         <seg>Wie nimmst du zwischenmenschliche Beziehungen und Freundschaften &lt;t0/&gt;in Deutschland &lt;t1/&gt;wahr?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213345Z" creationid="Kate" creationdate="20210303T213345Z">
-        <seg>Що ти можешь сказати про взаємозв'язки та дружбу у Німеччині?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T202414Z" creationid="Kate" creationdate="20210303T213345Z">
+        <seg>Що ти можеш сказати про взаємозв'язки та дружбу у Німеччині?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
