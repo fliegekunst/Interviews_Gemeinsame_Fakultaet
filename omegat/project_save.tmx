@@ -5034,8 +5034,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe &lt;t4/&gt;einen&lt;t5/&gt; Unterschied innerhalb &lt;t6/&gt;D&lt;t7/&gt;eutschlands &lt;t8/&gt;bemerkt und Menschen aus dem Westen Deutschlands eher als &lt;t9/&gt;distanzierter wahrgenommen&lt;t10/&gt; als im Osten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213614Z" creationid="Kate" creationdate="20210303T213614Z">
-        <seg>Я помітила одну різницю в Німеччині, наприклад, для мене люди із заходу Німеччини більш закриті, ніж зі сходу.&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T210333Z" creationid="Kate" creationdate="20210303T213614Z">
+        <seg>Хоча я помітила одну різницю, наприклад, для мене люди із заходу Німеччини більш закриті, ніж зі сходу.&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5202,8 +5202,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe ein viermonatiges Praktikum in Stuttgart gemacht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210304T124221Z" creationid="Kate" creationdate="20210303T213635Z">
-        <seg>Я просто проходила чотиримісячну практику в Штутгарті.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T210342Z" creationid="Kate" creationdate="20210303T213635Z">
+        <seg>Просто я проходила чотиримісячну практику в Штутгарті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5898,8 +5898,8 @@
       <tuv lang="de-DE">
         <seg>Ich w&lt;t10/&gt;ollte immer &lt;t11/&gt;neue L&lt;t12/&gt;eute kennen lernen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T202346Z" creationid="Kate" creationdate="20210303T213011Z">
-        <seg>У мене завжди було бажання знайомитися з новими людьми&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T210202Z" creationid="Kate" creationdate="20210303T213011Z">
+        <seg>Я завжди хотіла більше нових знайомств&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6178,8 +6178,8 @@
       <tuv lang="de-DE">
         <seg>Igelt euch nicht ein!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T212941Z" creationid="Kate" creationdate="20210303T212941Z">
-        <seg>Не ховайтеся!</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T210115Z" creationid="Kate" creationdate="20210303T212941Z">
+        <seg>Не ховатися!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7658,8 +7658,8 @@
       <tuv lang="de-DE">
         <seg>Man sollte offen für Neues sein!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T210000Z" creationid="Kate" creationdate="20210303T212920Z">
-        <seg>Будьте відкритими до всього нового!</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T210106Z" creationid="Kate" creationdate="20210303T212920Z">
+        <seg>Тож потрібно бути відкритим до всього нового!</seg>
       </tuv>
     </tu>
     <tu>
