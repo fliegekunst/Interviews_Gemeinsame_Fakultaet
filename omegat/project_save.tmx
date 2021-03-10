@@ -24,8 +24,8 @@
       <tuv lang="de-DE">
         <seg>(nickt) &lt;t0/&gt; &lt;t1/&gt;Wenn du an diese Zukunft denkst, hast du Angst&lt;t2/&gt; davor, keinen Job zu finden oder Probleme zu bekommen, alleine in Deutschland zu leben&lt;t3/&gt;?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T130440Z" creationid="Диана" creationdate="20210225T125113Z">
-        <seg>&lt;t0/&gt; (киває) Коли думаєш про майбутнє у тебе є страх не знайти роботу або зіштовхнутися з проблемами, які пов'язані з самотністю в Німеччині?&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T203420Z" creationid="Диана" creationdate="20210225T125113Z">
+        <seg>&lt;t0/&gt; (киває) Коли думаєш про нього, не боїшся не знайти роботу або зіштовхнутися з проблемами, які пов'язані з самотністю?&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -281,8 +281,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t10/&gt;Manchmal muss man über seinen Schatten springen!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T125826Z" creationid="Диана" creationdate="20210225T125826Z">
-        <seg>&lt;t10/&gt;Іноді доводиться переступати через себе!</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T203547Z" creationid="Диана" creationdate="20210225T125826Z">
+        <seg>Іноді доводиться переступати через себе!&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,8 +5354,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe mich dazu gezwungen, mit Leuten ins Gespräch zu kommen und &lt;t8/&gt;ich finde, das hat sich&lt;t9/&gt; gelohnt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T125730Z" creationid="Диана" creationdate="20210225T125730Z">
-        <seg>Я змусив себе спілкуватися з людьми, і я вважаю, що це того варте. &lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T203510Z" creationid="Диана" creationdate="20210225T125730Z">
+        <seg>Я просто змусив самого себе починати розмову з іншими і не жалкую про це. &lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
