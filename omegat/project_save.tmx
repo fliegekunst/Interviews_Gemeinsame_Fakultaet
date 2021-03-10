@@ -1402,8 +1402,8 @@
       <tuv lang="de-DE">
         <seg>Bist du mit deinem Deutsch zufrieden?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T081641Z" creationid="Lenovo" creationdate="20210214T131152Z">
-        <seg>Ти задоволений своїм рівнем володіння німецькою?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T201313Z" creationid="Lenovo" creationdate="20210214T131152Z">
+        <seg>Ти задоволений своєю німецькою?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2050,8 +2050,8 @@
       <tuv lang="de-DE">
         <seg>Das hängt davon ab, was die Studi&lt;t0/&gt;erenden&lt;t1/&gt; wollen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113022Z" creationid="Диана" creationdate="20210225T114953Z">
-        <seg>Це залежить від того, чого вони хочуть&lt;t0/&gt;&lt;t1/&gt; .</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T201402Z" creationid="Диана" creationdate="20210225T114953Z">
+        <seg>Це залежить від того, чого вони хочуть&lt;t0/&gt;&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,8 +2322,8 @@
       <tuv lang="de-DE">
         <seg>Das kommt hoffentlich mit der Zeit.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T113202Z" creationid="Диана" creationdate="20210225T113202Z">
-        <seg>Це, сподіваюся, прийде з часом.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T201031Z" creationid="Диана" creationdate="20210225T113202Z">
+        <seg>Сподіваюсь,що це прийде з часом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6810,8 +6810,8 @@
       <tuv lang="de-DE">
         <seg>Inhaltlich kann ich alles sagen, was ich will, aber die Form&lt;t18/&gt; und&lt;t19/&gt; die Betonung ist anders, &lt;t20/&gt;weil &lt;t21/&gt;Ironie, Zweideutigkeiten oder Witz verloren&lt;t22/&gt; &lt;t23/&gt;gehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T112954Z" creationid="Диана" creationdate="20210225T113116Z">
-        <seg>За змістом я можу сказати все, що хочу, але форма та акцент різні, тому що іронія, двозначність або жарт втрачаються.&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T200918Z" creationid="Диана" creationdate="20210225T113116Z">
+        <seg>Із передачею змісту проблем взагалі немає, а от з акцентуванням уваги на чомусь/інтонацією/емоціями вже дещо по-іншому, тому що іронію, натяки та жарти важко передати.&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8194,8 +8194,8 @@
       <tuv lang="de-DE">
         <seg>Mit der Basis, die wir in der Ukraine bekommen haben, war das Studium in Magdeburg machbar.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T115059Z" creationid="Диана" creationdate="20210225T115059Z">
-        <seg>З базою, яку ми отримали в Україні, навчання в Магдебурзі було реальним.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T201430Z" creationid="Диана" creationdate="20210225T115059Z">
+        <seg>З базою, яку ми отримали в Україні, навчання в Магдебурзі було цілком реальним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8362,8 +8362,8 @@
       <tuv lang="de-DE">
         <seg>Neulich habe ich die Show eine&lt;t0/&gt;s&lt;t1/&gt; Stand&lt;t2/&gt;-&lt;t3/&gt;Up&lt;t4/&gt;-&lt;t5/&gt;Comedian&lt;t6/&gt;s&lt;t7/&gt; auf Deutsch gesehen und gar nichts verstanden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T113924Z" creationid="Диана" creationdate="20210225T113924Z">
-        <seg>Днями я дивився шоу стендап коміка німецькою мовою і нічого не розумів.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T201340Z" creationid="Диана" creationdate="20210225T113924Z">
+        <seg>Якось я дивився шоу стендап коміка німецькою мовою і нічого не розумів.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9090,8 +9090,8 @@
       <tuv lang="de-DE">
         <seg>Vielleicht muss ich mir aber auch &lt;t24/&gt;einfach &lt;t25/&gt;mehr Mühe geben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T125243Z" creationid="Диана" creationdate="20210225T113620Z">
-        <seg>Але, можливо, мені просто потрібно докладати більше зусиль.&lt;t24/&gt;&lt;t25/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T201213Z" creationid="Диана" creationdate="20210225T113620Z">
+        <seg>Але, можливо, мені просто потрібно ще більше докласти зусиль.&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
