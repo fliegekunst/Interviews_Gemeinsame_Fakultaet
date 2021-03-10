@@ -3842,8 +3842,8 @@
       <tuv lang="de-DE">
         <seg>Es ist eher schwer, Deutsch zu sprechen, wenn man etwas sagen will oder gefragt wird.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T112345Z" creationid="krps" creationdate="20210304T112345Z">
-        <seg>Складніше говорити німецькою, коли хочеш щось сказати або відповісти.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095739Z" creationid="krps" creationdate="20210304T112345Z">
+        <seg>Складніше щось сказати або відповісти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,8 +4650,8 @@
       <tuv lang="de-DE">
         <seg>Hier zählt nur die Klausur oder die mündliche Prüfung am Ende des Semesters.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T112052Z" creationid="krps" creationdate="20210304T112052Z">
-        <seg>Враховується лише письмовий або усний іспит наприкінці семестру.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095705Z" creationid="krps" creationdate="20210304T112052Z">
+        <seg>А тут враховується лише письмовий або усний іспит наприкінці семестру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6754,8 +6754,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine waren die Prüfungen anders: Es gibt ein anderes System.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T111738Z" creationid="krps" creationdate="20210304T111738Z">
-        <seg>В Україні іспити ж виглядали інакше: Там завсім інша система.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095550Z" creationid="krps" creationdate="20210304T111738Z">
+        <seg>В Україні іспити ж виглядали інакше: Там зовсім інша система.</seg>
       </tuv>
     </tu>
     <tu>
