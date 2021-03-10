@@ -882,8 +882,8 @@
       <tuv lang="de-DE">
         <seg>Alle Aufgaben und Ziele sind klar und alle Unterlagen sind verfügbar, das macht das Studium einfach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T095132Z" creationid="krps" creationdate="20210225T111037Z">
-        <seg>Всі завдання чіткі, а документи доступні, це дуже полегшує навчання.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095147Z" creationid="krps" creationdate="20210225T111037Z">
+        <seg>Всі завдання чіткі, а матеріали доступні, це дуже полегшує навчання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3706,8 +3706,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt manchmal auch die Möglichkeit, eine Prüfung mündlich zu machen, das habe ich schon zwei Mal gemacht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T111621Z" creationid="krps" creationdate="20210225T111621Z">
-        <seg>Іноді можна складати іспит усно, що я і робив два рази.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095312Z" creationid="krps" creationdate="20210225T111621Z">
+        <seg>Іноді можна скласти іспит усно, що я і робив два рази.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5242,8 +5242,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe gedacht, dass es schwierig wird, Prüfungen in Deutschland abzulegen, aber das war nicht so.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T111221Z" creationid="krps" creationdate="20210225T111221Z">
-        <seg>Я думав, що складати іспити в Німеччині дуже складно, але це виявилося не так.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095206Z" creationid="krps" creationdate="20210225T111221Z">
+        <seg>Думав, що складати іспити в Німеччині дуже складно, але це виявилося не так.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7602,8 +7602,8 @@
       <tuv lang="de-DE">
         <seg>Man muss sich gut vorbereiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T111235Z" creationid="krps" creationdate="20210225T111235Z">
-        <seg>Потрібно добре готуватися.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095215Z" creationid="krps" creationdate="20210225T111235Z">
+        <seg>Просто потрібно добре готуватися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7738,8 +7738,8 @@
       <tuv lang="de-DE">
         <seg>Manche Dozierende schicken Listen mit Fragen und man hat inhaltlich dann eine Vorstellung, was in der Prüfung drankommt und kann sich darauf vorbereiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T111418Z" creationid="krps" creationdate="20210225T111418Z">
-        <seg>Деякі викладачі надсилають списки питань, і тоді ви маєте уявлення про зміст іспиту і можете підготуватися до нього.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095255Z" creationid="krps" creationdate="20210225T111418Z">
+        <seg>Деякі викладачі надсилають списки питань, і тоді ти вже знаєш зміст іспиту і можеш підготуватися до нього.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7874,8 +7874,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal schreibt man Prüfungen und merkt danach: „Oh, vielleicht war das nichts!“ Wegen Corona sollten wir alles selbst machen und selbst studieren, das ist bei Physik nicht so leicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T111046Z" creationid="krps" creationdate="20210304T111046Z">
-        <seg>Іноді ви складаєте іспити, а потім думаєте: „Ой, треба було не так написати!“ Через пандемію треба все самостійно робити та вчити, з фізикою це зробити нелегко.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095449Z" creationid="krps" creationdate="20210304T111046Z">
+        <seg>Іноді ви складаєте іспити, а потім думаєте: „Ой, треба було не так написати!“. Через пандемію треба все самостійно робити та вчити, а з фізикою це зробити нелегко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9666,8 +9666,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man eine Klausur schreibt, wartet man drei bis sechs Wochen auf das Ergebnis.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T110711Z" creationid="krps" creationdate="20210304T110711Z">
-        <seg>Результати контрольної можна чекати від трьох  до семи тижнів.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T095358Z" creationid="krps" creationdate="20210304T110711Z">
+        <seg>Результати контрольної ж можна чекати від трьох до семи тижнів.</seg>
       </tuv>
     </tu>
     <tu>
