@@ -177,8 +177,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t0/&gt;Manchmal &lt;t1/&gt;verstehe &lt;t2/&gt;ich &lt;t3/&gt;spezifische Wörter oder Redewendungen nicht, &lt;t4/&gt;besonders, &lt;t5/&gt;wenn sie sich auf Lieder oder Filme beziehen, die ich nicht kenne.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T123134Z" creationid="Диана" creationdate="20210225T105911Z">
-        <seg>&lt;t0/&gt;Іноді я не розумію конкретних слів чи фраз, особливо, коли вони стосуються пісень чи фільмів, яких я не знаю.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T195911Z" creationid="Диана" creationdate="20210225T105911Z">
+        <seg>&lt;t0/&gt;Іноді я не розумію конкретних слів чи виразів, особливо коли вони з пісень чи фільмів, яких я не знаю.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9890,8 +9890,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T171835Z" creationid="Lenovo" creationdate="20210214T130017Z">
-        <seg>Як ти вважаєш, ти добре знаєш німецьку?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T195738Z" creationid="Lenovo" creationdate="20210214T130017Z">
+        <seg>Як у тебе з німецькою мовою?</seg>
       </tuv>
     </tu>
     <tu>
