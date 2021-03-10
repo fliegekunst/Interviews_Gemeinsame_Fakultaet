@@ -2874,8 +2874,8 @@
       <tuv lang="de-DE">
         <seg>Deutsche sind verschiedenen, sie sprechen teilweise sehr schnell und dann versteht man nichts.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T100209Z" creationid="krps" creationdate="20210304T112805Z">
-        <seg>Німці різні, вони дуже швидко розмовляють, тому часто нічого не зрозуміло.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T173632Z" creationid="krps" creationdate="20210304T112805Z">
+        <seg>Німці різні, деякі дуже швидко розмовляють, тому часто нічого не зрозуміло.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3202,8 +3202,8 @@
       <tuv lang="de-DE">
         <seg>Die Wörter, die man in den Vorlesungen hört, waren mir schon bekannt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T095950Z" creationid="krps" creationdate="20210304T112529Z">
-        <seg>Слова на лекціях я вже знав раніше.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T173600Z" creationid="krps" creationdate="20210304T112529Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -6754,8 +6754,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine waren die Prüfungen anders: Es gibt ein anderes System.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T095550Z" creationid="krps" creationdate="20210304T111738Z">
-        <seg>В Україні іспити ж виглядали інакше: Там зовсім інша система.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T173518Z" creationid="krps" creationdate="20210304T111738Z">
+        <seg>В Україні іспити ж виглядали інакше: там зовсім інша система.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6986,8 +6986,8 @@
       <tuv lang="de-DE">
         <seg>Ja, zum Beispiel in Werkstofftechnik gibt es allgemein nicht so viele Studierenden, da habe ich mit vielen KommilitonInnen Kontakt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T100316Z" creationid="krps" creationdate="20210304T113221Z">
-        <seg>Так, взагалі то на матеріалознавстві студентів не так багато, тому я спілкуюся з багатьма одногрупниками.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T173659Z" creationid="krps" creationdate="20210304T113221Z">
+        <seg>Так, взагалі то на матеріалознавстві студентів не так багато, тому я спілкуюся з багатьма.</seg>
       </tuv>
     </tu>
     <tu>
