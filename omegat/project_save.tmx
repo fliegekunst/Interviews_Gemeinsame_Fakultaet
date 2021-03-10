@@ -4434,8 +4434,8 @@
       <tuv lang="de-DE">
         <seg>Hast du noch ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T113550Z" creationid="Диана" creationdate="20210225T123315Z">
-        <seg>В тебе ще почуття відчуженості?&lt;t0/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T202705Z" creationid="Диана" creationdate="20210225T123315Z">
+        <seg>В тебе ще є почуття відчуженості?&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6698,8 +6698,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine ist es in manchen Studiengängen Usus, voneinander abzuschreiben, hier nicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T125940Z" creationid="Диана" creationdate="20210225T122920Z">
-        <seg>В Україні нормально списувати один в одного, але тут такого немає.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T202549Z" creationid="Диана" creationdate="20210225T122920Z">
+        <seg>І якщо в Україні списувати один в одного це нормально, то тут ні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8938,8 +8938,8 @@
       <tuv lang="de-DE">
         <seg>Thermodynamik scheint hier am schwersten im Bachelor zu sein, habe ich gehört.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T122802Z" creationid="Диана" creationdate="20210225T122733Z">
-        <seg>Термодинаміка, здається, найважча на бакалаврі тут.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T202446Z" creationid="Диана" creationdate="20210225T122733Z">
+        <seg>Термодинаміка, здається, найважча тут на бакалаврі.</seg>
       </tuv>
     </tu>
     <tu>
