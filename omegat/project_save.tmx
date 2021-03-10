@@ -529,8 +529,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t36/&gt;Ich arbeite bei „&lt;t37/&gt;FAM&lt;t38/&gt;“&lt;t39/&gt; Feinförderanlagen und &lt;t40/&gt;Baumasc&lt;t41/&gt;hinen, habe mich dort für eine &lt;t42/&gt;M&lt;t43/&gt;asterarbeit beworben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T200654Z" creationid="Kate" creationdate="20210303T195337Z">
-        <seg>&lt;t36/&gt;Я працюю у "FAM" - компанії з виробництва підіймально-транспортного устаткування та будівельної техніки і там же подала заявку на магістерську дисертацію.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T204553Z" creationid="Kate" creationdate="20210303T195337Z">
+        <seg>&lt;t36/&gt;Зараз я працюю у "FAM" - компанії з виробництва підіймально-транспортного устаткування та будівельної техніки і там же я подала заявку на написання магістерської дисертації.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,8 +1450,8 @@
       <tuv lang="de-DE">
         <seg>D&lt;t32/&gt;a ich mich nicht entscheiden ko&lt;t33/&gt;nnte, zu welchem Lehrstuhl ich gehe, habe ich mir ein &lt;t34/&gt;U&lt;t35/&gt;nternehmen gesucht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T194343Z" creationid="Kate" creationdate="20210303T194343Z">
-        <seg>&lt;t32/&gt;Оскільки я не могла вирішити, на яку кафедру піти, я шукала якусь компанію.&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T204341Z" creationid="Kate" creationdate="20210303T194343Z">
+        <seg>&lt;t32/&gt;Оскільки я не могла вирішити, на яку кафедру піти, я почала шукати якусь компанію.&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;</seg>
       </tuv>
     </tu>
     <tu>
