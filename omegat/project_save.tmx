@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3026,8 +3026,8 @@
       <tuv lang="de-DE">
         <seg>Die Konferenz war sehr interessant, es gab viele progressive Themen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T140644Z" creationid="krps" creationdate="20210304T140644Z">
-        <seg>Конференція була дуже цікавою через те, що обговорювали прогресивні теми.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T201937Z" creationid="krps" creationdate="20210304T140644Z">
+        <seg>Конференція була дуже цікавою через те, що там обговорювали актуальні теми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,8 +3146,8 @@
       <tuv lang="de-DE">
         <seg>Die Selbstorganisation war leicht, aber ich habe gemerkt, dass es bestimmte Fächer gab, bei denen ich mir Präsenz gewünscht hätte, z.B. Physik.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T101710Z" creationid="krps" creationdate="20210304T141341Z">
-        <seg>Самоорганізуватися було легко, але я помітив, що є певні предмети, на яких я хотів би бути очно присутніми, наприклад, фізика.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T203820Z" creationid="krps" creationdate="20210304T141341Z">
+        <seg>Самоорганізуватися було легко, але я помітив, що є певні предмети, на яких я хотів би бути очно присутнім, наприклад, фізика.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3274,8 +3274,8 @@
       <tuv lang="de-DE">
         <seg>Diese Formate wurden oft verwendet, abhängig vom Dozierenden mal mehr mal weniger.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T141005Z" creationid="krps" creationdate="20210304T141005Z">
-        <seg>Ці формати часто використовувались, залежно від викладача, часом більше, часом менше.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T202115Z" creationid="krps" creationdate="20210304T141005Z">
+        <seg>Ми часто використовували ці формати, але все залежить від викладача, часом більше, часом менше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,8 +3938,8 @@
       <tuv lang="de-DE">
         <seg>Es kann sein, dass die Mitbewohner nur Englisch sprechen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T131618Z" creationid="krps" creationdate="20210304T131618Z">
-        <seg>Може статися так, що співпешканці розмовлятимуть тільки англійською.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T201228Z" creationid="krps" creationdate="20210304T131618Z">
+        <seg>Може статися так, що співпешканці розмовлятимуть тільки нею.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3962,8 +3962,8 @@
       <tuv lang="de-DE">
         <seg>Es musste ja auch schnell organisiert werden, als man sich im Frühjahr entschieden hat, ein Online-Semester zu machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T141127Z" creationid="krps" creationdate="20210304T141127Z">
-        <seg>Все треба було швидко організувати, коли навесні вирішили проводити онлайн-семестр.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T202139Z" creationid="krps" creationdate="20210304T141127Z">
+        <seg>Все треба було швидко організувати, коли навесні вирішили зробити онлайн-семестр.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4146,8 +4146,8 @@
       <tuv lang="de-DE">
         <seg>Für das Studium brauchte ich bisher noch kein Englisch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T115721Z" creationid="krps" creationdate="20210304T115721Z">
-        <seg>Для навчання мені ще не треба була англійська.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T184623Z" creationid="krps" creationdate="20210304T115721Z">
+        <seg>Для навчання вона мені ще не треба була.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4194,8 +4194,8 @@
       <tuv lang="de-DE">
         <seg>Für mich war es gut, weil ich mich alleine organisieren konnte, ich hatte jederzeit Zugriff auf Lernvideos und konnte selbst entscheiden, wann ich was mache.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T141238Z" creationid="krps" creationdate="20210304T141238Z">
-        <seg>Мені було добре, тому що я зміг самоорганізуватися, мав доступ до навчальних відео в будь-який час і міг сам вирішувати, коли що робити.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T203718Z" creationid="krps" creationdate="20210304T141238Z">
+        <seg>Мені було добре, тому що я зміг самоорганізуватися, а також мав доступ до навчальних відео в будь-який час і міг сам вирішувати, коли що робити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5194,8 +5194,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe ein eigenes Zimmer und wir wohnen in einem Wohnkomplex zu dritt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T131047Z" creationid="krps" creationdate="20210304T131047Z">
-        <seg>У мене є своя кімната, і ми живемо втрьох в житловому комплексі.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T201128Z" creationid="krps" creationdate="20210304T131047Z">
+        <seg>Ми втрьох живемо в житловому комплексі, де у мене є своя кімната.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5810,8 +5810,8 @@
       <tuv lang="de-DE">
         <seg>Ich spreche viel mit Mitarbeitern der Universität, sie sind immer freundlich und helfen mir gerne weiter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T132411Z" creationid="krps" creationdate="20210304T132411Z">
-        <seg>Я багато розмовляю з працівниками університету, вони завжди привітні та раді допомогти .</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T201856Z" creationid="krps" creationdate="20210304T132411Z">
+        <seg>Я багато розмовляю з працівниками університету, вони завжди привітні та раді допомогти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7106,8 +7106,8 @@
       <tuv lang="de-DE">
         <seg>Jetzt wohnt ein Albaner bei uns und wir unterhalten uns &lt;t0/&gt;auf Englisch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T131435Z" creationid="krps" creationdate="20210304T131435Z">
-        <seg>Зараз з нами живе албанець, і ми спілкуємося &lt;t0/&gt;англійською.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T201156Z" creationid="krps" creationdate="20210304T131435Z">
+        <seg>Зараз з нами живе албанець, і ми з ним спілкуємося &lt;t0/&gt;англійською.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9458,8 +9458,8 @@
       <tuv lang="de-DE">
         <seg>Wenn du auf eine Party gehst und Menschen aus anderen Ländern triffst, dann wäre es besser, Englisch zu können.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T115655Z" creationid="krps" creationdate="20210304T115655Z">
-        <seg>Коли йдеш на вечірку або зустрічаєш людей з інших країн, то краще вміти розмовляти англійською.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210310T184548Z" creationid="krps" creationdate="20210304T115655Z">
+        <seg>Коли йдеш на вечірку або зустрічаєш людей з інших країн, то там теж знадобиться англійська.</seg>
       </tuv>
     </tu>
     <tu>
