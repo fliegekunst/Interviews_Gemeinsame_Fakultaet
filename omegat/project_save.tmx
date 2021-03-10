@@ -2682,8 +2682,8 @@
       <tuv lang="de-DE">
         <seg>Der Winter ist schrecklich, kein Schnee und ein &lt;t6/&gt;halbes Jahr ist es einfach grau!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T215519Z" creationid="Kate" creationdate="20210303T215519Z">
-        <seg>Зима жахлива, снігу немає і півроку просто сіро&lt;t6/&gt;!</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T203655Z" creationid="Kate" creationdate="20210303T215519Z">
+        <seg>Зима жахлива, снігу немає і пів року просто сіро&lt;t6/&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4994,8 +4994,8 @@
       <tuv lang="de-DE">
         <seg>Ich gehe &lt;t14/&gt;sehr gerne&lt;t15/&gt; zum Flugplatz, hier fühle ich mich wohl.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T214754Z" creationid="Kate" creationdate="20210303T214754Z">
-        <seg>Люблю їздити на аеродром, мені тут добре.&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T202632Z" creationid="Kate" creationdate="20210303T214754Z">
+        <seg>Люблю їздити на аеродром, мені тут подобається.&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6090,8 +6090,8 @@
       <tuv lang="de-DE">
         <seg>Ich wollte &lt;t4/&gt;aber &lt;t5/&gt;in &lt;t6/&gt;die R&lt;t7/&gt;ichtu&lt;t8/&gt;n&lt;t9/&gt;g &lt;t10/&gt;Konstruktion gehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210304T114556Z" creationid="Kate" creationdate="20210303T193521Z">
-        <seg>Але я хотіла більше займатися проєктуванням&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T203745Z" creationid="Kate" creationdate="20210303T193521Z">
+        <seg>Але я хотіла більше займатися саме проєктуванням&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6794,8 +6794,8 @@
       <tuv lang="de-DE">
         <seg>In meinem Studium haben wir meist Berechnungen gemacht und Werkstoffe untersucht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210304T113133Z" creationid="Kate" creationdate="20210303T181916Z">
-        <seg>Під час навчання ми в основному проводили розрахунки та досліджували матеріали.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T203736Z" creationid="Kate" creationdate="20210303T181916Z">
+        <seg>Під час навчання ми переважно проводили розрахунки та досліджували матеріали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8154,8 +8154,8 @@
       <tuv lang="de-DE">
         <seg>Mir wurde gera&lt;t11/&gt;ten, zum Lehrstuhl &lt;t12/&gt;der M&lt;t13/&gt;aschinenbau&lt;t14/&gt;-I&lt;t15/&gt;nformatik &lt;t16/&gt;zu&lt;t17/&gt; gehen, das war interessant, dann habe ich da &lt;t18/&gt;das M&lt;t19/&gt;asterprojekt geschrieben und dann wollte ich dort auch die &lt;t20/&gt;Masterarbeit schreiben und do&lt;t21/&gt;rt bleiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T200535Z" creationid="Kate" creationdate="20210303T193924Z">
-        <seg>Мені порадили піти на кафедру машинобудування&lt;t11/&gt; та інформатики, &lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;це було цікаво, там я написала&lt;t18/&gt; магістерський проєкт&lt;t19/&gt;, а потім хотіла написати і магістерську дисертацію &lt;t20/&gt;та залишитися там&lt;t21/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T203831Z" creationid="Kate" creationdate="20210303T193924Z">
+        <seg>Мені порадили піти на кафедру машинобудування&lt;t11/&gt; та інформатики, &lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;це було цікаво, там я написала&lt;t18/&gt; магістерський проєкт&lt;t19/&gt;, а потім хотіла захистити магістерську дисертацію &lt;t20/&gt;та залишитися там&lt;t21/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10641,8 +10641,8 @@
       <tuv lang="de-DE">
         <seg>Hast du immer noch ein &lt;t0/&gt;Fremdheitsgefühl?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213943Z" creationid="Kate" creationdate="20210303T213943Z">
-        <seg>Чи є у тебе відчуття відчуженності&lt;t0/&gt;?</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T202539Z" creationid="Kate" creationdate="20210303T213943Z">
+        <seg>Чи є у тебе відчуття відчуженості&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
