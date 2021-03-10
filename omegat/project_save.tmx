@@ -3338,8 +3338,8 @@
       <tuv lang="de-DE">
         <seg>Doch ich habe ein Angebot bekommen, das fachlich etwas anders war und habe das angenommen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T112946Z" creationid="PC" creationdate="20210225T112946Z">
-        <seg>Але я отримала пропозицію з трохи іншої галузі і прийняла її.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T145900Z" creationid="PC" creationdate="20210225T112946Z">
+        <seg>Але я отримала пропозицію з трохи іншої галузі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4250,8 +4250,8 @@
       <tuv lang="de-DE">
         <seg>Gerade mache ich meine PhD. Ich habe meinen Fachbereich ein bisschen verändert, vorher habe ich Produktentwicklung studiert, wie Tetiana Pittsyk und Rostyslav Nizinkovskyi.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T112642Z" creationid="PC" creationdate="20210225T112642Z">
-        <seg>Також працюю над своєю докторською. Я трохи змінила спеціальність, до цього я вивчала розробку продукції, як і Тетяна Пітцик та ростислав Нізинковський.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T145826Z" creationid="PC" creationdate="20210225T112642Z">
+        <seg>Також працюю над своєю докторською. Я змінила спеціальність, до цього я вивчала розробку продукції разом з Тетяною Пітцик та Ростиславом Нізінковським.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5690,8 +5690,8 @@
       <tuv lang="de-DE">
         <seg>Ich mache Experimente mit Proben mit einer Maschine (einem so genannten Nanoindenter) und schaue mir das Deformationsverhalten und die chemischen Veränderungen an.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T114555Z" creationid="PC" creationdate="20210225T114555Z">
-        <seg>Я проводжу експерименти зі зразками на спеціальному обладнанні (так званому наноінденторі) та дивлюся на деформацію та зміни в хімічному складі.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T145948Z" creationid="PC" creationdate="20210225T114555Z">
+        <seg>Я проводжу експерименти зі зразками на спеціальному обладнанні (так званому наноінденторі) та спостерігаю за деформацією та змінами в хімічному складі зразків.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6266,8 +6266,8 @@
       <tuv lang="de-DE">
         <seg>Im Moment arbeite ich in Düsseldorf und lebe in Neuss.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T112428Z" creationid="PC" creationdate="20210225T112428Z">
-        <seg>Наразі я працюю в Дюссельдорфі та живу в Нойсі.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T145738Z" creationid="PC" creationdate="20210225T112428Z">
+        <seg>Наразі я працюю в Дюссельдорфі а живу в Нойсі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10330,8 +10330,8 @@
       <tuv lang="de-DE">
         <seg>Wo arbeite&lt;t0/&gt;st du&lt;t1/&gt; jetzt?</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T112129Z" creationid="PC" creationdate="20210225T112129Z">
-        <seg>Де ти&lt;t0/&gt;зараз&lt;t1/&gt; працюєш?</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210310T145728Z" creationid="PC" creationdate="20210225T112129Z">
+        <seg>Де ти&lt;t0/&gt; зараз&lt;t1/&gt; працюєш?</seg>
       </tuv>
     </tu>
     <tu>
