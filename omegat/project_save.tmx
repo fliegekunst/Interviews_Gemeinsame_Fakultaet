@@ -529,8 +529,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t36/&gt;Ich arbeite bei „&lt;t37/&gt;FAM&lt;t38/&gt;“&lt;t39/&gt; Feinförderanlagen und &lt;t40/&gt;Baumasc&lt;t41/&gt;hinen, habe mich dort für eine &lt;t42/&gt;M&lt;t43/&gt;asterarbeit beworben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T204553Z" creationid="Kate" creationdate="20210303T195337Z">
-        <seg>&lt;t36/&gt;Зараз я працюю у "FAM" - компанії з виробництва підіймально-транспортного устаткування та будівельної техніки і там же я подала заявку на написання магістерської дисертації.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T204621Z" creationid="Kate" creationdate="20210303T195337Z">
+        <seg>&lt;t36/&gt;Зараз я працюю у "FAM" - компанії з виробництва підіймально-транспортного устаткування та будівельної техніки і там же я подала заявку на написання дисертації.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,8 +1706,8 @@
       <tuv lang="de-DE">
         <seg>Dann wurde ich &lt;t44/&gt;zu einem Gespräch &lt;t45/&gt;eingeladen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T195433Z" creationid="Kate" creationdate="20210303T195433Z">
-        <seg>Потім мене запросили на співбесіду&lt;t44/&gt;&lt;t45/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T204613Z" creationid="Kate" creationdate="20210303T195433Z">
+        <seg>Мене запросили на співбесіду&lt;t44/&gt;&lt;t45/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8962,8 +8962,8 @@
       <tuv lang="de-DE">
         <seg>Und danach bin ich dort geblieben&lt;t48/&gt; und arbeite seitdem dort a&lt;t49/&gt;ls Konstrukteurin in Projekten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T200758Z" creationid="Kate" creationdate="20210303T195702Z">
-        <seg>А згодом залишилася там і відтоді працюю інженером-конструктором над проєктами&lt;t48/&gt;&lt;t49/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T204714Z" creationid="Kate" creationdate="20210303T195702Z">
+        <seg>А потім залишилася і відтоді працюю інженером-конструктором над проєктами&lt;t48/&gt;&lt;t49/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
