@@ -4890,8 +4890,8 @@
       <tuv lang="de-DE">
         <seg>Ich finde hier &lt;t0/&gt;in Deutschland &lt;t1/&gt;trägst du mehr &lt;t2/&gt;V&lt;t3/&gt;erantwortung&lt;t4/&gt; als in der Ukraine, hast aber auch größere Wahlmöglichkeiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210304T122825Z" creationid="Kate" creationdate="20210303T204928Z">
-        <seg>Я думаю, тут ти несеш більшу відповідальність, ніж в Україні, однак маєш і більше можливостей.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T205201Z" creationid="Kate" creationdate="20210303T204928Z">
+        <seg>Я думаю, тут ти несеш більшу відповідальність, ніж в Україні, але й маєш більше можливостей.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10226,8 +10226,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben zum Beispiel eine Filiale in Indien, da sind wir dorthin gereist und haben uns das angesehen.&lt;t20/&gt; &lt;t21/&gt;Es gibt nicht viele Frauen &lt;t22/&gt;in unserer Firma&lt;t23/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T203958Z" creationid="Kate" creationdate="20210303T203958Z">
-        <seg>Наприклад, у нас є філія в Індії, тож ми туди їздили та оглядали її.&lt;t20/&gt; &lt;t21/&gt;У нашій компанії небагато жінок.&lt;t22/&gt;&lt;t23/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210310T204956Z" creationid="Kate" creationdate="20210303T203958Z">
+        <seg>Наприклад, у нас є філія в Індії, тож ми їздили туди, щоб її оглянути.&lt;t20/&gt; &lt;t21/&gt;У нашій компанії небагато жінок.&lt;t22/&gt;&lt;t23/&gt;</seg>
       </tuv>
     </tu>
     <tu>
