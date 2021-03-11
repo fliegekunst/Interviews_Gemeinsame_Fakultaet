@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10235,8 +10235,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben zum Beispiel eine Filiale in Indien, da sind wir dorthin gereist und haben uns das angesehen.&lt;t20/&gt; &lt;t21/&gt;Es gibt nicht viele Frauen &lt;t22/&gt;in unserer Firma&lt;t23/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210311T113305Z" creationid="Kate" creationdate="20210303T203958Z">
-        <seg>У нас є, наприклад, філія в Індії, і якось ми їздили туди, щоб її оглянути.&lt;t20/&gt; &lt;t21/&gt;У нашій компанії небагато жінок.&lt;t22/&gt;&lt;t23/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T123526Z" creationid="Kate" creationdate="20210303T203958Z">
+        <seg>У нас є, наприклад, філія в Індії, і одного разу ми поїхали туди, щоб її оглянути.&lt;t20/&gt; &lt;t21/&gt;У нашій компанії небагато жінок.&lt;t22/&gt;&lt;t23/&gt;</seg>
       </tuv>
     </tu>
     <tu>
