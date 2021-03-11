@@ -2810,8 +2810,8 @@
       <tuv lang="de-DE">
         <seg>Deswegen war es extrem wichtig, dass ich mich mit den richtigen &lt;t13/&gt;Leuten umgebe&lt;t14/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T132756Z" creationid="hp" creationdate="20210225T132756Z">
-        <seg>Тому було дуже важливо оточувати себе правильними людьми</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T115410Z" creationid="hp" creationdate="20210225T132756Z">
+        <seg>Тому було дуже важливо оточувати себе правильними людьми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3242,8 +3242,8 @@
       <tuv lang="de-DE">
         <seg>Die haben andere &lt;t2/&gt;Z&lt;t3/&gt;iele.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T132339Z" creationid="hp" creationdate="20210225T132339Z">
-        <seg>У всіх різні цілі.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T115540Z" creationid="hp" creationdate="20210225T132339Z">
+        <seg>у всіх різні цілі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7338,8 +7338,8 @@
       <tuv lang="de-DE">
         <seg>Man darf nicht auf die anderen &lt;t0/&gt;K&lt;t1/&gt;ommilitonen schauen, mit denen man studiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T132329Z" creationid="hp" creationdate="20210225T132329Z">
-        <seg>Не рівнятися на інших студентів.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T115535Z" creationid="hp" creationdate="20210225T132329Z">
+        <seg>Не рівнятися на своїх однокурсників, тому що</seg>
       </tuv>
     </tu>
     <tu>
@@ -9762,8 +9762,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man wirklich die ganze &lt;t4/&gt;Z&lt;t5/&gt;eit &lt;t6/&gt;nebenher &lt;t7/&gt;arbeiten muss, dann muss man das &lt;t8/&gt;durchziehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T115401Z" creationid="hp" creationdate="20210311T115401Z">
-        <seg>Якщо потрібно десь весь час ..</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T120139Z" creationid="hp" creationdate="20210311T115401Z">
+        <seg>А якщо ще десь підпрацьовувати, то це буде легко помітити. </seg>
       </tuv>
     </tu>
     <tu>
