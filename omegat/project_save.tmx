@@ -529,8 +529,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t36/&gt;Ich arbeite bei „&lt;t37/&gt;FAM&lt;t38/&gt;“&lt;t39/&gt; Feinförderanlagen und &lt;t40/&gt;Baumasc&lt;t41/&gt;hinen, habe mich dort für eine &lt;t42/&gt;M&lt;t43/&gt;asterarbeit beworben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210311T112033Z" creationid="Kate" creationdate="20210303T195337Z">
-        <seg>&lt;t36/&gt;Зараз я працюю у "FAM" - компанії з виробництва підіймально-транспортного устаткування та будівельної техніки і там же я подавала заявку на написання дисертації.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T112204Z" creationid="Kate" creationdate="20210303T195337Z">
+        <seg>&lt;t36/&gt;Зараз я працюю у "FAM" - компанії з виробництва підіймально-транспортного устаткування та будівельної техніки і сюди ж я подала заявку на написання дисертації.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,8 +2194,8 @@
       <tuv lang="de-DE">
         <seg>Das ist gut gelaufen und ich habe&lt;t46/&gt; dort meine Masterarbeit geschr&lt;t47/&gt;ieben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210311T111304Z" creationid="Kate" creationdate="20210303T195511Z">
-        <seg>Все пройшло добре, і я все ж написала там магістерську.&lt;t46/&gt;&lt;t47/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T112210Z" creationid="Kate" creationdate="20210303T195511Z">
+        <seg>Все пройшло добре, і я все ж написала тут свою магістерську.&lt;t46/&gt;&lt;t47/&gt;</seg>
       </tuv>
     </tu>
     <tu>
