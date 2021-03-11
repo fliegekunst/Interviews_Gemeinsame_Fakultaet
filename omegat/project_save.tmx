@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -361,8 +361,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t17/&gt;Warum wählen die Leute rechts-konservative Parteien?</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T121542Z" creationid="hp" creationdate="20210301T102023Z">
-        <seg>А чому ж люди тут вбирають консервативні політичні партії?   </seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T124646Z" creationid="hp" creationdate="20210301T102023Z">
+        <seg>Цікаво те, що люди тут, під час виборів, голосують за консервативні політичні партії.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,8 +1186,8 @@
       <tuv lang="de-DE">
         <seg>Aus meiner Sicht ist das der klimaneutralste Antrieb, den die Welt braucht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T122030Z" creationid="hp" creationdate="20210301T103500Z">
-        <seg>Це саме те, що нам не вистачає.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T124833Z" creationid="hp" creationdate="20210301T103500Z">
+        <seg>Саме цього нам зараз не вистачає.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4970,8 +4970,8 @@
       <tuv lang="de-DE">
         <seg>Ich fühle mich hier &lt;t0/&gt;aber trotzdem wohl&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T121613Z" creationid="hp" creationdate="20210301T102216Z">
-        <seg>тому що тут я почуваюся добре та вільно.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T124721Z" creationid="hp" creationdate="20210301T102216Z">
+        <seg>тому що в Німеччині я почуваю себе добре та вільно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9531,8 +9531,8 @@
       <tuv lang="de-DE">
         <seg>Wenn ich ein techn&lt;t5/&gt;isches&lt;t6/&gt; &lt;t7/&gt;P&lt;t8/&gt;aper auf &lt;t9/&gt;R&lt;t10/&gt;uss&lt;t11/&gt;isch schreiben müsste, wäre das&lt;t12/&gt; extrem schwierig, weil es diese &lt;t13/&gt;B&lt;t14/&gt;egriffe&lt;t15/&gt;, die ich brauche,&lt;t16/&gt; nicht gib&lt;t17/&gt;t oder ich sie nicht kenne, weil&lt;t18/&gt; ich das &lt;t19/&gt;F&lt;t20/&gt;ach komplett in &lt;t21/&gt;D&lt;t22/&gt;eutschland von vorne gelernt habe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T114055Z" creationid="hp" creationdate="20210225T130013Z">
-        <seg>А от коли мені доводилося писати це все російською, то це було просто нереально! Я не міг підбрати еквіваленти німецьким термінам,</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T124216Z" creationid="hp" creationdate="20210225T130013Z">
+        <seg>А от коли мені доводилося писати це все російською, то це було просто нереально! Я не міг підібрати еквіваленти німецьким термінам,</seg>
       </tuv>
     </tu>
     <tu>
