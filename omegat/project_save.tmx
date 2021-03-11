@@ -762,8 +762,8 @@
       <tuv lang="de-DE">
         <seg>Aber es gibt Unterschiede im Studien-Programm und im Aufbau des Studiums.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T214810Z" creationid="ADMIN" creationdate="20210303T214810Z">
-        <seg>Але є відмінності в навчальній програмі та в структурі дослідження.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T094903Z" creationid="ADMIN" creationdate="20210303T214810Z">
+        <seg>Але є відмінності в структурі навчальної програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,8 +2146,8 @@
       <tuv lang="de-DE">
         <seg>Das ist ein großer, in erster Linie inhaltlicher Unterschied.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T214324Z" creationid="ADMIN" creationdate="20210303T214324Z">
-        <seg>Це велика різниця, насамперед, з точки зору змісту та наповнення матеріалу.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T094505Z" creationid="ADMIN" creationdate="20210303T214324Z">
+        <seg>Між ними велика різниця, насамперед, з точки зору змісту та наповнення матеріалу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10066,8 +10066,8 @@
       <tuv lang="de-DE">
         <seg>Wie würdest du Studieren in der Ukraine und in Deutschland miteinander vergleichen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T213924Z" creationid="ADMIN" creationdate="20210303T213924Z">
-        <seg>Як би ти порівняв навчання в Україні та Німеччині??</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T094431Z" creationid="ADMIN" creationdate="20210303T213924Z">
+        <seg>Як би ти порівняв навчання в Україні та Німеччині?</seg>
       </tuv>
     </tu>
     <tu>
