@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -882,8 +882,8 @@
       <tuv lang="de-DE">
         <seg>Alle Aufgaben und Ziele sind klar und alle Unterlagen sind verfügbar, das macht das Studium einfach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T095147Z" creationid="krps" creationdate="20210225T111037Z">
-        <seg>Всі завдання чіткі, а матеріали доступні, це дуже полегшує навчання.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T120159Z" creationid="krps" creationdate="20210225T111037Z">
+        <seg>Усі завдання чіткі, а матеріали доступні, це дуже полегшує навчання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,8 +2330,8 @@
       <tuv lang="de-DE">
         <seg>Das lief gut.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T111657Z" creationid="krps" creationdate="20210225T111657Z">
-        <seg>Все пройшло добре.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T120304Z" creationid="krps" creationdate="20210225T111657Z">
+        <seg>Усе пройшло добре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3706,8 +3706,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt manchmal auch die Möglichkeit, eine Prüfung mündlich zu machen, das habe ich schon zwei Mal gemacht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T095312Z" creationid="krps" creationdate="20210225T111621Z">
-        <seg>Іноді можна скласти іспит усно, що я і робив два рази.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T120300Z" creationid="krps" creationdate="20210225T111621Z">
+        <seg>Іноді можна скласти іспит усно, що я й робив два рази.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7738,8 +7738,8 @@
       <tuv lang="de-DE">
         <seg>Manche Dozierende schicken Listen mit Fragen und man hat inhaltlich dann eine Vorstellung, was in der Prüfung drankommt und kann sich darauf vorbereiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T095255Z" creationid="krps" creationdate="20210225T111418Z">
-        <seg>Деякі викладачі надсилають списки питань, і тоді ти вже знаєш зміст іспиту і можеш підготуватися до нього.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T120230Z" creationid="krps" creationdate="20210225T111418Z">
+        <seg>Деякі викладачі надсилають списки питань, і тоді ти вже знаєш зміст іспиту й можеш підготуватися до нього.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8122,8 +8122,8 @@
       <tuv lang="de-DE">
         <seg>Mir geht’s sehr gut.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T104331Z" creationid="krps" creationdate="20210225T104331Z">
-        <seg>В мене все чудово.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T120138Z" creationid="krps" creationdate="20210225T104331Z">
+        <seg>У мене все чудово.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9906,8 +9906,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T104319Z" creationid="krps" creationdate="20210225T104319Z">
-        <seg>Як в тебе справи?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T120127Z" creationid="krps" creationdate="20210225T104319Z">
+        <seg>Як у тебе справи?</seg>
       </tuv>
     </tu>
     <tu>
