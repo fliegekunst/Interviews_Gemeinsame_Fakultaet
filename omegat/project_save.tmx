@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2274,8 +2274,8 @@
       <tuv lang="de-DE">
         <seg>Das ist schade, denn Magdeburg gefällt mir sehr, ich wohne schon ein Jahr hier.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210311T114239Z" creationid="krps" creationdate="20210304T114425Z">
-        <seg>Шкода, оскільки тут мені дуже подобається, і я живу тут вже цілий рік.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T122751Z" creationid="krps" creationdate="20210304T114425Z">
+        <seg>Шкода, оскільки тут мені дуже подобається, і я живу тут уже цілий рік.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3410,8 +3410,8 @@
       <tuv lang="de-DE">
         <seg>Du wohnst im Moment im Wohnheim?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T115909Z" creationid="krps" creationdate="20210304T115909Z">
-        <seg>Ти живеш в гуртожитку?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T122825Z" creationid="krps" creationdate="20210304T115909Z">
+        <seg>Ти живеш у гуртожитку?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9683,8 +9683,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man in einer WG wohnt, muss man das alles extra bezahlen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T120428Z" creationid="krps" creationdate="20210304T120341Z">
-        <seg>Якщо жити в квартирі, тоді за все треба платити додатково.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T122847Z" creationid="krps" creationdate="20210304T120341Z">
+        <seg>Якщо жити у квартирі, тоді за все треба платити додатково.</seg>
       </tuv>
     </tu>
     <tu>
