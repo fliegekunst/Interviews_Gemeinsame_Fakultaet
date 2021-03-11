@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -481,8 +481,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t28/&gt;Für &lt;t29/&gt;mich war klar, ich brauche einen Job und will hier&lt;t30/&gt; in Magdeburg&lt;t31/&gt; bleiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210311T125619Z" creationid="Kate" creationdate="20210303T194156Z">
-        <seg>&lt;t28/&gt;Я розуміла, що мені потрібна робота, якщо я хочу залишитися в Магдебурзі.&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T132034Z" creationid="Kate" creationdate="20210303T194156Z">
+        <seg>&lt;t28/&gt;Я розуміла, що мені потрібна робота, якщо я хочу жити в Магдебурзі.&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;</seg>
       </tuv>
     </tu>
     <tu>
