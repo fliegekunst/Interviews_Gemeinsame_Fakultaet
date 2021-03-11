@@ -2074,8 +2074,8 @@
       <tuv lang="de-DE">
         <seg>Das hätten wir nicht geschafft.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T104243Z" creationid="PC" creationdate="20210227T104243Z">
-        <seg>Ми не могли встигнути.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T065357Z" creationid="PC" creationdate="20210227T104243Z">
+        <seg>Ми не встигали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,8 +3874,8 @@
       <tuv lang="de-DE">
         <seg>Es ist natürlich auch kompliziert, gleichzeitig in Kiew zu studieren, da man mobil sein muss und viele Deadlines und Bedingungen in beiden Ländern im Auge behalten muss.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210228T173534Z" creationid="PC" creationdate="20210228T173534Z">
-        <seg>Важко також навчатися одночасно тут і в Києві, так як треба бути мобільним і зважати на дедлайни та інші умови в обох університетах.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T065457Z" creationid="PC" creationdate="20210228T173534Z">
+        <seg>Важко також навчатися одночасно тут і в Києві через те, що треба бути мобільним і зважати на дедлайни та інші умови в обох університетах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7594,8 +7594,8 @@
       <tuv lang="de-DE">
         <seg>Man muss sich auf jeden Fall intensiver vorbereiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210228T175031Z" creationid="PC" creationdate="20210228T175031Z">
-        <seg>Тут без належної підготовки їх не скласти.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T070548Z" creationid="PC" creationdate="20210228T175031Z">
+        <seg>Тут їх не скласти без належної підготовки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8522,8 +8522,8 @@
       <tuv lang="de-DE">
         <seg>Prüfungen in Deutschland sind schwieriger als in der Ukraine.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210310T150326Z" creationid="PC" creationdate="20210228T174820Z">
-        <seg>Іспити в Німеччині дійсно складніші ніж у нас.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T065508Z" creationid="PC" creationdate="20210228T174820Z">
+        <seg>Іспити в Німеччині дійсно складніші, ніж у нас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10266,8 +10266,8 @@
       <tuv lang="de-DE">
         <seg>Wir sind auch erst ein paar Tage vor der Verteidigung in die Ukraine gefahren, das war sehr stressig.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T105452Z" creationid="PC" creationdate="20210227T104423Z">
-        <seg>Ми приїхали в Україну лише за кілька днів до захисту, ми дуже переживали.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T065422Z" creationid="PC" creationdate="20210227T104423Z">
+        <seg>Ми приїхали в Україну лише за кілька днів до захисту, тому ми дуже переживали.</seg>
       </tuv>
     </tu>
     <tu>
