@@ -249,8 +249,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t1/&gt;Es war einfacher für mich&lt;t2/&gt;, Menschen aus Sachsen-Anhalt zu verstehen&lt;t3/&gt;,&lt;t4/&gt; w&lt;t5/&gt;eil ich hier angefangen &lt;t6/&gt;habe, zu studieren, und auch schon im Sprachpraktikum und im Betriebspraktikum hier war&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T132030Z" creationid="hp" creationdate="20210225T132030Z">
-        <seg>Але для мене це не було так важко, адже саме тут я почав своє навчання і з самого початку в мене була і мовна практика, і практика у моєму фасі.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T111838Z" creationid="hp" creationdate="20210225T132030Z">
+        <seg>Але для мене це було не так важко, адже саме тут я почав своє навчання і з самого початку в мене була і мовна практика, і практика по моїй спеціальності.</seg>
       </tuv>
     </tu>
     <tu>
@@ -273,8 +273,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t10/&gt;Als&lt;t11/&gt; ich auf einer &lt;t12/&gt;K&lt;t13/&gt;onferenz &lt;t14/&gt;war&lt;t15/&gt;, habe ich fast drei &lt;t16/&gt;T&lt;t17/&gt;age ohne &lt;t18/&gt;Russisch gelebt, da&lt;t19/&gt; merk&lt;t20/&gt;t&lt;t21/&gt;e ich, dass mein &lt;t22/&gt;D&lt;t23/&gt;eutsch viel besser &lt;t24/&gt;und fließender &lt;t25/&gt;wird.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T115415Z" creationid="hp" creationdate="20210225T115415Z">
-        <seg>Якось одного разу, я брав участь в одній конференції, та не говорив російською аж три дні. Тоді я помітив, що моя німецька покращилась.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205305Z" creationid="hp" creationdate="20210225T115415Z">
+        <seg>Якось одного разу, я брав участь в одній конференції та не говорив російською аж три дні. Тоді я помітив, що моя німецька покращилась.</seg>
       </tuv>
     </tu>
     <tu>
@@ -305,8 +305,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t13/&gt;Wenn&lt;t14/&gt; ich studentische &lt;t15/&gt;A&lt;t16/&gt;rbeiten &lt;t17/&gt;betreue&lt;t18/&gt;, waren die &lt;t19/&gt;Studierenden&lt;t20/&gt; älter als ich.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T114759Z" creationid="hp" creationdate="20210225T114626Z">
-        <seg>Коли я допомагав іншим студентам з їх роботами, я помітив, що всі вони старші за мене.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T110845Z" creationid="hp" creationdate="20210225T114626Z">
+        <seg>Коли я допомагав іншим студентам з їх роботами, то помітив, що всі вони старші за мене.</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,8 +361,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t17/&gt;Warum wählen die Leute rechts-konservative Parteien?</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T102023Z" creationid="hp" creationdate="20210301T102023Z">
-        <seg>Чому люди голосують за консервативні партії?</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T210316Z" creationid="hp" creationdate="20210301T102023Z">
+        <seg>Чому люди голосують за консервативні партії?    (?????????????)</seg>
       </tuv>
     </tu>
     <tu>
@@ -385,8 +385,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t18/&gt;Mir hat es auch geholfen, &lt;t19/&gt;Bücher über &lt;t20/&gt;Kognitivistik&lt;t21/&gt; &lt;t22/&gt;zu &lt;t23/&gt;lesen und &lt;t24/&gt;zu &lt;t25/&gt;lernen, wie man richtig lernt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T094520Z" creationid="hp" creationdate="20210301T094520Z">
-        <seg>Мені дуже допомогли книжки про когнівістику, я читав про те, як правильно навчатися.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205830Z" creationid="hp" creationdate="20210301T094520Z">
+        <seg>Мені дуже допомогли книжки про когнівістику, адже я читав про те, як правильно навчатися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,16 +465,16 @@
       <tuv lang="de-DE">
         <seg>&lt;t21/&gt;Das verzögert&lt;t22/&gt; die Wissenschaft und die Selbstentwicklung.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T113524Z" creationid="hp" creationdate="20210225T113524Z">
-        <seg>Це гальмує розвиток нашої економіки та розвиток особистості кожного.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205048Z" creationid="hp" creationdate="20210225T113524Z">
+        <seg>Це гальмує розвиток нашої економіки та особистий розвиток кожного.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>&lt;t26/&gt;Mir fällt das swit&lt;t27/&gt;chen schwer&lt;t28/&gt;, das war schon in der Schule so&lt;t29/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T120123Z" creationid="hp" creationdate="20210225T120123Z">
-        <seg>Ще мені було важко перйти на німецьку мову.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T111204Z" creationid="hp" creationdate="20210225T120123Z">
+        <seg>Ще мені було важко перейти на німецьку мову.</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,8 +658,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t67/&gt;(lacht)</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T131416Z" creationid="hp" creationdate="20210225T131416Z">
-        <seg>(сміється)</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T111808Z" creationid="hp" creationdate="20210225T131416Z">
+        <seg>(сміється).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,8 +1194,8 @@
       <tuv lang="de-DE">
         <seg>Auslandssem&lt;t17/&gt;ester&lt;t18/&gt; sind in der &lt;t19/&gt;Ukraine&lt;t20/&gt; nicht unbeliebt, das können sich &lt;t21/&gt;aber &lt;t22/&gt;nur reiche Leute erlauben oder man bewirbt sich auf ein &lt;t23/&gt;S&lt;t24/&gt;tipendium.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T100014Z" creationid="hp" creationdate="20210301T100014Z">
-        <seg>Семестр закордоном в Україні річ не популярна, бо її можуть собі дозволити лише багаті..</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T210026Z" creationid="hp" creationdate="20210301T100014Z">
+        <seg>Семестр за кордоном в Україні річ не популярна, бо її можуть собі дозволити лише багаті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,8 +1250,8 @@
       <tuv lang="de-DE">
         <seg>Außerdem kenne ich in anderen &lt;t25/&gt;S&lt;t26/&gt;tädten niemand.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T114849Z" creationid="hp" creationdate="20210225T114849Z">
-        <seg>До того ж я нікого не знав в інших містах.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T110925Z" creationid="hp" creationdate="20210225T114849Z">
+        <seg>До того ж  нікого не знав в інших містах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,8 +1330,8 @@
       <tuv lang="de-DE">
         <seg>Beide &lt;t25/&gt;S&lt;t26/&gt;tudiensysteme haben &lt;t27/&gt;V&lt;t28/&gt;or&lt;t29/&gt;-&lt;t30/&gt; und &lt;t31/&gt;N&lt;t32/&gt;achteile.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T100037Z" creationid="hp" creationdate="20210301T100037Z">
-        <seg>Але обидві сстеми освіти мають і переваги і недоліки.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T210101Z" creationid="hp" creationdate="20210301T100037Z">
+        <seg>Але обидві системи освіти мають як переваги, так і недоліки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,8 +1506,8 @@
       <tuv lang="de-DE">
         <seg>Da&lt;t29/&gt;s&lt;t30/&gt; &lt;t31/&gt;ist aber eine&lt;t32/&gt; &lt;t33/&gt;F&lt;t34/&gt;rage der &lt;t35/&gt;P&lt;t36/&gt;rioritäten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T130913Z" creationid="hp" creationdate="20210225T130913Z">
-        <seg>Треба правильно визначати приорітети.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T111719Z" creationid="hp" creationdate="20210225T130913Z">
+        <seg>Треба правильно визначати пріорітети.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,8 +1738,8 @@
       <tuv lang="de-DE">
         <seg>Das &lt;t0/&gt;Hauptprojekt &lt;t1/&gt;läuft &lt;t2/&gt;bis Ende 2020,&lt;t3/&gt; es geht um&lt;t4/&gt; &lt;t5/&gt;eine 3&lt;t6/&gt;D&lt;t7/&gt;-CFD &lt;t8/&gt;Simulation &lt;t9/&gt;(&lt;t10/&gt;Strömungssimulation&lt;t11/&gt;).</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T111623Z" creationid="hp" creationdate="20210225T111623Z">
-        <seg>Закінчив свій сновний проєкт про D7/CFD моделювання (тобто моделювання потоків) у 2020 році</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T110521Z" creationid="hp" creationdate="20210225T111623Z">
+        <seg>Закінчив свій основний проєкт про D7/CFD моделювання (тобто моделювання потоків) у 2020 році.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,8 +2362,8 @@
       <tuv lang="de-DE">
         <seg>Das macht M&lt;t23/&gt;ensc&lt;t24/&gt;hen kaputt.&lt;t25/&gt; Natürlich spielten auch akademische &lt;t26/&gt;G&lt;t27/&gt;ründe &lt;t28/&gt;bei meiner Entscheidung &lt;t29/&gt;eine &lt;t30/&gt;R&lt;t31/&gt;olle.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T113850Z" creationid="hp" creationdate="20210225T113745Z">
-        <seg>У нас людей ламають. Ще однією причиною чому я обрав Німеччину став вибір професії.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205115Z" creationid="hp" creationdate="20210225T113745Z">
+        <seg>Це ламає людей. Ще однією причиною чому я обрав Німеччину став вибір професії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,8 +3170,8 @@
       <tuv lang="de-DE">
         <seg>Die Serie „Game of Thrones“&lt;t56/&gt; habe ich von vorne bis hinten auf &lt;t57/&gt;Deutsch&lt;t58/&gt; angeschaut, da habe ich viele &lt;t59/&gt;S&lt;t60/&gt;achen gelernt, die man &lt;t61/&gt;jedoch &lt;t62/&gt;in der &lt;t63/&gt;A&lt;t64/&gt;lltagskommunikation &lt;t65/&gt;eher &lt;t66/&gt;nicht verwendet.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T131407Z" creationid="hp" creationdate="20210225T131407Z">
-        <seg>Наприклад "Гру Престолів" я дивився німецькою, і вивчив звідти величезну кількість слів, які не використовуються у повсякденному житті.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205533Z" creationid="hp" creationdate="20210225T131407Z">
+        <seg>Наприклад "Гру Престолів" я дивився німецькою, і вивчив звідти величезну кількість слів, які не використовую у повсякденному житті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3690,8 +3690,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt immer noch einige &lt;t3/&gt;S&lt;t4/&gt;ituationen, &lt;t5/&gt;in denen&lt;t6/&gt; ich wenig oder &lt;t7/&gt;nichts&lt;t8/&gt; verstehe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T130245Z" creationid="hp" creationdate="20210225T130245Z">
-        <seg>Адже досі трапляються ситуації, коли я можу щось не розуміти німецькою.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T111653Z" creationid="hp" creationdate="20210225T130245Z">
+        <seg>Адже досі трапляються ситуації, коли я щось не розумію німецькою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4930,8 +4930,8 @@
       <tuv lang="de-DE">
         <seg>Ich frage dann immer mehrmals nach, was gemeint &lt;t13/&gt;wurde&lt;t14/&gt;.&lt;t15/&gt; Aber meine Kollegen aus Deutschland haben mich beruhigt, weil sie auch kaum was in dem Dialekt verstehen und manchmal einfach aus Höflichkeitsgründen nicht nachfragen.&lt;t16/&gt; Es gibt zwar eine gewisse &lt;t17/&gt;L&lt;t18/&gt;ogik, aber manchmal ist &lt;t19/&gt;es&lt;t20/&gt; schwierig&lt;t21/&gt;, das zu verstehen&lt;t22/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T130648Z" creationid="hp" creationdate="20210225T130648Z">
-        <seg>Я багата разів перепитував у своїх німецьких колег, що означають певні фрази. Але вони мене заспокоїли тим, що це був діалект, і їм також важко його зрозуміти. Можна було прослідкувати якусь логіку в тій промові, але це також дуже важко.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205459Z" creationid="hp" creationdate="20210225T130648Z">
+        <seg>Я багато разів перепитував у своїх німецьких колег, що означають певні фрази. Але вони мене заспокоїли тим, що це був діалект, і їм також важко розуміти доповідача. Можна було прослідкувати якусь логіку в тій промові, але це також нелегко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4978,8 +4978,8 @@
       <tuv lang="de-DE">
         <seg>Ich fühle mich manchmal gut, manchmal schlecht, &lt;t0/&gt;das ist &lt;t1/&gt;immer noch sehr schwankend&lt;t2/&gt; und stark von dem Thema abhängig&lt;t3/&gt;.&lt;t4/&gt; Es gibt immer noch viele selten verwendete Wörter, die ich überhaupt nicht kenne.&lt;t5/&gt; Ich spreche trotzdem immer noch viel &lt;t6/&gt;R&lt;t7/&gt;ussisch&lt;t8/&gt; mit meiner Freundin&lt;t9/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T115311Z" creationid="hp" creationdate="20210225T115311Z">
-        <seg>Ой, ну це залежить від ситуації. В більшості випадках все добре, але є слова, які використовуються рідше, та з якими виникають проблеми. До того ж я говорю російською зі своїми друзями у повсякденному житті.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T111111Z" creationid="hp" creationdate="20210225T115311Z">
+        <seg>Ой, ну це залежить від ситуації. Здебільшого все добре, але є слова, які використовуються рідше, та з якими виникають проблеми. До того ж я говорю російською зі своїми друзями у повсякденному житті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,8 +5362,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe mich entschieden, dass in &lt;t8/&gt;Deutschland&lt;t9/&gt; zu machen, ich wollte das nicht in der &lt;t10/&gt;Ukraine&lt;t11/&gt; machen, viele &lt;t12/&gt;Le&lt;t13/&gt;ute kaufen &lt;t14/&gt;den &lt;t15/&gt;dort, ich will das aber echt können.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T095603Z" creationid="hp" creationdate="20210301T095603Z">
-        <seg>Те що я собі надумав, я зроблю в Німеччині, адже в Україні мені доведеться весь час давати хабарі..</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205848Z" creationid="hp" creationdate="20210301T095603Z">
+        <seg>Те що я собі надумав, я зроблю в Німеччині, адже в Україні мені доведеться весь час давати хабарі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5770,8 +5770,8 @@
       <tuv lang="de-DE">
         <seg>Ich promoviere im &lt;t36/&gt;B&lt;t37/&gt;ereich &lt;t38/&gt;V&lt;t39/&gt;erbrennungsmotoren und &lt;t40/&gt;En&lt;t41/&gt;ergietechnik&lt;t42/&gt; und leider &lt;t43/&gt;gibt &lt;t44/&gt;es &lt;t45/&gt;diese Studienrichtung in &lt;t46/&gt;Kyiw nicht, deswegen habe ich mich entschlossen, in Deutschland zu studieren und auch zu promovieren&lt;t47/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T114253Z" creationid="hp" creationdate="20210225T114253Z">
-        <seg>Я навчаюся у сфері про двигуни внутрішнього згораннята енергетичної техніки, на жаль, в такому напрямку розвиватися в Києві не можна.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T110746Z" creationid="hp" creationdate="20210225T114253Z">
+        <seg>Я вивчаю двигуни внутрішнього згорання та енергетичної техніки, на жаль, у цьому напрямку розвиватися в Києві не можна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5946,8 +5946,8 @@
       <tuv lang="de-DE">
         <seg>Ich war mir noch nicht sicher&lt;t9/&gt;, wo und wie ich promovieren/arbeiten soll&lt;t10/&gt;, nach meinem &lt;t11/&gt;Master&lt;t12/&gt;abschluss, weil ich noch sehr jung war.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T114531Z" creationid="hp" creationdate="20210225T114531Z">
-        <seg>Після магістратури я ще був юним, та не знав у якому напрмку хочу в подальшому розвиватися та працювати.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T110837Z" creationid="hp" creationdate="20210225T114531Z">
+        <seg>Після магістратури я ще був зовсім юний, та не знав у якому напрямку хочу в подальшому розвиватися та працювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7058,8 +7058,8 @@
       <tuv lang="de-DE">
         <seg>Jetzt gibt es aber mehr und mehr &lt;t53/&gt;russische&lt;t54/&gt; &lt;t55/&gt;Filme, das ist natürlich eine Versuchung.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T131306Z" creationid="hp" creationdate="20210225T131306Z">
-        <seg>Але останнім часом переклади російською роблять все більше і більше, і це звичайно велика спокуса.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T111742Z" creationid="hp" creationdate="20210225T131306Z">
+        <seg>Але останнім часом перекладів російською роблять все більше і більше, і це звичайно велика спокуса.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7242,8 +7242,8 @@
       <tuv lang="de-DE">
         <seg>Kommt aus&lt;t0/&gt; Krivih R&lt;t1/&gt;ih.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T110511Z" creationid="hp" creationdate="20210225T110511Z">
-        <seg>З міста Кривий Ріг.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T110214Z" creationid="hp" creationdate="20210225T110511Z">
+        <seg>З Кривого Рогу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7762,8 +7762,8 @@
       <tuv lang="de-DE">
         <seg>Manche sind erst mit 26 oder 27 mit dem &lt;t43/&gt;M&lt;t44/&gt;aster fertig, das könnte man schneller machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T100806Z" creationid="hp" creationdate="20210301T100806Z">
-        <seg>Деякі студенти тут закінчують магістратуру навіть 26-27 років. </seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T210144Z" creationid="hp" creationdate="20210301T100806Z">
+        <seg>Деякі студенти тут закінчують магістратуру навіть в 26-27 років. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7850,8 +7850,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal kann man in&lt;t17/&gt; &lt;t18/&gt;der U&lt;t19/&gt;kraine nicht das machen, was man glaubt od&lt;t20/&gt;er was die eigenen moralischen Überzeugungen sind, d.h. Korruption ist ein Thema.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T113430Z" creationid="hp" creationdate="20210225T113430Z">
-        <seg>Частіше в Україні не можна зробити все, що ти задумав, адже це може перечити якимось моральним переконанням, до цього всього тут існує корупція.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T110631Z" creationid="hp" creationdate="20210225T113430Z">
+        <seg>Дуже часто в Україні не можна робити все, що ти задумав, адже це може перечити якимось моральним переконанням, а ще до цього всього в нас існує корупція.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7930,8 +7930,8 @@
       <tuv lang="de-DE">
         <seg>Mein &lt;t12/&gt;Professor&lt;t13/&gt; ist aus &lt;t14/&gt;M&lt;t15/&gt;ünchen, seinen &lt;t16/&gt;D&lt;t17/&gt;ialekt verstehe ich viel schlechter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T091013Z" creationid="hp" creationdate="20210225T132121Z">
-        <seg>Але, наприклад, свого викладча з Мюнхена я розумію гірше.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205617Z" creationid="hp" creationdate="20210225T132121Z">
+        <seg>Але, наприклад, свого викладача з Мюнхена я розумію гірше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8146,8 +8146,8 @@
       <tuv lang="de-DE">
         <seg>Mir hat es geholfen, in der &lt;t15/&gt;Bibliothek&lt;t16/&gt; zu studieren, &lt;t17/&gt;weil ich mich zu Hause schlechter konzentrieren kann&lt;t18/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T091133Z" creationid="hp" creationdate="20210301T091126Z">
-        <seg>Вдома мені важко сконцетруватися, тому мені дуже допомогла навчатися в бібліотеці.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205715Z" creationid="hp" creationdate="20210301T091126Z">
+        <seg>Вдома мені важко сконцетруватися, тому мені дуже допомогло навчання в бібліотеці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8322,8 +8322,8 @@
       <tuv lang="de-DE">
         <seg>Nein, es&lt;t0/&gt; könnte viel besser sein.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T130157Z" creationid="hp" creationdate="20210225T130157Z">
-        <seg>Не дуже, він би міг бути і кращим.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T111629Z" creationid="hp" creationdate="20210225T130157Z">
+        <seg>Не дуже, вона могла б бути кращою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8586,8 +8586,8 @@
       <tuv lang="de-DE">
         <seg>Seit 2017 Promotionsstudent an der OVGU (Promotion soll 2021 beendet werden).</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T110456Z" creationid="hp" creationdate="20210225T110456Z">
-        <seg>З 2017 року до 2021 року, здобуває докторський ступінь в OVGU.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T110130Z" creationid="hp" creationdate="20210225T110456Z">
+        <seg>З 2017 року до 2021 року здобуває докторський ступінь в університеті Отто фон Ґеріке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8610,8 +8610,8 @@
       <tuv lang="de-DE">
         <seg>Sicherheit durch &lt;t12/&gt;eine funktionierende K&lt;t13/&gt;rankenversicherung ist au&lt;t14/&gt;ch ein Aspekt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T112748Z" creationid="hp" creationdate="20210225T112440Z">
-        <seg>Медичне страхуваня - теж немаловажливий аспект.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T110544Z" creationid="hp" creationdate="20210225T112440Z">
+        <seg>Медичне страхуваня - теж важливий аспект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8682,8 +8682,8 @@
       <tuv lang="de-DE">
         <seg>Sie wissen nicht, was sie wirklich wollen und können keine Prioritäten setzen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T095744Z" creationid="hp" creationdate="20210301T095744Z">
-        <seg>Вони не знають, що вони хочуть і як розтавити приорітети.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205919Z" creationid="hp" creationdate="20210301T095744Z">
+        <seg>Вони не знають, що вони хочуть і як розставити приорітети.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8898,8 +8898,8 @@
       <tuv lang="de-DE">
         <seg>Studierte in der Ukraine „H&lt;t0/&gt;ydraulische und pneumatische Systeme&lt;t1/&gt;“, änderte dann im Master den Studiengang und studierte „Automobile Systeme“&lt;t2/&gt; &lt;t3/&gt;(&lt;t4/&gt;Automotive Systems&lt;t5/&gt;) an der OVGU.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T110917Z" creationid="hp" creationdate="20210225T110917Z">
-        <seg>Вивчав в Україні гідравлічні та пневматичні системи, але на магістратурі в OVGU змінив напрямок на "Автомобільні системи" (Automobile Systeme).</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T110254Z" creationid="hp" creationdate="20210225T110917Z">
+        <seg>Вивчав в Україні гідравлічні та пневматичні системи, але на магістратурі в OVGU змінив напрямок на автомобільні системи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8986,8 +8986,8 @@
       <tuv lang="de-DE">
         <seg>Unsere Studierenden&lt;t0/&gt; haben sehr viel im Kopf&lt;t1/&gt; und haben sehr viele Stunden an der Universität&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T095717Z" creationid="hp" creationdate="20210301T095717Z">
-        <seg>Наші студента забагато часу проводять в універі, при цьому не реалізують свої ідеї.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205912Z" creationid="hp" creationdate="20210301T095717Z">
+        <seg>Наші студенти забагато часу проводять в універі, при цьому не реалізують свої ідеї.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9138,8 +9138,8 @@
       <tuv lang="de-DE">
         <seg>Vorteilhaft finde ich, dass die &lt;t33/&gt;Studierenden&lt;t34/&gt; sehr früh beginnen, mit 17 oder 18 und deswegen auch früher fertig werden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T100229Z" creationid="hp" creationdate="20210301T100229Z">
-        <seg>Перевагою можна назвати те, що наші студенти починають навчання в 17-18 років, тому вони раніше можуть закінчити навчання.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T210121Z" creationid="hp" creationdate="20210301T100229Z">
+        <seg>Перевагою можна назвати те, що наші студенти починають навчання в 17-18 років, тому вони раніше його закінчують.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9506,8 +9506,8 @@
       <tuv lang="de-DE">
         <seg>Wenn ich &lt;t27/&gt;R&lt;t28/&gt;uss&lt;t29/&gt;isch&lt;t30/&gt; spreche&lt;t31/&gt;,&lt;t32/&gt; verwende ich &lt;t33/&gt;oft &lt;t34/&gt;deutsche &lt;t35/&gt;W&lt;t36/&gt;örter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T130131Z" creationid="hp" creationdate="20210225T130131Z">
-        <seg>Цікаво й те, що коли я розмовляю російсько, то дуже часто вживаю німецькі слова.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205354Z" creationid="hp" creationdate="20210225T130131Z">
+        <seg>Цікаво й те, що коли я розмовляю російською, то дуже часто вживаю німецькі слова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9594,8 +9594,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man &lt;t11/&gt;P&lt;t12/&gt;raktika macht oder ins &lt;t13/&gt;A&lt;t14/&gt;usland geht, sammelt man mehr &lt;t15/&gt;E&lt;t16/&gt;rfahrungen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T095906Z" creationid="hp" creationdate="20210301T095906Z">
-        <seg>Це можна зробитиЮ поїхавши на практику закордон.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210310T205954Z" creationid="hp" creationdate="20210301T095906Z">
+        <seg>Це можна зробити, поїхавши на практику за кордон.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9890,8 +9890,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210311T110730Z" creationid="Lenovo" creationdate="20210214T130017Z">
-        <seg>Як ти вважаєш, ти добре знаєш німецьку?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210225T120922Z" creationid="Lenovo" creationdate="20210214T130017Z">
+        <seg>Як справи з німецькою?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10586,8 +10586,8 @@
       <tuv lang="de-DE">
         <seg>„Man muss lernen, Prioritäten zu setzen“</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T110128Z" creationid="hp" creationdate="20210225T110128Z">
-        <seg>„Потрібно навчитися визначати приорітети“</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T105912Z" creationid="hp" creationdate="20210225T110128Z">
+        <seg>„Потрібно навчитися визначати пріорітети“</seg>
       </tuv>
     </tu>
     <tu>
