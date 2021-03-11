@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4026,8 +4026,8 @@
       <tuv lang="de-DE">
         <seg>Es wäre besser, wenn man auch Englisch kann, es gibt hier viele internationale Studierende, die hier auf Englisch studieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210311T114343Z" creationid="krps" creationdate="20210304T114714Z">
-        <seg>Було б краще, якби ви також могли розмовляти англійською, бо тут є багато іноземних студентів, які нею навчаються.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T131455Z" creationid="krps" creationdate="20210304T114714Z">
+        <seg>Було б чудово вміти розмовляти англійською, бо тут є багато іноземних студентів, які нею навчаються.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7770,8 +7770,8 @@
       <tuv lang="de-DE">
         <seg>Manche sprechen nicht so schnell und man versteht mehr.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T112852Z" creationid="krps" creationdate="20210304T112840Z">
-        <seg>Деякі говорять повільніше, і тоді більше зрозуміло.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T131220Z" creationid="krps" creationdate="20210304T112840Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -9331,8 +9331,8 @@
       <tuv lang="de-DE">
         <seg>Was würdest du ukrainischen Studierenden raten, die anfangen zu studieren?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T114523Z" creationid="krps" creationdate="20210304T114513Z">
-        <seg>Що б ти порадив українським студентам, які тільки починають вчитися?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T131344Z" creationid="krps" creationdate="20210304T114513Z">
+        <seg>Що б ти порадив українським студентам, які тільки починають вчитися.</seg>
       </tuv>
     </tu>
     <tu>
