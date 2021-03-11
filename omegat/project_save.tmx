@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1826,8 +1826,8 @@
       <tuv lang="de-DE">
         <seg>Das Wohnheimzimmer ist außerdem möbliert, das ist bei WGs nicht immer der Fall, dann muss man sich die Möbel selbst zusammensuchen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T101117Z" creationid="krps" creationdate="20210304T120625Z">
-        <seg>Кімната в гуртожитку мебльована, що не завжди буває у квартирах, де меблі доводиться знаходити самому.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T125620Z" creationid="krps" creationdate="20210304T120625Z">
+        <seg>Кімната в гуртожитку мебльована, що не завжди буває у квартирах, де меблі доводиться знаходити самостійно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4146,8 +4146,8 @@
       <tuv lang="de-DE">
         <seg>Für das Studium brauchte ich bisher noch kein Englisch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T184623Z" creationid="krps" creationdate="20210304T115721Z">
-        <seg>Для навчання вона мені ще не треба була.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T125527Z" creationid="krps" creationdate="20210304T115721Z">
+        <seg>Для навчання вона мені ще не знадобилася.</seg>
       </tuv>
     </tu>
     <tu>
