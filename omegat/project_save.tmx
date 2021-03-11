@@ -3898,8 +3898,8 @@
       <tuv lang="de-DE">
         <seg>Es ist schwer zu sagen, wohin ich gehe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210311T114232Z" creationid="krps" creationdate="20210304T114153Z">
-        <seg>Поки складно сказати в якому напрямку я рухаюся.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T120719Z" creationid="krps" creationdate="20210304T114153Z">
+        <seg>Поки складно сказати, в якому напрямі я рухаюся.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4314,8 +4314,8 @@
       <tuv lang="de-DE">
         <seg>Grundsätzlich ist es mir egal, wo ich lebe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T114243Z" creationid="krps" creationdate="20210304T114243Z">
-        <seg>Загалом, мені все одно де жити.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T120807Z" creationid="krps" creationdate="20210304T114243Z">
+        <seg>Загалом, мені немає різниці де жити.</seg>
       </tuv>
     </tu>
     <tu>
