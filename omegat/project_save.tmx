@@ -1202,8 +1202,8 @@
       <tuv lang="de-DE">
         <seg>Außerdem bezahlt man eine Pauschale für alles und man muss sich nicht um Internet, Wasser oder andere Nebenkosten kümmern.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T101059Z" creationid="krps" creationdate="20210304T120226Z">
-        <seg>Крім того, ви платите загальну суму за все, і вам не треба турбуватися про витрати на інтернет, воду тощо.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T131744Z" creationid="krps" creationdate="20210304T120226Z">
+        <seg>Крім того, треба платити загальну суму та не треба турбуватися про витрати на інтернет, воду тощо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6962,8 +6962,8 @@
       <tuv lang="de-DE">
         <seg>Ja, mir gefällt es da.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T115939Z" creationid="krps" creationdate="20210304T115939Z">
-        <seg>Так, мені подобається там.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T131706Z" creationid="krps" creationdate="20210304T115939Z">
+        <seg>Так, мені там подобається.</seg>
       </tuv>
     </tu>
     <tu>
