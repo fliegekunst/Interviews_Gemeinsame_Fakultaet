@@ -361,8 +361,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t17/&gt;Warum wählen die Leute rechts-konservative Parteien?</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T121437Z" creationid="hp" creationdate="20210301T102023Z">
-        <seg>А чому ж люди голосують за політичні консервативні партії?   </seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T121542Z" creationid="hp" creationdate="20210301T102023Z">
+        <seg>А чому ж люди тут вбирають консервативні політичні партії?   </seg>
       </tuv>
     </tu>
     <tu>
@@ -377,8 +377,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t18/&gt;Ich dachte zuerst, dass die &lt;t19/&gt;hohen &lt;t20/&gt;Zustimmung&lt;t21/&gt;swerte&lt;t22/&gt; ein Witz &lt;t23/&gt;sind&lt;t24/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T102302Z" creationid="hp" creationdate="20210301T102156Z">
-        <seg>Я спочатку думав, що це був жарт.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T121600Z" creationid="hp" creationdate="20210301T102156Z">
+        <seg>Я спочатку думав, що результати голосувань - це якийсь жарт,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4970,8 +4970,8 @@
       <tuv lang="de-DE">
         <seg>Ich fühle mich hier &lt;t0/&gt;aber trotzdem wohl&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T102216Z" creationid="hp" creationdate="20210301T102216Z">
-        <seg>Тому що тут я почуваюся добре та вільно.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T121613Z" creationid="hp" creationdate="20210301T102216Z">
+        <seg>тому що тут я почуваюся добре та вільно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6002,8 +6002,8 @@
       <tuv lang="de-DE">
         <seg>Ich werde wahrscheinlich nicht in &lt;t0/&gt;Magdeburg&lt;t1/&gt; bleiben, &lt;t2/&gt;denn &lt;t3/&gt;hier gibt es kein Unternehmen, das sich damit beschäftigt, was ich mache.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T112557Z" creationid="hp" creationdate="20210301T102706Z">
-        <seg>Я б не залишався в Магдебурзі, тому що тут небагато підприємств на яких я б міг працювати.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T121650Z" creationid="hp" creationdate="20210301T102706Z">
+        <seg>Я б не залишався в Магдебурзі, тому що тут небагато підприємств, на яких я б міг працювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6138,8 +6138,8 @@
       <tuv lang="de-DE">
         <seg>Ich würde gerne in eine &lt;t4/&gt;süddeutsche&lt;t5/&gt; &lt;t6/&gt;S&lt;t7/&gt;tadt, entweder &lt;t8/&gt;nach&lt;t9/&gt; Bayern oder Baden-Württemberg&lt;t10/&gt;, gehen&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T112614Z" creationid="hp" creationdate="20210301T102745Z">
-        <seg>Я б хотів поїхати на південь, в Баварію або Баден-Вюртемберг.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T121725Z" creationid="hp" creationdate="20210301T102745Z">
+        <seg>Я хотів би поїхати на південь, в Баварію або Баден-Вюртемберг.</seg>
       </tuv>
     </tu>
     <tu>
