@@ -2946,8 +2946,8 @@
       <tuv lang="de-DE">
         <seg>Die Dozierenden helfen einem auch, wenn man mal etwas nicht weiß, und stellen die Frage nochmal anders oder sagen, worauf sie hinauswollen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210228T175624Z" creationid="PC" creationdate="20210228T175624Z">
-        <seg>Викладачі допоможуть, якщо ви раптом чогось не знаєте і переформулюють питання відштовхуючись від ваших відповідей.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T070558Z" creationid="PC" creationdate="20210228T175624Z">
+        <seg>Викладачі допоможуть, якщо ви раптом чогось не знаєте і переформулюють питання, відштовхуючись від ваших відповідей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5066,8 +5066,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe aber keine richtigen Freunde gefunden, das liegt sicher auch an den individuellen Personen, ich bin introvertierter, mir fällt es schwer, neue Kontakte zu finden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T150414Z" creationid="PC" creationdate="20210303T150414Z">
-        <seg>Але справжніх друзів я таки не знайшла. Просто я інтроверт і мені важко заводити нові знайомства.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T070806Z" creationid="PC" creationdate="20210303T150414Z">
+        <seg>Але справжніх друзів я таки не знайшла. Просто я інтроверт і мені важко знайомитися з новими людьми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,8 +5386,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe natürlich die Sprachbarriere gefühlt, man kennt die Kultur nicht und es ist ein bisschen komisch, Leute einfach anzusprechen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T150626Z" creationid="PC" creationdate="20210303T150626Z">
-        <seg>Відчувається мовний бар'єр, ти не знаєш культуру і розмовляти з людьми стає трохи дивно.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T070851Z" creationid="PC" creationdate="20210303T150626Z">
+        <seg>Відчувається мовний бар'єр. Через те, що ти не знаєш культуру, спілкування з іншими людьми стає трохи дивним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7834,8 +7834,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal kann es sogar passieren, dass man durch eine Prüfung fällt, das ist aber nicht schlimm, weil eine Prüfung auch ein zweites Mal abgelegt werden kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210228T180327Z" creationid="PC" creationdate="20210228T180327Z">
-        <seg>Звичайно, може статися так, що ви не складете іспит, але це не так критично, адже його можна перескласти.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T070619Z" creationid="PC" creationdate="20210228T180327Z">
+        <seg>Звичайно, може статися так, що ви не складете іспит, але це не так критично, адже ви матимете другу спробу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10106,8 +10106,8 @@
       <tuv lang="de-DE">
         <seg>Wir Ukrainer waren immer als Gruppe zusammen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T145743Z" creationid="PC" creationdate="20210303T145743Z">
-        <seg>Ми, українці були завжди разом у группі.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T070708Z" creationid="PC" creationdate="20210303T145743Z">
+        <seg>Ми, українці, завжди були разом у групі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10170,8 +10170,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben natürlich immer mal deutsche KommilitonInnen gefragt oder Lerngruppen gebildet und Projekte zusammen gemacht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T150033Z" creationid="PC" creationdate="20210303T150033Z">
-        <seg>Звичайно, ми запитували щось в наших німецьких однокурсників або робили разом проєкти в групах.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T070721Z" creationid="PC" creationdate="20210303T150033Z">
+        <seg>Звичайно, ми запитували щось в наших німецьких однокурсників або робили проєкти в групах.</seg>
       </tuv>
     </tu>
     <tu>
