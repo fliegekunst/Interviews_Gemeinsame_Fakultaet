@@ -3490,8 +3490,8 @@
       <tuv lang="de-DE">
         <seg>Ein wichtiger Unterschied ist, dass es in Deutschland im Maschinenbau-Studium weitere Fächer gibt, die wir in Kiew nicht haben würden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T183927Z" creationid="ADMIN" creationdate="20210303T183927Z">
-        <seg>Важливою відмінністю є те, що в Німеччині викладають інші предмети, яких ми не мали б у Києві.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T093826Z" creationid="ADMIN" creationdate="20210303T183927Z">
+        <seg>Важливою відмінністю є те, що в Німеччині викладають такі предмети, яких ми не мали б у Києві.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5554,8 +5554,8 @@
       <tuv lang="de-DE">
         <seg>Ich hatte jedoch einmal die Situation, dass ich gar nichts verstanden habe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T182320Z" creationid="ADMIN" creationdate="20210303T182320Z">
-        <seg>Однак колись у мене була ситуація, коли я абсолютно нічого не зрозумів.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T093645Z" creationid="ADMIN" creationdate="20210303T182320Z">
+        <seg>Але одного разу в мене була ситуація, коли я абсолютно нічого не зрозумів.</seg>
       </tuv>
     </tu>
     <tu>
