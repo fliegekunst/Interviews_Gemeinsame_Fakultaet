@@ -1194,8 +1194,8 @@
       <tuv lang="de-DE">
         <seg>Auslandssem&lt;t17/&gt;ester&lt;t18/&gt; sind in der &lt;t19/&gt;Ukraine&lt;t20/&gt; nicht unbeliebt, das können sich &lt;t21/&gt;aber &lt;t22/&gt;nur reiche Leute erlauben oder man bewirbt sich auf ein &lt;t23/&gt;S&lt;t24/&gt;tipendium.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210310T210026Z" creationid="hp" creationdate="20210301T100014Z">
-        <seg>Семестр за кордоном в Україні річ не популярна, бо її можуть собі дозволити лише багаті.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T112352Z" creationid="hp" creationdate="20210301T100014Z">
+        <seg>Семестр за кордоном, в Україні, річ не популярна, бо це собі можуть дозволити лише багаті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8682,8 +8682,8 @@
       <tuv lang="de-DE">
         <seg>Sie wissen nicht, was sie wirklich wollen und können keine Prioritäten setzen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210310T205919Z" creationid="hp" creationdate="20210301T095744Z">
-        <seg>Вони не знають, що вони хочуть і як розставити приорітети.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T112202Z" creationid="hp" creationdate="20210301T095744Z">
+        <seg>Вони не знають, що вони хочуть і як розставити пріорітети.</seg>
       </tuv>
     </tu>
     <tu>
