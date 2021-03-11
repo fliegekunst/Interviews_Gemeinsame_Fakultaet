@@ -1394,8 +1394,8 @@
       <tuv lang="de-DE">
         <seg>Bist du dort aktiv?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T131817Z" creationid="Диана" creationdate="20210225T131817Z">
-        <seg>Ви активні там?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T100328Z" creationid="Диана" creationdate="20210225T131817Z">
+        <seg>Ти туди входиш?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4282,8 +4282,8 @@
       <tuv lang="de-DE">
         <seg>Gibt es in Magdeburg eine &lt;t0/&gt;ukrainisch- und &lt;t1/&gt;russischsprachige Community?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T114152Z" creationid="Диана" creationdate="20210225T131750Z">
-        <seg>Існує в Магдебурзі україно - російськомовна громада?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T204956Z" creationid="Диана" creationdate="20210225T131750Z">
+        <seg>Існує в Магдебурзі україно - та російськомовна громада?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6514,8 +6514,8 @@
       <tuv lang="de-DE">
         <seg>In Magdeburg braucht man keine Community, hier gibt es so viele Ukrainer und Russischsprecher&lt;t0/&gt;, dass sie sich in &lt;t1/&gt;mehrere kleine G&lt;t2/&gt;ruppen aufgeteilt haben&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T133057Z" creationid="Диана" creationdate="20210225T132022Z">
-        <seg>Вам і не потрібна громада, тут стільки україно та російськомовних, що вони розділились на кілька невеликих груп.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T100942Z" creationid="Диана" creationdate="20210225T132022Z">
+        <seg>Мені навіть не потрібна громада, тут стільки україно- та російськомовних, що вони розділились на кілька невеликих груп.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8714,8 +8714,8 @@
       <tuv lang="de-DE">
         <seg>So lebt ihr in einer&lt;t8/&gt; Art Parallelgesellschaft&lt;t9/&gt; und w&lt;t10/&gt;enn man will, kann man in dieser Muttersprachen-Heimat-Blase immer bleiben und sich dort wohl fühlen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T204614Z" creationid="Диана" creationdate="20210225T131530Z">
-        <seg>Отже, ви живете в якомусь паралельному суспільстві, і якщо є бажання ви завжди можете залишитися в цій бульбашці рідної мови та культур й відчувати себе там доволі комфортно.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210310T204929Z" creationid="Диана" creationdate="20210225T131530Z">
+        <seg>Отже, ви живете в якомусь паралельному суспільстві, і якщо є бажання ви завжди можете залишитися у своєму звичному мовному та культурному світі й відчувати себе там доволі комфортно.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
