@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7642,8 +7642,8 @@
       <tuv lang="de-DE">
         <seg>Man sollte außerdem schon zu&lt;t2/&gt; Hause &lt;t3/&gt;in der Ukraine versuchen, sich vorzustellen, wie es in Deutschland sein wird, um sich später besser zu integrieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210304T123904Z" creationid="Kate" creationdate="20210303T212241Z">
-        <seg>Краще спробувати ще вдома в Україні уявити, як буде в Німеччині, щоб пізніше було легше адаптуватися.&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T120130Z" creationid="Kate" creationdate="20210303T212241Z">
+        <seg>Краще спробувати ще вдома уявити, як буде в Німеччині, щоб пізніше було легше адаптуватися.&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8562,8 +8562,8 @@
       <tuv lang="de-DE">
         <seg>Seid auf keinen Fall nur mit ukrainischen&lt;t0/&gt; Studi&lt;t1/&gt;erenden zusammen!&lt;t2/&gt; Mir hat &lt;t3/&gt;es &lt;t4/&gt;extrem geholfen, dass ich von Anfang an mit &lt;t5/&gt;D&lt;t6/&gt;eutschen geredet habe, ich habe n&lt;t7/&gt;eu&lt;t8/&gt;e Leute kennengelernt und einfach angesprochen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T202153Z" creationid="Kate" creationdate="20210303T212705Z">
-        <seg>Не будьте постійно з українськими студентами&lt;t0/&gt;&lt;t1/&gt;!&lt;t2/&gt; Мені дуже допомогло те, що я з самого початку намагалася спілкуватися з німцями, просто починаючи з ними розмову першою.&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T120442Z" creationid="Kate" creationdate="20210303T212705Z">
+        <seg>Не будьте постійно з українськими студентами&lt;t0/&gt;&lt;t1/&gt;!&lt;t2/&gt; Мені дуже допомогло те, що з самого початку я намагалася спілкуватися з німцями, просто починаючи з ними розмову першою.&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9794,8 +9794,8 @@
       <tuv lang="de-DE">
         <seg>Wichtig ist auch, die Alltagssprache zu lernen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T212324Z" creationid="Kate" creationdate="20210303T212324Z">
-        <seg>Важливо також вивчати розмовну мову.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T120139Z" creationid="Kate" creationdate="20210303T212324Z">
+        <seg>Потрібно також вивчати розмовну мову.</seg>
       </tuv>
     </tu>
     <tu>
