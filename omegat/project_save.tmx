@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4578,8 +4578,8 @@
       <tuv lang="de-DE">
         <seg>Hier ist das Studiensystem transparenter als in der Ukraine.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T110757Z" creationid="krps" creationdate="20210225T110757Z">
-        <seg>Система освіти тут прозоріша, ніж в Україні.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T131115Z" creationid="krps" creationdate="20210225T110757Z">
+        <seg>Система освіти в Німеччині прозоріша, ніж в Україні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7234,8 +7234,8 @@
       <tuv lang="de-DE">
         <seg>Kommt aus dem Gebiet Chernihiv</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210311T124409Z" creationid="krps" creationdate="20210225T104009Z">
-        <seg>Родом із чернігівської області</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T131040Z" creationid="krps" creationdate="20210225T104009Z">
+        <seg>Родом із Чернігівської області</seg>
       </tuv>
     </tu>
     <tu>
@@ -7546,8 +7546,8 @@
       <tuv lang="de-DE">
         <seg>Man muss manche Veranstaltungen nicht besuchen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210311T113919Z" creationid="krps" creationdate="20210225T110935Z">
-        <seg>Не обов'язково потрібно відвідувати деякі лекції.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T131212Z" creationid="krps" creationdate="20210225T110935Z">
+        <seg>Не обов'язково відвідувати деякі лекції.</seg>
       </tuv>
     </tu>
     <tu>
