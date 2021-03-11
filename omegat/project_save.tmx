@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6762,8 +6762,8 @@
       <tuv lang="de-DE">
         <seg>In diesem Semester mache ich mit einem deutschen Kommilitonen das Fachlabor zusammen, d.h. wir führen Untersuchungen zusammen durch und am Ende sammeln wir alle Ergebnisse und müssen einen Vortrag zusammen machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T113444Z" creationid="krps" creationdate="20210304T113433Z">
-        <seg>У цьому семестрі я роблю спеціалізовану лабораторну роботу з німецьким студентом, тобто ми проводимо разом дослідження, а в кінці зберемо всі результати та складемо доповідь.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T120623Z" creationid="krps" creationdate="20210304T113433Z">
+        <seg>У цьому семестрі я роблю спеціалізовану лабораторну роботу з німецьким студентом, тобто ми проводимо разом дослідження, а наприкінці зберемо всі результати та складемо доповідь.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8514,8 +8514,8 @@
       <tuv lang="de-DE">
         <seg>Prüfungen in Deutschland bereite ich sehr streng vor und nehme das sehr ernst.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T111517Z" creationid="krps" creationdate="20210304T111517Z">
-        <seg>До іспитів в Німеччині я готуюся дуже серйозно.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T120507Z" creationid="krps" creationdate="20210304T111517Z">
+        <seg>До іспитів у Німеччині я готуюся дуже серйозно.</seg>
       </tuv>
     </tu>
     <tu>
