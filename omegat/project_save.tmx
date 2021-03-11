@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1594,8 +1594,8 @@
       <tuv lang="de-DE">
         <seg>Dann erst kann man eine Masterarbeit anfangen zu schreiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T103005Z" creationid="PC" creationdate="20210227T103005Z">
-        <seg>Тільки тоді можна буде приступати до магістерської дисертації.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T065340Z" creationid="PC" creationdate="20210227T103005Z">
+        <seg>Тільки тоді можна буде братися за магістерську дисертацію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4250,8 +4250,8 @@
       <tuv lang="de-DE">
         <seg>Gerade mache ich meine PhD. Ich habe meinen Fachbereich ein bisschen verändert, vorher habe ich Produktentwicklung studiert, wie Tetiana Pittsyk und Rostyslav Nizinkovskyi.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210310T145826Z" creationid="PC" creationdate="20210225T112642Z">
-        <seg>Також працюю над своєю докторською. Я змінила спеціальність, до цього я вивчала розробку продукції разом з Тетяною Пітцик та Ростиславом Нізінковським.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T065258Z" creationid="PC" creationdate="20210225T112642Z">
+        <seg>Також працюю над своєю докторською. Я змінила спеціальність, оскільки до цього я вивчала розробку продукції разом з Тетяною Пітцик та Ростиславом Нізінковським.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6266,8 +6266,8 @@
       <tuv lang="de-DE">
         <seg>Im Moment arbeite ich in Düsseldorf und lebe in Neuss.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210310T145738Z" creationid="PC" creationdate="20210225T112428Z">
-        <seg>Наразі я працюю в Дюссельдорфі а живу в Нойсі.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T065118Z" creationid="PC" creationdate="20210225T112428Z">
+        <seg>Наразі я працюю в Дюссельдорфі, а живу в Нойсі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8874,8 +8874,8 @@
       <tuv lang="de-DE">
         <seg>Studierte an der OVGU von 2016-2018 Produktentwicklung, Dynamik und Festigkeit der Maschinen</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T112027Z" creationid="PC" creationdate="20210225T112027Z">
-        <seg>З 2016 по 2018 рік вивчала розробку продукції, динміку та стабільність машин в університеті Отто фон Ґеріке</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T065104Z" creationid="PC" creationdate="20210225T112027Z">
+        <seg>З 2016 по 2018 рік вивчала розробку продукції, динаміку та стійкість машин в університеті Отто фон Ґеріке</seg>
       </tuv>
     </tu>
     <tu>
