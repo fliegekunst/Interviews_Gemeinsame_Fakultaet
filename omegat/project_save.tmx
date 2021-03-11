@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1530,8 +1530,8 @@
       <tuv lang="de-DE">
         <seg>Dafür kann die Miete in einer WG geringer sein, dafür muss man viel extra machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T130952Z" creationid="krps" creationdate="20210304T120811Z">
-        <seg>Через те, що потрібно ще багато чого дороблювати, оренда квартири є дешевшою.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T124804Z" creationid="krps" creationdate="20210304T120811Z">
+        <seg>Через те, що потрібно ще багато дороблювати, оренда квартири є дешевшою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,8 +2874,8 @@
       <tuv lang="de-DE">
         <seg>Deutsche sind verschiedenen, sie sprechen teilweise sehr schnell und dann versteht man nichts.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T173632Z" creationid="krps" creationdate="20210304T112805Z">
-        <seg>Німці різні, деякі дуже швидко розмовляють, тому часто нічого не зрозуміло.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T125323Z" creationid="krps" creationdate="20210304T112805Z">
+        <seg>Німці різні, деякі розмовляють дуже швидко, тому часто нічого не зрозуміло.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7874,8 +7874,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal schreibt man Prüfungen und merkt danach: „Oh, vielleicht war das nichts!“ Wegen Corona sollten wir alles selbst machen und selbst studieren, das ist bei Physik nicht so leicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210311T114023Z" creationid="krps" creationdate="20210304T111046Z">
-        <seg>Іноді складеш іспити, а потім думаєш: „Ой, треба було не так написати!“. Через пандемію треба все вчити самостійно, а з фізикою це зробити нелегко.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T125108Z" creationid="krps" creationdate="20210304T111046Z">
+        <seg>Іноді складаєш іспити, а потім думаєш: „Ой, треба було не так написати!“. Через пандемію треба все вчити самостійно, а з фізикою це зробити нелегко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9563,8 +9563,8 @@
       <tuv lang="de-DE">
         <seg>Wenn ich mit einem Dozierenden spreche, kann ich nicht alles verstehen, was er oder sie sagt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T112648Z" creationid="krps" creationdate="20210304T112648Z">
-        <seg>Під час розмови з викладачем я не все розумію, що він каже.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T125309Z" creationid="krps" creationdate="20210304T112648Z">
+        <seg>Під час розмови з викладачем я розумію не все, що він каже.</seg>
       </tuv>
     </tu>
     <tu>
