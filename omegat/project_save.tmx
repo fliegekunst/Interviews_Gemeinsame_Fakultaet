@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3042,8 +3042,8 @@
       <tuv lang="de-DE">
         <seg>Die Leute sind sehr nett in Kirgistan.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T140445Z" creationid="krps" creationdate="20210304T140445Z">
-        <seg>В Киргизстані люди ну дуже привітні.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T123714Z" creationid="krps" creationdate="20210304T140445Z">
+        <seg>У Киргизстані люди ну дуже привітні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3962,8 +3962,8 @@
       <tuv lang="de-DE">
         <seg>Es musste ja auch schnell organisiert werden, als man sich im Frühjahr entschieden hat, ein Online-Semester zu machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T202139Z" creationid="krps" creationdate="20210304T141127Z">
-        <seg>Все треба було швидко організувати, коли навесні вирішили зробити онлайн-семестр.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T123723Z" creationid="krps" creationdate="20210304T141127Z">
+        <seg>Усе треба було швидко організувати, коли навесні вирішили зробити онлайн-семестр.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,8 +3994,8 @@
       <tuv lang="de-DE">
         <seg>Es war sehr gut organisiert und während der Reise hatten wir genug Freizeit, um uns das Land anzusehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T101557Z" creationid="krps" creationdate="20210304T140248Z">
-        <seg>Все було чудово організовано, і протягом подорожі вистачило часу, щоб подивитися місто.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T123613Z" creationid="krps" creationdate="20210304T140248Z">
+        <seg>Усе було чудово організовано, і протягом подорожі вистачило часу, щоб подивитися місто.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5698,8 +5698,8 @@
       <tuv lang="de-DE">
         <seg>Ich mache jetzt das Fachlabor und auch die Projektarbeit, da muss ich Proben vorbereiten, das wird auch sehr praktisch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T134605Z" creationid="krps" creationdate="20210304T134605Z">
-        <seg>Зараз я роблю лабораторну роботу та працюю над проєктом, тому я повинен підготувати зразки, які також будуть дуже практичними.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T123435Z" creationid="krps" creationdate="20210304T134605Z">
+        <seg>Зараз я роблю лабораторну роботу та працюю над проєктом, тому повинен підготувати зразки, які також будуть дуже практичними.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7818,8 +7818,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal ist es schwer, zu Hause zu sitzen und die Aufgaben alleine zu rechnen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210311T114405Z" creationid="krps" creationdate="20210304T141436Z">
-        <seg>Іноді складно сидіти вдома і самостійно вираховувати різні задачі.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T123817Z" creationid="krps" creationdate="20210304T141436Z">
+        <seg>Іноді складно сидіти вдома і самостійно розв'язувати різні задачі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9483,8 +9483,8 @@
       <tuv lang="de-DE">
         <seg>Wenn du praktische Erfahrungen sammeln möchtest, kannst du hier die Dozierenden fragen, ob sie Arbeit für dich haben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T101423Z" creationid="krps" creationdate="20210304T133839Z">
-        <seg>Якщо хочеш отримати практичний досвід, то можна запитати у викладачів, чи є в них для тебе робота.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T123428Z" creationid="krps" creationdate="20210304T133839Z">
+        <seg>Якщо хочеш здобути практичний досвід, то можна запитати у викладачів, чи є в них для тебе робота.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9643,8 +9643,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man echte praktische Erfahrungen sammeln will, sollte man sich einen Betreuer suchen und Hiwi werden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T101527Z" creationid="krps" creationdate="20210304T135726Z">
-        <seg>Якщо ти хочеш отримати реальний практичний досвід, то треба шукати керівника та ставати лаборантом.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T123537Z" creationid="krps" creationdate="20210304T135726Z">
+        <seg>Якщо ти хочеш здобути реальний практичний досвід, то треба шукати керівника та ставати лаборантом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10307,8 +10307,8 @@
       <tuv lang="de-DE">
         <seg>Wir waren zehn Tage in Kirgistan und ich habe vor allem gute Erinnerungen daran.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T140146Z" creationid="krps" creationdate="20210304T140146Z">
-        <seg>Ми були в Киргизстані десять днів, і я маю що згадати.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T123545Z" creationid="krps" creationdate="20210304T140146Z">
+        <seg>Ми були в Киргизстані десять днів, і я маю, що згадати.</seg>
       </tuv>
     </tu>
     <tu>
