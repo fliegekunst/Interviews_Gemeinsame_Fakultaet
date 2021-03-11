@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2274,8 +2274,8 @@
       <tuv lang="de-DE">
         <seg>Das ist schade, denn Magdeburg gefällt mir sehr, ich wohne schon ein Jahr hier.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T114425Z" creationid="krps" creationdate="20210304T114425Z">
-        <seg>Шкода, оскільки Магдебург мені дуже подобається, і я живу тут вже цілий рік.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T114239Z" creationid="krps" creationdate="20210304T114425Z">
+        <seg>Шкода, оскільки тут мені дуже подобається, і я живу тут вже цілий рік.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,16 +3890,16 @@
       <tuv lang="de-DE">
         <seg>Es ist nicht kompliziert, die Veranstaltungen auf Deutsch zu hören.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T112241Z" creationid="krps" creationdate="20210304T112241Z">
-        <seg>Слухати навчання німецькою нескладно.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T114052Z" creationid="krps" creationdate="20210304T112241Z">
+        <seg>Слухати інформацію німецькою нескладно.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Es ist schwer zu sagen, wohin ich gehe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T184352Z" creationid="krps" creationdate="20210304T114153Z">
-        <seg>Поки складно сказати куди я рухаюся.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T114232Z" creationid="krps" creationdate="20210304T114153Z">
+        <seg>Поки складно сказати в якому напрямку я рухаюся.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,8 +4026,8 @@
       <tuv lang="de-DE">
         <seg>Es wäre besser, wenn man auch Englisch kann, es gibt hier viele internationale Studierende, die hier auf Englisch studieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T100714Z" creationid="krps" creationdate="20210304T114714Z">
-        <seg>Було б краще, якби ви також могли розмовляти англійською, бо тут є багато іноземних студентів, які на ній навчаються.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T114343Z" creationid="krps" creationdate="20210304T114714Z">
+        <seg>Було б краще, якби ви також могли розмовляти англійською, бо тут є багато іноземних студентів, які нею навчаються.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6986,8 +6986,8 @@
       <tuv lang="de-DE">
         <seg>Ja, zum Beispiel in Werkstofftechnik gibt es allgemein nicht so viele Studierenden, da habe ich mit vielen KommilitonInnen Kontakt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T173659Z" creationid="krps" creationdate="20210304T113221Z">
-        <seg>Так, взагалі то на матеріалознавстві студентів не так багато, тому я спілкуюся з багатьма.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T114147Z" creationid="krps" creationdate="20210304T113221Z">
+        <seg>Так, взагалі то на матеріалознавстві студентів не так багато, тому я спілкуюся майже зі всіма.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7818,8 +7818,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal ist es schwer, zu Hause zu sitzen und die Aufgaben alleine zu rechnen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T141449Z" creationid="krps" creationdate="20210304T141436Z">
-        <seg>Іноді складно сидіти вдома і самостійно вираховувати різні завдання.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T114405Z" creationid="krps" creationdate="20210304T141436Z">
+        <seg>Іноді складно сидіти вдома і самостійно вираховувати різні задачі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7874,8 +7874,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal schreibt man Prüfungen und merkt danach: „Oh, vielleicht war das nichts!“ Wegen Corona sollten wir alles selbst machen und selbst studieren, das ist bei Physik nicht so leicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T095449Z" creationid="krps" creationdate="20210304T111046Z">
-        <seg>Іноді ви складаєте іспити, а потім думаєте: „Ой, треба було не так написати!“. Через пандемію треба все самостійно робити та вчити, а з фізикою це зробити нелегко.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T114023Z" creationid="krps" creationdate="20210304T111046Z">
+        <seg>Іноді складеш іспити, а потім думаєш: „Ой, треба було не так написати!“. Через пандемію треба все вчити самостійно, а з фізикою це зробити нелегко.</seg>
       </tuv>
     </tu>
     <tu>
