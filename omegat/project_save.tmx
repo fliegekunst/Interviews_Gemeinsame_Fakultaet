@@ -826,8 +826,8 @@
       <tuv lang="de-DE">
         <seg>Aber immer, wenn ich etwas nicht verstanden habe, habe ich nachgefragt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T150958Z" creationid="PC" creationdate="20210303T150843Z">
-        <seg>Але щоразу, коли я чогось не розуміла, я запитувала людей.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T070913Z" creationid="PC" creationdate="20210303T150843Z">
+        <seg>Але щоразу, коли я щось не розуміла, я запитувала людей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7378,8 +7378,8 @@
       <tuv lang="de-DE">
         <seg>Man hat schon Angst vor etwas, das man nicht kennt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T150722Z" creationid="PC" creationdate="20210303T150722Z">
-        <seg>Ти боїшся чогось, чого і сам не знаєш.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T070900Z" creationid="PC" creationdate="20210303T150722Z">
+        <seg>Ти боїшся того, чого і сам не знаєш.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8186,8 +8186,8 @@
       <tuv lang="de-DE">
         <seg>Mit den Dozierenden ist die Kommunikation sehr einfach, die erklären dir immer alles.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T151011Z" creationid="PC" creationdate="20210303T150939Z">
-        <seg>От із викладачами спілкуватися легко, вони завжди тобі все пояснять.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T070954Z" creationid="PC" creationdate="20210303T150939Z">
+        <seg>От із викладачами спілкуватися набагато легше, вони завжди раді тобі все пояснити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10122,8 +10122,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben die Dokumente zusammen ausgefüllt und konnten aber immer fragen, wenn &lt;t0/&gt;wir nichts verstanden haben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210310T150454Z" creationid="PC" creationdate="20210303T153828Z">
-        <seg>Ми разом заповнювали документи, але уточнювали усе &lt;t0/&gt;у разі непорозумінь.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T071245Z" creationid="PC" creationdate="20210303T153828Z">
+        <seg>Ми разом заповнювали документи, але уточнювали все &lt;t0/&gt;у разі непорозумінь.</seg>
       </tuv>
     </tu>
     <tu>
