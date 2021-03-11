@@ -626,8 +626,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t5/&gt;Verantwortung hei&lt;t6/&gt;ß&lt;t7/&gt;t &lt;t8/&gt;auch, das T&lt;t9/&gt;hema &lt;t10/&gt;des Masterprojekts oder der Masterarbeit selbst festzulegen und&lt;t11/&gt; Fächer aus&lt;t12/&gt;zu&lt;t13/&gt;wählen&lt;t14/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T205222Z" creationid="Kate" creationdate="20210303T205029Z">
-        <seg>&lt;t5/&gt;Відповідальність також в тому плані, що ти самостійно визначаєш тему магістерського проєкту або магістерської дисертації та обираєш предмети&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T113436Z" creationid="Kate" creationdate="20210303T205029Z">
+        <seg>&lt;t5/&gt;Відповідальність також в тому плані, що ти самостійно визначаєш тему магістерського проєкту або дисертації та обираєш предмети&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9050,8 +9050,8 @@
       <tuv lang="de-DE">
         <seg>Viele Frauen arbeiten als Technische Zeichnerin, da muss man sich &lt;t24/&gt;als Konstrukteurin &lt;t25/&gt;manchmal ganz schön beweisen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210304T122805Z" creationid="Kate" creationdate="20210303T204059Z">
-        <seg>Більшість працює креслярками, тож іноді доводиться досить добре проявляти себе в ролі проєктувальниці.&lt;t24/&gt;&lt;t25/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T114211Z" creationid="Kate" creationdate="20210303T204059Z">
+        <seg>Більшість працює креслярками, тому іноді доводиться частіше проявляти свої здібності в проєктуванні.&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10226,8 +10226,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben zum Beispiel eine Filiale in Indien, da sind wir dorthin gereist und haben uns das angesehen.&lt;t20/&gt; &lt;t21/&gt;Es gibt nicht viele Frauen &lt;t22/&gt;in unserer Firma&lt;t23/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210311T113247Z" creationid="Kate" creationdate="20210303T203958Z">
-        <seg>У нас є, наприклад, філія в Індії, тож ми їздили туди, щоб її оглянути.&lt;t20/&gt; &lt;t21/&gt;У нашій компанії небагато жінок.&lt;t22/&gt;&lt;t23/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T113305Z" creationid="Kate" creationdate="20210303T203958Z">
+        <seg>У нас є, наприклад, філія в Індії, і якось ми їздили туди, щоб її оглянути.&lt;t20/&gt; &lt;t21/&gt;У нашій компанії небагато жінок.&lt;t22/&gt;&lt;t23/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10242,8 +10242,8 @@
       <tuv lang="de-DE">
         <seg>Wir hatten in K&lt;t2/&gt;yiw&lt;t3/&gt; einen guten theoretischen Hintergrund&lt;t4/&gt;, auf den wir in Magdeburg aufbauen konnten&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T205912Z" creationid="Kate" creationdate="20210303T205912Z">
-        <seg>У нас була гарна теоретична підготовка в Києві, яку ми могли продовжити в Магдебурзі.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T114420Z" creationid="Kate" creationdate="20210303T205912Z">
+        <seg>У нас була гарна теоретична підготовка в Києві, яка нам потім дуже знадобилась і в Магдебурзі.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
