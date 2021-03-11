@@ -594,8 +594,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t5/&gt;Hier erwarten die &lt;t6/&gt;Dozierenden&lt;t7/&gt; deine Gedanken&lt;t8/&gt; und&lt;t9/&gt; deine Meinung&lt;t10/&gt; zu einem bestimmten Thema&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210311T115557Z" creationid="Kate" creationdate="20210303T211259Z">
-        <seg>&lt;t5/&gt;Тут же лектори очікують ваших міркувань на певну теми.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T115957Z" creationid="Kate" creationdate="20210303T211259Z">
+        <seg>&lt;t5/&gt;Тут же лектори самі очікують ваших міркувань на певну тему.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
