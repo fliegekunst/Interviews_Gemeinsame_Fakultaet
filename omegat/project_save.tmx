@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -473,8 +473,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t26/&gt;Mir fällt das swit&lt;t27/&gt;chen schwer&lt;t28/&gt;, das war schon in der Schule so&lt;t29/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T111204Z" creationid="hp" creationdate="20210225T120123Z">
-        <seg>Ще мені було важко перейти на німецьку мову.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T124058Z" creationid="hp" creationdate="20210225T120123Z">
+        <seg>Ще мені було важко перейти на німецьку мову, бо</seg>
       </tuv>
     </tu>
     <tu>
@@ -4978,8 +4978,8 @@
       <tuv lang="de-DE">
         <seg>Ich fühle mich manchmal gut, manchmal schlecht, &lt;t0/&gt;das ist &lt;t1/&gt;immer noch sehr schwankend&lt;t2/&gt; und stark von dem Thema abhängig&lt;t3/&gt;.&lt;t4/&gt; Es gibt immer noch viele selten verwendete Wörter, die ich überhaupt nicht kenne.&lt;t5/&gt; Ich spreche trotzdem immer noch viel &lt;t6/&gt;R&lt;t7/&gt;ussisch&lt;t8/&gt; mit meiner Freundin&lt;t9/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T111111Z" creationid="hp" creationdate="20210225T115311Z">
-        <seg>Ой, ну це залежить від ситуації. Здебільшого все добре, але є слова, які використовуються рідше, та з якими виникають проблеми. До того ж я говорю російською зі своїми друзями у повсякденному житті.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T124001Z" creationid="hp" creationdate="20210225T115311Z">
+        <seg>Ой, ну це залежить від ситуації. Здебільшого все добре, але є слова, які використовуються рідше, тому з ними виникають проблеми. До того ж я говорю російською зі своїми друзями у повсякденному житті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5026,8 +5026,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe &lt;t30/&gt;in der Schule&lt;t31/&gt; mehr &lt;t32/&gt;E&lt;t33/&gt;ngli&lt;t34/&gt;sch als Deutsch gelernt, &lt;t35/&gt;aber jetzt bin ich besser auf Deutsch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T120223Z" creationid="hp" creationdate="20210225T120223Z">
-        <seg>В школі я більше вчив англійську, але зараз навпаки - знаю краще німецьку.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T124126Z" creationid="hp" creationdate="20210225T120223Z">
+        <seg>в школі я більше вчив англійську, але зараз навпаки - знаю краще німецьку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5946,8 +5946,8 @@
       <tuv lang="de-DE">
         <seg>Ich war mir noch nicht sicher&lt;t9/&gt;, wo und wie ich promovieren/arbeiten soll&lt;t10/&gt;, nach meinem &lt;t11/&gt;Master&lt;t12/&gt;abschluss, weil ich noch sehr jung war.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T110837Z" creationid="hp" creationdate="20210225T114531Z">
-        <seg>Після магістратури я ще був зовсім юний, та не знав у якому напрямку хочу в подальшому розвиватися та працювати.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T123801Z" creationid="hp" creationdate="20210225T114531Z">
+        <seg>Після магістратури я був  ще зовсім юний, та не знав у якому напрямку хочу в подальшому розвиватися та працювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8898,9 +8898,9 @@
       <tuv lang="de-DE">
         <seg>Studierte in der Ukraine „H&lt;t0/&gt;ydraulische und pneumatische Systeme&lt;t1/&gt;“, änderte dann im Master den Studiengang und studierte „Automobile Systeme“&lt;t2/&gt; &lt;t3/&gt;(&lt;t4/&gt;Automotive Systems&lt;t5/&gt;) an der OVGU.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T122316Z" creationid="hp" creationdate="20210225T110917Z">
-        <seg>Вивчав в Україні гідравлічні та пневматичні системи, але на магістратурі в університеті Отто фон Ґеріке.
- змінив напрямок на автомобільні системи.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T123732Z" creationid="hp" creationdate="20210225T110917Z">
+        <seg>Вивчав в Україні гідравлічні та пневматичні системи, але на магістратурі в університеті Отто фон Ґеріке
+змінив напрямок на автомобільні системи.</seg>
       </tuv>
     </tu>
     <tu>
