@@ -8898,8 +8898,9 @@
       <tuv lang="de-DE">
         <seg>Studierte in der Ukraine „H&lt;t0/&gt;ydraulische und pneumatische Systeme&lt;t1/&gt;“, änderte dann im Master den Studiengang und studierte „Automobile Systeme“&lt;t2/&gt; &lt;t3/&gt;(&lt;t4/&gt;Automotive Systems&lt;t5/&gt;) an der OVGU.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T110254Z" creationid="hp" creationdate="20210225T110917Z">
-        <seg>Вивчав в Україні гідравлічні та пневматичні системи, але на магістратурі в OVGU змінив напрямок на автомобільні системи.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T122316Z" creationid="hp" creationdate="20210225T110917Z">
+        <seg>Вивчав в Україні гідравлічні та пневматичні системи, але на магістратурі в університеті Отто фон Ґеріке.
+ змінив напрямок на автомобільні системи.</seg>
       </tuv>
     </tu>
     <tu>
