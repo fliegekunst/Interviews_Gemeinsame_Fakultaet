@@ -4690,8 +4690,8 @@
       <tuv lang="de-DE">
         <seg>Ich &lt;t11/&gt;zum Beispiel &lt;t12/&gt;lasse mich leicht beeinflussen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T091053Z" creationid="hp" creationdate="20210225T132737Z">
-        <seg>Наприклад, я, легко піддаюсь впливу.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T112001Z" creationid="hp" creationdate="20210225T132737Z">
+        <seg>Наприклад, я легко піддаюсь впливу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,8 +5362,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe mich entschieden, dass in &lt;t8/&gt;Deutschland&lt;t9/&gt; zu machen, ich wollte das nicht in der &lt;t10/&gt;Ukraine&lt;t11/&gt; machen, viele &lt;t12/&gt;Le&lt;t13/&gt;ute kaufen &lt;t14/&gt;den &lt;t15/&gt;dort, ich will das aber echt können.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210310T205848Z" creationid="hp" creationdate="20210301T095603Z">
-        <seg>Те що я собі надумав, я зроблю в Німеччині, адже в Україні мені доведеться весь час давати хабарі.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T112124Z" creationid="hp" creationdate="20210301T095603Z">
+        <seg>Те, що я собі надумав, я зроблю в Німеччині, адже в Україні мені доведеться весь час давати хабарі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8106,8 +8106,8 @@
       <tuv lang="de-DE">
         <seg>Mir gefällt es hier viel besser als in der &lt;t2/&gt;Ukraine&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T095250Z" creationid="hp" creationdate="20210301T095250Z">
-        <seg>Тут мені подобається більше ніж в Україні.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T112106Z" creationid="hp" creationdate="20210301T095250Z">
+        <seg>Тут мені подобається більше, ніж в Україні.</seg>
       </tuv>
     </tu>
     <tu>
