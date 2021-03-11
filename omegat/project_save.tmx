@@ -425,8 +425,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t2/&gt;Ein Mal mehr &lt;t3/&gt;Nachfragen ist besser, als nichts &lt;t4/&gt;zu &lt;t5/&gt;verstehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T201612Z" creationid="Диана" creationdate="20210225T115340Z">
-        <seg>&lt;t2/&gt;Краще ще раз перепитати, ніж взагалі нічого не розуміти&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T114930Z" creationid="Диана" creationdate="20210225T115340Z">
+        <seg>&lt;t2/&gt;Краще ще раз перепитати, ніж взагалі нічого не зрозуміти&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,8 +858,8 @@
       <tuv lang="de-DE">
         <seg>Abgabe der Masterarbeit geplant für Mai 2020</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T195248Z" creationid="Диана" creationdate="20210225T104926Z">
-        <seg>Захист магістерської роботи запланована на травень 2020 року</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T114633Z" creationid="Диана" creationdate="20210225T104926Z">
+        <seg>Захист магістерської роботи запланований на травень 2020 року</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,8 +2322,8 @@
       <tuv lang="de-DE">
         <seg>Das kommt hoffentlich mit der Zeit.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T201031Z" creationid="Диана" creationdate="20210225T113202Z">
-        <seg>Сподіваюсь,що це прийде з часом.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T114723Z" creationid="Диана" creationdate="20210225T113202Z">
+        <seg>Сподіваюсь, що це прийде з часом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6810,8 +6810,8 @@
       <tuv lang="de-DE">
         <seg>Inhaltlich kann ich alles sagen, was ich will, aber die Form&lt;t18/&gt; und&lt;t19/&gt; die Betonung ist anders, &lt;t20/&gt;weil &lt;t21/&gt;Ironie, Zweideutigkeiten oder Witz verloren&lt;t22/&gt; &lt;t23/&gt;gehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T200918Z" creationid="Диана" creationdate="20210225T113116Z">
-        <seg>Із передачею змісту проблем взагалі немає, а от з акцентуванням уваги на чомусь/інтонацією/емоціями вже дещо по-іншому, тому що іронію, натяки та жарти важко передати.&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T114704Z" creationid="Диана" creationdate="20210225T113116Z">
+        <seg>Із передачею змісту проблем взагалі немає, а от з акцентуванням уваги на чомусь вже дещо по-іншому, тому що іронію, натяки та жарти важко передати.&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8778,8 +8778,8 @@
       <tuv lang="de-DE">
         <seg>Studiengang: Produktionstechnik</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T195228Z" creationid="Диана" creationdate="20210225T104744Z">
-        <seg>Спеціальність: технології  виробництва? </seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T113202Z" creationid="Диана" creationdate="20210225T104744Z">
+        <seg>Спеціальність: технології  виробництва </seg>
       </tuv>
     </tu>
     <tu>
@@ -9090,8 +9090,8 @@
       <tuv lang="de-DE">
         <seg>Vielleicht muss ich mir aber auch &lt;t24/&gt;einfach &lt;t25/&gt;mehr Mühe geben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T201213Z" creationid="Диана" creationdate="20210225T113620Z">
-        <seg>Але, можливо, мені просто потрібно ще більше докласти зусиль.&lt;t24/&gt;&lt;t25/&gt;</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T114821Z" creationid="Диана" creationdate="20210225T113620Z">
+        <seg>Але, можливо, мені просто потрібно ще більше докладати зусиль.&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
