@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3850,8 +3850,8 @@
       <tuv lang="de-DE">
         <seg>Es ist für mich l&lt;t0/&gt;eichter&lt;t1/&gt;, auf Deutsch,&lt;t2/&gt; als auf &lt;t3/&gt;Englisch&lt;t4/&gt; zu schreiben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T123826Z" creationid="hp" creationdate="20210225T123826Z">
-        <seg>Писати німецькою мені легше ніж англійською.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T114001Z" creationid="hp" creationdate="20210225T123826Z">
+        <seg>Писати німецькою мені легше, ніж англійською.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5642,8 +5642,8 @@
       <tuv lang="de-DE">
         <seg>Ich kenne keine &lt;t23/&gt;A&lt;t24/&gt;nalogien auf &lt;t25/&gt;R&lt;t26/&gt;ussisch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T130048Z" creationid="hp" creationdate="20210225T130030Z">
-        <seg>адже це все я вивчав саме у Німеччині.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T114143Z" creationid="hp" creationdate="20210225T130030Z">
+        <seg>адже це все я вчив саме в Німеччині.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9530,8 +9530,8 @@
       <tuv lang="de-DE">
         <seg>Wenn ich ein techn&lt;t5/&gt;isches&lt;t6/&gt; &lt;t7/&gt;P&lt;t8/&gt;aper auf &lt;t9/&gt;R&lt;t10/&gt;uss&lt;t11/&gt;isch schreiben müsste, wäre das&lt;t12/&gt; extrem schwierig, weil es diese &lt;t13/&gt;B&lt;t14/&gt;egriffe&lt;t15/&gt;, die ich brauche,&lt;t16/&gt; nicht gib&lt;t17/&gt;t oder ich sie nicht kenne, weil&lt;t18/&gt; ich das &lt;t19/&gt;F&lt;t20/&gt;ach komplett in &lt;t21/&gt;D&lt;t22/&gt;eutschland von vorne gelernt habe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T130044Z" creationid="hp" creationdate="20210225T130013Z">
-        <seg>А от коли мені доводилося писати це все російською, то це було нереально! Я не міг підбрати еквіваленти німецьким термінам, </seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T114055Z" creationid="hp" creationdate="20210225T130013Z">
+        <seg>А от коли мені доводилося писати це все російською, то це було просто нереально! Я не міг підбрати еквіваленти німецьким термінам,</seg>
       </tuv>
     </tu>
     <tu>
