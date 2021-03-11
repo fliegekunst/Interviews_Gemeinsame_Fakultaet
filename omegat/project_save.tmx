@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -337,8 +337,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t15/&gt;Außerdem sollte man versuchen, s&lt;t16/&gt;ich &lt;t17/&gt;zu integrieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213123Z" creationid="Kate" creationdate="20210303T213123Z">
-        <seg>&lt;t15/&gt;До того ж потрібно намагатися адаптуватися.&lt;t16/&gt;&lt;t17/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T120641Z" creationid="Kate" creationdate="20210303T213123Z">
+        <seg>&lt;t15/&gt;До того ж потрібно якомога швидше адаптуватися.&lt;t16/&gt;&lt;t17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,8 +690,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t8/&gt;Man sollte sich Hobbys suchen, da lernt man immer neue Leute kennen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T210541Z" creationid="Kate" creationdate="20210303T214414Z">
-        <seg>&lt;t8/&gt;Потрібно шукати якесь хобі, так можна завжди з кимось познайомитись.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T120922Z" creationid="Kate" creationdate="20210303T214414Z">
+        <seg>&lt;t8/&gt;Потрібно відвідувати якісь гуртки, там завжди можна з кимось познайомитись.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7658,8 +7658,8 @@
       <tuv lang="de-DE">
         <seg>Man sollte offen für Neues sein!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T210106Z" creationid="Kate" creationdate="20210303T212920Z">
-        <seg>Тож потрібно бути відкритим до всього нового!</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T120555Z" creationid="Kate" creationdate="20210303T212920Z">
+        <seg>Ви маєте бути відкритим до всього нового!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10704,8 +10704,8 @@
       <tuv lang="de-DE">
         <seg>Wie nimmst du zwischenmenschliche Beziehungen und Freundschaften &lt;t0/&gt;in Deutschland &lt;t1/&gt;wahr?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210310T202414Z" creationid="Kate" creationdate="20210303T213345Z">
-        <seg>Що ти можеш сказати про взаємозв'язки та дружбу у Німеччині?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210311T120651Z" creationid="Kate" creationdate="20210303T213345Z">
+        <seg>Що ти можеш сказати про взаємозв'язки та дружбу в Німеччині?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
