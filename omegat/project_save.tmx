@@ -1338,8 +1338,8 @@
       <tuv lang="de-DE">
         <seg>Beispielsweise gibt es bei den Fächern, die sich an Wirtschaftsingenieure richten, das Fach Betriebsorganisation zum Beispiel, das hatten wir in Kiew nicht im Bachelor.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210304T111558Z" creationid="ADMIN" creationdate="20210303T184510Z">
-        <seg>Тут студенти мають предмети, орієнтовані на промислових інженерів, наприклад, організація підприємства. В Києві на бакалавраті це рідкість.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T093937Z" creationid="ADMIN" creationdate="20210303T184510Z">
+        <seg>Тут студенти вивчають дисципліни, орієнтовані на промислових інженерів, наприклад, організація підприємства. В Києві на бакалавраті це рідкість.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9378,8 +9378,8 @@
       <tuv lang="de-DE">
         <seg>Welche Pläne hast du nach dem Studium?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T123318Z" creationid="Lenovo" creationdate="20210214T123318Z">
-        <seg>Які у тебе плани після навчання?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T094028Z" creationid="Lenovo" creationdate="20210214T123318Z">
+        <seg>Що плануєш робити після навчання?</seg>
       </tuv>
     </tu>
     <tu>
