@@ -9290,8 +9290,8 @@
       <tuv lang="de-DE">
         <seg>Was würdes&lt;t0/&gt;t du anderen ukrainischen Studierenden&lt;t1/&gt; raten, die neu nach Deutschland kommen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T090005Z" creationid="Диана" creationdate="20210204T131628Z">
-        <seg>Що ти порадив би іншим українським студентам, які приїжджають навчатися до Німеччини?</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210311T115100Z" creationid="Диана" creationdate="20210204T131628Z">
+        <seg>Що б ти порадив іншим українським студентам, які приїжджають навчатися до Німеччини?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9756,6 +9756,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210311T114701Z" creationid="Kate" creationdate="20210303T210843Z">
         <seg>Якщо ти захочеш, то зможеш зробити в Магдебурзі абсолютно все.&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man wirklich die ganze &lt;t4/&gt;Z&lt;t5/&gt;eit &lt;t6/&gt;nebenher &lt;t7/&gt;arbeiten muss, dann muss man das &lt;t8/&gt;durchziehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="hp" changedate="20210311T115401Z" creationid="hp" creationdate="20210311T115401Z">
+        <seg>Якщо потрібно десь весь час ..</seg>
       </tuv>
     </tu>
     <tu>
