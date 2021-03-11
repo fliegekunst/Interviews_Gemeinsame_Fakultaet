@@ -4154,8 +4154,8 @@
       <tuv lang="de-DE">
         <seg>Für mein Masterprojekt geben in einigen Fächern die Dozierenden Informationen auf Englisch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T180110Z" creationid="ADMIN" creationdate="20210303T180110Z">
-        <seg>Для мого проєкту лектори надають інформацію англійською мовою.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T110748Z" creationid="ADMIN" creationdate="20210303T180110Z">
+        <seg>Для мого проєкту лектори надають інформацію англійською.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9890,8 +9890,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T195738Z" creationid="Lenovo" creationdate="20210214T130017Z">
-        <seg>Як у тебе з німецькою мовою?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T110730Z" creationid="Lenovo" creationdate="20210214T130017Z">
+        <seg>Як ти вважаєш, ти добре знаєш німецьку?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10450,8 +10450,8 @@
       <tuv lang="de-DE">
         <seg>Zusätzliche Informationen auf Englisch zu lesen ist auch immer hilfreich.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T180717Z" creationid="ADMIN" creationdate="20210303T180717Z">
-        <seg>Це досить корисно почитати додаткову інформацію англійською.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T111052Z" creationid="ADMIN" creationdate="20210303T180717Z">
+        <seg>Я думаю, що всім дуже корисно почитати додаткову інформацію англійською.</seg>
       </tuv>
     </tu>
     <tu>
