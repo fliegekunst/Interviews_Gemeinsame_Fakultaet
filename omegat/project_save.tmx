@@ -1282,8 +1282,8 @@
       <tuv lang="de-DE">
         <seg>Bei den Fächern selbst gibt es nicht so viel Praktisches, du lernst und hörst Veranstaltungen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T135606Z" creationid="krps" creationdate="20210304T135606Z">
-        <seg>Практичних предметів не так багато, ти більше вчишся та слухаєш.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T141931Z" creationid="krps" creationdate="20210304T135606Z">
+        <seg>Практичних предметів не так багато, тут ти більше вчишся та слухаєш.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2498,8 +2498,8 @@
       <tuv lang="de-DE">
         <seg>Das war super!</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T140003Z" creationid="krps" creationdate="20210304T140003Z">
-        <seg>Це було круто!</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T142004Z" creationid="krps" creationdate="20210304T140003Z">
+        <seg>Дуже круто!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3786,8 +3786,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt viele Praktikumsangebote von Unternehmen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210304T134722Z" creationid="krps" creationdate="20210304T134722Z">
-        <seg>Є багато пропозицій стажування від компаній.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T141910Z" creationid="krps" creationdate="20210304T134722Z">
+        <seg>Можна знайти багато пропозицій стажування від різних компаній.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9659,8 +9659,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man ein Praktikum machen will, bewirbt man sich bei einem Unternehmen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T101504Z" creationid="krps" creationdate="20210304T134959Z">
-        <seg>Якщо ти хочеш пройти стажування, то треба подати заявку в компанію.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T141921Z" creationid="krps" creationdate="20210304T134959Z">
+        <seg>Якщо ти хочеш пройти стажування, то треба подати заявку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9915,8 +9915,8 @@
       <tuv lang="de-DE">
         <seg>Wie integriert fühlst du dich in Magdeburg?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210311T123131Z" creationid="krps" creationdate="20210304T132248Z">
-        <seg>Чи ти залучений у життя?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T141722Z" creationid="krps" creationdate="20210304T132248Z">
+        <seg>Чи ти залучений у суспільне життя?</seg>
       </tuv>
     </tu>
     <tu>
