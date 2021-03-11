@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1202,8 +1202,8 @@
       <tuv lang="de-DE">
         <seg>Außerdem bezahlt man eine Pauschale für alles und man muss sich nicht um Internet, Wasser oder andere Nebenkosten kümmern.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210311T131744Z" creationid="krps" creationdate="20210304T120226Z">
-        <seg>Крім того, треба платити загальну суму та не треба турбуватися про витрати на інтернет, воду тощо.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T131859Z" creationid="krps" creationdate="20210304T120226Z">
+        <seg>Крім того, тут платиш загальну суму та не турбуєшся про витрати на інтернет, воду тощо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10227,8 +10227,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben viele Leute kennen gelernt und mit manchen bin ich heute noch befreundet.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210310T101604Z" creationid="krps" creationdate="20210304T140400Z">
-        <seg>Ми познайомилися з багатьма людьми, а з деякими я ще досі спілкуюся.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210311T132000Z" creationid="krps" creationdate="20210304T140400Z">
+        <seg>Ми познайомилися з багатьма людьми, а з деякими я спілкуюся й досі.</seg>
       </tuv>
     </tu>
     <tu>
