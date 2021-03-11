@@ -2970,8 +2970,8 @@
       <tuv lang="de-DE">
         <seg>Die Firma hieß Nukem Technologies, die haben sich mit Dekompositionen von Atomkraftwerken beschäftigt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210304T110958Z" creationid="PC" creationdate="20210304T110958Z">
-        <seg>Компанія називалася Nukem Technologies і займалася ?розкладом (декомпозицією) атомних електростанцій?.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T071710Z" creationid="PC" creationdate="20210304T110958Z">
+        <seg>Компанія називалася Nukem Technologies і займалася розкладом (декомпозицією) атомних електростанцій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3058,8 +3058,8 @@
       <tuv lang="de-DE">
         <seg>Die Master-Arbeit ist eine gute Chance zu zeigen, was man kann, deswegen ist die Master-Arbeit wichtig.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T162128Z" creationid="PC" creationdate="20210303T162128Z">
-        <seg>Магістерська робота це чудова нагода показати все, на що ти здатен, саме тому вона така важлива.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T071441Z" creationid="PC" creationdate="20210303T162128Z">
+        <seg>Магістерська робота - це чудова нагода показати все, на що ти здатен, саме тому вона така важлива.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9650,8 +9650,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man ein Praktikum in einer Firma ableistet oder eine Master-Arbeit dort schreibt, hat man schon erste Kontakte zu der Firma.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T163134Z" creationid="PC" creationdate="20210303T163134Z">
-        <seg>Коли ви проходите практику у якійсь компанії або пишете там магістерську, то ви вже налагаджуєте певний початковий контакт з цією компанією.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210311T071503Z" creationid="PC" creationdate="20210303T163134Z">
+        <seg>Коли ви проходите практику у якійсь компанії або пишете там магістерську, то ви вже налагоджуєте певний початковий контакт з цією компанією.</seg>
       </tuv>
     </tu>
     <tu>
