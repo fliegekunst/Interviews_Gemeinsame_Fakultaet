@@ -3906,8 +3906,8 @@
       <tuv lang="de-DE">
         <seg>Es ist schwierig, das Studium in der Ukraine und in Deutschland miteinander zu vergleichen, denn ich habe natürlich auf Deutsch einige Sprachschwierigkeiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T164721Z" creationid="ADMIN" creationdate="20210303T164721Z">
-        <seg>Важко порівнювати навчання в Україні та Німеччині, оскільки зараз я маю деякі мовні труднощі.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T092717Z" creationid="ADMIN" creationdate="20210303T164721Z">
+        <seg>Важко порівнювати навчання в Україні та Німеччині, оскільки я маю деякі труднощі з мовою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4162,8 +4162,8 @@
       <tuv lang="de-DE">
         <seg>Für meine Masterprojektarbeit würde ich aber gerne schneller lesen &lt;t0/&gt;können.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210304T111351Z" creationid="ADMIN" creationdate="20210303T170834Z">
-        <seg>Однак зараз, коли я роблю магістерський проєкт, я б хотів читати швидше&lt;t0/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T092916Z" creationid="ADMIN" creationdate="20210303T170834Z">
+        <seg>Однак зараз, коли я працюю над магістерським проєктом, я б хотів читати швидше&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5114,8 +5114,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe ca. 5 von 120 Fragen nicht gut genug vorbereitet und habe 3 davon als Prüfungsaufgabe bekommen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T162314Z" creationid="ADMIN" creationdate="20210303T161424Z">
-        <seg>Я не дуже добре підготував приблизно 5 питань із 120 і, як на зло, на іспиті я отримав 3 із них.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210311T092651Z" creationid="ADMIN" creationdate="20210303T161424Z">
+        <seg>Я не дуже добре підготував приблизно 5 питань із 120 і, як на зло, на іспиті я отримав три з них.</seg>
       </tuv>
     </tu>
     <tu>
