@@ -2258,8 +2258,8 @@
       <tuv lang="de-DE">
         <seg>Das ist nicht &lt;t0/&gt;vergleichbar.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T125854Z" creationid="Диана" creationdate="20210225T120736Z">
-        <seg>Це не можливо порівняти&lt;t0/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T115051Z" creationid="Диана" creationdate="20210225T120736Z">
+        <seg>Це не можна порівняти&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,8 +2314,8 @@
       <tuv lang="de-DE">
         <seg>Das klappt meistens ganz gut, man kann viele verschiedene Kulturen kennenlernen und findet immer Menschen, die einen so, wie man ist, akzeptieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T203117Z" creationid="Диана" creationdate="20210225T123848Z">
-        <seg>Загалом це працює цілком дуже добре, ви можете познайомитися з людбми багатьох різних культур й завжди знайдете тих людей, які приймуть вас такими, які ви є.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T115407Z" creationid="Диана" creationdate="20210225T123848Z">
+        <seg>Загалом це працює цілком дуже добре, ви можете познайомитися з людьми багатьох різних культур й завжди знайдете тих людей, які приймуть вас такими, які ви є.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3074,8 +3074,8 @@
       <tuv lang="de-DE">
         <seg>Die Menschen im Öffentlichen Personennahverkehr stehen zum Beispiel sehr viel eher vor der Haltstelle auf oder die Sirenen in Deutschland sind viel viel lauter als in der Ukraine.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210311T101313Z" creationid="Диана" creationdate="20210304T092237Z">
-        <seg>А ще, наприклад, люди в громадському транспорті встають набагато раніше, ще перед своєю зупинкою або сирени в Німеччині набагато голосніше, ніж в Україні.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T115935Z" creationid="Диана" creationdate="20210304T092237Z">
+        <seg>А ще, наприклад, люди в громадському транспорті встають раніше, ще перед своєю зупинкою або сирени в Німеччині набагато голосніше, ніж в Україні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6746,8 +6746,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine telefoniert man öfter und schreibt weniger Briefe.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T092708Z" creationid="Диана" creationdate="20210304T092708Z">
-        <seg>В Україні частіше телефонують і менше пишуть листів.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T120133Z" creationid="Диана" creationdate="20210304T092708Z">
+        <seg>В Україні частіше телефонують і меньше пишуть листів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9146,8 +9146,8 @@
       <tuv lang="de-DE">
         <seg>W&lt;t0/&gt;as ich empfehlen würde, sind soziale Aktivitäten, &lt;t1/&gt;z.B. &lt;t2/&gt;Sportkurse &lt;t3/&gt;zu besuchen&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T203713Z" creationid="Диана" creationdate="20210225T125940Z">
-        <seg>Я б порадив бути соціально активним, такі як, наприклад, спортивні секції&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210311T115906Z" creationid="Диана" creationdate="20210225T125940Z">
+        <seg>Я б порадив бути соціально активним, наприклад, відвідувати спортивні секції&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
