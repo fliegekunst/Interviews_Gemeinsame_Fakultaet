@@ -768,6 +768,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Aber das kommt noch.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101442Z" creationid="Lenovo" creationdate="20210316T101442Z">
+        <seg>Але це ще попереду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Aber es gibt Unterschiede im Studien-Programm und im Aufbau des Studiums.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210311T094903Z" creationid="ADMIN" creationdate="20210303T214810Z">
@@ -978,9 +986,8 @@
       <tuv lang="de-DE">
         <seg>Als ich das meinen deutschen Kollegen erzählt habe, haben die auch gestaunt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101318Z" creationid="Lenovo" creationdate="20210316T101304Z">
-        <seg>
-</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101343Z" creationid="Lenovo" creationdate="20210316T101304Z">
+        <seg>Коли я розповів про це своїм німецьким колегам, вони  здивувалися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1913,6 +1920,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das Studium selbst zu organisieren, hat mir sehr gefallen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102258Z" creationid="Lenovo" creationdate="20210316T102258Z">
+        <seg>Мені дуже сподобалось організовувати навчання самостійно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das Thema ist noch nicht final, aber ich überlege gerade, welcher Betreuer in Frage kommt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T105559Z" creationid="hp" creationdate="20210211T105559Z">
@@ -2365,6 +2380,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210311T115051Z" creationid="Диана" creationdate="20210225T120736Z">
         <seg>Це не можна порівняти&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das ist nicht schwierig, man braucht nur Zeit und Muße dazu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102501Z" creationid="Lenovo" creationdate="20210316T102501Z">
+        <seg>Це не складно, вам просто потрібен час і мужність, щоб зробити це.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2993,6 +3016,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Deutschland ist natürlich auch bürokratisch, aber das System ist transparenter und nachvollziehbarer als in der Ukraine.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102224Z" creationid="Lenovo" creationdate="20210316T102224Z">
+        <seg>Німеччина, звичайно, також бюрократична, але система є більш прозорою та зрозумілою, ніж в Україні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die &lt;t3/&gt;ukrainischen&lt;t4/&gt; &lt;t5/&gt;Studierenden&lt;t6/&gt; sind sehr jung und haben wenig &lt;t7/&gt;E&lt;t8/&gt;rfahrung.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T095801Z" creationid="hp" creationdate="20210301T095801Z">
@@ -3297,6 +3328,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Universitäten sind ganz anders: In Deutschland ist das Studium straff organisiert.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102129Z" creationid="Lenovo" creationdate="20210316T102129Z">
+        <seg>Університети абсолютно різні: у Німеччині навчання організовано щільно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die Vorbereitung &lt;t6/&gt;auf das Studium in Magdeburg &lt;t7/&gt;war gut, ich wusste, was mich erwartet.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T110656Z" creationid="ADMIN" creationdate="20210210T203247Z">
@@ -3413,6 +3452,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T110327Z" creationid="Lenovo" creationdate="20210214T125219Z">
         <seg>Ця співпраця виникла так: спочатку я був студентом-асистентом, потім я отримав досвід і зорієнтувався.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese Person ist für diese Sache zuständig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102150Z" creationid="Lenovo" creationdate="20210316T102150Z">
+        <seg>Ця людина відповідає за цю справу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3593,6 +3640,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ein Hiwi-Job ist eine gute Möglichkeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102610Z" creationid="Lenovo" creationdate="20210316T102610Z">
+        <seg>Робота студентським асистентом - чудовий варіант.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ein Posten als Hiwi hat außerdem den Vorteil, dass man&lt;t0/&gt; &lt;t1/&gt;dazu noch bisschen Geld verdienen und diese Position auch im Lebenslauf erwähnen kann.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T161251Z" creationid="PC" creationdate="20210303T161251Z">
@@ -3613,6 +3668,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210304T110544Z" creationid="krps" creationdate="20210304T110544Z">
         <seg>Перевагою усного іспиту є те, що відразу знаєш свою оцінку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein großer Unterschied ist die Ausstattung: In der Ukraine ist die Ausstattung alt und die Studierenden lernen wenig, mit neuen Maschinen zu arbeiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101956Z" creationid="Lenovo" creationdate="20210316T101956Z">
+        <seg>Одна велика різниця полягає в обладнанні: в Україні обладнання старе, і студенти мало дізнаються про роботу з новими верстатами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4313,6 +4376,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Für bestimmte Tätigkeiten gibt es einen bestimmten Mitarbeiter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102140Z" creationid="Lenovo" creationdate="20210316T102140Z">
+        <seg>Для певних видів діяльності існує конкретний співробітник.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Für das Studium brauchte ich bisher noch kein Englisch.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210311T141612Z" creationid="krps" creationdate="20210304T115721Z">
@@ -4669,6 +4740,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210227T092654Z" creationid="PC" creationdate="20210213T165214Z">
         <seg>А тут, в У&lt;t2/&gt;О&lt;t3/&gt;ВГ, я часто відвідую воркшопи, де навчають, наприклад, правильно писати резюме&lt;t4/&gt; і розповідають на що потрібно звертати увагу під час їх &lt;t5/&gt;&lt;t6/&gt;подачі.&lt;t7/&gt; &lt;t8/&gt;Або воркшоп на тему "Таймменеджмент".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier auf der Arbeit fühle ich, dass ich etwas praxisrelevantes mache.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102044Z" creationid="Lenovo" creationdate="20210316T102044Z">
+        <seg>Тут, на роботі, я відчуваю, що роблю щось, що має відношення до практики.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5157,6 +5236,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210211T085510Z" creationid="ADMIN" creationdate="20210211T085510Z">
         <seg>Я дуже цього чекаю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich fühle mich aber nicht einsam, da alle meine ukrainischen Freunde hier oder in erreichbarer Distanz wohnen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101455Z" creationid="Lenovo" creationdate="20210316T101455Z">
+        <seg>Але я не відчуваю себе самотнім, так як всі мої українські друзі живуть тут або на досяжній відстані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5813,6 +5900,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210311T093645Z" creationid="ADMIN" creationdate="20210303T182320Z">
         <seg>Але одного разу в мене була ситуація, коли я абсолютно нічого не зрозумів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich hatte kein Gefühl, dass ich meine Erfahrungen mal anwenden kann.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102111Z" creationid="Lenovo" creationdate="20210316T102111Z">
+        <seg>У мене не було відчуття, що я можу застосувати свій досвід.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6809,6 +6904,30 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In Kyiv ist das nicht so klar, man muss immer fragen, wer sich womit beschäftigt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102212Z" creationid="Lenovo" creationdate="20210316T102212Z">
+        <seg>У Києві це не так зрозуміло, завжди потрібно запитувати, хто чим займається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In Kyiv mussten wir ganz viele Dokumente sammeln, das war manchmal anstrengend, weil man nicht immer verstanden hat, wozu man diese Dokumente braucht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102248Z" creationid="Lenovo" creationdate="20210316T102248Z">
+        <seg>У Києві нам довелося зібрати багато документів, що часом виснажувало, бо ви не завжди розуміли, для чого потрібні ці документи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In Kyiv war das Studium viel theoretischer.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102053Z" creationid="Lenovo" creationdate="20210316T102053Z">
+        <seg>У Києві навчання було більш теоретичним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In Magdeburg braucht man keine Community, hier gibt es so viele Ukrainer und Russischsprecher&lt;t0/&gt;, dass sie sich in &lt;t1/&gt;mehrere kleine G&lt;t2/&gt;ruppen aufgeteilt haben&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210316T093442Z" creationid="Диана" creationdate="20210225T132022Z">
@@ -6958,6 +7077,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T214151Z" creationid="ADMIN" creationdate="20210303T214151Z">
         <seg>В Україні я навчався на бакалавраті, в Німеччині — на магістратурі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der Ukraine habe ich während des Bachelorstudiums als Laborant am Lehrstuhl gearbeitet, das ist vergleichbar mit einem Hiwi hier.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101949Z" creationid="Lenovo" creationdate="20210316T101949Z">
+        <seg>Під час навчання на бакалавраті в Україні я працював лаборантом на кафедрі, що можна порівняти з асистентом тут.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7594,6 +7721,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Könntest du versuchen, die Wissenschaftslandschaft bzw. den Maschinenbau in der Ukraine und Deutschland vergleichen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101525Z" creationid="Lenovo" creationdate="20210316T101525Z">
+        <seg>Не міг б ти спробувати порівняти науковий ландшафт чи машинобудування в Україні та Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Legt euch nicht auf die faule Haut.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T130544Z" creationid="nasty" creationdate="20210218T130544Z">
@@ -7702,6 +7837,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T160440Z" creationid="PC" creationdate="20210303T160440Z">
         <seg>Не бійтеся мовного бар'єра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man hat Wahlmöglichkeiten, das war super.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102309Z" creationid="Lenovo" creationdate="20210316T102309Z">
+        <seg>У вас є вибір, це було чудово.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7990,6 +8133,22 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210311T112101Z" creationid="ADMIN" creationdate="20210303T215437Z">
         <seg>Проте якщо дуже захотіти, то можна самостійно розширити свої знання та вміння.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man schaut im LSF, sucht eine interessante Veranstaltung, schaut sich an, wann das unterrichtet wird, und stellt sich seinen Stundenplan zusammen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102321Z" creationid="Lenovo" creationdate="20210316T102321Z">
+        <seg>Ви дивитесь на LSF, шукаєте цікаву подію, дивитесь, коли це викладається, і складаєте свій графік занять.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man schaut sich das Modulhandbuch an, informiert sich, worum es genau geht und dann kann man sich seine eigenen Stunden zusammenstellen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102449Z" creationid="Lenovo" creationdate="20210316T102449Z">
+        <seg>Ви переглядаєте посібник з модулів, з’ясовуєте, про що саме модуль, а потім можете складати власні заняття.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9651,6 +9810,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wahrscheinlich gibt es noch viele Sachen, die ich für eine bessere Integration machen sollte und worüber ich noch nicht kenne.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101436Z" creationid="Lenovo" creationdate="20210316T101436Z">
+        <seg>Напевно, ще є багато речей, які я повинен зробити для кращої інтеграції, про які я поки не знаю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wann kommt der defini&lt;t0/&gt;te Artikel, wann der indefinite Artikel?</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T212026Z" creationid="Kate" creationdate="20210303T212026Z">
@@ -10519,6 +10686,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210228T174228Z" creationid="PC" creationdate="20210228T174228Z">
         <seg>Як це - вчитися німецькою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie können Studierende Arbeitserfahrungen sammeln?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102513Z" creationid="Lenovo" creationdate="20210316T102513Z">
+        <seg>Як студенти можуть отримати досвід роботи?</seg>
       </tuv>
     </tu>
     <tu>
