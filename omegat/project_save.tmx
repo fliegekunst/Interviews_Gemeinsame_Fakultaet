@@ -610,8 +610,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t5/&gt;In der Prüfung zu schummeln führt in Deutschland dazu, dass man die Prüfung nicht bestanden hat.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T130014Z" creationid="Диана" creationdate="20210225T123114Z">
-        <seg>&lt;t5/&gt;Обман під час іспиту закінчується тим, що ви не складаєте його.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T092805Z" creationid="Диана" creationdate="20210225T123114Z">
+        <seg>&lt;t5/&gt;Обман під час іспиту закінчується тим, що ти не складаєш його.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,8 +2330,8 @@
       <tuv lang="de-DE">
         <seg>Das klappt meistens ganz gut, man kann viele verschiedene Kulturen kennenlernen und findet immer Menschen, die einen so, wie man ist, akzeptieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210311T115407Z" creationid="Диана" creationdate="20210225T123848Z">
-        <seg>Загалом це працює цілком дуже добре, ви можете познайомитися з людьми багатьох різних культур й завжди знайдете тих людей, які приймуть вас такими, які ви є.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T092848Z" creationid="Диана" creationdate="20210225T123848Z">
+        <seg>Загалом це працює цілком добре, ви можете познайомитися з людьми багатьох різних культур й завжди знайдете тих людей, які приймуть вас такими, які ви є.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9075,8 +9075,8 @@
       <tuv lang="de-DE">
         <seg>Thermodynamik scheint hier am schwersten im Bachelor zu sein, habe ich gehört.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T202446Z" creationid="Диана" creationdate="20210225T122733Z">
-        <seg>Термодинаміка, здається, найважча тут на бакалаврі.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T092657Z" creationid="Диана" creationdate="20210225T122733Z">
+        <seg>Наскільки я знаю, найважча на бакалавраті термодинаміка.</seg>
       </tuv>
     </tu>
     <tu>
