@@ -856,6 +856,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Aber solchen haben wir&lt;t0/&gt; &lt;t1/&gt;nur selten getroffen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094804Z" creationid="Lenovo" creationdate="20210316T094804Z">
+        <seg>Але ми рідко зустрічали таких.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Aber…dass mein Akzent eine große Rolle fürs Leben spielt, kann ich nicht sagen.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T095319Z" creationid="PC" creationdate="20210213T140008Z">
@@ -1676,6 +1684,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210304T134000Z" creationid="krps" creationdate="20210304T134000Z">
         <seg>Можна попрацювати лаборантом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann kann man vorher die Skripte lesen und sich besser auf die Vorlesung vorbereiten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094732Z" creationid="Lenovo" creationdate="20210316T094732Z">
+        <seg>Тоді ви можете прочитати конспекти заздалегідь і краще підготуватися до лекції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3304,6 +3320,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die meisten Lektoren haben sehr deutlich hoch deutsch gesprochen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094818Z" creationid="Lenovo" creationdate="20210316T094818Z">
+        <seg>Більшість лекторів дуже чітко говорили німецькою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die meisten beginnen um 7 Uhr ihre Arbeit.</seg>
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210304T133517Z" creationid="Диана" creationdate="20210304T091603Z">
@@ -4552,6 +4576,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hattest du oft Kontakt zu deutschen KommilitonInnen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094828Z" creationid="Lenovo" creationdate="20210316T094828Z">
+        <seg>Ви часто спілкувалися з німецькими однокурсниками?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hattest du&lt;t0/&gt; Kontakt mit deutschen Studierenden?</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T145700Z" creationid="PC" creationdate="20210303T145700Z">
@@ -4916,6 +4948,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210310T202756Z" creationid="Диана" creationdate="20210225T123416Z">
         <seg>Я не виріс у Німеччині, маю акцент і походжу з іншої культури - звичайно, іноді в мене ще є це почуття.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich bin nicht so kommunikativ und kontaktfreundlich.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094850Z" creationid="Lenovo" creationdate="20210316T094850Z">
+        <seg>Я не такий комунікативний і не дуже йду на контакт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6688,6 +6728,15 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In den Prüfungen hat der Prüfende die Frage dann einfach wiederholt oder anders formuliert, damit man besser versteht, was gemeint wurde.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094648Z" creationid="Lenovo" creationdate="20210316T094648Z">
+        <seg>На іспитах екзаменатор просто повторював питання або формулював його інакше, щоб можна було краще зрозуміти, що мається на увазі.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In den Vorlesungen habe ich keine Probleme mitzukommen, weil das Material zur Verfügung steht.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T130345Z" creationid="Lenovo" creationdate="20210214T130345Z">
@@ -7920,6 +7969,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Manche Dozierende tragen ihre Vorlesung undeutlich vor, das ist nicht so einfach, zu folgen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094716Z" creationid="Lenovo" creationdate="20210316T094716Z">
+        <seg>Деякі лектори викладають свою лекцію нечітко, це не так просто слідувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Manche Prüfungen sind komplex und schließen mehrere Fachbereiche ab.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210228T180146Z" creationid="PC" creationdate="20210228T180146Z">
@@ -8052,6 +8109,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210311T134918Z" creationid="krps" creationdate="20210304T111046Z">
         <seg>Іноді складаєш іспити, а потім думаєш: „Ой, треба було не так написати!“. Через пандемію все треба вчити самостійно, а з фізикою це зробити нелегко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manchmal sprechen die Dozierenden sehr schnell, das haben selbst die deutschen Kommilitoninnen gesagt, dass ihnen das zu schnell ist.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094758Z" creationid="Lenovo" creationdate="20210316T094758Z">
+        <seg>Іноді викладачі говорять дуже швидко, навіть німецькі однокурсники говорили, що це для них занадто швидко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9000,6 +9065,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Sprachlich gab es keine Probleme.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094658Z" creationid="Lenovo" creationdate="20210316T094658Z">
+        <seg>З мовленням проблем не було.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Später haben wir uns dann gefragt, wer die Firma leiten wird.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123858Z" creationid="nasty" creationdate="20210218T123858Z">
@@ -9325,6 +9398,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210211T123447Z" creationid="Kate" creationdate="20210211T110305Z">
         <seg>Багато хто думає&lt;t2/&gt;, що це &lt;t3/&gt;&lt;t4/&gt;неможливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Viele haben gut reagiert auf unsere Sprache.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094633Z" creationid="Lenovo" creationdate="20210316T094633Z">
+        <seg>Багато хто добре відгукнувся на нашу мову.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10073,6 +10154,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn wir im Team arbeiten, zum Beispiel im Rahmen eines Studienprojektes, war die Kommunikation okay, fand aber nur im fachlichen Sinn statt, wir haben meistens nur über das Studium geredet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T095009Z" creationid="Lenovo" creationdate="20210316T095009Z">
+        <seg>Коли ми працюємо в команді, наприклад, в рамках навчального проекту, спілкування було в порядку, але проходило тільки на професійному рівні, ми найчастіше говорили тільки про навчання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wichtig ist aber, dass man das Studium ernst nimmt und dafür Zeit investiert.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210228T180726Z" creationid="PC" creationdate="20210228T180726Z">
@@ -10149,6 +10238,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T105759Z" creationid="Lenovo" creationdate="20210204T134000Z">
         <seg>Як&lt;t0/&gt;тобі&lt;t1/&gt;навчання?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie bist du mit dem Deutsch zurechtgekommen?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094618Z" creationid="Lenovo" creationdate="20210316T094618Z">
+        <seg>Як ти порався з німецькою?</seg>
       </tuv>
     </tu>
     <tu>
