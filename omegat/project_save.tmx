@@ -1232,6 +1232,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Auf jeden Fall sollte man sich ein Hiwi-Stelle suchen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102625Z" creationid="Lenovo" creationdate="20210316T102625Z">
+        <seg>У будь-якому випадку слід шукати посаду асистента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Auf jeden Fall würde ich Deutschkurse an der Uni machen, die sind relativ günstig und haben eine gute Qualität.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210224T162834Z" creationid="Kate" creationdate="20210210T203648Z">
@@ -2104,6 +2112,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das habe ich so gemacht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102658Z" creationid="Lenovo" creationdate="20210316T102658Z">
+        <seg>Я так це робив.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das hat auch mehr Bezug zur eigentlichen Produktion und zur Arbeit, mit der man sich später beschäftigen will.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T184947Z" creationid="hp" creationdate="20210211T184947Z">
@@ -2260,6 +2276,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T094024Z" creationid="ADMIN" creationdate="20210210T204504Z">
         <seg>Це одна з переваг &lt;t8/&gt;Спільного Українсько-Німецького Факультету (СУНФ), оскільки працівники завжди готові були мені допомогти&lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das ist die erste Arbeitserfahrung in seinem Fach.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102641Z" creationid="Lenovo" creationdate="20210316T102641Z">
+        <seg>Це перший досвід роботи у цій галузі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3684,6 +3708,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210311T093826Z" creationid="ADMIN" creationdate="20210303T183927Z">
         <seg>Важливою відмінністю є те, що в Німеччині викладають такі предмети, яких ми не мали б у Києві.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eine Hiwi-Stelle kann per Initiativbewerbung gesucht werden, indem man einfach dem Prof seine Unterlagen geben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102648Z" creationid="Lenovo" creationdate="20210316T102648Z">
+        <seg>Роботу студента-асистента можна шукати за допомогою ініціативної заявки, просто даючи професору свої документи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5764,6 +5796,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123500Z" creationid="nasty" creationdate="20210218T123500Z">
         <seg>Я самостійно організував одну з виставок у Ганновері, тоді мій батько її відвідав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe selbst einen ukrainischen Hiwi, das ist ein Student der Gemeinsamen Fakultät vom letzten Jahr.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102734Z" creationid="Lenovo" creationdate="20210316T102734Z">
+        <seg>Я сам маю український асистента, який є студентом об'єднаного факультету з минулого року.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9025,6 +9065,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Oder es gibt auf der Internetseite verschiedene Stellenausschreibungen, die hängen auch im Flur, das kann man finden, wenn man danach sucht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102713Z" creationid="Lenovo" creationdate="20210316T102713Z">
+        <seg>Або на веб-сайті є різні оголошення про роботу, які також розміщені в коридорі, які ви можете знайти, якщо їх шукати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Oder konnten wir während des Semesters verstehen, dass ein der Fächer nicht interessant/nötig ist und davon absagen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210316T093916Z" creationid="Lenovo" creationdate="20210316T093916Z">
@@ -9726,6 +9774,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210303T160048Z" creationid="PC" creationdate="20210303T160048Z">
         <seg>Більшість з них дуже приємні й самі будуть раді допомогти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Viele ukrainischen Studierenden machen das, sie sind motiviert und wollen lernen und sind deshalb gern gesehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102718Z" creationid="Lenovo" creationdate="20210316T102718Z">
+        <seg>Багато українських студентів роблять це, вони мотивовані і хочуть вчитися і тому їх помічають.</seg>
       </tuv>
     </tu>
     <tu>
