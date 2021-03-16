@@ -976,6 +976,15 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Als ich das meinen deutschen Kollegen erzählt habe, haben die auch gestaunt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101318Z" creationid="Lenovo" creationdate="20210316T101304Z">
+        <seg>
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Als ich die Masterarbeit geschrieben habe, war ich sehr angespannt und müde und hatte zu wenig Zeit, eine Stelle in der Industrie zu suchen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210316T091330Z" creationid="Lenovo" creationdate="20210316T091330Z">
@@ -1092,6 +1101,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T162402Z" creationid="ADMIN" creationdate="20210303T162305Z">
         <seg>В університеті Отто фон Ґеріке все трішки інакше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>An der Uni läuft eine Promotion natürlich leichter und schneller.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101102Z" creationid="Lenovo" creationdate="20210316T101050Z">
+        <seg>В університеті просування по службі, звичайно, проходить легше і швидше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4264,6 +4281,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Fühlst du dich in Deutschland gut integriert?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101130Z" creationid="Lenovo" creationdate="20210316T101130Z">
+        <seg>Ти відчуваєш себе добре інтегрованим у Німеччині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Fühlst du dich integriert?</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T170551Z" creationid="krps" creationdate="20210211T082456Z">
@@ -5160,6 +5185,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich fühle mich hier nicht fremd.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101158Z" creationid="Lenovo" creationdate="20210316T101158Z">
+        <seg>Я не відчуваю себе тут чужим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich fühle mich manchmal gut, manchmal schlecht, &lt;t0/&gt;das ist &lt;t1/&gt;immer noch sehr schwankend&lt;t2/&gt; und stark von dem Thema abhängig&lt;t3/&gt;.&lt;t4/&gt; Es gibt immer noch viele selten verwendete Wörter, die ich überhaupt nicht kenne.&lt;t5/&gt; Ich spreche trotzdem immer noch viel &lt;t6/&gt;R&lt;t7/&gt;ussisch&lt;t8/&gt; mit meiner Freundin&lt;t9/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210311T124001Z" creationid="hp" creationdate="20210225T115311Z">
@@ -5528,6 +5561,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich habe in diesem Jahr eine Haftpflichtversicherung abgeschlossen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101326Z" creationid="Lenovo" creationdate="20210316T101326Z">
+        <seg>Цього року я оформив страхування відповідальності.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe keine Angst vor der Zukunft, das war meine Wahl, die ich gern getroffen habe.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T132455Z" creationid="nasty" creationdate="20210218T132455Z">
@@ -5840,6 +5881,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich kann deutsch und bezahle Steuern und fühle mich hier wohl.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101252Z" creationid="Lenovo" creationdate="20210316T101252Z">
+        <seg>Я знаю німецьку та плачу податки, і я почуваюся тут як вдома.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich kann hier eine Förderung von Sachsen Anhalt bekommen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T223830Z" creationid="Kate" creationdate="20210210T205522Z">
@@ -6020,6 +6069,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210311T121302Z" creationid="Kate" creationdate="20210303T215414Z">
         <seg>Для себе я бачу в цій країні багато переваг, особливо зараз, поки я молода і хочу професійно розвиватися, тут у мене більше шансів&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich spreche aber oft mit deutschen Kollegen und Bekannten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101232Z" creationid="Lenovo" creationdate="20210316T101232Z">
+        <seg>Але я часто спілкуюся з німецькими колегами і знайомими.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7545,6 +7602,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Leider habe ich keine richtigen deutsche Freunde.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101225Z" creationid="Lenovo" creationdate="20210316T101225Z">
+        <seg>На жаль, у мене немає справжніх німецьких друзів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Letztes Semester habe ich fünf Prüfungen abgelegt.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T111106Z" creationid="krps" creationdate="20210225T111106Z">
@@ -8769,6 +8834,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Nun konzentriere ich mich erst einmal auf mein jetziges Projekt, ich schaue noch nicht so sehr in die Zukunft.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101115Z" creationid="Lenovo" creationdate="20210316T101115Z">
+        <seg>Зараз я зосереджуюсь на своєму поточному проекті, я не надто дивлюсь у майбутнє.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Nutzt die Angebote der OVGU!</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T130950Z" creationid="nasty" creationdate="20210218T130950Z">
@@ -9606,6 +9679,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T111750Z" creationid="hp" creationdate="20210225T111750Z">
         <seg>а не в Україні?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was bedeutet gut integriert?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101149Z" creationid="Lenovo" creationdate="20210316T101149Z">
+        <seg>Що означає добре інтегрований?</seg>
       </tuv>
     </tu>
     <tu>
