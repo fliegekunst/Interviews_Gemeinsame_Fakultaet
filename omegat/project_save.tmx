@@ -1056,6 +1056,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Am KPI haben wir eine gute Basis bekommen, das war eine gute Vorbereitung auf das Studium hier.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093442Z" creationid="Lenovo" creationdate="20210316T093442Z">
+        <seg>У КПІ ми отримали хорошу базу, це стала хорошою підготовкою до навчання тут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>An der OVGU ist es anders.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210303T162402Z" creationid="ADMIN" creationdate="20210303T162305Z">
@@ -1780,6 +1788,14 @@
       </tuv>
       <tuv lang="uk" changeid="Диана" changedate="20210304T130506Z" creationid="Диана" creationdate="20210225T125357Z">
         <seg>Життя інших українців, тобто моїх однокурсників, які довгий час тут жили та працювали, показує, що у них мало друзів і вони, як правило, тримаються один за одного&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das Masterprojekt und die Masterarbeit waren schwieriger, weil wir in Kyiv die Projekt- und Abschlussarbeiten ganz anders gemacht haben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093528Z" creationid="Lenovo" creationdate="20210316T093528Z">
+        <seg>Магістерський проект та магістерська робота були складнішими, бо в Києві ми зробили проектну та випускну роботу зовсім по-іншому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2992,6 +3008,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Fächer hier sind uns ziemlich leicht gefallen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093516Z" creationid="Lenovo" creationdate="20210316T093456Z">
+        <seg>Предмети тут здалися нам доволі таки легкими.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die GUDF hat mir sehr geholfen, das Studium in Deutschland anzufangen und das System des Studiums in Deutschland besser zu verstehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210211T080730Z" creationid="hp" creationdate="20210204T123715Z">
@@ -3520,6 +3544,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Eine WG mit Deutschen zu mieten wäre besser und hilfreicher in sprachlicher Hinsicht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093718Z" creationid="Lenovo" creationdate="20210316T093718Z">
+        <seg>Оренда квартири з німцями була б кращою та кориснішою з точки зору мови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Eine gute Lösung sind HiWi-Tätigkeiten an der Uni.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T121806Z" creationid="krps" creationdate="20210211T080534Z">
@@ -4028,6 +4060,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210311T123613Z" creationid="krps" creationdate="20210304T140248Z">
         <seg>Усе було чудово організовано, і протягом подорожі вистачило часу, щоб подивитися місто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es war sehr hilfreich, dass wir einige Fächer aus Kyiv uns anerkennen lassen konnten, das hat viel Zeit gespart.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093612Z" creationid="Lenovo" creationdate="20210316T093612Z">
+        <seg>Було дуже корисно, що деякі предмети ми вивчали ще в Києві, це заощадило багато часу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5060,6 +5100,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T164850Z" creationid="krps" creationdate="20210211T074757Z">
         <seg>Надалі потрібно більше розмовляти з носіями мови, щоб знову "бути у формі".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich glaube, es war gut, dass wir eine so enge Gruppe waren.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093646Z" creationid="Lenovo" creationdate="20210316T093646Z">
+        <seg>Я думаю, було добре, що ми були такою тісною групою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8416,6 +8464,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Natürlich haben wir deswegen uns weniger mit Deutschen unterhalten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093704Z" creationid="Lenovo" creationdate="20210316T093704Z">
+        <seg>Звичайно, через це ми менше спілкувалися з німцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Natürlich hört man es sofort, dass ich nicht aus Deutschland komme.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T135856Z" creationid="PC" creationdate="20210213T135856Z">
@@ -9129,6 +9185,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Unser Professor ist sehr engagiert im Teambuilding, er möchte, dass wir uns an der Fakultät gut verstehen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093413Z" creationid="Lenovo" creationdate="20210316T093413Z">
+        <seg>Наш професор дуже займається тімбілдінгом, він хоче, щоб ми добре розуміли один одного на факультеті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Unsere Studierenden&lt;t0/&gt; haben sehr viel im Kopf&lt;t1/&gt; und haben sehr viele Stunden an der Universität&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210310T205912Z" creationid="hp" creationdate="20210301T095717Z">
@@ -9557,6 +9621,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T124811Z" creationid="nasty" creationdate="20210218T124811Z">
         <seg>Які плани були у вас після закінчення навчання?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Ratschläge hast du für neue ukrainische Studierende?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093626Z" creationid="Lenovo" creationdate="20210316T093626Z">
+        <seg>Які поради у вас є для нових українських студентів?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10187,8 +10259,8 @@
       <tuv lang="de-DE">
         <seg>Wie war das Studium an der OVGU?</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T095937Z" creationid="PC" creationdate="20210227T095923Z">
-        <seg>Як пройшло твоє навчання в університеті Отто фон Ґеріке?</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093424Z" creationid="PC" creationdate="20210227T095923Z">
+        <seg>Яким було твоє навчання в університеті Отто фон Ґеріке?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10309,6 +10381,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210316T092153Z" creationid="Lenovo" creationdate="20210316T092153Z">
         <seg>Ми часто ходимо разом поїсти та святкуємо щось, наприклад, щороку (не цього року) влаштовують різдвяну вечірку та барбекю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir haben alle gut verteidigt und das Studium gut abgeschlossen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093604Z" creationid="Lenovo" creationdate="20210316T093604Z">
+        <seg>Ми всі добре захистилися і добре закінчили навчання.</seg>
       </tuv>
     </tu>
     <tu>
