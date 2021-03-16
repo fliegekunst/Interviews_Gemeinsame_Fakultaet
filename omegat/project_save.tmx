@@ -1370,8 +1370,8 @@
       <tuv lang="de-DE">
         <seg>Bei Zoom-Meetings kann man auch Fragen stellen und kommunizieren, wie in der Präsenzlehre.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T133929Z" creationid="Lenovo" creationdate="20210214T133929Z">
-        <seg>На Zoom-зустрічах ви також можете задавати питання та спілкуватися, як при звичайному навчанні.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T135335Z" creationid="Lenovo" creationdate="20210214T133929Z">
+        <seg>На Zoom-зустрічах ви також можете ставити питання та спілкуватися, як при звичайному навчанні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3290,8 +3290,8 @@
       <tuv lang="de-DE">
         <seg>Die Prüfungen haben auch in Präsenz stattgefunden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T134241Z" creationid="Lenovo" creationdate="20210214T134241Z">
-        <seg>Іспити також проходили особисто.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T135709Z" creationid="Lenovo" creationdate="20210214T134241Z">
+        <seg>Іспити проходили в режимі особистої присутності.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5954,8 +5954,8 @@
       <tuv lang="de-DE">
         <seg>Ich hatte mich für eine Hiwi-Stelle angemeldet, die hat dann im Mai begonnen, deswegen musste ich zurück.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T112752Z" creationid="Lenovo" creationdate="20210214T134216Z">
-        <seg>Я зареєструвався на посаду Hiwi , яка розпочалась у травні, тому мені довелося повернутися назад.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T135615Z" creationid="Lenovo" creationdate="20210214T134216Z">
+        <seg>Я влаштувався на посаду лаборанта, і вона розпочалась вже у травні, тому мені довелося повернутися назад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6330,8 +6330,8 @@
       <tuv lang="de-DE">
         <seg>Ich war am Anfang der Corona Krise in der Ukraine und konnte von dort aus einfach &lt;t0/&gt;studieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T112740Z" creationid="Lenovo" creationdate="20210214T134120Z">
-        <seg>Я був на початку карантинної кризи в Україні і міг звідти &lt; t0/&gt;вчитися.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T135444Z" creationid="Lenovo" creationdate="20210214T134120Z">
+        <seg>Я був на початку карантинну в Україні і міг вчитися знаходячись вдома.</seg>
       </tuv>
     </tu>
     <tu>
