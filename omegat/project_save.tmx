@@ -4776,6 +4776,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich bin am Lehrstuhl für Maschinenelemente und Tribologie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091833Z" creationid="Lenovo" creationdate="20210316T091833Z">
+        <seg>Я працюю на кафедрі машинних елементів і трибології.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich bin auch mit meinem Deutsch nicht zufrieden, ich würde gerne mehr sprechen.</seg>
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T130327Z" creationid="nasty" creationdate="20210218T130327Z">
@@ -5556,6 +5564,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210213T170813Z" creationid="Kate" creationdate="20210210T210523Z">
         <seg>У мене там також були пропозиції щодо працевлаштування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich hatte echt Glück, dass ich so schnell eine Arbeit gefunden habe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091756Z" creationid="Lenovo" creationdate="20210316T091756Z">
+        <seg>Мені дуже пощастило, що я так швидко знайшов роботу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8368,6 +8384,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Nach meiner Masterverteidigung habe ich gleich einen Arbeitsvertrag bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091702Z" creationid="Lenovo" creationdate="20210316T091702Z">
+        <seg>Після захисту магістра я відразу ж отримав трудовий договір.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Natürlich gibt es manchmal Probleme in der Alltagskommunikation.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T095128Z" creationid="PC" creationdate="20210210T202118Z">
@@ -9673,6 +9697,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn ich mit anderen Absolventen spreche, bekomme ich ein gemischtes Bild von der Industrie, deswegen ist es für mich gut, an der Universität geblieben zu sein.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091821Z" creationid="Lenovo" creationdate="20210316T091821Z">
+        <seg>Коли я розмовляю з іншими випускниками, я отримую змішану картину промисловості, тому мені добре, що я залишився в університеті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn ich mit einem Dozierenden spreche, kann ich nicht alles verstehen, was er oder sie sagt.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210311T125309Z" creationid="krps" creationdate="20210304T112648Z">
@@ -10045,6 +10077,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210218T105235Z" creationid="hp" creationdate="20210204T123321Z">
         <seg>Як тобі навчатися німецькою мовою? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie ist die Arbeit an der Universität?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T092029Z" creationid="Lenovo" creationdate="20210316T092029Z">
+        <seg>Як тобі робота в університеті?</seg>
       </tuv>
     </tu>
     <tu>
