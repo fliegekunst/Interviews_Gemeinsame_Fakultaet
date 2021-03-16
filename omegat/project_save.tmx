@@ -730,8 +730,8 @@
       <tuv lang="de-DE">
         <seg>Ab 50% gilt die Prüfung als nicht bestanden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T123057Z" creationid="Lenovo" creationdate="20210214T123057Z">
-        <seg>Якщо 50% і більше, іспит вважається не зданим.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T120204Z" creationid="Lenovo" creationdate="20210214T123057Z">
+        <seg>Якщо половину і більше, то іспит вважається провалений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4786,8 +4786,8 @@
       <tuv lang="de-DE">
         <seg>Hier bekommt man 30 oder 40 Aufgaben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T122635Z" creationid="Lenovo" creationdate="20210214T122635Z">
-        <seg>Тут ви отримуєте 30 або 40 завдань.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T115921Z" creationid="Lenovo" creationdate="20210214T122635Z">
+        <seg>Тут дають десь 30 або 40 завдань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7219,8 +7219,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine sind das meist nur zwei oder vier.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T122712Z" creationid="Lenovo" creationdate="20210214T122712Z">
-        <seg>В Україні це, як правило, тільки два або чотири.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T115949Z" creationid="Lenovo" creationdate="20210214T122712Z">
+        <seg>А в Україні це, як правило, два або чотири.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10348,8 +10348,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man Fehler macht, wirkt sich das stark auf die Note aus.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T122812Z" creationid="Lenovo" creationdate="20210214T122812Z">
-        <seg>Якщо ви робите помилку, це дуже сильно вплине на бали.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T120026Z" creationid="Lenovo" creationdate="20210214T122812Z">
+        <seg>Якщо зробиш помилку, це дуже сильно вплине на бал.</seg>
       </tuv>
     </tu>
     <tu>
