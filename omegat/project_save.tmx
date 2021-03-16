@@ -6251,8 +6251,8 @@
       <tuv lang="de-DE">
         <seg>Ich weiß nicht, ob das stimmt, Menschen sind immer unterschiedlich.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T213432Z" creationid="Kate" creationdate="20210303T213432Z">
-        <seg>Не знаю, чи це правда, люди завжди різні.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210316T102245Z" creationid="Kate" creationdate="20210303T213432Z">
+        <seg>Не знаю, чи це правда, завжди по-різному.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8012,8 +8012,8 @@
       <tuv lang="de-DE">
         <seg>Man sollte offen für Neues sein!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210311T120555Z" creationid="Kate" creationdate="20210303T212920Z">
-        <seg>Ви маєте бути відкритим до всього нового!</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210316T102146Z" creationid="Kate" creationdate="20210303T212920Z">
+        <seg>Потрібно бути відкритим до всього нового!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8964,8 +8964,8 @@
       <tuv lang="de-DE">
         <seg>Schon im Sprachpraktikum habe ich Leute kennen gelernt, diese &lt;t9/&gt;Kontakte kann man nutzen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T212853Z" creationid="Kate" creationdate="20210303T212853Z">
-        <seg>Під час мовної практики я вже мала знайомих, з якими могла й далі спілкуватися&lt;t9/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210316T102021Z" creationid="Kate" creationdate="20210303T212853Z">
+        <seg>Під час мовної практики я вже мала знайомих, з якими могла спілкуватися й далі&lt;t9/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
