@@ -5586,8 +5586,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe früher mit Deutschen zusammengewohnt, die sind jetzt aber ausgezogen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T131313Z" creationid="Lenovo" creationdate="20210214T131313Z">
-        <seg>Раніше я жив у німців, але вони зараз переїхали.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T124220Z" creationid="Lenovo" creationdate="20210214T131313Z">
+        <seg>Раніше я жив у німців, але вони з'їхали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6722,8 +6722,8 @@
       <tuv lang="de-DE">
         <seg>Im Moment wohne ich alleine im Wohnheim.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T131335Z" creationid="Lenovo" creationdate="20210214T131335Z">
-        <seg>На даний момент я живу один в гуртожитку.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T124352Z" creationid="Lenovo" creationdate="20210214T131335Z">
+        <seg>Зараз я живу один у гуртожитку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10988,8 +10988,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben drei Zimmer im Wohnkomplex und zwei sind gerade frei.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110648Z" creationid="Lenovo" creationdate="20210214T131408Z">
-        <seg>У нас три кімнати у квартирі, дві якраз вільні.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T124426Z" creationid="Lenovo" creationdate="20210214T131408Z">
+        <seg>У нас три кімнати у блоці, дві якраз вільні.</seg>
       </tuv>
     </tu>
     <tu>
