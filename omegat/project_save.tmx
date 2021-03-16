@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3388,6 +3388,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210304T110136Z" creationid="PC" creationdate="20210304T110114Z">
         <seg>Ти проходила&lt;t0/&gt; практику на німецькому приватному підприємстві, чи не так?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du promovierst gerade an der OVGU?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091113Z" creationid="Lenovo" creationdate="20210316T091113Z">
+        <seg>В даний час ти отримуєш докторську ступінь в OVGU?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6872,6 +6880,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Interview am 22.09.2020</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T090900Z" creationid="Lenovo" creationdate="20210316T090900Z">
+        <seg>Інтерв'ю від 22.09.2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Interview am 27.05.2020</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T181628Z" creationid="Kate" creationdate="20210303T181628Z">
@@ -7236,6 +7252,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210311T131040Z" creationid="krps" creationdate="20210225T104009Z">
         <seg>Родом із Чернігівської області</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kommt aus dem Gebiet Tscherkassy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T090820Z" creationid="Lenovo" creationdate="20210316T090820Z">
+        <seg>Родом з Черкаської області</seg>
       </tuv>
     </tu>
     <tu>
@@ -8608,6 +8632,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Serhii Tetora</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T090737Z" creationid="Lenovo" creationdate="20210316T090737Z">
+        <seg>Сергій Тетора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Sicherheit durch &lt;t12/&gt;eine funktionierende K&lt;t13/&gt;rankenversicherung ist au&lt;t14/&gt;ch ein Aspekt.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210311T110544Z" creationid="hp" creationdate="20210225T112440Z">
@@ -8828,6 +8860,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T110155Z" creationid="hp" creationdate="20210225T110155Z">
         <seg>Навчався в Магдебурзі в 2015-2017 роках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Studierte &lt;t0/&gt;zwischen &lt;t1/&gt;2016-2018&lt;t2/&gt; &lt;t3/&gt;an der OVGU&lt;t4/&gt; im &lt;t5/&gt;Fach Produktentwicklung</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T090844Z" creationid="Lenovo" creationdate="20210316T090844Z">
+        <seg>В 2016-2018 рр вивчав розробку продукції  в університеті ім. Отто фон Геріке</seg>
       </tuv>
     </tu>
     <tu>
@@ -10533,6 +10573,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T110306Z" creationid="nasty" creationdate="20210218T110306Z">
         <seg>„&lt;t0/&gt;Якщо ви хочете досягти мети, вам потрібно рано прокидатися та плідно працювати.&lt;t1/&gt;“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„An unserem Lehrstuhl herrscht eine gute Atmosphäre und wir verstehen uns alle sehr gut!“</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T090752Z" creationid="Lenovo" creationdate="20210316T090752Z">
+        <seg>"На нашій кафедрі панує гарна атмосфера, і ми всі чудово ладнаємо!"</seg>
       </tuv>
     </tu>
     <tu>
