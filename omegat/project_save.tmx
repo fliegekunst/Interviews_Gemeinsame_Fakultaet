@@ -5128,6 +5128,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich glaube, vieles muss man als Studierender selbst herausfinden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093737Z" creationid="Lenovo" creationdate="20210316T093737Z">
+        <seg>IЯ вважаю, що багато ви повинні з'ясувати самі, як студент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich habe &lt;t30/&gt;in der Schule&lt;t31/&gt; mehr &lt;t32/&gt;E&lt;t33/&gt;ngli&lt;t34/&gt;sch als Deutsch gelernt, &lt;t35/&gt;aber jetzt bin ich besser auf Deutsch.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210311T124126Z" creationid="hp" creationdate="20210225T120223Z">
@@ -7552,6 +7560,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Man kann das selbst entscheiden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094144Z" creationid="Lenovo" creationdate="20210316T094144Z">
+        <seg>Це можна вирішувати самостійно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Man kann eine gut bezahlte Stelle bekommen, aber viele glauben nicht, dass das möglich ist.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210303T224438Z" creationid="Kate" creationdate="20210210T212544Z">
@@ -8612,6 +8628,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210211T144002Z" creationid="krps" creationdate="20210204T125505Z">
         <seg>Хоч все і пройшло добре, але протягом підготовки я постійно стресував та майже не спав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Oder konnten wir während des Semesters verstehen, dass ein der Fächer nicht interessant/nötig ist und davon absagen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093916Z" creationid="Lenovo" creationdate="20210316T093916Z">
+        <seg>Або щоб ми могли зрозуміти протягом семестру, що один з предметів не цікавий / потрібен,і відмовитися від нього.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10437,6 +10461,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T113155Z" creationid="krps" creationdate="20210210T095518Z">
         <seg>Ми добре володіємо німецькою, а до того двічі були в Магдебурзі і знайомі зі структурою університету.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir haben jedes Semester ca. 6-7 Fächer gewählt, um 6 Fächer abzulegen und ein als Reserve zu haben für dem Fall, dass die Prüfungstermine an zwei Tagen hintereinander oder doch an einen Tag stattfinden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093812Z" creationid="Lenovo" creationdate="20210316T093812Z">
+        <seg>Кожен семестр ми вибирали близько 6-7 предметів, щоб здати 6 предметів і мати один в якості резерву на випадок, якщо дати іспитів відбуваються два дні поспіль або в один день.</seg>
       </tuv>
     </tu>
     <tu>
