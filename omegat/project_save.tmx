@@ -584,6 +584,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;t4/&gt;Regelmäßig berichte ich über meine Ergebnisse.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091259Z" creationid="Lenovo" creationdate="20210316T091259Z">
+        <seg>&lt;t4/&gt;Я регулярно звітую про свої результати..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;t5/&gt;Am Anfang ja, ich fühlte mich sogar verletzt.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T160518Z" creationid="PC" creationdate="20210213T160518Z">
@@ -4784,6 +4792,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich bin im Rahmen eines der Projekte angestellt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091204Z" creationid="Lenovo" creationdate="20210316T091204Z">
+        <seg>Я працюю в одному з проектів..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich bin keine Person, die Politik oder allgemeine gesellschaftliche Prozesse kritisiert.</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T121803Z" creationid="ADMIN" creationdate="20210212T121803Z">
@@ -8408,6 +8424,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Nicht ganz, ich bin im Moment wissenschaftlicher Mitarbeiter an der OVGU. Es geht um eine Forschungsvereinigung, an der verschiedene Firmen und Forschungsstellen teilnehmen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091138Z" creationid="Lenovo" creationdate="20210316T091138Z">
+        <seg>Не зовсім, я в даний момент науковий співробітник університету. Йдеться про науково-дослідну асоціацію, в якій беруть участь різні фірми і дослідницькі центри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Niemand darf deine Komfortzone überschreiten.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210222T174920Z" creationid="PC" creationdate="20210222T174920Z">
@@ -9013,6 +9037,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T123052Z" creationid="krps" creationdate="20210211T090331Z">
         <seg>Нормально мати страх перед чимось незнайомим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Unser Institut für Maschinenkonstruktion als Forschungsstelle bearbeitet verschiedene Projekte, von der Industrie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091154Z" creationid="Lenovo" creationdate="20210316T091154Z">
+        <seg>Наш інститут машинобудування як дослідницький центр працює над різними галузевими проектами..</seg>
       </tuv>
     </tu>
     <tu>
@@ -9993,6 +10025,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wie läuft es?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091123Z" creationid="Lenovo" creationdate="20210316T091123Z">
+        <seg>Як це проходить?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wie nimmst du zwischenmenschliche Beziehungen und Freundschaften in Deutschland wahr?</seg>
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210212T122008Z" creationid="ADMIN" creationdate="20210212T122008Z">
@@ -10417,6 +10457,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Während des Projektes führe ich die Wälzlagerversuchen mit den Prüfständen und die Analysen und die Auswertungen von verschiedenen Schmierstoffen durch, wo&lt;t0/&gt;ran&lt;t1/&gt; die Industrievertreter &lt;t2/&gt;ein großes Interesse&lt;t3/&gt; haben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091221Z" creationid="Lenovo" creationdate="20210316T091221Z">
+        <seg>Під час проекту я проводжу випробування роликових підшипників з випробувальними стендами та аналізи та оцінки різних мастильних матеріалів, у яких представники промисловості дуже зацікавлені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Während des Studiums hatte ich noch Problem mit dem Hörverstehen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210311T133634Z" creationid="Kate" creationdate="20210303T211716Z">
@@ -10525,6 +10573,14 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210304T124122Z" creationid="Kate" creationdate="20210303T213508Z">
         <seg>Можна багато чого сказати про нас, українців, хтось замкнутий, хтось більш відкритий.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Über dieses Thema schreibe ich vielleicht auch in Zukunft meine Doktorarbeit.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091304Z" creationid="Lenovo" creationdate="20210316T091304Z">
+        <seg>На цю тему я, можливо, в майбутньому напишу свою докторську дисертацію.</seg>
       </tuv>
     </tu>
     <tu>
