@@ -7379,8 +7379,8 @@
       <tuv lang="de-DE">
         <seg>Interview am 2&lt;t0/&gt;8&lt;t1/&gt;.0&lt;t2/&gt;9&lt;t3/&gt;.2020</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210204T125506Z" creationid="Lenovo" creationdate="20210204T125506Z">
-        <seg>Інтерв'ю від 2&lt;t0/&gt;8&lt;t1/&gt;.0&lt;t2/&gt;9&lt;t3/&gt;.2020</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T115150Z" creationid="Lenovo" creationdate="20210204T125506Z">
+        <seg>Інтерв'ю 2&lt;t0/&gt;8&lt;t1/&gt;.0&lt;t2/&gt;9&lt;t3/&gt;.2020</seg>
       </tuv>
     </tu>
     <tu>
@@ -10628,8 +10628,8 @@
       <tuv lang="de-DE">
         <seg>Wie &lt;t0/&gt;ist&lt;t1/&gt; das Studium für dich?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T105759Z" creationid="Lenovo" creationdate="20210204T134000Z">
-        <seg>Як&lt;t0/&gt;тобі&lt;t1/&gt;навчання?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T115237Z" creationid="Lenovo" creationdate="20210204T134000Z">
+        <seg>Як&lt;t0/&gt; тобі&lt;t1/&gt; навчання?</seg>
       </tuv>
     </tu>
     <tu>
