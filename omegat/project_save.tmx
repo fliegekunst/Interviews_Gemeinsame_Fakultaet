@@ -690,8 +690,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t8/&gt;Es wird alles gegeben, man muss nichts mehr heraussuchen, alles wird gut erklärt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T105929Z" creationid="Lenovo" creationdate="20210214T121552Z">
-        <seg>&lt;t8 /&gt; Вся інформація присутня, вам більше нічого не потрібно шукати, все добре пояснюють.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T115741Z" creationid="Lenovo" creationdate="20210214T121552Z">
+        <seg>Вся інформація присутня, вам більше нічого не потрібно шукати, все добре пояснюють.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,8 +3938,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt in den Prüfungen sehr viele Aufgaben, man bekommt viele Blätter und muss dann alles ausfüllen und rechnen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T122613Z" creationid="Lenovo" creationdate="20210214T122613Z">
-        <seg>На іспитах дуже багато завдань, ви отримуєте багато листів, а потім повинні все заповнити і розрахувати.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T115856Z" creationid="Lenovo" creationdate="20210214T122613Z">
+        <seg>На іспитах дуже багато завдань, ти отримуєш багато аркушів, а потім маєш все заповнити і розрахувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7019,8 +7019,8 @@
       <tuv lang="de-DE">
         <seg>In den Vorlesungen werden Prozesse mit Videos erklärt, das hilft enorm, sie zu verstehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T122415Z" creationid="Lenovo" creationdate="20210214T122415Z">
-        <seg>На лекціях пояснюються процеси за допомогою відео, що надзвичайно допомагає зрозуміти їх.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T115815Z" creationid="Lenovo" creationdate="20210214T122415Z">
+        <seg>На лекціях пояснюють процеси за допомогою відео, що надзвичайно допомагає зрозуміти її.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10236,8 +10236,8 @@
       <tuv lang="de-DE">
         <seg>Wenn es um die Vorlesungen geht, sind sie sehr informativ.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T114310Z" creationid="Lenovo" creationdate="20210214T114310Z">
-        <seg>Що стосується лекцій, вони дуже інформативні.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T115709Z" creationid="Lenovo" creationdate="20210214T114310Z">
+        <seg>Що стосується лекцій, то вони дуже інформативні.</seg>
       </tuv>
     </tu>
     <tu>
