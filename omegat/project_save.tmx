@@ -16,8 +16,8 @@
       <tuv lang="de-DE">
         <seg>(lacht) Bei der Arbeit ist es ausreichend.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T130042Z" creationid="Lenovo" creationdate="20210214T130042Z">
-        <seg>(сміється) На роботі цього досить.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T123447Z" creationid="Lenovo" creationdate="20210214T130042Z">
+        <seg>(сміється) На роботі цього достатньо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,8 +834,8 @@
       <tuv lang="de-DE">
         <seg>Aber ich fühle, dass es mir manchmal schwerfällt, mich auszudrücken und mir manchmal die Worte fehlen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110356Z" creationid="Lenovo" creationdate="20210214T130104Z">
-        <seg>Але я відчуваю, що іноді мені важко висловитись, а часом навіть бракує слів.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T123535Z" creationid="Lenovo" creationdate="20210214T130104Z">
+        <seg>Але іноді відчуваю, що мені буває важко висловитись, а часом навіть бракує слів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3370,8 +3370,8 @@
       <tuv lang="de-DE">
         <seg>Die Werkstücke wurden erst gedreht und dann in der Ukraine poliert, nun kommen die zu mir in die Analyse.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T125742Z" creationid="Lenovo" creationdate="20210214T125457Z">
-        <seg>Заготовки спочатку знімали, а потім полірували на Україні, тепер вони приходять до мене на аналіз.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T123319Z" creationid="Lenovo" creationdate="20210214T125457Z">
+        <seg>Заготовки спочатку обточують, а потім полірують в Україні, а потім вони надходять мені на аналіз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10684,8 +10684,8 @@
       <tuv lang="de-DE">
         <seg>Wie geht es dir mit der deutschen Sprache?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T120922Z" creationid="Lenovo" creationdate="20210214T130017Z">
-        <seg>Як справи з німецькою?</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T123405Z" creationid="Lenovo" creationdate="20210214T130017Z">
+        <seg>Як у тебе з німецькою мовою?</seg>
       </tuv>
     </tu>
     <tu>
