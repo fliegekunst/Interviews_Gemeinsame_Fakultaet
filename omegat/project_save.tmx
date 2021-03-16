@@ -1760,6 +1760,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Darüber waren selbst die Dozierenden überrascht.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094607Z" creationid="Lenovo" creationdate="20210316T094607Z">
+        <seg>Навіть лектори були здивовані цим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Das &lt;t0/&gt;Hauptprojekt &lt;t1/&gt;läuft &lt;t2/&gt;bis Ende 2020,&lt;t3/&gt; es geht um&lt;t4/&gt; &lt;t5/&gt;eine 3&lt;t6/&gt;D&lt;t7/&gt;-CFD &lt;t8/&gt;Simulation &lt;t9/&gt;(&lt;t10/&gt;Strömungssimulation&lt;t11/&gt;).</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210311T110521Z" creationid="hp" creationdate="20210225T111623Z">
@@ -4020,6 +4028,14 @@
       </tuv>
       <tuv lang="uk" changeid="ADMIN" changedate="20210225T081733Z" creationid="ADMIN" creationdate="20210210T170410Z">
         <seg>Завжди може бути краще, але загалом так.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es liegt auch nicht immer an der Sprache: Wir Ukrainer haben manchmal die Prüfungen besser als die deutschen Kommilitonen bestanden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094240Z" creationid="Lenovo" creationdate="20210316T094240Z">
+        <seg>Це також не завжди пов'язано з мовою: ми, українці, іноді здавали іспити краще німецьких однокурсників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6660,6 +6676,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210225T085100Z" creationid="krps" creationdate="20210210T220130Z">
         <seg>У Магдебурзі я розмовляю переважно німецькою мовою на навчанні та під час додаткової наукової роботи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In Produktentwicklung sind viele Prüfungen mündlich, das ist deutlich leichter, als eine schriftliche Prüfung zu schreiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094202Z" creationid="Lenovo" creationdate="20210316T094202Z">
+        <seg>У галузі розробки продукту багато іспитів є усними, що набагато простіше, ніж написання письмового іспиту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9977,6 +10001,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn man sich gut vorbereitet, ist alles machbar.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094216Z" creationid="Lenovo" creationdate="20210316T094216Z">
+        <seg>Якщо добре підготуватись, все можливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man sich gut vorbereitet, kann man die Prüfungen schaffen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094233Z" creationid="Lenovo" creationdate="20210316T094233Z">
+        <seg>Якщо добре підготуватися, можна скласти іспити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn man sich in ein Modul einschreibt, bekommt man alle Skripte und kann diese herunterladen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210225T110439Z" creationid="Lenovo" creationdate="20210214T130517Z">
@@ -10213,6 +10253,14 @@
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210228T174228Z" creationid="PC" creationdate="20210228T174228Z">
         <seg>Як це - вчитися німецькою?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie laufen Prüfungen in Deutschland ab?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094149Z" creationid="Lenovo" creationdate="20210316T094149Z">
+        <seg>Як проходять іспити в Німеччині?</seg>
       </tuv>
     </tu>
     <tu>
