@@ -1650,8 +1650,8 @@
       <tuv lang="de-DE">
         <seg>Damit komme ich gut klar.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110509Z" creationid="Lenovo" creationdate="20210214T131129Z">
-        <seg>Це мені вдається добре.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T124153Z" creationid="Lenovo" creationdate="20210214T131129Z">
+        <seg>Мені це вдається.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6594,8 +6594,8 @@
       <tuv lang="de-DE">
         <seg>Ich übersetze dann Schlüsselwörter, damit ich verstehe, worum es überhaupt geht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T130603Z" creationid="Lenovo" creationdate="20210214T130603Z">
-        <seg>Потім я перекладаю ключові слова, щоб зрозуміти, про що йдеться мова.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T124043Z" creationid="Lenovo" creationdate="20210214T130603Z">
+        <seg>Потім я перекладаю ключові слова, щоб зрозуміти, про що йдеться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10492,8 +10492,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man sich in ein Modul einschreibt, bekommt man alle Skripte und kann diese herunterladen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T110439Z" creationid="Lenovo" creationdate="20210214T130517Z">
-        <seg>Коли ви реєструєтеся на модуль, ви отримуєте всі скрипти і можете їх завантажити.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T124033Z" creationid="Lenovo" creationdate="20210214T130517Z">
+        <seg>Коли ви реєструєтеся на модуль, ви отримуєте всі пояснення і можете їх завантажити.</seg>
       </tuv>
     </tu>
     <tu>
