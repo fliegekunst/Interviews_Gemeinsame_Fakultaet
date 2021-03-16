@@ -4936,6 +4936,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich finde es interessant, ich treffe viele angenehme Leute, besonders an meinem Lehrstuhl.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T092124Z" creationid="Lenovo" creationdate="20210316T092124Z">
+        <seg>Мені це цікаво, я зустрічаю багато приємних людей, особливо на своїй кафедрі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich finde hier &lt;t0/&gt;in Deutschland &lt;t1/&gt;trägst du mehr &lt;t2/&gt;V&lt;t3/&gt;erantwortung&lt;t4/&gt; als in der Ukraine, hast aber auch größere Wahlmöglichkeiten.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210310T205201Z" creationid="Kate" creationdate="20210303T204928Z">
@@ -8664,6 +8672,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Sehr gut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T092104Z" creationid="Lenovo" creationdate="20210316T092104Z">
+        <seg>Дуже добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Seid auf keinen Fall nur mit ukrainischen&lt;t0/&gt; Studi&lt;t1/&gt;erenden zusammen!&lt;t2/&gt; Mir hat &lt;t3/&gt;es &lt;t4/&gt;extrem geholfen, dass ich von Anfang an mit &lt;t5/&gt;D&lt;t6/&gt;eutschen geredet habe, ich habe n&lt;t7/&gt;eu&lt;t8/&gt;e Leute kennengelernt und einfach angesprochen.</seg>
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210311T120442Z" creationid="Kate" creationdate="20210303T212705Z">
@@ -10289,6 +10305,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wir gehen oft zusammen essen und feiern zusammen, z.B. gibt es jedes Jahr (in diesem Jahr nicht) eine Weihnachtsfeier und Grillfeste.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T092153Z" creationid="Lenovo" creationdate="20210316T092153Z">
+        <seg>Ми часто ходимо разом поїсти та святкуємо щось, наприклад, щороку (не цього року) влаштовують різдвяну вечірку та барбекю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wir haben die Dokumente zusammen ausgefüllt und konnten aber immer fragen, wenn &lt;t0/&gt;wir nichts verstanden haben.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210311T071245Z" creationid="PC" creationdate="20210303T153828Z">
@@ -10461,6 +10485,14 @@
       </tuv>
       <tuv lang="uk" changeid="nasty" changedate="20210218T123401Z" creationid="nasty" creationdate="20210218T123401Z">
         <seg>Ми продаємо зернозбиральні та інші машиини, також маємо філіали в понад 30 країнах..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir waren letztes Jahr Kart fahren, das war witzig.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T092306Z" creationid="Lenovo" creationdate="20210316T092306Z">
+        <seg>Ми каталися на картингу в минулому році, це було смішно.</seg>
       </tuv>
     </tu>
     <tu>
