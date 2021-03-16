@@ -3114,8 +3114,8 @@
       <tuv lang="de-DE">
         <seg>Die Feuerwehr-Sirenen sind echt laut!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T134410Z" creationid="Lenovo" creationdate="20210214T134410Z">
-        <seg>Пожежні сирени дійсно дуже гучні!</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T135753Z" creationid="Lenovo" creationdate="20210214T134410Z">
+        <seg>Пожежні сирени ну дуже гучні!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6466,8 +6466,8 @@
       <tuv lang="de-DE">
         <seg>Ich wohne direkt an der Straße, da höre ich das.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T112836Z" creationid="Lenovo" creationdate="20210214T134528Z">
-        <seg>Я живу прямо на вулиці, де їх дуже чутно.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T135954Z" creationid="Lenovo" creationdate="20210214T134528Z">
+        <seg>Я живу на вулиці, де їх дуже чутно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7075,8 +7075,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine gab es nur Online-Prüfungen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T134300Z" creationid="Lenovo" creationdate="20210214T134300Z">
-        <seg>В Україні були лише онлайн-іспити.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T135741Z" creationid="Lenovo" creationdate="20210214T134300Z">
+        <seg>А в Україні були лише онлайн.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,8 +9395,8 @@
       <tuv lang="de-DE">
         <seg>Sogar bei geschlossenem Fenster kann man sie hören.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T134447Z" creationid="Lenovo" creationdate="20210214T134447Z">
-        <seg>Навіть при закритому вікні ви можете почути їх</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T135834Z" creationid="Lenovo" creationdate="20210214T134447Z">
+        <seg>Навіть коли вікно закрите можна почути їх.</seg>
       </tuv>
     </tu>
     <tu>
