@@ -1026,8 +1026,8 @@
       <tuv lang="de-DE">
         <seg>Am Anfang des Studiums braucht man nur einen Platz zum Wohnen und einen Internetanschluss.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T133514Z" creationid="Lenovo" creationdate="20210214T133514Z">
-        <seg>На початку навчання вам потрібно тільки місце для проживання і підключення до Інтернету.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T135213Z" creationid="Lenovo" creationdate="20210214T133514Z">
+        <seg>На початку навчання все, що вам потрібно - це житло і підключення до інтернету.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4762,8 +4762,8 @@
       <tuv lang="de-DE">
         <seg>Heutzutage kann man sogar komplett zu Hause studieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T133638Z" creationid="Lenovo" creationdate="20210214T133638Z">
-        <seg>У ці дні ви навіть можете повністю вчитися вдома.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210316T135316Z" creationid="Lenovo" creationdate="20210214T133638Z">
+        <seg>У час пандемії навіть можна вчитися вдома.</seg>
       </tuv>
     </tu>
     <tu>
