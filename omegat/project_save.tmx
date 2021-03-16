@@ -952,6 +952,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Als ich die Masterarbeit geschrieben habe, war ich sehr angespannt und müde und hatte zu wenig Zeit, eine Stelle in der Industrie zu suchen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091330Z" creationid="Lenovo" creationdate="20210316T091330Z">
+        <seg>Коли я писав магістерську дисертацію, я був дуже напруженим і втомленим, і мав занадто мало часу, щоб шукати роботу в промисловості..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Als ich im Labor gearbeitet habe, habe ich einige Fehler gemacht.</seg>
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210304T132605Z" creationid="krps" creationdate="20210304T132605Z">
@@ -3568,6 +3576,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Er wusste, dass ich im akademischen Bereich bleiben möchte.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091653Z" creationid="Lenovo" creationdate="20210316T091653Z">
+        <seg>Він знав, що я хочу залишитися в академічній галузі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Erlebst du oft solche Situationen?</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210213T133707Z" creationid="PC" creationdate="20210213T133707Z">
@@ -5148,6 +5164,14 @@
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210301T101736Z" creationid="hp" creationdate="20210301T101736Z">
         <seg>Інколи мені здавалося, що до мене нахабно ставляться. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich habe damals keine Angebote rechtzeitig bekommen.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091356Z" creationid="Lenovo" creationdate="20210316T091356Z">
+        <seg>У той час я не отримував жодних пропозицій вчасно..</seg>
       </tuv>
     </tu>
     <tu>
@@ -8000,6 +8024,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mein Professor hat mir am Ende angeboten, am Lehrstuhl zu bleiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091410Z" creationid="Lenovo" creationdate="20210316T091410Z">
+        <seg>Зрештою, мій професор запропонував мені залишитися на кафедрі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mein Projekt fokussiert sich auf die mikro&lt;t0/&gt;- &lt;t1/&gt;und nanotribologisches Verhalten von Stahl.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T114006Z" creationid="PC" creationdate="20210225T114006Z">
@@ -9433,6 +9465,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Welche Gründe hattest du, an der Universität zu bleiben?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091317Z" creationid="Lenovo" creationdate="20210316T091317Z">
+        <seg>Які у тебе були причини залишитися в університеті?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Welche Pläne &lt;t0/&gt;hast du&lt;t1/&gt; für die Zukunft?</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210304T115649Z" creationid="PC" creationdate="20210304T115649Z">
@@ -10597,6 +10637,14 @@
       </tuv>
       <tuv lang="uk" changeid="Lenovo" changedate="20210214T131241Z" creationid="Lenovo" creationdate="20210214T131216Z">
         <seg>Анітрохи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Üblicherweise kann man eine Antwort auf eine Bewerbung von Industrie mehr als Monat warten.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091346Z" creationid="Lenovo" creationdate="20210316T091346Z">
+        <seg>Як правило, відповіді на заявку від галузі можна чекати більше місяця.</seg>
       </tuv>
     </tu>
     <tu>
