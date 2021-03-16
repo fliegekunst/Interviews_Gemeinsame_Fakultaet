@@ -1312,6 +1312,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Außerdem muss ständig das Visum verlängern.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T095357Z" creationid="Lenovo" creationdate="20210316T095357Z">
+        <seg>Крім того, необхідно постійно продовжувати візу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bei Firmen gibt es unbefristete Verträge, an der Uni sind die meisten Stellen befristet, das ist natürlich nicht so schön.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T095228Z" creationid="Lenovo" creationdate="20210316T095228Z">
+        <seg>У фірм є безстрокові контракти, в університеті більшість вакансій тимчасові, це, звичайно, не так приємно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Bei Haushaltssachen oder wenn man schnell etwas sagen will entsteht ein Mix aus Deutsch und Ukrainisch, dann lassen wir &lt;t10/&gt;es&lt;t11/&gt; oft und reden Ukrainisch.</seg>
       </tuv>
       <tuv lang="uk" changeid="PC" changedate="20210225T100458Z" creationid="PC" creationdate="20210218T112519Z">
@@ -5936,6 +5952,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich möchte gerne promovieren, das kann man auch mit einer Stelle in der Industrie verbinden.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101040Z" creationid="Lenovo" creationdate="20210316T101040Z">
+        <seg>Я хотів би отримати докторський ступінь, це також можна пов'язати з вакансією в індустрії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich möchte mich gerne bei der GUDF bedanken, bei allen Leuten, die dieses Programm möglich gemacht haben und sich damit so intensiv beschäftigt haben und sich damit immer noch beschäftigen.</seg>
       </tuv>
       <tuv lang="uk" changeid="hp" changedate="20210225T105656Z" creationid="hp" creationdate="20210211T190407Z">
@@ -10086,6 +10110,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210310T095358Z" creationid="krps" creationdate="20210304T110711Z">
         <seg>Результати контрольної ж можна чекати від трьох до семи тижнів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man einen befristeten Vertrag hat, kann es sein, dass man Probleme hat, z.B. einen Mietvertrag zu unterschreiben.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210316T095318Z" creationid="Lenovo" creationdate="20210316T095318Z">
+        <seg>Якщо у вас є тимчасовий контракт, у вас можуть виникнути проблеми, наприклад, з підписанням договору оренди.</seg>
       </tuv>
     </tu>
     <tu>
