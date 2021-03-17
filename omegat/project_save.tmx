@@ -369,8 +369,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t18/&gt;Es ist extrem wichtig, andere Studierende zu treffen und kennen zu lernen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T124527Z" creationid="Диана" creationdate="20210204T124527Z">
-        <seg>&lt;t18/&gt;Надзвичайно важливо зустрітися і познайомитися з іншими студентами.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T173547Z" creationid="Диана" creationdate="20210204T124527Z">
+        <seg>&lt;t18/&gt;Надзвичайно важливо зустрітися й познайомитися з іншими студентами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5778,8 +5778,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe richtig viele er&lt;t0/&gt;z&lt;t1/&gt;gebirgische Wörter gelernt, z&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;B.&lt;t5/&gt; &lt;t6/&gt;„G&lt;t7/&gt;lück auf&lt;t8/&gt;!“&lt;t9/&gt; Wenn ich jetzt nach &lt;t10/&gt;Magdeburg&lt;t11/&gt; komme, wundere ich mich, dass alle ganz normal &lt;t12/&gt;D&lt;t13/&gt;eutsch reden und ich sie gut verstehen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T154339Z" creationid="Диана" creationdate="20210204T125455Z">
-        <seg>&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;“&lt;t9/&gt; Я вивчив багато слів на ерцгебіргському діалекті , наприклад "Glück auf!“ Тепер, коли я приїжджаю в Магдебург, я дивуюся, що всі говорять для мене звично і я всіх розумію.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T173636Z" creationid="Диана" creationdate="20210204T125455Z">
+        <seg>&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;“&lt;t9/&gt; Я вивчив багато слів на ерцгебіргському діалекті , наприклад "Glück auf!“! Тепер, коли я приїжджаю в Магдебург, я дивуюся, що всі говорять для мене звично і я всіх розумію.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;.&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5826,8 +5826,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe super viele Leute auf Partys kennen gelernt, mit denen &lt;t22/&gt;ich&lt;t23/&gt; super quatschen&lt;t24/&gt; konnte&lt;t25/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T085740Z" creationid="Диана" creationdate="20210204T124734Z">
-        <seg>Саме так у мене з’явилося багато знайомих з якими я міг дуже добре поспілкуватися.&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T173618Z" creationid="Диана" creationdate="20210204T124734Z">
+        <seg>Саме так у мене з’явилося багато знайомих, з якими я міг дуже добре поспілкуватися.&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
