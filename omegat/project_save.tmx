@@ -449,8 +449,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t2/&gt;Ich würde gerne&lt;t3/&gt; &lt;t4/&gt;in&lt;t5/&gt; Berlin &lt;t6/&gt;wohnen, könnte mir aber auch vorstellen, in&lt;t7/&gt;s Ruhrgebiet&lt;t8/&gt; zu gehen&lt;t9/&gt;, da meine Schwester in Belgien wohnt&lt;t10/&gt;, und ich sie so oft besuchen könnte&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T195647Z" creationid="Диана" creationdate="20210225T105616Z">
-        <seg>&lt;t2/&gt;Я хотів би жити в Берліні, але також замислююся над переїздом до Руру, тому що моя сестра живе в Бельгії. Тоді ми могли би бачитись частіше &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t11/&gt;.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T191652Z" creationid="Диана" creationdate="20210225T105616Z">
+        <seg>&lt;t2/&gt;Я хотів би жити в Берліні, але також замислююся над переїздом до Руру, тому що моя сестра живе в Бельгії. Тоді ми могли би бачитися частіше &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
