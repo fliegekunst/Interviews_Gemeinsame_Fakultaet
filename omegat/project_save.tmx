@@ -393,8 +393,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t18/&gt;Um einen Job in der&lt;t19/&gt; IT &lt;t20/&gt;zu bekommen und gutes Geld zu verdienen, &lt;t21/&gt;muss man auch schon sehr spezialisiert sein, da steigt die Konkurrenz auch extrem an.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210210T201814Z" creationid="ADMIN" creationdate="20210210T201814Z">
-        <seg>&lt;t18/&gt;Щоб влаштуватися на роботу в &lt;t19/&gt;ІТ &lt;t20/&gt;і заробити непогані гроші, &lt;t21/&gt;ви повинні бути висококваліфікованим спеціалістом, оскільки конкуренція надзвичайно зростає.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T095005Z" creationid="ADMIN" creationdate="20210210T201814Z">
+        <seg>&lt;t18/&gt;Щоб влаштуватися на роботу в &lt;t19/&gt;ІТ-сферу &lt;t20/&gt;і заробити непогані гроші, &lt;t21/&gt;ви повинні бути висококваліфікованим спеціалістом, оскільки конкуренція надзвичайно зростає.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,8 +3362,8 @@
       <tuv lang="de-DE">
         <seg>Die Vorbereitung &lt;t6/&gt;auf das Studium in Magdeburg &lt;t7/&gt;war gut, ich wusste, was mich erwartet.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T110656Z" creationid="ADMIN" creationdate="20210210T203247Z">
-        <seg>Викладачі добре підготували мене до навчання в Магдебурзі. Я знав, що мене очікує&lt;t6/&gt;&lt;t7/&gt;.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T095046Z" creationid="ADMIN" creationdate="20210210T203247Z">
+        <seg>Викладачі добре підготували мене до навчання в Магдебурзі. А я знав, що мене очікує&lt;t6/&gt;&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4970,8 +4970,8 @@
       <tuv lang="de-DE">
         <seg>IT ist &lt;t10/&gt;im Moment &lt;t11/&gt;super gefragt, &lt;t12/&gt;vor allem &lt;t13/&gt;Softwareentwickler.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210210T200315Z" creationid="ADMIN" creationdate="20210210T200315Z">
-        <seg>Сьогодні &lt;t10/&gt;ІТ &lt;t11/&gt;має великий попит, &lt;t12/&gt;особливо &lt;t13/&gt;розробники програмного забезпечення.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T094856Z" creationid="ADMIN" creationdate="20210210T200315Z">
+        <seg>Сьогодні &lt;t10/&gt;ІТ &lt;t11/&gt;мають великий попит, &lt;t12/&gt;особливо &lt;t13/&gt;розробники програмного забезпечення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8259,8 +8259,8 @@
       <tuv lang="de-DE">
         <seg>Man weiß aber nicht, wie die Entwicklung weitergeht, der &lt;t14/&gt;Arbeitsmarkt&lt;t15/&gt; ist sehr schnelllebig, vor ein paar Jahren spielte&lt;t16/&gt; die IT eine weniger große &lt;t17/&gt;Rolle.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105933Z" creationid="ADMIN" creationdate="20210210T201107Z">
-        <seg>Але невідомо, якою буде ситуація через декілька років, оскільки ринок праці стрімко розвивається. Можемо спостерігати це на прикладі IT, які кілька років тому відігравали&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt; менш важливу &lt;t17/&gt;роль.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T094938Z" creationid="ADMIN" creationdate="20210210T201107Z">
+        <seg>Але невідомо, якою буде ситуація через декілька років, оскільки ринок праці стрімко розвивається. Можемо спостерігати це на прикладі IT, які кілька років були&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt; не настільки &lt;t17/&gt;важливі.</seg>
       </tuv>
     </tu>
     <tu>
