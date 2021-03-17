@@ -9451,8 +9451,8 @@
       <tuv lang="de-DE">
         <seg>Studiert &lt;t0/&gt;seit 2019 an der OVGU&lt;t1/&gt; Magdeburg &lt;t2/&gt;Produktionstechnik.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T114900Z" creationid="Lenovo" creationdate="20210204T125335Z">
-        <seg>Вивчає&lt;t0/&gt;технології виробництва в Університеті Отто фон Геріке в Магдебурзі&lt;t1/&gt; з 2019 року.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T190724Z" creationid="Lenovo" creationdate="20210204T125335Z">
+        <seg>Вивчає&lt;t0/&gt;технології виробництва в Університеті Отто фон Ґеріке в Магдебурзі&lt;t1/&gt; з 2019 року.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11300,8 +11300,8 @@
       <tuv lang="de-DE">
         <seg>Zugegeben: Wenn ich sehr viel Stress bei meiner Arbeit habe,  beneide ich meinen Freunde in Deutschland, die eineinhalb Monate Urlaub von der Universität bekommen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="nasty" changedate="20210218T132348Z" creationid="nasty" creationdate="20210218T132348Z">
-        <seg>Чесно кажучи, коли у мене багато роботи, я заздрю ​​своїм друзям у Німеччині у яких півтора місяці відпустки в університеті.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T190644Z" creationid="nasty" creationdate="20210218T132348Z">
+        <seg>Чесно кажучи, коли у мене багато роботи, я заздрю ​​своїм друзям у Німеччині, у яких півтора місяці відпустки в університеті.</seg>
       </tuv>
     </tu>
     <tu>
