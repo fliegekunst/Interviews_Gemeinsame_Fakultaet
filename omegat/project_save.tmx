@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7347,8 +7347,8 @@
       <tuv lang="de-DE">
         <seg>Interview am 20.02.2020</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T081121Z" creationid="ADMIN" creationdate="20210204T131406Z">
-        <seg>Інтерв'ю від 20.02.2020</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T093626Z" creationid="ADMIN" creationdate="20210204T131406Z">
+        <seg>Інтерв'ю 20.02.2020</seg>
       </tuv>
     </tu>
     <tu>
