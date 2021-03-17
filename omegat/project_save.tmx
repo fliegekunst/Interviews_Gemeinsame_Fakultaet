@@ -3130,8 +3130,8 @@
       <tuv lang="de-DE">
         <seg>Die Firma hieß Nukem Technologies, die haben sich mit Dekompositionen von Atomkraftwerken beschäftigt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210311T071710Z" creationid="PC" creationdate="20210304T110958Z">
-        <seg>Компанія називалася Nukem Technologies і займалася розкладом (декомпозицією) атомних електростанцій.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T134305Z" creationid="PC" creationdate="20210304T110958Z">
+        <seg>Компанія називалася Nukem Technologies, і я займалася там розкомплектацією атомних електростанцій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4306,8 +4306,8 @@
       <tuv lang="de-DE">
         <seg>Eventuell wird man dann später übernommen und bekommt einen Arbeitsvertrag von der Firma.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T163507Z" creationid="PC" creationdate="20210303T163250Z">
-        <seg>Вреші-решт ця фірма може запросити вас пізніше до себе і заключити з вами трудовий контракт.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T134230Z" creationid="PC" creationdate="20210303T163250Z">
+        <seg>Вреші-решт ця фірма може пізніше запросити вас до себе і заключити з вами трудовий контракт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6666,8 +6666,8 @@
       <tuv lang="de-DE">
         <seg>Im Gästehaus darf man nicht ewig leben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T155358Z" creationid="PC" creationdate="20210303T155358Z">
-        <seg>Не можна ж вічно жити в гостьовому домі.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T134105Z" creationid="PC" creationdate="20210303T155358Z">
+        <seg>Не можна ж вічно жити в гостьовому гуртожитку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7979,8 +7979,8 @@
       <tuv lang="de-DE">
         <seg>Man kann sich vorher auch als Hiwi bewerben und daraus dann eine Master-Projektarbeit machen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T161024Z" creationid="PC" creationdate="20210303T161024Z">
-        <seg>Ви можете також податися в наукові асистенти і там працювати над магістерським проєктом.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T134140Z" creationid="PC" creationdate="20210303T161024Z">
+        <seg>Можна також податися в наукові асистенти і там працювати над магістерським проєктом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10596,8 +10596,8 @@
       <tuv lang="de-DE">
         <seg>Wichtig ist, dass man früh mit der Suche eines Betreuers für die Master-Arbeit oder das Master-Projekt anzufangen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T160708Z" creationid="PC" creationdate="20210303T160708Z">
-        <seg>Почніть шукати наукового керівника для вашої роботи якомога раніше.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T134116Z" creationid="PC" creationdate="20210303T160708Z">
+        <seg>Почніть шукати наукового керівника для своєї роботи якомога раніше.</seg>
       </tuv>
     </tu>
     <tu>
