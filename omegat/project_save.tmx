@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2810,8 +2810,8 @@
       <tuv lang="de-DE">
         <seg>Der &lt;t0/&gt;Hauptgrund&lt;t1/&gt; war, dass mei&lt;t2/&gt;n &lt;t3/&gt;Professor&lt;t4/&gt; mich schon &lt;t5/&gt;kannte &lt;t6/&gt;und w&lt;t7/&gt;usste&lt;t8/&gt;, was ich kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T114448Z" creationid="hp" creationdate="20210225T114405Z">
-        <seg>Один мій викладач , котрий вже добре знав, що я можу та знаю, допоміг мені з цим.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T185242Z" creationid="hp" creationdate="20210225T114405Z">
+        <seg>Один мій викладач, котрий вже добре знав, що я можу та знаю, допоміг мені з цим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,8 +4274,8 @@
       <tuv lang="de-DE">
         <seg>Es wäre besser gewesen, sich mehr auszuruhen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T094318Z" creationid="hp" creationdate="20210301T094318Z">
-        <seg>Треба було більше рослаблятися.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T190500Z" creationid="hp" creationdate="20210301T094318Z">
+        <seg>Треба було більше розслаблятися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4818,8 +4818,8 @@
       <tuv lang="de-DE">
         <seg>Hier in &lt;t39/&gt;Deutschland&lt;t40/&gt; ist das &lt;t41/&gt;Studium&lt;t42/&gt; relativ entspannt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T100717Z" creationid="hp" creationdate="20210301T100717Z">
-        <seg>В Німеччині атмосфера більш рослаблена.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T190657Z" creationid="hp" creationdate="20210301T100717Z">
+        <seg>В Німеччині атмосфера більш розслаблена.</seg>
       </tuv>
     </tu>
     <tu>
