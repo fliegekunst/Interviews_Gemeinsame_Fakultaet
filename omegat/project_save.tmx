@@ -5802,8 +5802,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe selbst einen ukrainischen Hiwi, das ist ein Student der Gemeinsamen Fakultät vom letzten Jahr.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102734Z" creationid="Lenovo" creationdate="20210316T102734Z">
-        <seg>Я сам маю український асистента, який є студентом об'єднаного факультету з минулого року.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T195822Z" creationid="Lenovo" creationdate="20210316T102734Z">
+        <seg>Я сам маю українського асистента, який є студентом об'єднаного факультету з минулого року.</seg>
       </tuv>
     </tu>
     <tu>
