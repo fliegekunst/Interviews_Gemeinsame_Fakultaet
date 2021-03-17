@@ -1882,8 +1882,8 @@
       <tuv lang="de-DE">
         <seg>Das Masterprojekt und die Masterarbeit waren schwieriger, weil wir in Kyiv die Projekt- und Abschlussarbeiten ganz anders gemacht haben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093528Z" creationid="Lenovo" creationdate="20210316T093528Z">
-        <seg>Магістерський проект та магістерська робота були складнішими, бо в Києві ми зробили проектну та випускну роботу зовсім по-іншому.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T194321Z" creationid="Lenovo" creationdate="20210316T093528Z">
+        <seg>Магістерський проект та магістерська робота були складнішими, бо в Києві ми зробили проєктну та випускну роботу зовсім по-іншому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5370,8 +5370,8 @@
       <tuv lang="de-DE">
         <seg>Ich glaube, vieles muss man als Studierender selbst herausfinden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093737Z" creationid="Lenovo" creationdate="20210316T093737Z">
-        <seg>IЯ вважаю, що багато ви повинні з'ясувати самі, як студент.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T194433Z" creationid="Lenovo" creationdate="20210316T093737Z">
+        <seg>I я вважаю, що багато ви повинні з'ясувати самі як студент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9075,8 +9075,8 @@
       <tuv lang="de-DE">
         <seg>Oder konnten wir während des Semesters verstehen, dass ein der Fächer nicht interessant/nötig ist und davon absagen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T093916Z" creationid="Lenovo" creationdate="20210316T093916Z">
-        <seg>Або щоб ми могли зрозуміти протягом семестру, що один з предметів не цікавий / потрібен,і відмовитися від нього.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T194740Z" creationid="Lenovo" creationdate="20210316T093916Z">
+        <seg>Або щоб ми могли зрозуміти протягом семестру, що один з предметів не цікавий / потрібен, і відмовитися від нього.</seg>
       </tuv>
     </tu>
     <tu>
