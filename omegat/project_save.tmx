@@ -746,8 +746,8 @@
       <tuv lang="de-DE">
         <seg>Ab und zu hat man das Gefühl&lt;t0/&gt;, fremd zu sein.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T085153Z" creationid="ADMIN" creationdate="20210212T115535Z">
-        <seg>Інколи виникає така думка, що ти тут чужий&lt;t0/&gt;.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T095358Z" creationid="ADMIN" creationdate="20210212T115535Z">
+        <seg>Зрозуміло, що інколи виникає така думка, що ти тут чужий&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,8 +2450,8 @@
       <tuv lang="de-DE">
         <seg>Das ist wie beim Hörverstehen, nur da muss man Stichpunkte machen und 90 min zuhören und mitschreiben.&lt;t10/&gt; Das ist echt anstrengend!</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210211T095139Z" creationid="ADMIN" creationdate="20210211T095139Z">
-        <seg>Це як під час аудіювання, тільки тут потрібно 90 хвилин слухати і паралельно робити нотатки.&lt;t10/&gt; Це справді виснажує!</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T095237Z" creationid="ADMIN" creationdate="20210211T095139Z">
+        <seg>Це як під час аудіювання, тільки тут потрібно 90 хвилин слухати і паралельно робити нотатки.&lt;t10/&gt; Це так виснажує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3682,8 +3682,8 @@
       <tuv lang="de-DE">
         <seg>Ein Tipp: Installiert euch eine &lt;t0/&gt;Übersetzungsapp und &lt;t1/&gt;lernt den &lt;t2/&gt;Wortschatz&lt;t3/&gt;!&lt;t4/&gt; Dann kann man schnell was nachschauen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210211T095626Z" creationid="ADMIN" creationdate="20210211T095626Z">
-        <seg>Порада: встановіть &lt;t0/&gt;додаток для перекладу та &lt;t1/&gt;поповнюйте &lt;t2/&gt;свій словниковий запас&lt;t3/&gt;!&lt;t4/&gt; За допомогою додатку ви зможете швидко перекласти незнайомі слова.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T095321Z" creationid="ADMIN" creationdate="20210211T095626Z">
+        <seg>Порада: класно було б встановити &lt;t0/&gt;додаток для перекладу та &lt;t1/&gt;поповнювати &lt;t2/&gt;свій словниковий запас&lt;t3/&gt;!&lt;t4/&gt; За допомогою додатку ви зможете швидко перекласти незнайомі слова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,8 +5082,8 @@
       <tuv lang="de-DE">
         <seg>Ich bin keine Person, die Politik oder allgemeine gesellschaftliche Prozesse kritisiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T121803Z" creationid="ADMIN" creationdate="20210212T121803Z">
-        <seg>Я не та людина, яка критикує політику чи соціальні процеси.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T095439Z" creationid="ADMIN" creationdate="20210212T121803Z">
+        <seg>Я не та людина, яка критикує політику чи якісь події.</seg>
       </tuv>
     </tu>
     <tu>
