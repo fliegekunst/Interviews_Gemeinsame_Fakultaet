@@ -954,8 +954,8 @@
       <tuv lang="de-DE">
         <seg>Alles kommt mit der Zeit.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210204T124628Z" creationid="PC" creationdate="20210204T124628Z">
-        <seg>Усе приходить з часом.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T101327Z" creationid="PC" creationdate="20210204T124628Z">
+        <seg>Усе приходить із часом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3426,8 +3426,8 @@
       <tuv lang="de-DE">
         <seg>Die in der Ukraine durchgeführte Test&lt;t0/&gt;DaF-&lt;t1/&gt;Vorbereitung mit ihren typischen Aufgaben, wie Gra&lt;t2/&gt;fikbeschreibung oder Erörterung von Lebenssituationen, haben wir bis zur Perfektion geschliffen und konnten mitten in der Nacht alle Redewendungen auswendig erzählen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T094533Z" creationid="PC" creationdate="20210204T133107Z">
-        <seg>В Україні, ознайомлюючись, &lt;t0/&gt;з усіма&lt;t1/&gt; типовими завданнями TestDaf, такими як&lt;t2/&gt; опис графіка чи обговорення життєвих ситуацій, ми досконало вивчили всі відповіді на можливі завдання тесту, тому ми б їх розказали напам'ять навіть якби нас розбудили посеред ночі.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T101410Z" creationid="PC" creationdate="20210204T133107Z">
+        <seg>В Україні, ознайомлюючись, &lt;t0/&gt;з усіма&lt;t1/&gt; типовими завданнями TestDaf, такими ,як&lt;t2/&gt; опис графіка чи обговорення життєвих ситуацій, ми досконало вивчили всі відповіді на можливі завдання тесту, тому ми б їх розказали напам'ять навіть якби нас розбудили посеред ночі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,8 +4642,8 @@
       <tuv lang="de-DE">
         <seg>Hast du Probleme mit dem Dialekt in &lt;t0/&gt;Sachsen-Anhalt&lt;t1/&gt; oder in Deutschland&lt;t2/&gt;?</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210210T200509Z" creationid="PC" creationdate="20210210T200509Z">
-        <seg>Чи були у тебе проблеми з діалектом &lt;t0/&gt;у Саксонії-Ангальт&lt;t1/&gt; або інших землях&lt;t2/&gt;?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T101419Z" creationid="PC" creationdate="20210210T200509Z">
+        <seg>Чи були в тебе проблеми з діалектом &lt;t0/&gt;у Саксонії-Ангальт&lt;t1/&gt; або інших землях&lt;t2/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8955,8 +8955,8 @@
       <tuv lang="de-DE">
         <seg>Nein.&lt;t0/&gt; &lt;t1/&gt;Die meisten Deutschen sind daran gewöhnt, dass es viele Ausländer in Deutschland gibt, außerdem sind sie sehr tolerant und haben keine Probleme auf &lt;t2/&gt;Hochdeutsch zu reden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T095001Z" creationid="PC" creationdate="20210210T201206Z">
-        <seg>Ні.&lt;t0/&gt; &lt;t1/&gt;Більшість німців уже звикли до того, що в Німеччині багато іноземців, тому вони ставляться до нас з розумінням і легко можуть перейти &lt;t2/&gt;на літературну німецьку.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T101438Z" creationid="PC" creationdate="20210210T201206Z">
+        <seg>Ні.&lt;t0/&gt; &lt;t1/&gt;Більшість німців уже звикли до того, що в Німеччині багато іноземців, тому вони ставляться до нас із розумінням і легко можуть перейти &lt;t2/&gt;на літературну німецьку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10460,8 +10460,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man nach Hause eingeladen wird, kann man zum Beispiel eigenes &lt;t6/&gt;E&lt;t7/&gt;ssen mitbringen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T124631Z" creationid="ADMIN" creationdate="20210212T124631Z">
-        <seg>Тобто якщо вас запросять в гості, ви можете принести свою їжу&lt;t6/&gt;&lt;t7/&gt;.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T101201Z" creationid="ADMIN" creationdate="20210212T124631Z">
+        <seg>Тобто якщо вас запросять у гості, ви можете принести свою їжу&lt;t6/&gt;&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
