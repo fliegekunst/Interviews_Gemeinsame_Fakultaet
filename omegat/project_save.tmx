@@ -7107,8 +7107,8 @@
       <tuv lang="de-DE">
         <seg>In der Ukraine gibt es das nicht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210204T180454Z" creationid="Диана" creationdate="20210204T133947Z">
-        <seg> В Україні такого немає.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T185016Z" creationid="Диана" creationdate="20210204T133947Z">
+        <seg>В Україні такого немає.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9019,8 +9019,8 @@
       <tuv lang="de-DE">
         <seg>Niemand sagt mir ins Gesicht, &lt;t1/&gt;dass ich ein Ausländer bin oder irgendwo ausgeschlossen bin.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T090318Z" creationid="Диана" creationdate="20210204T132309Z">
-        <seg>Мене не видіяють серед інших і мені ніхто в обличчя не каже, що я іноземець. &lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T184858Z" creationid="Диана" creationdate="20210204T132309Z">
+        <seg>Мене не виділяють серед інших і мені ніхто в обличчя не каже, що я іноземець. &lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
