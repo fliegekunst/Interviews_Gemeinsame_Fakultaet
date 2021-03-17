@@ -1050,8 +1050,8 @@
       <tuv lang="de-DE">
         <seg>Am Anfang war das &lt;t16/&gt;für mich &lt;t17/&gt;eine andere Sprache.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210224T154555Z" creationid="Диана" creationdate="20210204T125929Z">
-        <seg> Спочатку для мене це була взагалі інша мова&lt;t16/&gt;&lt;t17/&gt;. </seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T184635Z" creationid="Диана" creationdate="20210204T125929Z">
+        <seg>Спочатку для мене це була взагалі інша мова&lt;t16/&gt;&lt;t17/&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2178,8 +2178,8 @@
       <tuv lang="de-DE">
         <seg>Das hängt aber bei mir immer damit zusammen, wie wo&lt;t11/&gt;hl ich mich bei der Arbeit fühl&lt;t12/&gt;e&lt;t13/&gt;, und im Moment geht es mir auf meiner Arbeit gut&lt;t14/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210317T174331Z" creationid="Диана" creationdate="20210204T131322Z">
-        <seg>Але для мене це завжди пов’язано з тим&lt;t11/&gt; наскільки комфортно я почуваюся на роботі,і на цей момент мені там добре&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T184738Z" creationid="Диана" creationdate="20210204T131322Z">
+        <seg>Але для мене це завжди пов’язано з тим&lt;t11/&gt; наскільки комфортно я почуваюся на роботі, і на цей момент мені там добре&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
