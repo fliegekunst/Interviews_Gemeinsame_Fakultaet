@@ -10636,8 +10636,8 @@
       <tuv lang="de-DE">
         <seg>Wie bist du mit dem Deutsch zurechtgekommen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094618Z" creationid="Lenovo" creationdate="20210316T094618Z">
-        <seg>Як ти порався з німецькою?</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T194813Z" creationid="Lenovo" creationdate="20210316T094618Z">
+        <seg>Як ти впорався з німецькою?</seg>
       </tuv>
     </tu>
     <tu>
