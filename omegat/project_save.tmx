@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="de-DE"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2658,8 +2658,8 @@
       <tuv lang="de-DE">
         <seg>Das war uns aber nicht möglich.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210227T104439Z" creationid="PC" creationdate="20210227T103858Z">
-        <seg>Нам здавалося це неможливим.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T132751Z" creationid="PC" creationdate="20210227T103858Z">
+        <seg>Нам це здавалося неможливим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,8 +4522,8 @@
       <tuv lang="de-DE">
         <seg>Gerade mache ich meine PhD. Ich habe meinen Fachbereich ein bisschen verändert, vorher habe ich Produktentwicklung studiert, wie Tetiana Pittsyk und Rostyslav Nizinkovskyi.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210311T065258Z" creationid="PC" creationdate="20210225T112642Z">
-        <seg>Також працюю над своєю докторською. Я змінила спеціальність, оскільки до цього я вивчала розробку продукції разом з Тетяною Пітцик та Ростиславом Нізінковським.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T132738Z" creationid="PC" creationdate="20210225T112642Z">
+        <seg>Також пишу зараз докторською роботу. Я змінила спеціальність, оскільки до цього я вивчала розробку продукції разом з Тетяною Пітцик та Ростиславом Нізінковським.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11132,8 +11132,8 @@
       <tuv lang="de-DE">
         <seg>Wir sind auch erst ein paar Tage vor der Verteidigung in die Ukraine gefahren, das war sehr stressig.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210311T065422Z" creationid="PC" creationdate="20210227T104423Z">
-        <seg>Ми приїхали в Україну лише за кілька днів до захисту, тому ми дуже переживали.</seg>
+      <tuv lang="uk" changeid="PC" changedate="20210317T133737Z" creationid="PC" creationdate="20210227T104423Z">
+        <seg>Ми приїхали в Україну лише за кілька днів до захисту, тому ми дуже хвилювалися.</seg>
       </tuv>
     </tu>
     <tu>
