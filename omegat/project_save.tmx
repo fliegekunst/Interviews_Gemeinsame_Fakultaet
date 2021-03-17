@@ -3018,8 +3018,8 @@
       <tuv lang="de-DE">
         <seg>Deutsche sind sehr nett zu Ausländern.</seg>
       </tuv>
-      <tuv lang="uk" changeid="nasty" changedate="20210218T132101Z" creationid="nasty" creationdate="20210218T132043Z">
-        <seg>Німці дуже привтні до іноземців.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T190609Z" creationid="nasty" creationdate="20210218T132043Z">
+        <seg>Німці дуже привітні до іноземців.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5674,8 +5674,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe in Polen dann meine eigene Firma gegründet und das auch nicht bereut.</seg>
       </tuv>
-      <tuv lang="uk" changeid="nasty" changedate="20210218T132217Z" creationid="nasty" creationdate="20210218T132217Z">
-        <seg>Пізніше я заснував власну компанію в Польщі, і не пошкодував..</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T190635Z" creationid="nasty" creationdate="20210218T132217Z">
+        <seg>Пізніше я заснував власну компанію в Польщі і не пошкодував.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7771,8 +7771,8 @@
       <tuv lang="de-DE">
         <seg>Legt euch nicht auf die faule Haut.</seg>
       </tuv>
-      <tuv lang="uk" changeid="nasty" changedate="20210218T130544Z" creationid="nasty" creationdate="20210218T130544Z">
-        <seg> Не лінуватися.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T190507Z" creationid="nasty" creationdate="20210218T130544Z">
+        <seg>Не лінуватися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10036,8 +10036,8 @@
       <tuv lang="de-DE">
         <seg>Was würdest du anderen ukrainischen Studierenden raten, die neu nach Deutschland kommen?&lt;t0/&gt; Wie oben gesagt, ist die viele Freizeit, die man während des Studiums hat, ein trügerisches Gefühl.</seg>
       </tuv>
-      <tuv lang="uk" changeid="nasty" changedate="20210218T130515Z" creationid="nasty" creationdate="20210218T130515Z">
-        <seg>Що ви б порадили українським студентам, які навчаються в Німеччині та новеньки там? ?&lt;t0/&gt; Як ви згадували раніше, кількість вільного часу під час навчання не така значна.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T190503Z" creationid="nasty" creationdate="20210218T130515Z">
+        <seg>Що ви б порадили українським студентам, які навчаються в Німеччині та новеньким там?&lt;t0/&gt; Як ви згадували раніше, кількість вільного часу під час навчання не така значна.</seg>
       </tuv>
     </tu>
     <tu>
