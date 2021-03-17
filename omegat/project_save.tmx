@@ -2218,8 +2218,8 @@
       <tuv lang="de-DE">
         <seg>Das ist aber eher &lt;t32/&gt;eine&lt;t33/&gt; Folge des ersten Punktes.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T105747Z" creationid="ADMIN" creationdate="20210210T194150Z">
-        <seg>Але це скоріше &lt;t32/&gt;&lt;t33/&gt;наслідок першого пункту.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T094553Z" creationid="ADMIN" creationdate="20210210T194150Z">
+        <seg>Але це імовірніше &lt;t32/&gt;&lt;t33/&gt;наслідок першого пункту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10228,8 +10228,8 @@
       <tuv lang="de-DE">
         <seg>Wenn einer in der &lt;t14/&gt;Ukraine&lt;t15/&gt; im Unternehmen ein Problem hat&lt;t16/&gt;,&lt;t17/&gt; kommt er nicht auf die Idee&lt;t18/&gt;,&lt;t19/&gt; in eine &lt;t20/&gt;Universität&lt;t21/&gt; zu gehen, sondern &lt;t22/&gt;man geht &lt;t23/&gt;eher zu &lt;t24/&gt;Unternehmensberatungsfirmen&lt;t25/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T093659Z" creationid="ADMIN" creationdate="20210210T193707Z">
-        <seg>Якщо на підприємстві &lt;t14/&gt;&lt;t15/&gt;хтось має проблеми&lt;t16/&gt;,&lt;t17/&gt; то їм не спадає на думку вступити до університету&lt;t18/&gt;,&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt; &lt;t22/&gt;вони швидше підуть &lt;t23/&gt;&lt;t24/&gt;до фірм, що займаються управлінням&lt;t25/&gt;.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T094409Z" creationid="ADMIN" creationdate="20210210T193707Z">
+        <seg>Якщо в нашій країні на підприємстві &lt;t14/&gt;&lt;t15/&gt;хтось має проблеми&lt;t16/&gt;,&lt;t17/&gt; то їм не спадає на думку вступити до університету&lt;t18/&gt;,&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt; &lt;t22/&gt;вони швидше підуть &lt;t23/&gt;&lt;t24/&gt;до фірм, що займаються управлінням&lt;t25/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
