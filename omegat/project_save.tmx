@@ -1138,8 +1138,8 @@
       <tuv lang="de-DE">
         <seg>An der Universität sprechen viele hochdeutsch&lt;t10/&gt;.&lt;t11/&gt; Die bayrische &lt;t12/&gt;Mundart&lt;t13/&gt; verstehe ich ab und zu deutlicher und besser, das ist näher am &lt;t14/&gt;U&lt;t15/&gt;krainischen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T092812Z" creationid="ADMIN" creationdate="20210210T183801Z">
-        <seg>В університеті багато хто розмовляє літературною мовою&lt;t10/&gt;.&lt;t11/&gt; Інколи я краще розумію баварський діалект, тому що він схожий на український&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T094024Z" creationid="ADMIN" creationdate="20210210T183801Z">
+        <seg>В університеті багато хто розмовляє літературною мовою&lt;t10/&gt;.&lt;t11/&gt; Інколи я краще розумію баварський діалект, тому що він чимось схожий на український&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7603,8 +7603,8 @@
       <tuv lang="de-DE">
         <seg>Kannst du die Wissenschaftslandschaft vergleichen und Unterschiede zwischen der Ukraine und Deutschland &lt;t0/&gt;herausstellen&lt;t1/&gt;?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T093034Z" creationid="ADMIN" creationdate="20210210T184119Z">
-        <seg>Ти можеш виділити відмінності між Україною та Німеччиною&lt;t0/&gt;&lt;t1/&gt;?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T094056Z" creationid="ADMIN" creationdate="20210210T184119Z">
+        <seg>Які відмінності між Україною та Німеччиною ти можеш виділити&lt;t0/&gt;&lt;t1/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
