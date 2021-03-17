@@ -1826,8 +1826,8 @@
       <tuv lang="de-DE">
         <seg>Darüber hinaus gibt es hier viele Leute aus der Ukraine (GUDFM-Studenten in erster Linie) und anderen postsowjetischen Ländern, mit denen fühle ich mich, wie zu Hause.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T171506Z" creationid="krps" creationdate="20210211T085305Z">
-        <seg>Крім того, тут є багато людей з України (насамперед із СУНФМ) та інших країн пострадянського простору, з якими я почуваюся немов вдома.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T100446Z" creationid="krps" creationdate="20210211T085305Z">
+        <seg>Крім того, тут є багато людей з України (насамперед із СУНФМ) та інших країн пострадянського простору, з якими я почуваюся, немов вдома.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,8 +2258,8 @@
       <tuv lang="de-DE">
         <seg>Das ist bestimmt ich mit der derzeitigen Lebensperiode verbunden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T171028Z" creationid="krps" creationdate="20210211T083954Z">
-        <seg>А, можливо, це просто такий період в житті.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T100424Z" creationid="krps" creationdate="20210211T083954Z">
+        <seg>А, можливо, це просто такий період у житті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4530,8 +4530,8 @@
       <tuv lang="de-DE">
         <seg>Gibt es &lt;t0/&gt;etwas&lt;t1/&gt;, d&lt;t2/&gt;as&lt;t3/&gt; dich an Deutschland stören?</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T122700Z" creationid="krps" creationdate="20210211T090647Z">
-        <seg>Чи є &lt;t0/&gt;щось в Німеччині&lt;t1/&gt;, що &lt;t2/&gt;тебе&lt;t3/&gt; бентежить?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T100509Z" creationid="krps" creationdate="20210211T090647Z">
+        <seg>Чи є &lt;t0/&gt;щось у Німеччині&lt;t1/&gt;, що &lt;t2/&gt;тебе&lt;t3/&gt; бентежить?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5194,8 +5194,8 @@
       <tuv lang="de-DE">
         <seg>Ich finde Menschen in Deutschland nett, freundlich und tolerant.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T091255Z" creationid="krps" creationdate="20210211T091255Z">
-        <seg>В Німеччині люди дружні та толерантні.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T100620Z" creationid="krps" creationdate="20210211T091255Z">
+        <seg>У Німеччині люди дружні та толерантні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5762,8 +5762,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe nicht verstanden, was für Beschwerden die Ärztin nennt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T084141Z" creationid="krps" creationdate="20210211T074013Z">
-        <seg>Я взагалі не розумів про які хвороби говорила лікарка.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T100323Z" creationid="krps" creationdate="20210211T074013Z">
+        <seg>Я взагалі не розумів, про які хвороби говорила лікарка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6058,8 +6058,8 @@
       <tuv lang="de-DE">
         <seg>Ich konzentriere mich auf die Gegenwart und versuche alles zu tun, damit meine Zukunft möglichst besser wird.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210212T155556Z" creationid="krps" creationdate="20210211T090540Z">
-        <seg>зосереджуюся на теперішньому та намагаюся зробити зараз все, щоб моє майбутнє було якомога кращим.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T100506Z" creationid="krps" creationdate="20210211T090540Z">
+        <seg>зосереджуюся на теперішньому та намагаюся зробити зараз усе, щоб моє майбутнє було якомога кращим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6682,8 +6682,8 @@
       <tuv lang="de-DE">
         <seg>Im Januar habe eine Vorlesung (1.5 Stunde) auf Deutsch gehalten und das war für mich kein Problem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T121253Z" creationid="krps" creationdate="20210210T220934Z">
-        <seg>У січні я проводив півторагодинну лекцію німецькою і не можна сказати, що це було складно.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T100255Z" creationid="krps" creationdate="20210210T220934Z">
+        <seg>У січні я проводив півторагодинну лекцію німецькою й не можна сказати, що це було складно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10028,8 +10028,8 @@
       <tuv lang="de-DE">
         <seg>Was würdest du anderen ukrainischen Studierenden raten, die neu nach Deutschland kommen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T191108Z" creationid="krps" creationdate="20210211T075504Z">
-        <seg>Що б ти порадив іншим українським студентам, які вперше приїжджають в Німеччину?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T100401Z" creationid="krps" creationdate="20210211T075504Z">
+        <seg>Що б ти порадив іншим українським студентам, які вперше приїжджають у Німеччину?</seg>
       </tuv>
     </tu>
     <tu>
