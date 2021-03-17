@@ -441,8 +441,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t2/&gt;Ich habe &lt;t3/&gt;aber auch &lt;t4/&gt;nicht viele &lt;t5/&gt;deutsche &lt;t6/&gt;Freunde&lt;t7/&gt; und&lt;t8/&gt; nehme wenig Kontakt &lt;t9/&gt;zu Deutschen &lt;t10/&gt;auf.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210218T113425Z" creationid="Диана" creationdate="20210204T132449Z">
-        <seg>&lt;t2/&gt;Але у мене також не так багато друзів і я не надто багато контактую з німцями. &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T174348Z" creationid="Диана" creationdate="20210204T132449Z">
+        <seg>&lt;t2/&gt;Але в мене також не так багато друзів і я не надто багато контактую з німцями. &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2178,8 +2178,8 @@
       <tuv lang="de-DE">
         <seg>Das hängt aber bei mir immer damit zusammen, wie wo&lt;t11/&gt;hl ich mich bei der Arbeit fühl&lt;t12/&gt;e&lt;t13/&gt;, und im Moment geht es mir auf meiner Arbeit gut&lt;t14/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210317T173837Z" creationid="Диана" creationdate="20210204T131322Z">
-        <seg>Але для мене це завжди пов’язано з тим&lt;t11/&gt;наскільки комфортно я почуваюся на роботі,і на цей момент мені там добре&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T174331Z" creationid="Диана" creationdate="20210204T131322Z">
+        <seg>Але для мене це завжди пов’язано з тим&lt;t11/&gt; наскільки комфортно я почуваюся на роботі,і на цей момент мені там добре&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3346,8 +3346,8 @@
       <tuv lang="de-DE">
         <seg>Die Studierenden&lt;t7/&gt;, die schon &lt;t8/&gt;in Magdeburg sind&lt;t9/&gt;, können auf jeden Fall helfen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210317T174103Z" creationid="Диана" creationdate="20210204T132020Z">
-        <seg>Інші студенти в Магдебурзі у завжди можуть допомогти.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T174242Z" creationid="Диана" creationdate="20210204T132020Z">
+        <seg>Інші студенти в Магдебурзі завжди можуть допомогти.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4338,8 +4338,8 @@
       <tuv lang="de-DE">
         <seg>Früher &lt;t11/&gt;hatte ich ein&lt;t12/&gt; stärker&lt;t13/&gt;es Fremdheitsgefühl&lt;t14/&gt; als jetzt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T090337Z" creationid="Диана" creationdate="20210204T132617Z">
-        <seg>Раніше відчуття відчуженості у мене було сильніше .&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T174352Z" creationid="Диана" creationdate="20210204T132617Z">
+        <seg>Раніше відчуття відчуженості в мене було сильніше .&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
