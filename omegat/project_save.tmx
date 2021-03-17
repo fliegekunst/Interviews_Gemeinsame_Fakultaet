@@ -1362,8 +1362,8 @@
       <tuv lang="de-DE">
         <seg>Bei Haushaltssachen oder wenn man schnell etwas sagen will entsteht ein Mix aus Deutsch und Ukrainisch, dann lassen wir &lt;t10/&gt;es&lt;t11/&gt; oft und reden Ukrainisch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T100458Z" creationid="PC" creationdate="20210218T112519Z">
-        <seg>Коли в когось виникали побутові питання або хтось хотів швидко щось сказати, утворювався мікс з німецької та української &lt;t10/&gt;мов,&lt;t11/&gt; тому ми вирішили перейти на українську.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T172008Z" creationid="PC" creationdate="20210218T112519Z">
+        <seg>Коли в когось виникали побутові питання або хтось хотів швидко щось сказати, утворювався мікс із німецької та української &lt;t10/&gt;мов,&lt;t11/&gt; тому ми вирішили перейти на українську.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1442,8 +1442,8 @@
       <tuv lang="de-DE">
         <seg>Beispielsweise im Geschäft oder in der Bank sind die Leute alle &lt;t10/&gt;freundlich&lt;t11/&gt; und hilfsbereit&lt;t12/&gt;.&lt;t13/&gt; &lt;t14/&gt;Ob sie wirklich so sind, ist ganz andere Frage.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T102112Z" creationid="PC" creationdate="20210222T180509Z">
-        <seg>Наприклад, в магазині або в банку люди &lt;t10/&gt;привітні&lt;t11/&gt; й доброзичливі&lt;t12/&gt;.&lt;t13/&gt; &lt;t14/&gt;А чи вони насправді такі, це вже зовсім інше питання.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T172145Z" creationid="PC" creationdate="20210222T180509Z">
+        <seg>Наприклад, у магазині або в банку люди &lt;t10/&gt;привітні&lt;t11/&gt; й доброзичливі&lt;t12/&gt;.&lt;t13/&gt; &lt;t14/&gt;А чи вони насправді такі, це вже зовсім інше питання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,8 +2306,8 @@
       <tuv lang="de-DE">
         <seg>Das ist eine unschätzbare Erfahrung, die im Leben helfen kann, unabhängig davon, in welchem Land man wohnen wird.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T102444Z" creationid="PC" creationdate="20210222T182530Z">
-        <seg>Це безцінний досвід, який може допомогти в житті незалежно від того, в якій країні ви будете жити.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T172306Z" creationid="PC" creationdate="20210222T182530Z">
+        <seg>Це безцінний досвід, який може допомогти в житті незалежно від того, у якій країні ви будете жити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3882,8 +3882,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt aber auch Nachteile.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T181811Z" creationid="PC" creationdate="20210222T181811Z">
-        <seg>Але є і недоліки.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T172205Z" creationid="PC" creationdate="20210222T181811Z">
+        <seg>Але є й недоліки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8091,8 +8091,8 @@
       <tuv lang="de-DE">
         <seg>Man muss neue Menschen kennenlernen und gegenseitig tolerant bleiben, bereit sein, dass hier einige Sachen anders sein können.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T174338Z" creationid="PC" creationdate="20210222T174338Z">
-        <seg>Варто заводити нові знайомства, поважати один одного і бути готовим до того, що тут не все так, як у вас вдома.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T172118Z" creationid="PC" creationdate="20210222T174338Z">
+        <seg>Варто заводити нові знайомства, поважати один одного й бути готовим до того, що тут не все так, як у вас вдома.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9820,8 +9820,8 @@
       <tuv lang="de-DE">
         <seg>Vor allem muss man die Sprache und Kultur mögen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T100908Z" creationid="PC" creationdate="20210222T173457Z">
-        <seg>Перш за все, вам повинна подобатися мова і культура.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T172030Z" creationid="PC" creationdate="20210222T173457Z">
+        <seg>Перш за все, вам повинна подобатися мова й культура.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11316,8 +11316,8 @@
       <tuv lang="de-DE">
         <seg>Zum Beispiel, wenn man etwas dringend braucht, soll man zunächst abwarten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210222T181932Z" creationid="PC" creationdate="20210222T181932Z">
-        <seg>Наприклад, якщо вам щось терміново необхідно, вам все одно доведеться почекати.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T172230Z" creationid="PC" creationdate="20210222T181932Z">
+        <seg>Наприклад, якщо вам щось терміново необхідно, вам усе одно доведеться почекати.</seg>
       </tuv>
     </tu>
     <tu>
