@@ -1978,8 +1978,8 @@
       <tuv lang="de-DE">
         <seg>Das bedeutet konkret, das &lt;t4/&gt;Skript durch&lt;t5/&gt;zu&lt;t6/&gt;lesen und unbekannte Wörter &lt;t7/&gt;zu &lt;t8/&gt;übersetzen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T084415Z" creationid="ADMIN" creationdate="20210211T091525Z">
-        <seg>Особисто я почувався впевненішим на лекціях, після того як ознайомився з&lt;t4/&gt; конспектами лекцій&lt;t5/&gt;&lt;t6/&gt; та&lt;t7/&gt; переклав &lt;t8/&gt;незнайомі слова.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T101156Z" creationid="ADMIN" creationdate="20210211T091525Z">
+        <seg>Особисто я почувався впевненішим на лекціях, після того, як ознайомився з&lt;t4/&gt; конспектами лекцій&lt;t5/&gt;&lt;t6/&gt; та&lt;t7/&gt; переклав &lt;t8/&gt;незнайомі слова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,8 +4666,8 @@
       <tuv lang="de-DE">
         <seg>Hast du Probleme mit dem Dialekt in Sachsen-Anhalt&lt;t0/&gt; oder irgendwo anders in Deutschland&lt;t1/&gt;?</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T092407Z" creationid="ADMIN" creationdate="20210210T175124Z">
-        <seg>Тобі складно розуміти діалект в Саксонії-Анхальт&lt;t0/&gt; або в якомусь іншому регіоні Німеччини&lt;t1/&gt;?</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T100945Z" creationid="ADMIN" creationdate="20210210T175124Z">
+        <seg>Тобі складно розуміти діалект у Саксонії-Анхальт&lt;t0/&gt; або в якомусь іншому регіоні Німеччини&lt;t1/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10164,8 +10164,8 @@
       <tuv lang="de-DE">
         <seg>Weltweit in &lt;t0/&gt;den &lt;t1/&gt;Industrieländern ist &lt;t2/&gt;Maschinenbau&lt;t3/&gt; immer gefragt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210317T094631Z" creationid="ADMIN" creationdate="20210210T194940Z">
-        <seg>Машинобудування &lt;t0/&gt;&lt;t1/&gt;завжди &lt;t2/&gt;має попит&lt;t3/&gt; в промислово розвинених країнах.</seg>
+      <tuv lang="uk" changeid="krps" changedate="20210317T101116Z" creationid="ADMIN" creationdate="20210210T194940Z">
+        <seg>Машинобудування &lt;t0/&gt;&lt;t1/&gt;завжди &lt;t2/&gt;має попит&lt;t3/&gt; у промислово розвинених країнах.</seg>
       </tuv>
     </tu>
     <tu>
