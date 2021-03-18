@@ -361,8 +361,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t17/&gt;Warum wählen die Leute rechts-konservative Parteien?</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T124646Z" creationid="hp" creationdate="20210301T102023Z">
-        <seg>Цікаво те, що люди тут, під час виборів, голосують за консервативні політичні партії.   </seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125309Z" creationid="hp" creationdate="20210301T102023Z">
+        <seg>Цікаво те, що люди тут, під час виборів, голосують за консервативні політичні партії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5634,8 +5634,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe hier selten das &lt;t12/&gt;G&lt;t13/&gt;efühl, dass man mich offensiv als Ausländer wahrnimmt und mir zeigt, dass ich nicht hierher &lt;t14/&gt;gehöre.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T101809Z" creationid="hp" creationdate="20210301T101809Z">
-        <seg>Але таке було рідко, що мене якось ображали за те, що я не місцевий.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125249Z" creationid="hp" creationdate="20210301T101809Z">
+        <seg>Але таких випадків було небагато, коли мене якось ображали за те, що я не місцевий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7563,8 +7563,8 @@
       <tuv lang="de-DE">
         <seg>Jetzt ist es aber schon viel besser.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T102606Z" creationid="hp" creationdate="20210301T102606Z">
-        <seg>Зараз з моїм мовленням все набагато краще.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125409Z" creationid="hp" creationdate="20210301T102606Z">
+        <seg>Зараз із моїм мовленням все набагато краще.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9107,8 +9107,8 @@
       <tuv lang="de-DE">
         <seg>Oft haben die Leute dann angefangen, &lt;t4/&gt;E&lt;t5/&gt;nglisch mit mir zu sprechen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T102436Z" creationid="hp" creationdate="20210301T102436Z">
-        <seg>Тому люди часто переходили зі мною на англійську.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125327Z" creationid="hp" creationdate="20210301T102436Z">
+        <seg>Тому люди часто переходили на англійську.</seg>
       </tuv>
     </tu>
     <tu>
