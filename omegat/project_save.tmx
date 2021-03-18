@@ -818,8 +818,8 @@
       <tuv lang="de-DE">
         <seg>Aber es ist nicht nur der finanz&lt;t8/&gt;ielle&lt;t9/&gt; &lt;t10/&gt;A&lt;t11/&gt;spekt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T112623Z" creationid="hp" creationdate="20210225T112416Z">
-        <seg>До того ж, діло не тільки у фінансах.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122124Z" creationid="hp" creationdate="20210225T112416Z">
+        <seg>До того ж, справа не тільки у фінансах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6242,8 +6242,8 @@
       <tuv lang="de-DE">
         <seg>Ich studiere in Deutschland auch aus moralischen Gründen, hier fühle ich mich frei, kann mein L&lt;t15/&gt;eben leben wie ich will und wie ich erzo&lt;t16/&gt;gen wurde.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T113032Z" creationid="hp" creationdate="20210225T113023Z">
-        <seg>Я навчаюся в Німеччині також і з моральних принципів, адже тут я почуваю себе вільним та можу прожити своє життя як захочеться.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122300Z" creationid="hp" creationdate="20210225T113023Z">
+        <seg>Я навчаюся в Німеччині також і з моральних принципів, адже тут я почуваю себе вільним та можу прожити своє життя, як захочеться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8419,8 +8419,8 @@
       <tuv lang="de-DE">
         <seg>Manchmal kann man in&lt;t17/&gt; &lt;t18/&gt;der U&lt;t19/&gt;kraine nicht das machen, was man glaubt od&lt;t20/&gt;er was die eigenen moralischen Überzeugungen sind, d.h. Korruption ist ein Thema.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T113517Z" creationid="hp" creationdate="20210225T113430Z">
-        <seg>Дуже часто в Україні не можна робити все, що ти задумав, адже це може перечити якимось моральним переконанням, а ще до цього всього в нас процвітає корупція.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122346Z" creationid="hp" creationdate="20210225T113430Z">
+        <seg>Дуже часто в Україні не можна робити все, що ти задумав, адже це може перечити моральним переконанням, крім того, в нас процвітає корупція.</seg>
       </tuv>
     </tu>
     <tu>
