@@ -1986,8 +1986,8 @@
       <tuv lang="de-DE">
         <seg>Das bedeutet nur, dass ich anders bin.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210211T171318Z" creationid="krps" creationdate="20210211T084508Z">
-        <seg>Я просто інший</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T123326Z" creationid="krps" creationdate="20210211T084508Z">
+        <seg>Я просто інший,</seg>
       </tuv>
     </tu>
     <tu>
@@ -7715,8 +7715,8 @@
       <tuv lang="de-DE">
         <seg>Kommt aus Mykolaiv</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210211T105729Z" creationid="ADMIN" creationdate="20210211T105715Z">
-        <seg>Родом з Миколаєва</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T123725Z" creationid="ADMIN" creationdate="20210211T105715Z">
+        <seg>Родом із Миколаєва</seg>
       </tuv>
     </tu>
     <tu>
@@ -9547,8 +9547,8 @@
       <tuv lang="de-DE">
         <seg>Studierte an der OVGU Magdeburg zwischen 201&lt;t0/&gt;8&lt;t1/&gt; und 20&lt;t2/&gt;20&lt;t3/&gt; Zerspantechnik&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210225T112303Z" creationid="krps" creationdate="20210204T120237Z">
-        <seg>Вивчає технології обробки в Магдебурзі у 201&lt;t0/&gt;8&lt;t1/&gt;-20&lt;t2/&gt;20&lt;t3/&gt; рр. в університеті Отто фон Ґеріке&lt;t4/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T123608Z" creationid="krps" creationdate="20210204T120237Z">
+        <seg>Вивчає технології обробки в Магдебурзі у 201&lt;t0/&gt;8&lt;t1/&gt;-20&lt;t2/&gt;20&lt;t3/&gt; роках в університеті Отто фон Ґеріке&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11546,6 +11546,17 @@
       </tuv>
       <tuv lang="uk" changeid="Kate" changedate="20210311T133735Z" creationid="Kate" creationdate="20210303T211858Z">
         <seg>Ти задоволена своїм рівнем німецької?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Titel.docx</prop>
+      <prop type="prev">Ich konzentriere mich auf die Gegenwart und versuche alles zu tun, damit meine Zukunft möglichst besser wird.</prop>
+      <prop type="next">Das sind vielleicht die Datenschutzregeln, die ich zu streng finde.</prop>
+      <tuv lang="de-DE">
+        <seg>Gibt es &lt;t0/&gt;etwas&lt;t1/&gt;, d&lt;t2/&gt;as&lt;t3/&gt; dich an Deutschland stören?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T123458Z" creationid="Kate" creationdate="20210318T123458Z">
+        <seg>Чи є &lt;t0/&gt;щось у Німеччині&lt;t1/&gt;, що &lt;t2/&gt;тебе&lt;t3/&gt; дратує?</seg>
       </tuv>
     </tu>
     <tu>
