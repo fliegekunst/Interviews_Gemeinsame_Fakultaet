@@ -2626,8 +2626,8 @@
       <tuv lang="de-DE">
         <seg>Das war neu für mich, weil ich am Institut für Maschinenelemente angestellt bin, davon hatte ich wenige Fächer in meinem Studium.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T205619Z" creationid="ADMIN" creationdate="20210303T201934Z">
-        <seg>Це було новизною для мене, тому що зараз я працюю в Інституті машинних елементів, а під час навчання ми такого не вивчали.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T110819Z" creationid="ADMIN" creationdate="20210303T201934Z">
+        <seg>Це було новим для мене, тому що зараз я працюю в Інституті машинних елементів, а під час навчання ми такого не вивчали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3490,8 +3490,8 @@
       <tuv lang="de-DE">
         <seg>Diese Stelle hilft auch, die eigenen Kompetenzen zu erweitern.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T192408Z" creationid="ADMIN" creationdate="20210303T192408Z">
-        <seg>Це сприяє розширенню власних навичок.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T110731Z" creationid="ADMIN" creationdate="20210303T192408Z">
+        <seg>Це сприяє розширенню власних навичок та буде хорошим досвідом в майбутньому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4122,8 +4122,8 @@
       <tuv lang="de-DE">
         <seg>Es ist natürlich schwierig, das miteinander zu vergleichen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210318T091518Z" creationid="ADMIN" creationdate="20210303T214036Z">
-        <seg>Насправді порівнювати важко.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T111004Z" creationid="ADMIN" creationdate="20210303T214036Z">
+        <seg>Якщо чесно, то порівнювати важко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5106,8 +5106,8 @@
       <tuv lang="de-DE">
         <seg>Ich bin mittlerweile etwas über ein Jahr Hiwi, seit Mai 2019. Jetzt ist das Projekt zu Ende und ich erledige nur noch wenige Aufgaben und arbeite nur 20 Stunden pro Monat.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210318T091349Z" creationid="ADMIN" creationdate="20210303T202518Z">
-        <seg>Я був лаборантом трохи більше як рік, починаючи з травня 2019. Зараз проєкт закінчується, тому я виконую лише декілька завдань і працюю всього-на-всього 20 годин на місяць.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T110836Z" creationid="ADMIN" creationdate="20210303T202518Z">
+        <seg>Я був лаборантом трохи більше як рік, починаючи з травня 2019. Зараз проєкт закінчується, тому я виконую лише декілька завдань і працюю всього лише 20 годин на місяць.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9427,8 +9427,8 @@
       <tuv lang="de-DE">
         <seg>Sonst ist mir nichts aufgefallen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T213843Z" creationid="ADMIN" creationdate="20210303T213843Z">
-        <seg>Я більше нічого не помітив.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T110940Z" creationid="ADMIN" creationdate="20210303T213843Z">
+        <seg>А так, щоб дратувало, то нічого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10388,8 +10388,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man die richtigen Aufgaben im Hiwi bekommt, entwickelt man sich weiter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210318T110714Z" creationid="ADMIN" creationdate="20210303T193242Z">
-        <seg>Це буде хорошим досвідом .</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T110734Z" creationid="ADMIN" creationdate="20210303T193242Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -11012,8 +11012,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben eine ukrainische WG gegründet.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210303T205841Z" creationid="ADMIN" creationdate="20210303T205841Z">
-        <seg>Я проживаю разом з українцями.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T110902Z" creationid="ADMIN" creationdate="20210303T205841Z">
+        <seg>Я мешкаю разом з українцями.</seg>
       </tuv>
     </tu>
     <tu>
