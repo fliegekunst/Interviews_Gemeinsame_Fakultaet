@@ -7403,8 +7403,8 @@
       <tuv lang="de-DE">
         <seg>Interview am &lt;t0/&gt;23.07.2020</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210225T120415Z" creationid="ADMIN" creationdate="20210225T120415Z">
-        <seg>Інтерв'ю &lt;t0/&gt;від 23.07.2020</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T085052Z" creationid="ADMIN" creationdate="20210225T120415Z">
+        <seg>Інтерв'ю &lt;t0/&gt;23.07.2020</seg>
       </tuv>
     </tu>
     <tu>
@@ -7597,6 +7597,14 @@
       </tuv>
       <tuv lang="uk" changeid="krps" changedate="20210311T123102Z" creationid="krps" creationdate="20210304T131435Z">
         <seg>Зараз із нами живе албанець, і ми з ним спілкуємося &lt;t0/&gt;англійською.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Jurii Kotsun</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T085557Z" creationid="Диана" creationdate="20210318T085557Z">
+        <seg>Юрій Костун</seg>
       </tuv>
     </tu>
     <tu>
