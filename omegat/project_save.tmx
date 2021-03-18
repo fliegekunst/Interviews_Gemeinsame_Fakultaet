@@ -1466,8 +1466,8 @@
       <tuv lang="de-DE">
         <seg>Besonders in den Moment, wenn ich sehr tief in meinen Gedanken (natürlich auf Ukrainisch) bin.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210210T202941Z" creationid="PC" creationdate="20210210T202941Z">
-        <seg>Особливо тоді, коли я довго про щось собі думаю (і звичайно ж українською мовою).</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T125727Z" creationid="PC" creationdate="20210210T202941Z">
+        <seg>Особливо тоді, коли я довго про щось собі думаю (і, звичайно ж, українською мовою).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2050,8 +2050,8 @@
       <tuv lang="de-DE">
         <seg>Das finde ich nett und bin sehr dankbar für ihre Geduld und Unterstützung.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210210T201456Z" creationid="PC" creationdate="20210210T201456Z">
-        <seg>Це дуже мило з їхнього боку і я вдячна їм за терпіння та підтримку.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T125446Z" creationid="PC" creationdate="20210210T201456Z">
+        <seg>Це дуже мило з їхнього боку, і я вдячна їм за терпіння та підтримку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3426,8 +3426,8 @@
       <tuv lang="de-DE">
         <seg>Die in der Ukraine durchgeführte Test&lt;t0/&gt;DaF-&lt;t1/&gt;Vorbereitung mit ihren typischen Aufgaben, wie Gra&lt;t2/&gt;fikbeschreibung oder Erörterung von Lebenssituationen, haben wir bis zur Perfektion geschliffen und konnten mitten in der Nacht alle Redewendungen auswendig erzählen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210317T182858Z" creationid="PC" creationdate="20210204T133107Z">
-        <seg>В Україні, ознайомлюючись, &lt;t0/&gt;з усіма&lt;t1/&gt; типовими завданнями TestDaf, такими як&lt;t2/&gt; опис графіка чи обговорення життєвих ситуацій, ми досконало вивчили всі відповіді на можливі завдання тесту, тому ми б їх розказали напам'ять навіть якби нас розбудили посеред ночі.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T125421Z" creationid="PC" creationdate="20210204T133107Z">
+        <seg>В Україні, ознайомлюючись &lt;t0/&gt;з усіма&lt;t1/&gt; типовими завданнями TestDaf, такими як&lt;t2/&gt; опис графіка чи обговорення життєвих ситуацій, ми досконало вивчили всі відповіді на можливі завдання тесту, тому ми б їх розказали напам'ять, навіть якби нас розбудили посеред ночі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8899,8 +8899,8 @@
       <tuv lang="de-DE">
         <seg>Natürlich gibt es manchmal Probleme in der Alltagskommunikation.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T095128Z" creationid="PC" creationdate="20210210T202118Z">
-        <seg>Звичайно іноді бувають непорозуміння в повсякденному спілкуванні.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T125507Z" creationid="PC" creationdate="20210210T202118Z">
+        <seg>Звичайно, іноді бувають непорозуміння в повсякденному спілкуванні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11316,8 +11316,8 @@
       <tuv lang="de-DE">
         <seg>Zum Beispiel, wenn jemand ruft an, um eine Umfrage durchzuführen oder auf der Straße etwas verkaufen will, dann sage ich „Oh, sorry, i&lt;t0/&gt;ch verstehe sie leider nicht so gut.&lt;t1/&gt;“ Obwohl ist es nicht so.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210225T095247Z" creationid="PC" creationdate="20210213T135138Z">
-        <seg>Наприклад, коли мені хтось телефонує, щоб провести опитування або коли пропонують щось купити на вулиці, я відповідаю: "Перепрошую, &lt;t0/&gt;але я не дуже розумію про що ви.&lt;t1/&gt;“ Хоча насправді це не так.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T131049Z" creationid="PC" creationdate="20210213T135138Z">
+        <seg>Наприклад, коли мені хтось телефонує, щоб провести опитування або коли пропонують щось купити на вулиці, я відповідаю: "Перепрошую, &lt;t0/&gt;але я не дуже розумію, про що ви.&lt;t1/&gt;“ Хоча насправді це не так.</seg>
       </tuv>
     </tu>
     <tu>
