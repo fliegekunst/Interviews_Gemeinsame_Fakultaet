@@ -1490,8 +1490,8 @@
       <tuv lang="de-DE">
         <seg>Bist du dort aktiv?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210311T100328Z" creationid="Диана" creationdate="20210225T131817Z">
-        <seg>Ти туди входиш?</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T133311Z" creationid="Диана" creationdate="20210225T131817Z">
+        <seg>Ти входиш в неї?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,8 +3034,8 @@
       <tuv lang="de-DE">
         <seg>Deutschland ist ein wunderschönes &lt;t11/&gt;Land, in dem man sich sehr wohl fühlen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T203836Z" creationid="Диана" creationdate="20210225T130427Z">
-        <seg>Німеччина - прекрасна країна, в якій можна почуватися дуже комфортно. &lt;t11/&gt;</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T133034Z" creationid="Диана" creationdate="20210225T130427Z">
+        <seg>Німеччина - прекрасна країна, в якій можна почуватися дуже комфортно.&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,8 +4298,8 @@
       <tuv lang="de-DE">
         <seg>Euch wird eine Integration in Deutschland schwer fallen, we&lt;t0/&gt;nn &lt;t1/&gt;ihr &lt;t2/&gt;immer Nachrichten und Lieder in &lt;t3/&gt;eurer&lt;t4/&gt; Muttersprache hör&lt;t5/&gt;t und nur den &lt;t6/&gt;Kontakt mit Freunden und Bekannten hab&lt;t7/&gt;t, die auch eure Muttersprache sprechen!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T093315Z" creationid="Диана" creationdate="20210225T131337Z">
-        <seg>Вам буде важко адаптуватися в Німеччині, якщо будете слухати новини та пісні своєю рідною мовою й розмовляти тільки з друзями та знайомими, які також говорять вашою мовою.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T133159Z" creationid="Диана" creationdate="20210225T131337Z">
+        <seg>Вам буде важко адаптуватися в Німеччині, якщо будете слухати новини та пісні рідною мовою й розмовляти тільки з друзями та знайомими, які також говорять вашою мовою.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4498,8 +4498,8 @@
       <tuv lang="de-DE">
         <seg>Geht raus, redet mit den Menschen!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T203954Z" creationid="Диана" creationdate="20210225T130806Z">
-        <seg>Виходьте та спілкуйтесь із людьми!</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T133047Z" creationid="Диана" creationdate="20210225T130806Z">
+        <seg>Виходьте та спілкуйтеся з людьми!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11156,8 +11156,8 @@
       <tuv lang="de-DE">
         <seg>Wir treffen uns im IKUS, im Internationalen Büro der O&lt;t4/&gt;V&lt;t5/&gt;GU. Jedes Semester bildet sich eine Kerngruppe mit &lt;t6/&gt;einer &lt;t7/&gt;W&lt;t8/&gt;hat&lt;t9/&gt;sapp Gruppe, jede Woche gibt es eine &lt;t10/&gt;„&lt;t11/&gt;Kitchen Party&lt;t12/&gt;“&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210311T101024Z" creationid="Диана" creationdate="20210225T133109Z">
-        <seg>Ми зустрічаємось в IKUS (interkulturelle Studenten- міжкультурні студенти), в міжнародному офісі університету Отто фон Геріке в Магдебурзі. Кожного семестру формується група в Whatsapp, та щотижня проводиться "Кухонна вечірка"&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T133345Z" creationid="Диана" creationdate="20210225T133109Z">
+        <seg>Ми зустрічаємось в IKUS (interkulturelle Studenten- міжкультурні студенти), в міжнародному офісі університету Отто фон Геріке в Магдебурзі. Кожного семестру формується група у Whatsapp, та щотижня проводиться "Кухонна вечірка"&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
