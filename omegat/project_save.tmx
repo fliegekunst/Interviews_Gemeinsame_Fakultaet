@@ -1714,16 +1714,16 @@
       <tuv lang="de-DE">
         <seg>Dann habe ich das mit &lt;t0/&gt;Dmytro Borysenko&lt;t1/&gt; besprochen und der hat mir das empfohlen, und diese Kooperation vermittelt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210318T130050Z" creationid="Lenovo" creationdate="20210214T125447Z">
-        <seg>Потім я обговорив це з Дмитром Борисенком, і він мене підтримав та посприяв цій співпраці.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T130333Z" creationid="Lenovo" creationdate="20210214T125447Z">
+        <seg>Потім я обговорив це з Дмитром Борисенком,  він мене підтримав та посприяв цій співпраці.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Dann habe ich gedacht, ich muss mir in der Ukraine eine Kooperation suchen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T123031Z" creationid="Lenovo" creationdate="20210214T125243Z">
-        <seg>Тоді я подумав, що мені потрібно співпрацювати з кимось в Україні.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T130326Z" creationid="Lenovo" creationdate="20210214T125243Z">
+        <seg>Тоді я подумав, що мені потрібно з кимось співпрацювати в Україні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3474,8 +3474,8 @@
       <tuv lang="de-DE">
         <seg>Diese Kooperation ist so zu Stande gekommen: Erst war ich Hiwi, dann habe ich Erfahrungen gesammelt, wie das aussehen muss und mich orientiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T122912Z" creationid="Lenovo" creationdate="20210214T125219Z">
-        <seg>Ця співпраця виникла так: спочатку я був лаборантом, потім я отримав досвід і зорієнтувався як це робити.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T130233Z" creationid="Lenovo" creationdate="20210214T125219Z">
+        <seg>Ця співпраця виникла так: спочатку я був лаборантом, потім набув досвід і зорієнтувався як це робити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8603,8 +8603,8 @@
       <tuv lang="de-DE">
         <seg>Meine Masterprojektarbeit mache ich in Kooperation mit einem Professor in Kiew, der eine Maschine selbst gebaut hat.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T122820Z" creationid="Lenovo" creationdate="20210214T124418Z">
-        <seg>Я роблю магістерський проєкт у співпраці з професором у Києві, який сам побудував машину.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T130200Z" creationid="Lenovo" creationdate="20210214T124418Z">
+        <seg>Я роблю магістерський проєкт, співпрацюючи з професором у Києві, який сам побудував машину.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8795,8 +8795,8 @@
       <tuv lang="de-DE">
         <seg>Mit der Maschine werden die Werkstücke bearbeitet und dann werden diese nach Magdeburg geschickt und ich prüfe sie hier und arbeite mit ihnen weiter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T125030Z" creationid="Lenovo" creationdate="20210214T125030Z">
-        <seg>За допомогою машини заготовки обробляються, а потім їх відправляють в Магдебург, і я перевіряю їх тут і продовжую працювати з ними.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T130354Z" creationid="Lenovo" creationdate="20210214T125030Z">
+        <seg>За допомогою машини, заготовки обробляються, а потім їх відправляють в Магдебург, і я перевіряю їх тут і продовжую працювати з ними.</seg>
       </tuv>
     </tu>
     <tu>
