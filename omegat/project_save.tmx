@@ -449,8 +449,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t2/&gt;Ich würde gerne&lt;t3/&gt; &lt;t4/&gt;in&lt;t5/&gt; Berlin &lt;t6/&gt;wohnen, könnte mir aber auch vorstellen, in&lt;t7/&gt;s Ruhrgebiet&lt;t8/&gt; zu gehen&lt;t9/&gt;, da meine Schwester in Belgien wohnt&lt;t10/&gt;, und ich sie so oft besuchen könnte&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210317T191652Z" creationid="Диана" creationdate="20210225T105616Z">
-        <seg>&lt;t2/&gt;Я хотів би жити в Берліні, але також замислююся над переїздом до Руру, тому що моя сестра живе в Бельгії. Тоді ми могли би бачитися частіше &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t11/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T130405Z" creationid="Диана" creationdate="20210225T105616Z">
+        <seg>&lt;t2/&gt;Я хотів би жити в Берліні, але також замислююся над переїздом до Руру, тому що моя сестра живе в Бельгії. Тоді ми могли б бачитися частіше &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3058,8 +3058,8 @@
       <tuv lang="de-DE">
         <seg>Die &lt;t8/&gt;deutschen &lt;t9/&gt;Artikel sind problematisch&lt;t10/&gt;, da mache ich oft Fehler&lt;t11/&gt; und nur wenige Menschen korrigieren mich, vielleicht, weil sie mich nicht andauernd unterbrechen wollen und höflich &lt;t12/&gt;bleiben&lt;t13/&gt; wollen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T200307Z" creationid="Диана" creationdate="20210225T110728Z">
-        <seg>Німецькі артиклі - це справжня проблема. Я часто роблю помилки, але мало хто їх виправляє, напевно, мене просто не хочуть перебивати та здаватися неввічливими.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt; .</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T130450Z" creationid="Диана" creationdate="20210225T110728Z">
+        <seg>Німецькі артиклі - це справжня проблема. Я часто роблю помилки, але мало хто їх виправляє, напевно, мене просто не хочуть перебивати та здаватися неввічливими.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4482,8 +4482,8 @@
       <tuv lang="de-DE">
         <seg>Gab es einen spezifischen Moment, als du gemerkt hast, jetzt kann ich frei &lt;t0/&gt;Deutsch &lt;t1/&gt;reden?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210304T112447Z" creationid="Диана" creationdate="20210204T130809Z">
-        <seg>Чи був якийсь конкретний момент, коли ти помітив, що тепер можеш вільно розмовляти німецькою? &lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T130504Z" creationid="Диана" creationdate="20210204T130809Z">
+        <seg>Чи був якийсь конкретний момент, коли ти помітив, що тепер можеш вільно розмовляти німецькою&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7675,8 +7675,8 @@
       <tuv lang="de-DE">
         <seg>Kommt aus Browary.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T104822Z" creationid="Диана" creationdate="20210225T104822Z">
-        <seg>Родом з Броварів.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125910Z" creationid="Диана" creationdate="20210225T104822Z">
+        <seg>Родом із Броварів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10284,8 +10284,8 @@
       <tuv lang="de-DE">
         <seg>Wenn ich eine Familie hier in Deutschland gründe, dann bleibe ich hier, wenn nicht, ziehe &lt;t0/&gt;ich &lt;t1/&gt;weiter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T195337Z" creationid="Диана" creationdate="20210225T105138Z">
-        <seg>Якщо я створю сім’ю в Німеччині, то залишусь тут, якщо ні, переїду кудись. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125925Z" creationid="Диана" creationdate="20210225T105138Z">
+        <seg>Якщо я створю сім’ю в Німеччині, то залишусь тут, якщо ні, переїду кудись.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
