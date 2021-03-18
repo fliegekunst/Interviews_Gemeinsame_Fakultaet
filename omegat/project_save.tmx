@@ -8283,8 +8283,8 @@
       <tuv lang="de-DE">
         <seg>Man zeigt, woran man sich interessiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210303T162004Z" creationid="PC" creationdate="20210303T162004Z">
-        <seg>Ви одразу даєте зрозуміти що вас цікавить.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T134310Z" creationid="PC" creationdate="20210303T162004Z">
+        <seg>Ви одразу даєте зрозуміти, що вас цікавить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10404,8 +10404,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man ein Praktikum in einer Firma ableistet oder eine Master-Arbeit dort schreibt, hat man schon erste Kontakte zu der Firma.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210311T071503Z" creationid="PC" creationdate="20210303T163134Z">
-        <seg>Коли ви проходите практику у якійсь компанії або пишете там магістерську, то ви вже налагоджуєте певний початковий контакт з цією компанією.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T134501Z" creationid="PC" creationdate="20210303T163134Z">
+        <seg>Коли ви проходите практику в якійсь компанії або пишете там магістерську, то ви вже налагоджуєте певний початковий контакт з цією компанією.</seg>
       </tuv>
     </tu>
     <tu>
