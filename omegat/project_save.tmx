@@ -1714,8 +1714,8 @@
       <tuv lang="de-DE">
         <seg>Dann habe ich das mit &lt;t0/&gt;Dmytro Borysenko&lt;t1/&gt; besprochen und der hat mir das empfohlen, und diese Kooperation vermittelt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T123207Z" creationid="Lenovo" creationdate="20210214T125447Z">
-        <seg>Потім я обговорив це з &lt;t0 /&gt; Дмитром Борисенком &lt;t1 /&gt;, і він підтримав мене та посприяв цій співпраці.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T090022Z" creationid="Lenovo" creationdate="20210214T125447Z">
+        <seg>Потім я обговорив це з Дмитром Борисенком, і він підтримав мене та посприяв цій співпраці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3250,8 +3250,8 @@
       <tuv lang="de-DE">
         <seg>Die Mischung aus Medizin und Produktionstechnik gefällt mir.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T124157Z" creationid="Lenovo" creationdate="20210214T124157Z">
-        <seg>Мені подобається поєднання медицини і технології виробництва.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T085905Z" creationid="Lenovo" creationdate="20210214T124157Z">
+        <seg>Мені подобається поєднання медицини й технології виробництва.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,8 +3938,8 @@
       <tuv lang="de-DE">
         <seg>Es gibt in den Prüfungen sehr viele Aufgaben, man bekommt viele Blätter und muss dann alles ausfüllen und rechnen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T115856Z" creationid="Lenovo" creationdate="20210214T122613Z">
-        <seg>На іспитах дуже багато завдань, ти отримуєш багато аркушів, а потім маєш все заповнити і розрахувати.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T085818Z" creationid="Lenovo" creationdate="20210214T122613Z">
+        <seg>На іспитах дуже багато завдань, ти отримуєш багато аркушів, а потім маєш все заповнити й розрахувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5530,8 +5530,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe die deutschen Kommilitonen als freundlich, offen und hilfsbereit kennen gelernt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T134703Z" creationid="Lenovo" creationdate="20210214T132817Z">
-        <seg>Я одразу здалися німецькі однокурсники доброзичливими, відкритими і чуйними людьми.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T090111Z" creationid="Lenovo" creationdate="20210214T132817Z">
+        <seg>Мені одразу здалися німецькі однокурсники доброзичливими, відкритими й чуйними людьми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11300,8 +11300,8 @@
       <tuv lang="de-DE">
         <seg>Zuerst war ich an der IFQ tätig.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T122132Z" creationid="Lenovo" creationdate="20210214T124046Z">
-        <seg>Спочатку я працював у IFQ (Інститут науково-дослідницької інформації і забезпечення якості).</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T085834Z" creationid="Lenovo" creationdate="20210214T124046Z">
+        <seg>Спочатку я працював у IFQ (Інститут науково-дослідницької інформації та забезпечення якості).</seg>
       </tuv>
     </tu>
     <tu>
