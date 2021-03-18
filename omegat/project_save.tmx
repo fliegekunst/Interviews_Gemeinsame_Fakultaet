@@ -529,8 +529,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t36/&gt;Ich arbeite bei „&lt;t37/&gt;FAM&lt;t38/&gt;“&lt;t39/&gt; Feinförderanlagen und &lt;t40/&gt;Baumasc&lt;t41/&gt;hinen, habe mich dort für eine &lt;t42/&gt;M&lt;t43/&gt;asterarbeit beworben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210311T132355Z" creationid="Kate" creationdate="20210303T195337Z">
-        <seg>&lt;t36/&gt;Зараз я працюю у "FAM" (компанії з виробництва підіймально-транспортного устаткування та будівельної техніки) і сюди ж я подала заявку на написання дисертації.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T115458Z" creationid="Kate" creationdate="20210303T195337Z">
+        <seg>&lt;t36/&gt;Зараз я працюю у "FAM" (компанії з виробництва підіймально-транспортного устаткування та будівельної техніки) і сюди ж я подала заявку для написання дисертації.&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,8 +634,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t5/&gt;Verantwortung hei&lt;t6/&gt;ß&lt;t7/&gt;t &lt;t8/&gt;auch, das T&lt;t9/&gt;hema &lt;t10/&gt;des Masterprojekts oder der Masterarbeit selbst festzulegen und&lt;t11/&gt; Fächer aus&lt;t12/&gt;zu&lt;t13/&gt;wählen&lt;t14/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210311T113436Z" creationid="Kate" creationdate="20210303T205029Z">
-        <seg>&lt;t5/&gt;Відповідальність також в тому плані, що ти самостійно визначаєш тему магістерського проєкту або дисертації та обираєш предмети&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T120518Z" creationid="Kate" creationdate="20210303T205029Z">
+        <seg>&lt;t5/&gt;Відповідальність також в тому плані, що ти самостійно визначаєш тему магістерського проєкту або дисертації та вибираєш предмети&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
