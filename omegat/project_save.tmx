@@ -305,8 +305,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t13/&gt;Wenn&lt;t14/&gt; ich studentische &lt;t15/&gt;A&lt;t16/&gt;rbeiten &lt;t17/&gt;betreue&lt;t18/&gt;, waren die &lt;t19/&gt;Studierenden&lt;t20/&gt; älter als ich.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T110845Z" creationid="hp" creationdate="20210225T114626Z">
-        <seg>Коли я допомагав іншим студентам з їх роботами, то помітив, що всі вони старші за мене.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122533Z" creationid="hp" creationdate="20210225T114626Z">
+        <seg>Коли я допомагав іншим студентам з їхніми роботами, то помітив, що всі вони старші за мене.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,8 +1330,8 @@
       <tuv lang="de-DE">
         <seg>Außerdem kenne ich in anderen &lt;t25/&gt;S&lt;t26/&gt;tädten niemand.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T110925Z" creationid="hp" creationdate="20210225T114849Z">
-        <seg>До того ж  нікого не знав в інших містах.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122626Z" creationid="hp" creationdate="20210225T114849Z">
+        <seg>До того ж, нікого не знав в інших містах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,8 +2514,8 @@
       <tuv lang="de-DE">
         <seg>Das macht M&lt;t23/&gt;ensc&lt;t24/&gt;hen kaputt.&lt;t25/&gt; Natürlich spielten auch akademische &lt;t26/&gt;G&lt;t27/&gt;ründe &lt;t28/&gt;bei meiner Entscheidung &lt;t29/&gt;eine &lt;t30/&gt;R&lt;t31/&gt;olle.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210310T205115Z" creationid="hp" creationdate="20210225T113745Z">
-        <seg>Це ламає людей. Ще однією причиною чому я обрав Німеччину став вибір професії.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122435Z" creationid="hp" creationdate="20210225T113745Z">
+        <seg>Це ламає людей. Ще однією причиною, чому я вибрав Німеччину, був вибір професії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5962,8 +5962,8 @@
       <tuv lang="de-DE">
         <seg>Ich hatte noch nicht viele &lt;t21/&gt;E&lt;t22/&gt;rfahrungen und wusste nicht, ob ich auch an anderen &lt;t23/&gt;S&lt;t24/&gt;tädten akzeptiert worden wäre.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T114831Z" creationid="hp" creationdate="20210225T114831Z">
-        <seg>В мене ще не було досвіду, і я навіть не знав, що можу обрати якесь інше місто.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122557Z" creationid="hp" creationdate="20210225T114831Z">
+        <seg>У мене ще не було досвіду, і я навіть не знав, що можу вибрати якесь інше місто.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6186,8 +6186,8 @@
       <tuv lang="de-DE">
         <seg>Ich promoviere im &lt;t36/&gt;B&lt;t37/&gt;ereich &lt;t38/&gt;V&lt;t39/&gt;erbrennungsmotoren und &lt;t40/&gt;En&lt;t41/&gt;ergietechnik&lt;t42/&gt; und leider &lt;t43/&gt;gibt &lt;t44/&gt;es &lt;t45/&gt;diese Studienrichtung in &lt;t46/&gt;Kyiw nicht, deswegen habe ich mich entschlossen, in Deutschland zu studieren und auch zu promovieren&lt;t47/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T113611Z" creationid="hp" creationdate="20210225T114253Z">
-        <seg>Я вивчаю двигуни внутрішнього згорання та енергетичну техніку, на жаль, у цьому напрямку розвиватися в Києві не можна.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122505Z" creationid="hp" creationdate="20210225T114253Z">
+        <seg>Я вивчаю двигуни внутрішнього згорання та енергетичну техніку. На жаль, у цьому напрямку розвиватися в Києві не можна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6370,8 +6370,8 @@
       <tuv lang="de-DE">
         <seg>Ich war mir noch nicht sicher&lt;t9/&gt;, wo und wie ich promovieren/arbeiten soll&lt;t10/&gt;, nach meinem &lt;t11/&gt;Master&lt;t12/&gt;abschluss, weil ich noch sehr jung war.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T123801Z" creationid="hp" creationdate="20210225T114531Z">
-        <seg>Після магістратури я був  ще зовсім юний, та не знав у якому напрямку хочу в подальшому розвиватися та працювати.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122524Z" creationid="hp" creationdate="20210225T114531Z">
+        <seg>Після магістратури я був ще зовсім юний, та не знав у якому напрямку хочу в подальшому розвиватися та працювати.</seg>
       </tuv>
     </tu>
     <tu>
