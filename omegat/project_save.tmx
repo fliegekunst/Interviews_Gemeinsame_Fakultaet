@@ -1602,8 +1602,8 @@
       <tuv lang="de-DE">
         <seg>Da&lt;t29/&gt;s&lt;t30/&gt; &lt;t31/&gt;ist aber eine&lt;t32/&gt; &lt;t33/&gt;F&lt;t34/&gt;rage der &lt;t35/&gt;P&lt;t36/&gt;rioritäten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T111719Z" creationid="hp" creationdate="20210225T130913Z">
-        <seg>Треба правильно визначати пріорітети.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122941Z" creationid="hp" creationdate="20210225T130913Z">
+        <seg>Треба правильно визначати пріоритети.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5314,8 +5314,8 @@
       <tuv lang="de-DE">
         <seg>Ich fühle mich manchmal gut, manchmal schlecht, &lt;t0/&gt;das ist &lt;t1/&gt;immer noch sehr schwankend&lt;t2/&gt; und stark von dem Thema abhängig&lt;t3/&gt;.&lt;t4/&gt; Es gibt immer noch viele selten verwendete Wörter, die ich überhaupt nicht kenne.&lt;t5/&gt; Ich spreche trotzdem immer noch viel &lt;t6/&gt;R&lt;t7/&gt;ussisch&lt;t8/&gt; mit meiner Freundin&lt;t9/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T124001Z" creationid="hp" creationdate="20210225T115311Z">
-        <seg>Ой, ну це залежить від ситуації. Здебільшого все добре, але є слова, які використовуються рідше, тому з ними виникають проблеми. До того ж я говорю російською зі своїми друзями у повсякденному житті.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122729Z" creationid="hp" creationdate="20210225T115311Z">
+        <seg>Ой, ну це залежить від ситуації. Здебільшого все добре, але є слова, які використовуються рідше, тому з ними виникають проблеми. До того ж, я розмовляю російською зі своїми друзями в повсякденному житті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6290,8 +6290,8 @@
       <tuv lang="de-DE">
         <seg>Ich versuche &lt;t23/&gt;F&lt;t24/&gt;ilme &lt;t25/&gt;auf Deutsch &lt;t26/&gt;zu sehen und mehr auf &lt;t27/&gt;Deutsch&lt;t28/&gt; zu lesen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T114320Z" creationid="hp" creationdate="20210225T130822Z">
-        <seg>Я стараюся більше дивитися фільмів та читати саме німецькою.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122907Z" creationid="hp" creationdate="20210225T130822Z">
+        <seg>Я стараюся більше дивитися фільми та читати саме німецькою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6626,8 +6626,8 @@
       <tuv lang="de-DE">
         <seg>Im &lt;t8/&gt;Antriebsbereich ist &lt;t9/&gt;aber D&lt;t10/&gt;eutschland &lt;t11/&gt;S&lt;t12/&gt;pitzenreiter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210225T122122Z" creationid="hp" creationdate="20210225T121143Z">
-        <seg>У сфері двигунів Німеччина є лідером.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122857Z" creationid="hp" creationdate="20210225T121143Z">
+        <seg>У сфері двигунів Німеччина залишається лідером.</seg>
       </tuv>
     </tu>
     <tu>
