@@ -1218,8 +1218,8 @@
       <tuv lang="de-DE">
         <seg>Auf den ersten Blick &lt;t0/&gt;scheint&lt;t1/&gt; das Studium in Deutschland &lt;t2/&gt;nicht so &lt;t3/&gt;schwierig &lt;t4/&gt;zu sein&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T105850Z" creationid="Lenovo" creationdate="20210214T113732Z">
-        <seg>На перший погляд &lt;t0/&gt;&lt;t1/&gt; навчання в Німеччині &lt;t2/&gt; здається не таким &lt;t3/&gt;важким &lt;t4/&gt;&lt;t5/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T085711Z" creationid="Lenovo" creationdate="20210214T113732Z">
+        <seg>На перший погляд, &lt;t0/&gt;&lt;t1/&gt; навчання в Німеччині &lt;t2/&gt; здається не таким &lt;t3/&gt;важким&lt;t4/&gt;&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8011,8 +8011,8 @@
       <tuv lang="de-DE">
         <seg>Man kommt zu den Prüfungen und sieht, dass es nicht so einfach wie in der &lt;t6/&gt;Ukraine&lt;t7/&gt; ist.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T115510Z" creationid="Lenovo" creationdate="20210214T114001Z">
-        <seg>Ти приходиш на іспити і розумієш, що це не так просто, як в Україні.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T085741Z" creationid="Lenovo" creationdate="20210214T114001Z">
+        <seg>Ти приходиш на іспити й розумієш, що це не так просто, як в Україні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9459,8 +9459,8 @@
       <tuv lang="de-DE">
         <seg>Studiert &lt;t0/&gt;seit 2019 an der OVGU&lt;t1/&gt; Magdeburg &lt;t2/&gt;Produktionstechnik.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210317T190724Z" creationid="Lenovo" creationdate="20210204T125335Z">
-        <seg>Вивчає&lt;t0/&gt;технології виробництва в Університеті Отто фон Ґеріке в Магдебурзі&lt;t1/&gt; з 2019 року.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T085645Z" creationid="Lenovo" creationdate="20210204T125335Z">
+        <seg>Вивчає&lt;t0/&gt; технології виробництва в Університеті Отто фон Ґеріке в Магдебурзі&lt;t1/&gt; з 2019 року.</seg>
       </tuv>
     </tu>
     <tu>
