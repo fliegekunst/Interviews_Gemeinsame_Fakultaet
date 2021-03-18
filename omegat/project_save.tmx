@@ -3818,8 +3818,8 @@
       <tuv lang="de-DE">
         <seg>Erstens fü&lt;t2/&gt;h&lt;t3/&gt;le ich mich hier viel sicherer, mir ist bewusst wie viel man in der &lt;t4/&gt;Ukraine&lt;t5/&gt; verdient, ich kann mir nicht vorstellen, wie man &lt;t6/&gt;damit das Leben &lt;t7/&gt;bewältigen kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T104015Z" creationid="hp" creationdate="20210225T112236Z">
-        <seg>Перш за все, тут я можу відчувати себе впевненіше, я не уявляю як можна забезпечити своє прожиття з українськими зарплатами.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122026Z" creationid="hp" creationdate="20210225T112236Z">
+        <seg>Перш за все, тут я можу відчувати себе впевненіше, я не уявляю, як можна забезпечити своє прожиття з українськими зарплатами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7747,8 +7747,8 @@
       <tuv lang="de-DE">
         <seg>Kommt aus&lt;t0/&gt; Krivih R&lt;t1/&gt;ih.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T110214Z" creationid="hp" creationdate="20210225T110511Z">
-        <seg>З Кривого Рогу.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T122005Z" creationid="hp" creationdate="20210225T110511Z">
+        <seg>Із Кривого Рогу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9235,8 +9235,8 @@
       <tuv lang="de-DE">
         <seg>Seit 2017 Promotionsstudent an der OVGU (Promotion soll 2021 beendet werden).</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T110130Z" creationid="hp" creationdate="20210225T110456Z">
-        <seg>З 2017 року до 2021 року здобуває докторський ступінь в університеті Отто фон Ґеріке.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T121644Z" creationid="hp" creationdate="20210225T110456Z">
+        <seg>З 2017 по 2021 роки здобуває докторський ступінь в університеті Отто фон Ґеріке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11500,8 +11500,8 @@
       <tuv lang="de-DE">
         <seg>„Man muss lernen, Prioritäten zu setzen“</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T105912Z" creationid="hp" creationdate="20210225T110128Z">
-        <seg>„Потрібно навчитися визначати пріорітети“</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T121623Z" creationid="hp" creationdate="20210225T110128Z">
+        <seg>„Потрібно навчитися визначати пріоритети"</seg>
       </tuv>
     </tu>
     <tu>
