@@ -2378,8 +2378,8 @@
       <tuv lang="de-DE">
         <seg>Das ist meine Weltanschauung, dass man das Klima verbessern muss und das ist eine Alternative zu Batterien&lt;t23/&gt;,&lt;t24/&gt; Benzin &lt;t25/&gt;und &lt;t26/&gt;Diesel.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T121957Z" creationid="hp" creationdate="20210301T103240Z">
-        <seg>Моя думка така, що  для покращення клімату, нам необхідно знайти альтернативу батареям, бензину та дизелю.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125622Z" creationid="hp" creationdate="20210301T103240Z">
+        <seg>Моя думка така, що для покращення клімату, нам необхідно знайти альтернативу батареям, бензину та дизелю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9451,8 +9451,8 @@
       <tuv lang="de-DE">
         <seg>Studiengang: Produktionstechnik</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210311T113202Z" creationid="Диана" creationdate="20210225T104744Z">
-        <seg>Спеціальність: технології  виробництва </seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125650Z" creationid="Диана" creationdate="20210225T104744Z">
+        <seg>Спеціальність: технології виробництва </seg>
       </tuv>
     </tu>
     <tu>
