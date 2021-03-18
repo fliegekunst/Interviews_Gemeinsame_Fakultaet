@@ -2002,8 +2002,8 @@
       <tuv lang="de-DE">
         <seg>Das bedeutete für mich nur eins: Es gibt auch eine Tageszeit, nämlich die Nacht, in der man auch etwas tun kann.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210312T175219Z" creationid="krps" creationdate="20210204T131234Z">
-        <seg>Саме ніч була для мене тим часом, коли можна плідно попрацювати.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T113740Z" creationid="krps" creationdate="20210204T131234Z">
+        <seg>Саме ніч була для мене тим часом, коли можна було плідно попрацювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5458,8 +5458,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe beim nächsten Mal mein Zeitmanagement korrekt angepasst.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210312T175259Z" creationid="krps" creationdate="20210204T131919Z">
-        <seg>Потім я знав як використовувати час та</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T114006Z" creationid="krps" creationdate="20210204T131919Z">
+        <seg>Потім я знав, як використовувати час та</seg>
       </tuv>
     </tu>
     <tu>
