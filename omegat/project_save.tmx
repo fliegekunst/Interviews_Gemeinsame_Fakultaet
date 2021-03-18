@@ -578,8 +578,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t4/&gt;In der Ukraine hemmt viele der Respekt vor Älteren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210303T211129Z" creationid="Kate" creationdate="20210303T211040Z">
-        <seg>&lt;t4/&gt;В Україні повага до людей похилого віку все ж багатьох стримує.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T120614Z" creationid="Kate" creationdate="20210303T211040Z">
+        <seg>&lt;t4/&gt;В Україні повага до людей похилого віку багатьох стримує.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,8 +1250,8 @@
       <tuv lang="de-DE">
         <seg>Auf&lt;t0/&gt; jeden Fall Deutsch&lt;t1/&gt; lernen!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210304T123737Z" creationid="Kate" creationdate="20210303T212132Z">
-        <seg>В будь-якому разі вивчати німецьку!&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T120957Z" creationid="Kate" creationdate="20210303T212132Z">
+        <seg>У будь-якому разі вивчати німецьку!&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11260,8 +11260,8 @@
       <tuv lang="de-DE">
         <seg>Während des Studiums hatte ich noch Problem mit dem Hörverstehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Kate" changedate="20210311T133634Z" creationid="Kate" creationdate="20210303T211716Z">
-        <seg>Хоча під час навчання все ще були труднощі із сприйняттям мови на слух.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T120644Z" creationid="Kate" creationdate="20210303T211716Z">
+        <seg>Хоча під час навчання все ще були труднощі зі сприйняттям мови на слух.</seg>
       </tuv>
     </tu>
     <tu>
