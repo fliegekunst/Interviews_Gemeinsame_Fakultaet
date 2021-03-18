@@ -2706,8 +2706,8 @@
       <tuv lang="de-DE">
         <seg>Das wurde von unserem Lehrstuhl organisiert und alle Mitstudierenden kamen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T134532Z" creationid="Lenovo" creationdate="20210214T132556Z">
-        <seg>Це організувала наша кафедра, тому всі студенти прийшли.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T113007Z" creationid="Lenovo" creationdate="20210214T132556Z">
+        <seg>Це організувала наша кафедра, тому прийшли всі студенти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5530,8 +5530,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe die deutschen Kommilitonen als freundlich, offen und hilfsbereit kennen gelernt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210318T090111Z" creationid="Lenovo" creationdate="20210214T132817Z">
-        <seg>Мені одразу здалися німецькі однокурсники доброзичливими, відкритими й чуйними людьми.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T113156Z" creationid="Lenovo" creationdate="20210214T132817Z">
+        <seg>Німецькі однокурсники відразу здалися мені доброзичливими, відкритими та чуйними. </seg>
       </tuv>
     </tu>
     <tu>
