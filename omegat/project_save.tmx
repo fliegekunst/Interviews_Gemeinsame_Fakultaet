@@ -730,8 +730,8 @@
       <tuv lang="de-DE">
         <seg>Ab 50% gilt die Prüfung als nicht bestanden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210318T115706Z" creationid="Lenovo" creationdate="20210214T123057Z">
-        <seg>Якщо зробити неправильно 50% і більше завдань, то іспит вважається провалений.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T115713Z" creationid="Lenovo" creationdate="20210214T123057Z">
+        <seg>Якщо зробити неправильно 50% і більше завдань, то іспит вважається проваленим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,8 +786,8 @@
       <tuv lang="de-DE">
         <seg>Aber es gibt auch Prüfungen aus den vorherigen Semestern zum Üben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T121802Z" creationid="Lenovo" creationdate="20210214T123257Z">
-        <seg>Але є також іспити з попередніх семестрів для практики.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T115800Z" creationid="Lenovo" creationdate="20210214T123257Z">
+        <seg>Для повторення, можуть задавати питання з попередніх семестрів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6914,8 +6914,8 @@
       <tuv lang="de-DE">
         <seg>In Deutschland sind Prüfungen schwerer als in der Ukraine, man fragt aktuelle Dinge ab.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T120305Z" creationid="Lenovo" creationdate="20210214T123224Z">
-        <seg>Іспити в Німеччині складніші, ніж в Україні, запитуєте про актуальні речі.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T115735Z" creationid="Lenovo" creationdate="20210214T123224Z">
+        <seg>Іспити в Німеччині складніші, ніж в Україні, тому що запитують про актуальні речі.</seg>
       </tuv>
     </tu>
     <tu>
