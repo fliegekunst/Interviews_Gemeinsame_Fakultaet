@@ -1314,8 +1314,8 @@
       <tuv lang="de-DE">
         <seg>Außerdem ist der Verkehr sehr stark, viele LKWs und so.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T140201Z" creationid="Lenovo" creationdate="20210214T134611Z">
-        <seg>Крім того, рух транспорта дуже інтенсивний, багато вантажівок тощо.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T090326Z" creationid="Lenovo" creationdate="20210214T134611Z">
+        <seg>Крім того, рух транспорту дуже інтенсивний, багато вантажівок тощо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3570,8 +3570,8 @@
       <tuv lang="de-DE">
         <seg>Du hast u&lt;t0/&gt;nter Corona studiert&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210225T112728Z" creationid="Lenovo" creationdate="20210225T112728Z">
-        <seg>Ти навчався&lt;t0/&gt;під час коронавірусу&lt;t1/&gt;.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T090153Z" creationid="Lenovo" creationdate="20210225T112728Z">
+        <seg>Ти навчався &lt;t0/&gt;під час коронавірусу&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5954,8 +5954,8 @@
       <tuv lang="de-DE">
         <seg>Ich hatte mich für eine Hiwi-Stelle angemeldet, die hat dann im Mai begonnen, deswegen musste ich zurück.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T135615Z" creationid="Lenovo" creationdate="20210214T134216Z">
-        <seg>Я влаштувався на посаду лаборанта, і вона розпочалась вже у травні, тому мені довелося повернутися назад.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T090224Z" creationid="Lenovo" creationdate="20210214T134216Z">
+        <seg>Я влаштувався на посаду лаборанта, і вона розпочалась вже у травні, тому мені довелося повернутися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6330,8 +6330,8 @@
       <tuv lang="de-DE">
         <seg>Ich war am Anfang der Corona Krise in der Ukraine und konnte von dort aus einfach &lt;t0/&gt;studieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T135444Z" creationid="Lenovo" creationdate="20210214T134120Z">
-        <seg>Я був на початку карантинну в Україні і міг вчитися знаходячись вдома.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T090208Z" creationid="Lenovo" creationdate="20210214T134120Z">
+        <seg>Я був на початку карантинну в Україні та міг вчитися знаходячись вдома.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7827,8 +7827,8 @@
       <tuv lang="de-DE">
         <seg>Magdeburg ist eine sehr gute Studienstadt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T134958Z" creationid="Lenovo" creationdate="20210214T133420Z">
-        <seg>Магдебург - дуже зручнне місто для навчання.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T090142Z" creationid="Lenovo" creationdate="20210214T133420Z">
+        <seg>Магдебург - дуже зручне місто для навчання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8131,8 +8131,8 @@
       <tuv lang="de-DE">
         <seg>Man muss sich aber auch mehr organisieren, niemand sagt einem, was man wann machen muss, man muss selbst die Termine planen, um rechtzeitig all die notwendigen Aufgaben zu erledigen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T150220Z" creationid="hp" creationdate="20210204T124416Z">
-        <seg>Але також доводиться скадати план навчання самостійно, щоб вчасно виконати всі необхідні завдання, тому що тобі ніхто не пояснює, що і як робити.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T090437Z" creationid="hp" creationdate="20210204T124416Z">
+        <seg>Але також доводиться складати план навчання самостійно, щоб вчасно виконати всі необхідні завдання, тому що тобі ніхто не пояснює, що і як робити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11236,8 +11236,8 @@
       <tuv lang="de-DE">
         <seg>Während der Prüfungsvorbereitung hatten wir alle eine Produktionstechniker-Whattsapp-Gruppe, da haben wir uns ausgetauscht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T134933Z" creationid="Lenovo" creationdate="20210214T133322Z">
-        <seg>Під час підготовки до іспиту в нас була група у Whattsapp, так як ми до цього обмінялися номерами.</seg>
+      <tuv lang="uk" changeid="Диана" changedate="20210318T090128Z" creationid="Lenovo" creationdate="20210214T133322Z">
+        <seg>Під час підготовки до іспиту в нас була група у Whattsapp, бо ми до цього обмінялися номерами.</seg>
       </tuv>
     </tu>
     <tu>
