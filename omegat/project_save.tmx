@@ -1274,8 +1274,8 @@
       <tuv lang="de-DE">
         <seg>Auslandssem&lt;t17/&gt;ester&lt;t18/&gt; sind in der &lt;t19/&gt;Ukraine&lt;t20/&gt; nicht unbeliebt, das können sich &lt;t21/&gt;aber &lt;t22/&gt;nur reiche Leute erlauben oder man bewirbt sich auf ein &lt;t23/&gt;S&lt;t24/&gt;tipendium.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T112352Z" creationid="hp" creationdate="20210301T100014Z">
-        <seg>Семестр за кордоном, в Україні, річ не популярна, бо це собі можуть дозволити лише багаті.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125004Z" creationid="hp" creationdate="20210301T100014Z">
+        <seg>Семестр за кордоном, в Україні, річ не популярна, бо це дозволити собі можуть лише заможні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4818,8 +4818,8 @@
       <tuv lang="de-DE">
         <seg>Hier in &lt;t39/&gt;Deutschland&lt;t40/&gt; ist das &lt;t41/&gt;Studium&lt;t42/&gt; relativ entspannt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210317T190657Z" creationid="hp" creationdate="20210301T100717Z">
-        <seg>В Німеччині атмосфера більш розслаблена.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125015Z" creationid="hp" creationdate="20210301T100717Z">
+        <seg>У Німеччині атмосфера більш розслаблена.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6834,8 +6834,8 @@
       <tuv lang="de-DE">
         <seg>In &lt;t45/&gt;Deutschland&lt;t46/&gt; hat man &lt;t47/&gt;Z&lt;t48/&gt;eit, nebenbei &lt;t49/&gt;et&lt;t50/&gt;was zu machen oder zu arbeiten, in der &lt;t51/&gt;Ukraine&lt;t52/&gt; studiert man intensiver, aber ich merke trotzdem&lt;t53/&gt;,&lt;t54/&gt; dass die &lt;t55/&gt;Ukrainer&lt;t56/&gt; viel mehr &lt;t57/&gt;S&lt;t58/&gt;port machen oder auch &lt;t59/&gt;H&lt;t60/&gt;obbys haben, obwohl sie so wenig &lt;t61/&gt;Z&lt;t62/&gt;eit haben.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T101121Z" creationid="hp" creationdate="20210301T101121Z">
-        <seg>В Німеччині в тебе є час подумати, чим зайнятися або почати працювати. Проте, не дивлячись на те, що в українських студентів менше вільного часу, я помітив, що вони більше займаються спортом та мають якесь хоббі.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125040Z" creationid="hp" creationdate="20210301T101121Z">
+        <seg>У Німеччині в тебе є час подумати, чим зайнятися або почати працювати. Проте, не дивлячись на те, що в українських студентів менше вільного часу, я помітив, що вони більше займаються спортом та мають якесь хоббі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9347,8 +9347,8 @@
       <tuv lang="de-DE">
         <seg>Sie wissen nicht, was sie wirklich wollen und können keine Prioritäten setzen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T121013Z" creationid="hp" creationdate="20210301T095744Z">
-        <seg>Вони не знають, що вони хочуть і як розставити власні пріорітети.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T124911Z" creationid="hp" creationdate="20210301T095744Z">
+        <seg>Вони не знають, що вони хочуть і як розставити власні пріоритети.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9732,8 +9732,8 @@
       <tuv lang="de-DE">
         <seg>Viele &lt;t69/&gt;Studierende&lt;t70/&gt; hier in &lt;t71/&gt;Deutschland&lt;t72/&gt; arbeiten bei &lt;t73/&gt;„K&lt;t74/&gt;aufland&lt;t75/&gt;“&lt;t76/&gt; oder &lt;t77/&gt;woanders &lt;t78/&gt;als &lt;t79/&gt;V&lt;t80/&gt;erkäufer, das finde ich toll, da lernt man, was &lt;t81/&gt;Geld wirklich wert ist und das&lt;t82/&gt; &lt;t83/&gt;f&lt;t84/&gt;inanzielle &lt;t85/&gt;V&lt;t86/&gt;erständnis wächst.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210301T101255Z" creationid="hp" creationdate="20210301T101255Z">
-        <seg>В Німеччині більшість студентів працює продавцями в магазинах та супермаркетах, це круто, адже люди починають розуміти цінність грошей.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T125118Z" creationid="hp" creationdate="20210301T101255Z">
+        <seg>У Німеччині більшість студентів працюють продавцями в магазинах та супермаркетах, це круто, адже люди починають розуміти цінність грошей.</seg>
       </tuv>
     </tu>
     <tu>
