@@ -385,8 +385,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t18/&gt;Mir hat es auch geholfen, &lt;t19/&gt;Bücher über &lt;t20/&gt;Kognitivistik&lt;t21/&gt; &lt;t22/&gt;zu &lt;t23/&gt;lesen und &lt;t24/&gt;zu &lt;t25/&gt;lernen, wie man richtig lernt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T120728Z" creationid="hp" creationdate="20210301T094520Z">
-        <seg>Мені дуже сподобалися книжки про когнівістику, адже читаючи їх, я дізнався як правильно навчатися.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T124827Z" creationid="hp" creationdate="20210301T094520Z">
+        <seg>Мені дуже сподобалися книжки про когнівістику, адже читаючи їх, я дізнався, як правильно навчатися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4978,8 +4978,8 @@
       <tuv lang="de-DE">
         <seg>Ich &lt;t11/&gt;zum Beispiel &lt;t12/&gt;lasse mich leicht beeinflussen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T112001Z" creationid="hp" creationdate="20210225T132737Z">
-        <seg>Наприклад, я легко піддаюсь впливу.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T124005Z" creationid="hp" creationdate="20210225T132737Z">
+        <seg>Наприклад, на мене легко вплинути.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10540,8 +10540,8 @@
       <tuv lang="de-DE">
         <seg>Wenn man wirklich die ganze &lt;t4/&gt;Z&lt;t5/&gt;eit &lt;t6/&gt;nebenher &lt;t7/&gt;arbeiten muss, dann muss man das &lt;t8/&gt;durchziehen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210311T120139Z" creationid="hp" creationdate="20210311T115401Z">
-        <seg>А якщо ще десь підпрацьовувати, то це буде легко помітити. </seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T124718Z" creationid="hp" creationdate="20210311T115401Z">
+        <seg>На мою думку, тим, хто працює, - особливо складно.</seg>
       </tuv>
     </tu>
     <tu>
