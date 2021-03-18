@@ -241,8 +241,8 @@
       <tuv lang="de-DE">
         <seg>&lt;t1/&gt;Die Studienfächer &lt;t2/&gt;im Master &lt;t3/&gt;waren für mich einfacher als im Bachelor, da &lt;t4/&gt;wir&lt;t5/&gt; kein&lt;t6/&gt;e&lt;t7/&gt; Mathe&lt;t8/&gt;matik&lt;t9/&gt; oder &lt;t10/&gt;kein&lt;t11/&gt; Rechnen hatte&lt;t12/&gt;n und nicht so viel auswendig lernen mussten&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T202220Z" creationid="Диана" creationdate="20210225T115646Z">
-        <seg>&lt;t1/&gt;Предмети на магістратурі були легшими, ніж на бакалавраті, оскільки у нас не було математики та арифметики, тому нам не потрібно було так багато запам’ятовувати.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T132448Z" creationid="Диана" creationdate="20210225T115646Z">
+        <seg>&lt;t1/&gt;Предмети на магістратурі були легшими, ніж на бакалавраті, оскільки в нас не було математики та арифметики, тому нам не потрібно було так багато запам’ятовувати.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8787,8 +8787,8 @@
       <tuv lang="de-DE">
         <seg>Mit der Basis, die wir in der Ukraine bekommen haben, war das Studium in Magdeburg machbar.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210310T201430Z" creationid="Диана" creationdate="20210225T115059Z">
-        <seg>З базою, яку ми отримали в Україні, навчання в Магдебурзі було цілком реальним.</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T132318Z" creationid="Диана" creationdate="20210225T115059Z">
+        <seg>Із базою, яку ми отримали в Україні, навчання в Магдебурзі було цілком реальним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10828,8 +10828,8 @@
       <tuv lang="de-DE">
         <seg>Wie war das Studium &lt;t0/&gt;an der OVGU &lt;t1/&gt;für dich?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210225T115347Z" creationid="Диана" creationdate="20210204T122746Z">
-        <seg>Як тобі було навчатися &lt;t0/&gt; в  університеті Отто фон Геріке?&lt;t1/&gt;</seg>
+      <tuv lang="uk" changeid="ADMIN" changedate="20210318T132352Z" creationid="Диана" creationdate="20210204T122746Z">
+        <seg>Як тобі було навчатися&lt;t0/&gt; в  університеті Отто фон Геріке?&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
