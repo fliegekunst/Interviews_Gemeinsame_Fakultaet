@@ -1978,8 +1978,8 @@
       <tuv lang="de-DE">
         <seg>Das bedeutet konkret, das &lt;t4/&gt;Skript durch&lt;t5/&gt;zu&lt;t6/&gt;lesen und unbekannte Wörter &lt;t7/&gt;zu &lt;t8/&gt;übersetzen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="krps" changedate="20210317T101156Z" creationid="ADMIN" creationdate="20210211T091525Z">
-        <seg>Особисто я почувався впевненішим на лекціях, після того, як ознайомився з&lt;t4/&gt; конспектами лекцій&lt;t5/&gt;&lt;t6/&gt; та&lt;t7/&gt; переклав &lt;t8/&gt;незнайомі слова.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T124641Z" creationid="ADMIN" creationdate="20210211T091525Z">
+        <seg>Особисто я почувався впевненішим на лекціях після того, як ознайомився з&lt;t4/&gt; конспектами лекцій&lt;t5/&gt;&lt;t6/&gt; та&lt;t7/&gt; переклав &lt;t8/&gt;незнайомі слова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,8 +4074,8 @@
       <tuv lang="de-DE">
         <seg>Es ist auf jeden Fall wichtig, die &lt;t0/&gt;Vorlesung&lt;t1/&gt;en&lt;t2/&gt; zu Hause &lt;t3/&gt;vorzubereiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="ADMIN" changedate="20210212T112338Z" creationid="ADMIN" creationdate="20210211T091241Z">
-        <seg>У будь-якому випадку, важливо готуватися до &lt;t0/&gt;лекцій&lt;t1/&gt;&lt;t2/&gt; вдома&lt;t3/&gt;.</seg>
+      <tuv lang="uk" changeid="Kate" changedate="20210318T124336Z" creationid="ADMIN" creationdate="20210211T091241Z">
+        <seg>У будь-якому випадку важливо готуватися до &lt;t0/&gt;лекцій&lt;t1/&gt;&lt;t2/&gt; вдома&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
