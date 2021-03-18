@@ -1650,8 +1650,8 @@
       <tuv lang="de-DE">
         <seg>Damit komme ich gut klar.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T124153Z" creationid="Lenovo" creationdate="20210214T131129Z">
-        <seg>Мені це вдається.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T120109Z" creationid="Lenovo" creationdate="20210214T131129Z">
+        <seg>Це в мене виходить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6594,8 +6594,8 @@
       <tuv lang="de-DE">
         <seg>Ich übersetze dann Schlüsselwörter, damit ich verstehe, worum es überhaupt geht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T124043Z" creationid="Lenovo" creationdate="20210214T130603Z">
-        <seg>Потім я перекладаю ключові слова, щоб зрозуміти, про що йдеться.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T120057Z" creationid="Lenovo" creationdate="20210214T130603Z">
+        <seg>Потім я перекладаю ключові слова, щоб зрозуміти про що йдеться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7011,8 +7011,8 @@
       <tuv lang="de-DE">
         <seg>In den Vorlesungen habe ich keine Probleme mitzukommen, weil das Material zur Verfügung steht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T123920Z" creationid="Lenovo" creationdate="20210214T130345Z">
-        <seg>З лекціями у мене немає проблем, тому що матеріал доступний.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T120038Z" creationid="Lenovo" creationdate="20210214T130345Z">
+        <seg>З лекціями у мене немає проблем, тому що матеріал доступний весь час.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8251,8 +8251,8 @@
       <tuv lang="de-DE">
         <seg>Man steht aber auch immer unter Zeitdruck, wenn man zu viele Prüfungen hat und muss außerdem zwischen Deutschland und der Ukraine pendeln.</seg>
       </tuv>
-      <tuv lang="uk" changeid="hp" changedate="20210318T114124Z" creationid="Lenovo" creationdate="20210214T130302Z">
-        <seg>Але ми завжди перебуваємо під тиском часу, коли у нас забагато іспитів, то потрібно часто їздити з Німеччини в Україну та назад.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T120015Z" creationid="Lenovo" creationdate="20210214T130302Z">
+        <seg>Але ми перебуваємо під постійним тиском, коли у нас забагато іспитів, то потрібно часто їздити з Німеччини в Україну та назад.</seg>
       </tuv>
     </tu>
     <tu>
