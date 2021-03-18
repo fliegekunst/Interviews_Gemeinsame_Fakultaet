@@ -2778,8 +2778,8 @@
       <tuv lang="de-DE">
         <seg>Den Rundfunkbeitrag finde ich seltsam. Man bezahlt für etwas, das man nicht benutzt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T140335Z" creationid="Lenovo" creationdate="20210214T134641Z">
-        <seg>Я думаю ліцензійний збір досить дивний. Ти платиш за те, чим не користуєшся.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T113925Z" creationid="Lenovo" creationdate="20210214T134641Z">
+        <seg>Ще я думаю, що ліцензійний збір тут досить дивний. Ти платиш за те, чим не користуєшся.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6330,8 +6330,8 @@
       <tuv lang="de-DE">
         <seg>Ich war am Anfang der Corona Krise in der Ukraine und konnte von dort aus einfach &lt;t0/&gt;studieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210318T090208Z" creationid="Lenovo" creationdate="20210214T134120Z">
-        <seg>Я був на початку карантинну в Україні та міг вчитися знаходячись вдома.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T113501Z" creationid="Lenovo" creationdate="20210214T134120Z">
+        <seg>Я був на початку карантину в Україні та міг вчитися знаходячись вдома.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6506,8 +6506,8 @@
       <tuv lang="de-DE">
         <seg>Ich wohne zwar alleine, fühle mich aber hier nicht alleine.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210214T133340Z" creationid="Lenovo" creationdate="20210214T133340Z">
-        <seg>Я живу один, але не відчуваю себе самотнім тут.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T113340Z" creationid="Lenovo" creationdate="20210214T133340Z">
+        <seg>Я живу cам, але не відчуваю себе самотнім.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8251,8 +8251,8 @@
       <tuv lang="de-DE">
         <seg>Man steht aber auch immer unter Zeitdruck, wenn man zu viele Prüfungen hat und muss außerdem zwischen Deutschland und der Ukraine pendeln.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T123732Z" creationid="Lenovo" creationdate="20210214T130302Z">
-        <seg>Але ми завжди перебуваємо під тиском часу, якщо у нас занадто багато іспитів, потрібно багато їздити з Німеччини в Україну та навпаки.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T114124Z" creationid="Lenovo" creationdate="20210214T130302Z">
+        <seg>Але ми завжди перебуваємо під тиском часу, коли у нас забагато іспитів, то потрібно часто їздити з Німеччини в Україну та назад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9403,8 +9403,8 @@
       <tuv lang="de-DE">
         <seg>Sogar bei geschlossenem Fenster kann man sie hören.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210316T135834Z" creationid="Lenovo" creationdate="20210214T134447Z">
-        <seg>Навіть коли вікно закрите можна почути їх.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T113839Z" creationid="Lenovo" creationdate="20210214T134447Z">
+        <seg>Навіть коли вікно закрите, то їх можна почути.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11236,8 +11236,8 @@
       <tuv lang="de-DE">
         <seg>Während der Prüfungsvorbereitung hatten wir alle eine Produktionstechniker-Whattsapp-Gruppe, da haben wir uns ausgetauscht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Диана" changedate="20210318T090128Z" creationid="Lenovo" creationdate="20210214T133322Z">
-        <seg>Під час підготовки до іспиту в нас була група у Whattsapp, бо ми до цього обмінялися номерами.</seg>
+      <tuv lang="uk" changeid="hp" changedate="20210318T113255Z" creationid="Lenovo" creationdate="20210214T133322Z">
+        <seg>Під час підготовки до іспиту в нас була група у WhatsApp, бо ми до цього обмінялися номерами.</seg>
       </tuv>
     </tu>
     <tu>
