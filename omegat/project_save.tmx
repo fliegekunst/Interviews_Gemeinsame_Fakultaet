@@ -3586,8 +3586,8 @@
       <tuv lang="de-DE">
         <seg>Du promovierst gerade an der OVGU?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091113Z" creationid="Lenovo" creationdate="20210316T091113Z">
-        <seg>В даний час ти отримуєш докторську ступінь в OVGU?</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T223122Z" creationid="Lenovo" creationdate="20210316T091113Z">
+        <seg>У даний час ти отримуєш докторську ступінь в OVGU?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5074,8 +5074,8 @@
       <tuv lang="de-DE">
         <seg>Ich bin im Rahmen eines der Projekte angestellt.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210317T193936Z" creationid="Lenovo" creationdate="20210316T091204Z">
-        <seg>Я працюю в одному з проектів.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T223313Z" creationid="Lenovo" creationdate="20210316T091204Z">
+        <seg>Я займаюся одним з проектів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9660,8 +9660,8 @@
       <tuv lang="de-DE">
         <seg>Unser Institut für Maschinenkonstruktion als Forschungsstelle bearbeitet verschiedene Projekte, von der Industrie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091154Z" creationid="Lenovo" creationdate="20210316T091154Z">
-        <seg>Наш інститут машинобудування як дослідницький центр працює над різними галузевими проектами..</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T223204Z" creationid="Lenovo" creationdate="20210316T091154Z">
+        <seg>Наш інститут машинобудування як дослідницький центр працює над різними галузевими проектами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11372,8 +11372,8 @@
       <tuv lang="de-DE">
         <seg>Über dieses Thema schreibe ich vielleicht auch in Zukunft meine Doktorarbeit.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091304Z" creationid="Lenovo" creationdate="20210316T091304Z">
-        <seg>На цю тему я, можливо, в майбутньому напишу свою докторську дисертацію.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T223455Z" creationid="Lenovo" creationdate="20210316T091304Z">
+        <seg>Я думаю, що на цю тему напишу докторську дисертацію в майбутньому.</seg>
       </tuv>
     </tu>
     <tu>
