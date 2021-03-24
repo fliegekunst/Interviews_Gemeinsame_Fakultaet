@@ -882,8 +882,8 @@
       <tuv lang="de-DE">
         <seg>Aber solchen haben wir&lt;t0/&gt; &lt;t1/&gt;nur selten getroffen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094804Z" creationid="Lenovo" creationdate="20210316T094804Z">
-        <seg>Але ми рідко зустрічали таких.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T224459Z" creationid="Lenovo" creationdate="20210316T094804Z">
+        <seg>Але таких ми рідко зустрічали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,8 +1754,8 @@
       <tuv lang="de-DE">
         <seg>Dann kann man vorher die Skripte lesen und sich besser auf die Vorlesung vorbereiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094732Z" creationid="Lenovo" creationdate="20210316T094732Z">
-        <seg>Тоді ви можете прочитати конспекти заздалегідь і краще підготуватися до лекції.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T224416Z" creationid="Lenovo" creationdate="20210316T094732Z">
+        <seg>У такому випадку ви можете прочитати конспекти заздалегідь і краще підготуватися до лекції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4202,8 +4202,8 @@
       <tuv lang="de-DE">
         <seg>Es liegt auch nicht immer an der Sprache: Wir Ukrainer haben manchmal die Prüfungen besser als die deutschen Kommilitonen bestanden.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094240Z" creationid="Lenovo" creationdate="20210316T094240Z">
-        <seg>Це також не завжди пов'язано з мовою: ми, українці, іноді здавали іспити краще німецьких однокурсників.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T224303Z" creationid="Lenovo" creationdate="20210316T094240Z">
+        <seg>Це також не завжди пов'язано з мовою: ми, українці, іноді здавали іспити краще за німецьких однокурсників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8307,8 +8307,8 @@
       <tuv lang="de-DE">
         <seg>Manche Dozierende tragen ihre Vorlesung undeutlich vor, das ist nicht so einfach, zu folgen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T094716Z" creationid="Lenovo" creationdate="20210316T094716Z">
-        <seg>Деякі лектори викладають свою лекцію нечітко, це не так просто слідувати.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T224341Z" creationid="Lenovo" creationdate="20210316T094716Z">
+        <seg>Деякі лектори викладають свою лекцію нечітко, тому не так просто стежити за думкю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10556,8 +10556,8 @@
       <tuv lang="de-DE">
         <seg>Wenn wir im Team arbeiten, zum Beispiel im Rahmen eines Studienprojektes, war die Kommunikation okay, fand aber nur im fachlichen Sinn statt, wir haben meistens nur über das Studium geredet.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210317T195033Z" creationid="Lenovo" creationdate="20210316T095009Z">
-        <seg>Коли ми працюємо в команді, наприклад, в рамках навчального проєкту, спілкування було в порядку, але проходило тільки на професійному рівні, ми найчастіше говорили тільки про навчання.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T224613Z" creationid="Lenovo" creationdate="20210316T095009Z">
+        <seg>Коли ми працюємо в команді, наприклад, в рамках навчального проєкту, спілкування було добрим, але тільки на професійні теми, ми найчастіше говорили про навчання.</seg>
       </tuv>
     </tu>
     <tu>
