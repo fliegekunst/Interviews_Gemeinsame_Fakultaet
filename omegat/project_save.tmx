@@ -5802,8 +5802,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe selbst einen ukrainischen Hiwi, das ist ein Student der Gemeinsamen Fakultät vom letzten Jahr.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210317T195822Z" creationid="Lenovo" creationdate="20210316T102734Z">
-        <seg>Я сам маю українського асистента, який є студентом об'єднаного факультету з минулого року.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T225324Z" creationid="Lenovo" creationdate="20210316T102734Z">
+        <seg>Я сам маю українського асистента, який є студентом спільного факультету з минулого року.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9075,8 +9075,8 @@
       <tuv lang="de-DE">
         <seg>Oder es gibt auf der Internetseite verschiedene Stellenausschreibungen, die hängen auch im Flur, das kann man finden, wenn man danach sucht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102713Z" creationid="Lenovo" creationdate="20210316T102713Z">
-        <seg>Або на веб-сайті є різні оголошення про роботу, які також розміщені в коридорі, які ви можете знайти, якщо їх шукати.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T225309Z" creationid="Lenovo" creationdate="20210316T102713Z">
+        <seg>Або на веб-сайті є різні оголошення про роботу, які також розміщені в коридорі, їх нескладно знайти.</seg>
       </tuv>
     </tu>
     <tu>
