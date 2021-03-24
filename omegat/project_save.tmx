@@ -994,8 +994,8 @@
       <tuv lang="de-DE">
         <seg>Als ich die Masterarbeit geschrieben habe, war ich sehr angespannt und müde und hatte zu wenig Zeit, eine Stelle in der Industrie zu suchen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210317T194038Z" creationid="Lenovo" creationdate="20210316T091330Z">
-        <seg>Коли я писав магістерську дисертацію, я був дуже напруженим і втомленим, і мав занадто мало часу, щоб шукати роботу в промисловості.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T223530Z" creationid="Lenovo" creationdate="20210316T091330Z">
+        <seg>Коли я писав магістерську дисертацію, я був дуже напруженим і втомленим - і мав занадто мало часу, щоб шукати роботу в промисловості.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5482,8 +5482,8 @@
       <tuv lang="de-DE">
         <seg>Ich habe damals keine Angebote rechtzeitig bekommen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210317T194233Z" creationid="Lenovo" creationdate="20210316T091356Z">
-        <seg>У той час я не отримував жодних пропозицій вчасно</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T223639Z" creationid="Lenovo" creationdate="20210316T091356Z">
+        <seg>У той час я не отримав жодних пропозицій вчасно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11396,8 +11396,8 @@
       <tuv lang="de-DE">
         <seg>Üblicherweise kann man eine Antwort auf eine Bewerbung von Industrie mehr als Monat warten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091346Z" creationid="Lenovo" creationdate="20210316T091346Z">
-        <seg>Як правило, відповіді на заявку від галузі можна чекати більше місяця.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T223554Z" creationid="Lenovo" creationdate="20210316T091346Z">
+        <seg>Як правило, відповіді на свою заявку від компаній можна чекати більше місяця.</seg>
       </tuv>
     </tu>
     <tu>
