@@ -1234,8 +1234,8 @@
       <tuv lang="de-DE">
         <seg>Auf jeden Fall sollte man sich ein Hiwi-Stelle suchen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102625Z" creationid="Lenovo" creationdate="20210316T102625Z">
-        <seg>У будь-якому випадку слід шукати посаду асистента.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T225235Z" creationid="Lenovo" creationdate="20210316T102625Z">
+        <seg>Я раджу шукати посаду асистента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,8 +3354,8 @@
       <tuv lang="de-DE">
         <seg>Die Universitäten sind ganz anders: In Deutschland ist das Studium straff organisiert.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102129Z" creationid="Lenovo" creationdate="20210316T102129Z">
-        <seg>Університети абсолютно різні: у Німеччині навчання організовано щільно.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T225040Z" creationid="Lenovo" creationdate="20210316T102129Z">
+        <seg>Університети абсолютно різні: у Німеччині навчання організоване щільно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3698,8 +3698,8 @@
       <tuv lang="de-DE">
         <seg>Ein großer Unterschied ist die Ausstattung: In der Ukraine ist die Ausstattung alt und die Studierenden lernen wenig, mit neuen Maschinen zu arbeiten.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101956Z" creationid="Lenovo" creationdate="20210316T101956Z">
-        <seg>Одна велика різниця полягає в обладнанні: в Україні обладнання старе, і студенти мало дізнаються про роботу з новими верстатами.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T225028Z" creationid="Lenovo" creationdate="20210316T101956Z">
+        <seg>Велика різниця полягає в обладнанні: в Україні обладнання старе, і студенти мало дізнаються про роботу з новими верстатами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,8 +5274,8 @@
       <tuv lang="de-DE">
         <seg>Ich fühle mich aber nicht einsam, da alle meine ukrainischen Freunde hier oder in erreichbarer Distanz wohnen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T101455Z" creationid="Lenovo" creationdate="20210316T101455Z">
-        <seg>Але я не відчуваю себе самотнім, так як всі мої українські друзі живуть тут або на досяжній відстані.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T224906Z" creationid="Lenovo" creationdate="20210316T101455Z">
+        <seg>Але я не відчуваю себе самотнім, бо всі мої українські друзі живуть тут або на досяжній відстані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6954,8 +6954,8 @@
       <tuv lang="de-DE">
         <seg>In Kyiv mussten wir ganz viele Dokumente sammeln, das war manchmal anstrengend, weil man nicht immer verstanden hat, wozu man diese Dokumente braucht.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102248Z" creationid="Lenovo" creationdate="20210316T102248Z">
-        <seg>У Києві нам довелося зібрати багато документів, що часом виснажувало, бо ви не завжди розуміли, для чого потрібні ці документи.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T225101Z" creationid="Lenovo" creationdate="20210316T102248Z">
+        <seg>У Києві нам довелося зібрати багато документів, що часом виснажувало, бо ми не завжди розуміли, для чого потрібні ці документи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7771,8 +7771,8 @@
       <tuv lang="de-DE">
         <seg>Könntest du versuchen, die Wissenschaftslandschaft bzw. den Maschinenbau in der Ukraine und Deutschland vergleichen?</seg>
       </tuv>
-      <tuv lang="uk" changeid="PC" changedate="20210317T195542Z" creationid="Lenovo" creationdate="20210316T101525Z">
-        <seg>Не міг би ти спробувати порівняти науковий ландшафт чи машинобудування в Україні та Німеччині?</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T225001Z" creationid="Lenovo" creationdate="20210316T101525Z">
+        <seg>Не міг би ти порівняти сферу машинобудування в Україні та Німеччині?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7891,8 +7891,8 @@
       <tuv lang="de-DE">
         <seg>Man hat Wahlmöglichkeiten, das war super.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T102309Z" creationid="Lenovo" creationdate="20210316T102309Z">
-        <seg>У вас є вибір, це було чудово.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T225128Z" creationid="Lenovo" creationdate="20210316T102309Z">
+        <seg>У нас був вибір, це було чудово.</seg>
       </tuv>
     </tu>
     <tu>
