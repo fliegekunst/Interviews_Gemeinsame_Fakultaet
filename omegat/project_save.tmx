@@ -8995,8 +8995,8 @@
       <tuv lang="de-DE">
         <seg>Nicht ganz, ich bin im Moment wissenschaftlicher Mitarbeiter an der OVGU. Es geht um eine Forschungsvereinigung, an der verschiedene Firmen und Forschungsstellen teilnehmen.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T091138Z" creationid="Lenovo" creationdate="20210316T091138Z">
-        <seg>Не зовсім, я в даний момент науковий співробітник університету. Йдеться про науково-дослідну асоціацію, в якій беруть участь різні фірми і дослідницькі центри.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T223101Z" creationid="Lenovo" creationdate="20210316T091138Z">
+        <seg>Не зовсім, на сьогодні я - науковий співробітник університету. Йдеться про науково-дослідну асоціацію, в якій беруть участь різні фірми і дослідницькі центри.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9507,8 +9507,8 @@
       <tuv lang="de-DE">
         <seg>Studierte &lt;t0/&gt;zwischen &lt;t1/&gt;2016-2018&lt;t2/&gt; &lt;t3/&gt;an der OVGU&lt;t4/&gt; im &lt;t5/&gt;Fach Produktentwicklung</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T090844Z" creationid="Lenovo" creationdate="20210316T090844Z">
-        <seg>В 2016-2018 рр вивчав розробку продукції  в університеті ім. Отто фон Геріке</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T222900Z" creationid="Lenovo" creationdate="20210316T090844Z">
+        <seg>В 2016-2018 рр вивчав розробку продуктів  в університеті ім. Отто фон Геріке</seg>
       </tuv>
     </tu>
     <tu>
@@ -11436,8 +11436,8 @@
       <tuv lang="de-DE">
         <seg>„An unserem Lehrstuhl herrscht eine gute Atmosphäre und wir verstehen uns alle sehr gut!“</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T090752Z" creationid="Lenovo" creationdate="20210316T090752Z">
-        <seg>"На нашій кафедрі панує гарна атмосфера, і ми всі чудово ладнаємо!"</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T222804Z" creationid="Lenovo" creationdate="20210316T090752Z">
+        <seg>"На нашій кафедрі панує гарна атмосфера, і всі ми чудово ладнаємо!"</seg>
       </tuv>
     </tu>
     <tu>
