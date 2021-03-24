@@ -850,8 +850,8 @@
       <tuv lang="de-DE">
         <seg>Aber ich würde auf jeden Fall raten, das IKUS zu besuchen, das ist ein Zentrum, wo sich internationale Studierende treffen und verschiedene Maßnahmen für ausländische Studierende organisieren.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T095037Z" creationid="Lenovo" creationdate="20210316T095037Z">
-        <seg>Але я б точно порадив відвідати IKUS, це центр, де збираються іноземні студенти і організовують різні заходи для іноземних студентів.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T224841Z" creationid="Lenovo" creationdate="20210316T095037Z">
+        <seg>Але я б точно порадив відвідати IKUS, центр, де збираються студенти зі всього світу і організовують різні заходи для інших студентів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11084,8 +11084,8 @@
       <tuv lang="de-DE">
         <seg>Wir haben versucht, die Veranstaltungen vom IKUS zu besuchen, da gibt es aber eher andere internationale Studierende und nur wenige Deutsche und man spricht eher Englisch.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Lenovo" changedate="20210316T095022Z" creationid="Lenovo" creationdate="20210316T095022Z">
-        <seg>Ми намагалися бути присутніми на заходах IKUS, де присутні інші іноземні студенти і лише кілька німців, і вони більше говорять по-англійськи.</seg>
+      <tuv lang="uk" changeid="Lenovo" changedate="20210324T224708Z" creationid="Lenovo" creationdate="20210316T095022Z">
+        <seg>Ми намагалися відвідувати заходи IKUS, де присутні інші іноземні студенти і лише кілька німців, і вони більше говорять англійською.</seg>
       </tuv>
     </tu>
     <tu>
